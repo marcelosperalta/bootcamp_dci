@@ -1,4 +1,4 @@
-# Github Flavoured Markdown
+# Github Markdown
 
 ## Checkboxes
 
