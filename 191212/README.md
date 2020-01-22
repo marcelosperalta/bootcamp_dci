@@ -11,7 +11,3 @@ _italic_
 2. Milk
 
 [Google](https://www.google.com/)
-
-```
-<h1 class="cool">This is Cool</h1>
-```
