@@ -10,3 +10,6 @@ Folder **191212** (Class 12.12.2019)
 
 Folder **191217** (Class 17.12.2019)
 * Markdown
+
+Folder **200123** (Class 23.01.2020)
+* JavaScript > Review
