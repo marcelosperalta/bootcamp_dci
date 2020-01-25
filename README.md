@@ -5,7 +5,7 @@
 #### 2019-2021
 #### https://digitalcareerinstitute.org/courses/web-development-course
 \
-Folder **191210** (Class 12.12.2019)
+Folder **191210** (Class 10.12.2019)
 * Terminal
 
 Folder **191212** (Class 12.12.2019)
