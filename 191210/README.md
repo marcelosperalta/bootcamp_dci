@@ -1,7 +1,8 @@
-Terminal (unix terminology)
+# Terminal (unix terminology)
+
 https://help.ubuntu.com/community/UsingTheTerminal
 
-Some commands
+**Some commands**
 
 sudo = super user do
 
