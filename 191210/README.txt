@@ -2,29 +2,29 @@
 
 https://help.ubuntu.com/community/UsingTheTerminal
 
-**Some commands**
+Some commands
 
-> sudo = super user do
+sudo = super user do
 
-> mkdir
-> ls
-> ls -l
-> ls -a
-> ls -R
-> ll (long list)
-> cd
-> cd ..
-> cd ../..
-> pwd
-> clear
-> touch
-> mv
-> rm -i (-i = to confirm if you want to remove the file)
-> nano
+mkdir
+ls
+ls -l
+ls -a
+ls -R
+ll (long list)
+cd
+cd ..
+cd ../..
+pwd
+clear
+touch
+mv
+rm -i (-i = to confirm if you want to remove the file)
+nno
 
-> cd --help
-> mkdir --help
-> ls --help
+cd --help
+mkdir --help
+ls --help
 
 info sudo
 info ls
