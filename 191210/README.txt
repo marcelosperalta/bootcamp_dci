@@ -3,7 +3,9 @@
 
 https://help.ubuntu.com/community/UsingTheTerminal
 
-Some commands
+*Linux Terminal is Case sensitivity (use capital letters and small letters in each case)
+
+_ some commands _
 
 sudo = super user do
 
@@ -51,8 +53,6 @@ sudo apt-get update
 nano app.txt
 less app.txt
 
-dci-st127 = Home (/home/dci-st127)
-
 . = in Linux is the current directory
 .. = in Linux is the directory up
 ../.. = two level up
@@ -61,14 +61,13 @@ rmdir: The rmdir command will delete an empty directory. To delete a directory a
 
 rm -d = directory
 rm -r = recursive directory
-...
 
-about keyboard
+_ about keyboard_ 
+
 https://www.computerhope.com/keys.htm
 
-*Linux Terminal is Case sensitivity (use capital letters and small letters in each case)
+_ links _
 
-links
 https://github.com/hnsreeny/terminal
 https://help.ubuntu.com/community/UsingTheTerminal
 https://slack-files.com/files-pri-safe/TRAQBRYNQ-FR4329FDG/getting_started_with_ubuntu_16.04.pdf?c=1576059581-8fa15e97b42d56a40997c439579358aa2eb63ae3
