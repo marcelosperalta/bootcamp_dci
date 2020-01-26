@@ -1,13 +1,30 @@
-# this is first line
+# Markdown
 
-_italic_
+# This is first line
+## This is 2nd
+### This is 3rd
+#### H4  
+##### H5
+###### H6
 
-**bold**
+_this is Italic_
+*this is Bold*
 
-* first
-* second
+* item 1
+* item 2
+* item 3
 
-1. Eggs
-2. Milk
+1- this is item 1
+2- this is item 2
+3- this is item 3
 
-[Google](https://www.google.com/)
+**Exercise**
+https://www.markdowntutorial.com/lesson/1/
+
+**Links**
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+https://github.github.com/gfm/
+https://fbw-26.slack.com/files/URB8BS11N/FR69UJMKL/cli-cheat-sheet.pdf
+
+**Visual Studio Code**
+Install: "Markdown Preview Enhanced"
