@@ -8,7 +8,7 @@
 ###### H6
 
 _this is Italic_
-*this is Bold*
+**this is Bold**
 
 * item 1
 * item 2
