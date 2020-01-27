@@ -1,18 +1,17 @@
-# DCI
-## Digital Career Institute
-### Berlin
-#### Web Development
-#### 2019-2021
-#### https://digitalcareerinstitute.org/courses/web-development-course
-\
-Folder **191210** (Class 10.12.2019)
-* Terminal
+### Git
 
-Folder **191212** (Class 12.12.2019)
-* Markdown (https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+#### Some commands
 
-Folder **191217** (Class 17.12.2019)
-* Markdown
+git clone git@github.com:FBw-26/lessons.git
 
-Folder **200123** (Class 23.01.2020)
-* JavaScript > Review
+git remote -v
+
+git remote rename origin upstream
+
+git fetch upstream
+
+git remote add origin git@github.com:marcelosperalta/fbw-26
+
+#### Git Reference
+
+https://git-scm.com/docs
