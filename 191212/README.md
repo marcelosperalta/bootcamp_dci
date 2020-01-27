@@ -11,3 +11,7 @@ _italic_
 2. Milk
 
 [Google](https://www.google.com/)
+
+:smile:
+
+https://www.webfx.com/tools/emoji-cheat-sheet/
