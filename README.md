@@ -17,5 +17,8 @@ Folder **191212** (Class 12.12.2019)
 Folder **191217** (Class 17.12.2019)
 * Markdown
 
+Folder **191218** (Class 18.12.2019)
+* Git (https://git-scm.com/docs)
+
 Folder **200123** (Class 23.01.2020)
 * JavaScript > Review
