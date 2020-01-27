@@ -20,10 +20,11 @@ cd ..
 cd ../..
 pwd
 clear
-touch
 mv
 rm -i (-i = to confirm if you want to remove the file)
-nno
+
+nano
+touch
 
 cd --help
 mkdir --help
