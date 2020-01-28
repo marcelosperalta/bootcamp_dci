@@ -15,7 +15,7 @@ Folder **191212** (Class 12.12.2019)
 * Markdown and Terminal
 
 Folder **191217** (Class 17.12.2019)
-* Markdown
+* Markdown and Git
 
 Folder **191218** (Class 18.12.2019)
 * Git (https://git-scm.com/docs)
