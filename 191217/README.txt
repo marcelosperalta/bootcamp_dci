@@ -49,5 +49,3 @@ git commit -m "1st commit"
 git push origin master
 
 git clone git@github.com:FBw-26/lessons.git
-
-
