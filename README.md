@@ -22,3 +22,6 @@ Folder **191218** (Class 18.12.2019)
 
 Folder **200123** (Class 23.01.2020)
 * JavaScript > Review
+
+Folder **200129** (Class 29.01.2020)
+* JavaScript > Exercises
