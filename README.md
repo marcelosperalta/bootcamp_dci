@@ -18,7 +18,7 @@ Folder **191217** (Class 17.12.2019)
 * Markdown and Git
 
 Folder **191218** (Class 18.12.2019)
-* Git (https://git-scm.com/docs)
+* GitHub (https://guides.github.com/introduction/flow) and Git (https://git-scm.com/docs)
 
 Folder **200123** (Class 23.01.2020)
 * JavaScript > Review
