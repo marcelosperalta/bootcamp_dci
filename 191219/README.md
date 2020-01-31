@@ -63,7 +63,7 @@ true
 
 #### Code
 
-see index.js ()
+see index.js (https://github.com/marcelosperalta/dci/tree/master/191219)
 
 #### Some characters 
 
@@ -78,6 +78,6 @@ square brackets | [ ]
 parentheses | ( )
 hash mark | #
 plus sign | +
-minus sign(hyphen) | -
+minus sign (hyphen) | -
 dot | .
 exclamation mark | !
