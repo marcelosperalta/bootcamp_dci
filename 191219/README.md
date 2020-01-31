@@ -67,17 +67,17 @@ see index.js ()
 
 #### Some characters 
 
-character | name
+name | character
 ------------ | -------------
 backslash | \
-backtick |  *
-` | asterisk
-_ | underscore
-{ } | curly braces
-[ ] | square brackets
-( ) | parentheses
+backtick | `
+asterisk | *
+underscore | _ 
+curly braces | { }
+square brackets | [ ]
+parentheses | ( )
 hash mark | #
 plus sign | +
 minus sign(hyphen) | -
-. | dot
-! | exclamation mark
+dot | .
+exclamation mark | !
