@@ -70,14 +70,14 @@ see index.js ()
 character | name
 ------------ | -------------
 \ | backslash
-* | backtick
+/ * | backtick
 ` | asterisk
 _ | underscore
 { } | curly braces
 [ ] | square brackets
 ( ) | parentheses
-# | hash mark
-+ | plus sign
+/ # | hash mark
+/ + | plus sign
 - | minus sign(hyphen)
 . | dot
 ! | exclamation mark
