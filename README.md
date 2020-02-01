@@ -21,7 +21,7 @@ Folder **191218** (Class 18.12.2019)
 * GitHub (https://guides.github.com/introduction/flow) and Git (https://git-scm.com/docs)
 
 Folder **191219** (Class 19.12.2019)
-* JavaScript, Git and Terminal
+* JavaScript, Visual Studio Code, Git and Terminal
 
 Folder **200123** (Class 23.01.2020)
 * JavaScript > Review
