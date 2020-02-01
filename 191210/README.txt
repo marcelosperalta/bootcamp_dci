@@ -9,6 +9,10 @@ _ some commands _
 
 sudo = super user do
 
+. = in Linux is the current directory
+.. = in Linux is the directory up
+../.. = two levels up
+
 mkdir
 ls
 ls -l
@@ -44,19 +48,15 @@ man ls
 man ...
 press q to quit
 
-sudo apt-get install npm (React)
-
 npm = Node Package Manager
 https://en.wikipedia.org/wiki/Npm_(software)
 
-sudo apt-get update
+sudo apt-get install npm (React packet install)
+
+sudo apt-get update (upgrades everything installed on the machine)
 
 nano app.txt
 less app.txt
-
-. = in Linux is the current directory
-.. = in Linux is the directory up
-../.. = two level up
 
 rmdir: The rmdir command will delete an empty directory. To delete a directory and all of its contents recursively, use rm -r instead.
 
