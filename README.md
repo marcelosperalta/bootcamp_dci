@@ -28,6 +28,3 @@ Folder **200106** (Class 06.01.2020)
 
 Folder **200123** (Class 23.01.2020)
 * JavaScript > Review
-
-Folder **200129** (Class 29.01.2020)
-* JavaScript > Exercises
