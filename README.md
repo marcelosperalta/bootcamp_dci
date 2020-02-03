@@ -23,6 +23,9 @@ Folder **191218** (Class 18.12.2019)
 Folder **191219** (Class 19.12.2019)
 * JavaScript, Visual Studio Code, Git and Terminal
 
+Folder **200106** (Class 06.01.2020)
+* JavaScript > Hoisting, Bboolean Expressions, Ternary Condition and Exercises
+
 Folder **200123** (Class 23.01.2020)
 * JavaScript > Review
 
