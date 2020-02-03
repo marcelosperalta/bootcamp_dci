@@ -21,7 +21,7 @@ Folder **191218** (Class 18.12.2019)
 * GitHub (https://guides.github.com/introduction/flow) and Git (https://git-scm.com/docs)
 
 Folder **191219** (Class 19.12.2019)
-* JavaScript, Visual Studio Code, Git and Terminal
+* JavaScript (https://developer.mozilla.org/en-US/docs/Web/JavaScript), Visual Studio Code, Git and Terminal
 
 Folder **200106** (Class 06.01.2020)
 * JavaScript > Hoisting, Boolean Expressions, Ternary Condition and Exercises
