@@ -27,4 +27,4 @@ Folder **200106** (Class 06.01.2020)
 * JavaScript > Hoisting, Bboolean Expressions, Ternary Condition and Exercises
 
 Folder **200123** (Class 23.01.2020)
-* JavaScript > Review
+* JavaScript > Review and Exercises
