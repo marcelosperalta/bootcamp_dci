@@ -180,3 +180,34 @@ console.log(Math.floor( Math.random() * 6 ) + 1);
 console.log(Math.random());                       // values between 0.01 and 0.99
 console.log(Math.random() * 10);                  // values between 0.01 and 0.99
 console.log(Math.floor(Math.random() * 10 + 1));  // values between 1 and 10
+
+// homework
+
+// Function Math.pow()
+
+/*
+Definition:
+The Math.pow() function returns the base to the exponent (a.k.a. power)
+e.g. 2³ where 2 is the base and 3 is the exponent
+*/
+
+/*
+Syntax:
+Math.pow(base, exponent)
+*/
+
+// Demo:
+console.log(Math.pow(2, 3)); // expected output: "8" (2 * 2 * 2 = 8)
+
+/*
+Implementation:
+If you need to know how much money you will have along twelve months
+investing five hundred euros with one percent of interest rate per month
+*/
+let investmentValue = 500;           // amount of money to be invested
+let investmentPeriod = 12;           // period of investment in months
+let compoundInterestRate = 1 + 0.01; // 1% interest rate per month ("1 +" is a math convention)
+let text1 = `Total value after ${investmentPeriod} month(s) = `;
+let text2 = ` EUR`;
+// math: Total value after months = 500 * (1 + 0.01)¹²
+console.log(text1 + (investmentValue * Math.pow(compoundInterestRate,investmentPeriod)).toFixed(2) + text2);
