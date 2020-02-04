@@ -66,6 +66,15 @@ Lines of text
 
 */
 
+// or
+
+/**
+ * 
+ * 
+ * 
+ * 
+ */
+
 let var1 = 0;
 let var2 = null;   // empty box
 let var3;          // undefined
