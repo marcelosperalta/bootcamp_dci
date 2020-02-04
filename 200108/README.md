@@ -3,6 +3,7 @@
 #### nodemon
 
 global = npm install -g nodemon
+
 nodemon - v (see the version)
 
 ### JavaScript
