@@ -73,9 +73,9 @@ backslash | \
 backtick | `
 asterisk | *
 underscore | _ 
-curly braces | { }
-square brackets | [ ]
-parentheses | ( )
+curly braces or curly brackets | { }
+square brackets or simply brackets (US) | [ ]
+round brackets or parentheses | ( )
 hash mark | #
 plus sign | +
 minus sign (hyphen) | -
