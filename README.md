@@ -24,7 +24,10 @@ Folder **191219** (Class 19.12.2019)
 * JavaScript (https://developer.mozilla.org/en-US/docs/Web/JavaScript), Visual Studio Code, Git and Terminal
 
 Folder **200106** (Class 06.01.2020)
-* JavaScript > Hoisting, Boolean Expressions, Ternary Condition and Exercises
+* JavaScript (Hoisting, Boolean Expressions, Ternary Condition and Exercises)
+
+Folder **200108** (Class 08.01.2020)
+* Terminal (nodemon) and JavaScript (Math object and Exercises)
 
 Folder **200123** (Class 23.01.2020)
-* JavaScript > Review and Exercises
+* JavaScript (Review and Exercises)
