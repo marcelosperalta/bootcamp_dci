@@ -38,5 +38,8 @@ Folder **200113** (Class 13.01.2020)
 Folder **200114** (Class 14.01.2020)
 * JavaScript (switch case, else if and Exercises)
 
+Folder **200115** (Class 15.01.2020)
+* JavaScript (Exercises)
+
 Folder **200123** (Class 23.01.2020)
 * JavaScript (Review and Exercises)
