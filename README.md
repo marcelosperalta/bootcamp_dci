@@ -47,5 +47,8 @@ Folder **200116** (Class 16.01.2020)
 Folder **200120** (Class 20.01.2020)
 * JavaScript (Array and Exercises)
 
+Folder **200121** (Class 21.01.2020)
+* JavaScript (Array, Function and Exercises)
+
 Folder **200123** (Class 23.01.2020)
 * JavaScript (Review and Exercises)
