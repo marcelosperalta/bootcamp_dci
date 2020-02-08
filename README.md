@@ -55,3 +55,6 @@ Folder **200122** (Class 22.01.2020)
 
 Folder **200123** (Class 23.01.2020)
 * JavaScript (Review and Exercises)
+
+Folder **200127** (Class 27.01.2020)
+* JavaScript (Spread syntax and Exercises)
