@@ -57,4 +57,4 @@ Folder **200123** (Class 23.01.2020)
 * JavaScript (Review and Exercises)
 
 Folder **200127** (Class 27.01.2020)
-* JavaScript (Spread syntax and Exercises)
+* JavaScript (Self-invoking function, Spread syntax and Exercises)
