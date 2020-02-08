@@ -206,7 +206,7 @@ const howManyArgs = (...args) => console.log(args.length);
 howManyArgs(3, 4, 4, 5, 6, 7, 88, 98, 9, 30, 11);
 
 
-// cool functions
+// Self-invoking functions
 
 (function add () {
     console.log("Hi");
