@@ -1,5 +1,9 @@
 # JavaScript
 
+### Code refactoring
+
+https://en.wikipedia.org/wiki/Code_refactoring
+
 ### Call Stack
 
 https://www.youtube.com/watch?v=W8AeMrVtFLY
