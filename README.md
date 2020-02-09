@@ -76,3 +76,6 @@ Folder **200204** (Class 04.02.2020)
 
 Folder **200205** (Class 05.02.2020)
 * JavaScript (this and Exercises)
+
+Folder **200206** (Class 06.02.2020)
+* JavaScript (Functions, Array and Exercises)
