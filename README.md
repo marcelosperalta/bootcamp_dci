@@ -69,4 +69,7 @@ Folder **200130** (Class 30.01.2020)
 * JavaScript (Code refactoring, Call Stack, charCodeAr, UTF-16 and Exercises)
 
 Folder **200203** (Class 03.02.2020)
-* JavaScript (For loop, functions, closure SIAF, IIFE and Exercises), Git and GitHub.
+* JavaScript (For loop, functions, closure SIAF, IIFE and Exercises), Git and GitHub
+
+Folder **200204** (Class 04.02.2020)
+* JavaScript (Object, Object.getOwnPropertyNames, for...in and for...of and Exercises)
