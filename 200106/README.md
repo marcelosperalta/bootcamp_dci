@@ -4,6 +4,10 @@
 
 https://en.wikipedia.org/wiki/ECMAScript
 
+#### var, let and const
+
+http://www.constletvar.com/
+
 #### Hoisting
 
 https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
