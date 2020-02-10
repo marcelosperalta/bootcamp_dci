@@ -81,4 +81,4 @@ Folder **200206** (Class 06.02.2020)
 * JavaScript (Chrome DevTools Console, Functions, Array and Exercises)
 
 Folder **200210** (Class 10.02.2020)
-* JavaScript (Shallow Copy, Deep Copy, Factorial, Recursion and Exercises)
+* JavaScript (Shallow Copy, Deep Copy, Factorial, Recursion, Console, and Exercises)
