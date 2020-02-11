@@ -72,7 +72,7 @@ Folder **200203** (Class 03.02.2020)
 * JavaScript (For loop, functions, closure SIAF, IIFE and Exercises), Git and GitHub
 
 Folder **200204** (Class 04.02.2020)
-* JavaScript (Object, Object.getOwnPropertyNames, for...in and for...of and Exercises)
+* JavaScript (Object, Object.getOwnPropertyNames, for...in, for...of and Exercises)
 
 Folder **200205** (Class 05.02.2020)
 * JavaScript (this and Exercises)
@@ -82,3 +82,6 @@ Folder **200206** (Class 06.02.2020)
 
 Folder **200210** (Class 10.02.2020)
 * JavaScript (Shallow Copy, Deep Copy, Factorial, Recursion, Console, and Exercises)
+
+Folder **200211** (Class 11.02.2020)
+* JavaScript (Nested Arrays, Nested Loops, map, forEach, for...in, for...of, Objects and Exercises)
