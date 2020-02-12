@@ -85,3 +85,6 @@ Folder **200210** (Class 10.02.2020)
 
 Folder **200211** (Class 11.02.2020)
 * JavaScript (Nested Arrays, Nested Loops, map, forEach, for...in, for...of, Objects and Exercises)
+
+Folder **200212** (Class 12.02.2020)
+* JavaScript (get, set, constructor, new operator, class and Exercises)
