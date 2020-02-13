@@ -43,6 +43,12 @@ console.log(``);
 
 console.log(``);
 
+function yourFunction() {
+    console.log("hi");
+}
+[1, 2, 3, 4].map(() => yourFunction());
+
+console.log(``);
 
 // setTimeout()
 
