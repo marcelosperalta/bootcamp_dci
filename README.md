@@ -88,3 +88,6 @@ Folder **200211** (Class 11.02.2020)
 
 Folder **200212** (Class 12.02.2020)
 * JavaScript (get, set, constructor, new operator, class, extends, arrays and Exercises)
+
+Folder **200213** (Class 13.02.2020)
+* JavaScript (try...catch, throw, call function several times, setTimeout() and Exercises)
