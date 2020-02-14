@@ -59,3 +59,35 @@ const timerPrint = setTimeout(print, 500);
 
 const timerDisplay = setTimeout(() => console.log("Cool thats you have waited me"), 1000);
 //clearTimeout(timerDisplay);
+
+
+// exercises
+
+// --------------------------------------------------------------------------------
+// 13.02.2020 - 01
+// Fido says...
+// In the following code, we want fido to bark. Instead, we get an error. Why?
+/*
+class Dog {
+  constructor(name) {
+    this.name = name;
+  }
+}
+Dog.bark = function() {
+  console.log(`${this.name} says woof`);
+};
+let fido = new Dog("fido");
+fido.bark();
+*/
+// Edit the code to make fido bark.
+
+class Dog {
+    constructor(name) {
+      this.name = name;
+  }
+  bark() {
+    console.log(`${this.name} says woof`);
+  }
+}
+let fido = new Dog("fido");
+fido.bark();
