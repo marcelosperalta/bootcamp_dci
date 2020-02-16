@@ -358,16 +358,16 @@ if (age2 < 10) {
 // or
 const firstName3 = "Ali";
 const age3 = 22;
-if (age < 13) {
+if (age3 < 13) {
   console.log(`${firstName3} is a child`);
 } else {
-  if (age < 20) {
+  if (age3 < 20) {
     console.log(`${firstName3} is a teenager`);
   } else {
-    if (age < 30) {
+    if (age3 < 30) {
       console.log(`${firstName3} is a young adult`);
     } else {
-      if (age >= 30) {
+      if (age3 >= 30) {
         console.log(`${firstName3} is an adult`);
       } else {
         console.log("Oi, put in a valid numeric age!");
