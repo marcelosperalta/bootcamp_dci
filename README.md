@@ -93,4 +93,4 @@ Folder **200213** (Class 13.02.2020)
 * JavaScript (try...catch, throw, call function several times, setTimeout() and Exercises)
 
 Folder **200216** (16.02.20)
-* JavaScript (Exercises from 06.01.2020 to 13.02.2020 - 140 exercises)
+* JavaScript (Exercises from 06.01.2020 to 13.02.2020 - 139 exercises)
