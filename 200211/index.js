@@ -209,3 +209,23 @@ console.log(isPrime(9));
 console.log(isPrime(10));
 console.log(isPrime(5));
 console.log(isPrime(29));
+
+// --------------------------------------------------------------------------------
+// 11.02.2020 - 04
+// For the longest word.
+// Create a function to find the longest word in a given string.
+// 
+// i.e. longestWord("this is a web development course") ➞ "development"
+
+function longestWord(str) {
+    let words = str.split(' ');
+    let longestWord = '';
+    for(let word of words) {
+        if(word.length > longestWord.length){
+            longestWord = word;
+        }
+    }
+    return longestWord;
+}
+console.log(longestWord("this is a web development course")) // return: development
+console.log(longestWord("this is a course"))                 // return: course
