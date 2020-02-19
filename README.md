@@ -97,3 +97,6 @@ Folder **200216** (16.02.2020)
 
 Folder **200217** (Test 17.02.2020)
 * JavaScript (Test - 9 exercises)
+
+Folder **200218** (Class 18.02.2020)
+* JavaScript (Exercises)
