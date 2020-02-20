@@ -19,6 +19,11 @@
 // GitHub: "18.02.2020 - One exercise in 3 ways with 3 branches"
 // GitHub branches: master, dev1, dev2
 
+// For the longest word.
+// Create a function to find the longest word in a given string.
+// 
+// i.e. longestWord("this is a web development course") ➞ "development"
+
 console.log(`
 ver. "master":`);
 
