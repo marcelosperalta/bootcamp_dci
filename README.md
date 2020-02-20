@@ -99,10 +99,10 @@ Folder **200217** (Test 17.02.2020)
 * JavaScript (Test - 9 exercises)
 
 Folder **200218** (Class 18.02.2020)
-* JavaScript (Exercises)
+* JavaScript (GitHub, git and Exercises)
 
 Folder **200219** (Class 19.02.2020)
-* JavaScript (Exercises)
+* JavaScript (GitHub, git and Exercises)
 
 Folder **200220** (Class 20.02.2020)
-* JavaScript (Exercises)
+* JavaScript (GitHub, git and Exercises)
