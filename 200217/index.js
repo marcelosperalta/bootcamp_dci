@@ -5,8 +5,8 @@
 
 // Objects
 
-// (1)
-// 1. Key Pair Values
+// (1/9)
+// Objects - 1. Key Pair Values
 // Create an object called "profileData".
 // Add four key pair values to the object:
 // name, surname, age and city.
@@ -22,8 +22,8 @@ const profileData = {
 };
 console.log(profileData); // result: { name: 'Marcelo', surname: 'Peralta', age: '39', city: 'Berlin' }
 
-// (2)
-// 2. Object to Array
+// (2/9)
+// Objects - 2. Object to Array
 // Convert an object into a nested array of key pair values.
 // Look the example below.
 // 
@@ -62,8 +62,8 @@ console.log(Object.entries(profileData));
 
 //Arrays
 
-// (3)
-// 1. Data Manipulation
+// (3/9)
+// Arrays - 1. Data Manipulation
 // Create a function named "_convertArrayData_".
 // Use array methods to manipulate the data the array below.
 // The first two items in the array should switch positions
@@ -97,8 +97,8 @@ function convertArrayData() {
 }
 convertArrayData(); // result: [ 'tea', 'coffee', 'milk' ]
 
-// (4)
-// 2. Create Grid (Optional)
+// (4/9)
+// Arrays - 2. Create Grid (Optional)
 // Create a function called "createGrid", which returns
 // a grid of a 2D array by accepting two arguments: `size`
 // (which determines the number of nested arrays
@@ -131,8 +131,8 @@ function createGrid (size, char) {
 createGrid(3, "*");
 console.log("Status: Pending");
 
-// (5)
-// 3. Word Converter
+// (5/9)
+// Arrays - 3. Word Converter
 // Given an array of words, create a function named "_wordConverter_"
 // which uses an array method to add _"er"_ to the end of each string in the array.
 // Look at the expected output below.
@@ -160,8 +160,8 @@ function wordConverter() {
 }
 wordConverter(); // result: [ 'smarter', 'kinder', 'sweeter', 'smaller', 'clearer' ]
 
-// (6)
-// 4. Hour Calculation
+// (6/9)
+// Arrays - 4. Hour Calculation
 // Create a function called "_calculateHours_" which calculate how many hours (total)
 // this person worked in the week based on the data structure `hourTracking` below.
 // **Note**: start is always morning time, end is always afternoon.
@@ -206,7 +206,7 @@ function calculateHours() {
     }
 calculateHours(); // result: 36
 
-// (7)
+// (7/9)
 // Classes
 // Create a blueprint for a course at DCI - using the `class` syntax in javascript.
 // The class should be named "Course" The class should contain who the teacher is,
@@ -259,8 +259,8 @@ person1.details();     // result: This is a web development taught by Ali. There
 
 // Problem Solving
 
-// (8)
-// 1. Format your string
+// (8/9)
+// Problem Solving - 1. Format your string
 // Write function named "_capitalizeFirstLetter_"
 // that accepts a string as an argument.
 // The function should convert the first character of each word to uppercase.
@@ -290,8 +290,8 @@ function capitalizeFirstLetter(str) {
 capitalizeFirstLetter("hey there");           // result: Hey There
 capitalizeFirstLetter("the quick brown fox"); // result: The Quick Brown Fox
 
-// (9)
-// 2. Validation
+// (9/9)
+// Problem Solving - 2. Validation
 // Look at the unit tests for validating a pin.
 //
 // Create a function named "_validPin_" that fulfills the requirements of the tests.
