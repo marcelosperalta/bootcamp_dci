@@ -106,3 +106,6 @@ Folder **200219** (Class 19.02.2020)
 
 Folder **200220** (Class 20.02.2020)
 * JavaScript (GitHub, git and Exercises)
+
+Folder **200224** (Class 24.02.2020)
+* HTML and CSS
