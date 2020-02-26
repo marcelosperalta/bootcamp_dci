@@ -28,7 +28,7 @@ https://www.pexels.com/
 
 ### Code
 
-https://github.com/marcelosperalta/dci/blob/master/200225/style.css
+https://github.com/marcelosperalta/dci/blob/master/200225/css/style.css
 
 # URL
 
