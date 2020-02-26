@@ -1,0 +1,113 @@
+
+body {
+/*  background-image:    url(../img/image.jpg); */
+    background-position: center;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+}
+
+.doggy {
+    width:         200px;
+/*  height:         10px; */
+    border:          2px black solid;
+    border-top:      3px red dashed;   /* overwrite "border: 2px black solid;" */
+    border-bottom:   3px red dashed;   /* overwrite "border: 2px black solid;" */
+    padding:        10px 10px 30px 10px;
+    border-color:        palegreen blue red black;
+    border-style:          dotted solid; /* overwrite "border-top" and "border-bottom" */
+    border-width:    4px;
+    border-radius:  50% 10% 20% 33%;
+/* or
+    padding-top:    10px;
+    padding-left:   10px;
+    padding-right:  10px;
+    padding-bottom: 30px;
+*/
+/*  margin:          0 auto; */
+    margin:         20px;
+}
+
+h1,
+h4,
+p,
+div {
+    color: pink;
+}
+
+/* styling my h1 */
+h1 {
+    font-size: 29px;
+}
+
+.sq {
+    background-color: lightgreen;
+    border: 2px black solid;
+  }
+.re {
+  background-color: hotpink;
+  border: 2px black solid;
+  height: 70px;
+}
+.cl {
+  margin: 3px;
+  width: 40px;
+  height: 40px;
+  background-color: orange;
+  border: 2px black solid;
+  border-radius: 50%;
+}
+.tra {
+  width: 0;
+  height: 0;
+  border-top: 40px solid transparent;
+  border-bottom: 0px solid transparent;
+  border-right: 20px solid blue;
+}
+.sp-cl {
+  /* margin: 0 auto; */
+  background-color: lightgreen;
+  border: 2px black solid;
+}
+
+.test-box{
+    width:  50%;
+    height: 34px;
+    border: 2px black solid;
+}
+
+.random-text{
+    letter-spacing: 2px;
+    word-spacing: 20px;
+    line-height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-indent: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p:last-child {
+    background-color: blueviolet;
+}
+
+p:only-child {
+    background-color: coral;
+}
+
+.move{
+    width: 400px;
+    height: 100px;
+    background-color: blue;
+    border: 10px #ccc dotted;
+}
+
+.move:hover {
+    width: 400px;
+    height: 400px;
+    background-color: fuchsia;
+    box-shadow: 5px 5px 5px red;
+}
