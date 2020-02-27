@@ -114,4 +114,7 @@ Folder **200225** (Class 25.02.2020)
 * HTML and CSS
 
 Folder **200226** (Class 26.02.2020)
-* CSS (box model)
+* HTML and CSS (CSS basic box model)
+
+Folder **200227** (Class 26.02.2020)
+* HTML (link to other html files) and CSS (box-sizing)
