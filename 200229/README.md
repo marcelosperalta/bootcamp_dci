@@ -2,7 +2,7 @@
 
 ### Exercise
 
-Create a web page with all the resources that we saw until now.
+Create a web page with all the resources that we saw until 25.02.2020.
 
 ### Code
 
