@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+body {
+    text-align: center;
+    background-color: #c2dbf0;
+}
+nav {
+    text-align: center;
+    color: transparent;
+}
+caption {
+    color: blue;
+}
+.topics {
+    font-size: 25px;
+}
+div {
+    text-align: center;
+}
+table {
+    font-size: 25px;
+    text-align: center;
+    margin: auto;
+}
+audio {
+    width: 300px;
+    height: 25px;
+    text-align: center;
+}
