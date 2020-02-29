@@ -118,3 +118,6 @@ Folder **200226** (Class 26.02.2020)
 
 Folder **200227** (Class 26.02.2020)
 * HTML (link to other html files) and CSS (box-sizing and position)
+
+Folder **200229** (29.02.2020)
+* Wweb Page with HTML and CSS (exercise from class 25.02.2020)
