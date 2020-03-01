@@ -121,3 +121,6 @@ Folder **200227** (Class 26.02.2020)
 
 Folder **200229** (29.02.2020)
 * HTML and CSS (exercise from class 25.02.2020)
+
+Folder **200301** (01.03.2020)
+* HTML and CSS (exercise from class 26.02.2020)
