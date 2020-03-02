@@ -30,5 +30,3 @@ https://css-tricks.com/the-shapes-of-css/
 ### Code
 
 https://github.com/marcelosperalta/dci/blob/master/200226/css/style.css
-
-#
