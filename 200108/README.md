@@ -1,13 +1,3 @@
-# Terminal
-
-### nodemon
-
-global = npm install -g nodemon
-
-nodemon - v (see the version)
-
-https://nodemon.io/
-
 # JavaScript
 
 ### Code formatter
