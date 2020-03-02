@@ -32,4 +32,4 @@ https://fbw-26.slack.com/files/URB8BS11N/FR69UJMKL/cli-cheat-sheet.pdf
 
 **Visual Studio Code**
 
-Install: "Markdown Preview Enhanced"
+Install: _"Markdown Preview Enhanced"_
