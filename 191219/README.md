@@ -1,10 +1,10 @@
-### Git
+# Git
 
-#### Git Reference
+### Git Reference
 
 https://git-scm.com/docs
 
-#### Some commands
+### Some commands
 
 git log
 
@@ -27,9 +27,9 @@ git log
 git checkout
 git branch
 
-### Terminal 
+# Terminal 
 
-#### Node on Terminal
+### Node on Terminal
 
 (Visual Studio Code > Terminal > New Terminal)
 
@@ -59,13 +59,13 @@ true
 1 != 2
 true
 
-### JavaScript
+# JavaScript
 
-#### Code
+### Code
 
 see index.js (https://github.com/marcelosperalta/dci/tree/master/191219)
 
-#### Some characters 
+### Some characters 
 
 name | character
 ------------ | -------------
@@ -82,9 +82,9 @@ minus sign (hyphen) | -
 dot | .
 exclamation mark | !
 
-#### Source-code editor
+### Source-code editor
 
-##### Visual Studio Code
+#### Visual Studio Code
 
 https://code.visualstudio.com/  
 
