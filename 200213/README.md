@@ -18,4 +18,4 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/bas
 
 ### Code
 
-see index.js (https://github.com/marcelosperalta/dci/blob/master/200213/index.js)
+https://github.com/marcelosperalta/dci/blob/master/200213/index.js
