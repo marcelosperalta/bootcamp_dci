@@ -34,4 +34,4 @@ https://naveenr.net/unicode-character-set-and-utf-8-utf-16-utf-32-encoding/
 
 ### Code
 
-see index.js (https://github.com/marcelosperalta/dci/blob/master/200212/index.js)
+https://github.com/marcelosperalta/dci/blob/master/200212/index.js
