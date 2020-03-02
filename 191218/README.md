@@ -1,18 +1,18 @@
-### GitHub
+# GitHub
 
-#### Branches
+### Branches
 
 https://help.github.com/en/github/getting-started-with-github/github-glossary#branch
 
 https://guides.github.com/introduction/flow/
 
-### Git
+# Git
 
-#### Git Reference
+### Git Reference
 
 https://git-scm.com/docs
 
-#### Some commands
+### Some commands
 
 cd fbw26
 
