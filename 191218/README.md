@@ -10,6 +10,10 @@ https://guides.github.com/introduction/flow/
 
 https://github.community/t5/Support-Protips/Best-Practices-for-Organizations/ba-p/10384
 
+### Git & GitHub Tutorial for Beginners
+
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
+
 # Git
 
 ### Git Reference
