@@ -37,5 +37,3 @@ https://en.wikipedia.org/wiki/URL
 # Google Maps
 
 https://www.google.de/maps
-
-#1
