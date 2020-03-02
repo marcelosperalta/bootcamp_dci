@@ -1,4 +1,4 @@
-# Github Markdown
+# Markdown
 
 ## Checkboxes
 
@@ -26,3 +26,8 @@ Names | Class
 ------------ | -------------
 Name1 | FbW26
 Name2 | FbW26
+
+
+# Git
+
+https://github.com/marcelosperalta/dci/blob/master/191217/README.txt
