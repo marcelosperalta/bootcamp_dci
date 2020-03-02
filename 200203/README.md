@@ -19,9 +19,3 @@ https://unicode.org/emoji/charts/full-emoji-list.html
 ### Code
 
 https://github.com/marcelosperalta/dci/blob/master/200203/index.js
-
-# Git and GitHub
-
-### Git & GitHub Tutorial for Beginners
-
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
