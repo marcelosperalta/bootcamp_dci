@@ -6,6 +6,10 @@ https://help.github.com/en/github/getting-started-with-github/github-glossary#br
 
 https://guides.github.com/introduction/flow/
 
+### Best Practices for Organizations
+
+https://github.community/t5/Support-Protips/Best-Practices-for-Organizations/ba-p/10384
+
 # Git
 
 ### Git Reference
