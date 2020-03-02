@@ -18,7 +18,7 @@ https://unicode.org/emoji/charts/full-emoji-list.html
 
 ### Code
 
-see index.js (https://github.com/marcelosperalta/dci/blob/master/200203/index.js)
+https://github.com/marcelosperalta/dci/blob/master/200203/index.js
 
 # Git and GitHub
 
