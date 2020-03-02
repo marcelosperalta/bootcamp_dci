@@ -26,4 +26,4 @@ https://medium.com/javascript-in-plain-english/how-to-deep-copy-objects-and-arra
 
 ### Code
 
-see index.js (https://github.com/marcelosperalta/dci/blob/master/200210/index.js)
+https://github.com/marcelosperalta/dci/blob/master/200210/index.js
