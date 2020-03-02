@@ -2,8 +2,7 @@
 
 ### Exercise
 
-Open your favorite Wikipedia Article.  
-Turn it into a HTML web page with correct headings and paragraphs where it is appropriate.
+Open your favorite wikipedia article and turn it into a HTML web page with correct headings and paragraphs where it is appropriate.
 
 ### Code
 
