@@ -10,4 +10,4 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spre
 
 ### Code
 
-see index.js (https://github.com/marcelosperalta/dci/blob/master/200127/index.js)
+https://github.com/marcelosperalta/dci/blob/master/200127/index.js
