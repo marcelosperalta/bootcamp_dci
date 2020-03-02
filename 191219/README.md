@@ -29,6 +29,14 @@ git branch
 
 # Terminal 
 
+### nodemon
+
+global = npm install -g nodemon
+
+nodemon - v (see the version)
+
+https://nodemon.io/
+
 ### Node on Terminal
 
 (Visual Studio Code > Terminal > New Terminal)
