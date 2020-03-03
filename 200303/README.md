@@ -4,7 +4,7 @@
 
 Create the periodic table using CSS selectors and pseudo-classes.
 
-![200307](./img/periodic_table)
+![200303](./img/periodic_table.png)
 
 ### Table
 
