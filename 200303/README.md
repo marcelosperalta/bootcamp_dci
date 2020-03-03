@@ -10,7 +10,7 @@ Create the periodic table using CSS selectors and pseudo-classes.
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element (Table content)
 
-### Article
+### Articles
 
 https://responsivedesign.is/articles/creating-the-periodic-table-with-grid-css/
 
@@ -24,6 +24,6 @@ https://css-tricks.com/complete-guide-table-element/
 
 ### Code
 
-https://github.com/marcelosperalta/dci/blob/master/200307/index.html
+https://github.com/marcelosperalta/dci/blob/master/200303/index.html
 
-https://github.com/marcelosperalta/dci/blob/master/200307/css/style.css
+https://github.com/marcelosperalta/dci/blob/master/200303/css/style.css
