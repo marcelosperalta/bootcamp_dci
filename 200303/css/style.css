@@ -1,0 +1,106 @@
+/*  
+    Visual Studio Code
+    Keyboard shortcuts for Linux
+    https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
+    Ctrl+K Ctrl+C Add line comment
+*/
+
+img {
+    display:     block;
+    margin-left:  auto;
+    margin-right: auto;
+    width:       550px;
+    height:      250px;
+    border:        1px black solid;
+    padding:       3px;
+}
+
+table {
+    width: 550px;
+    height: 250px;
+    table-layout: fixed;
+}
+
+td {
+    font-size: 10px;
+    text-align: center;
+    font-style: italic;
+    border: 1px black solid;
+    border-radius: 10%;
+}
+
+tr:nth-child(1) :first-child {
+    background-color: yellow;
+}
+
+td:nth-child(1) {
+    background-color: deepskyblue;
+}
+
+th[id="aquamarine"] {
+    background-color:aquamarine;
+    border: 1px black solid;
+    border-radius: 10%;
+}
+
+th[id="aqua"] {
+    background-color: aqua;
+    border: 1px black solid;
+    border-radius: 10%;
+}
+
+tr:nth-child(8) {
+    background-color:aquamarine;
+}
+
+tr:nth-child(9) {
+    background-color: aqua;
+}
+
+th:nth-child(1) {
+    background-color: white;
+}
+
+td:nth-last-child(17) {
+    background-color: orange;
+}
+
+td[id="orange"] {
+    background-color: orange;
+}
+
+td:nth-last-child(16) {
+    background-color: chartreuse;
+}
+
+col:nth-child(n+4){
+    background-color: chartreuse;
+}
+
+th:nth-child(n+4):nth-child(-n+12) {
+    background-color: white;
+}
+
+td[id="coral"] {
+    background-color: coral;
+}
+
+td[id="fuchsia"] {
+    background-color: fuchsia;
+}
+
+td[id="deepskyblue"] {
+    background-color: deepskyblue;
+}
+
+td[id="yellow"] {
+    background-color: yellow;
+}
+
+td[id="indianred"] {
+    background-color: indianred;
+}
+
+td[id="lightpink"] {
+    background-color: lightpink;
+}
