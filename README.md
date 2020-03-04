@@ -132,4 +132,4 @@ Folder **200303** (03.03.2020)
 * HTML and CSS (exercise from class 02.03.2020)
 
 Folder **200304** (Class 04.03.2020)
-* HTML and CSS ()
+* HTML and CSS (Selectors, Pseudo-classes and Pseudo-elements)
