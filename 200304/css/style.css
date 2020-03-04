@@ -1,0 +1,69 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+  }
+  /* pseudo elements VS  pseudo classes */
+  /* pseudo-class is a keyword added to a selector that specifies a special state of the selected element(s). */
+  /* more pseudo classes
+  :right
+  :target
+  :valid
+  :hover */
+  
+  /* pseudo-element is a keyword added to a selector that lets you style a specific part of the selected element(s) */
+  /* ::placeholder  */
+  [type="text"]::placeholder {
+    color: orange;
+    font-family: Arial;
+  }
+  /* ::before  Vs :before */
+  
+  /* ::first-letter (:first-letter) */
+  .text::first-letter {
+    color: yellowgreen;
+    font-weight: bold;
+    font-size: 40px;
+  }
+  /* display:none vs opacity: 0 */
+  .tree {
+    width: 200px;
+    height: 150px;
+    box-shadow: 3px 3px 3px rgba(150, 245, 221, 0.6);
+    opacity: 0.5;
+    filter: grayscale(50);
+  }
+  .tree:hover {
+    transition: 2s ease-in-out;
+    width: 209px;
+    height: 150px;
+    filter: grayscale(0);
+    opacity: 1;
+  }
+  /* vh & vw */
+  
+  .menu {
+    width: 15vw;
+    height: 100vh;
+    background-color: orange;
+  }
+  .main-text {
+    position: absolute;
+    top: 0;
+    left: 15%;
+    margin: 0;
+    background-color: pink;
+    font-size: 2rem;
+    width: 85vw;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .form-input {
+    width: 100vw;
+    height: 50vh;
+    background-color: rebeccapurple;
+  }
+  /* visual content like img */
+  /*  % , border-radius */
