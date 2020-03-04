@@ -8,4 +8,4 @@ https://github.com/marcelosperalta/dci/blob/master/200304/index.html
 
 ### Code
 
-https://github.com/marcelosperalta/dci/blob/master/200304/style.css
+https://github.com/marcelosperalta/dci/blob/master/200304/css/style.css
