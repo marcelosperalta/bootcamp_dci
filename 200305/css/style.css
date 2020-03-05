@@ -1,75 +1,82 @@
 
-/* e.g.: box-sizing: ctrl + space > you can see the options of element */
+/* e.g.: box-sizing: ctrl + space > you can see the options of element    */
 
 * {
-  box-sizing:                 border-box;
-  margin:                              0;
-  font-size:                        16px;
+  box-sizing:                    border-box;
+  margin:                                 0;
+  font-size:                           16px;
 }
 
 body {
-  margin:                         0 auto;
-/*background:                       aqua;                              */
+  margin:                            0 auto;
+/*background:                          aqua;                              */
 }
 
-/* background-image                                                    */
+/* background-image                                                       */
 .main-text {
-  display:                          flex;
-/*padding:                          2rem;                              */
-  align-items:                    center;
-  justify-content:                center;
-  width:                           100vw;
-  height:                          100vh;
-  background-color:               aqua;
-  background-image:  url(../img/fly.gif),  /* or url("../img/fly.gif") */
-                     url(../img/sky.png);
-  background-repeat: repeat-x, no-repeat;
-  background-position:            center; /* or  center, left;         */
-  background-size:          80rem, cover;
-/*short form:                                                          */
+  display:                             flex;
+/*padding:                             2rem;                              */
+  align-items:                       center;
+  justify-content:                   center;
+  width:                              100vw;
+  height:                             100vh;
+  background-color:                  aqua;
+  background-image:     url(../img/fly.gif),  /* or url("../img/fly.gif") */
+                        url(../img/sky.png);
+  background-repeat:    repeat-x, no-repeat;
+  background-position:               center; /* or  center, left;         */
+  background-size:             80rem, cover;
+/*short form:                                                             */
 /*background:         url(../img/sky.png)
                                 no-repeat
-                                  center;                              */
+                                  center;                                 */
 }
 
 h1 {
-  font-size:                      3.5rem;
-  font-weight:                      bold;
+  font-size:                         3.5rem;
+  font-weight:                         bold;
 }
 
-/* background-clip: border-box;                                        */
+/* background-clip: border-box;                                           */
 .ex1 {
-  border:             4px black dashed;
-  padding:                          20px;
-  background:        url(../img/sky.png);
-  background-size:                  80px;
-  background-repeat:           no-repeat;
-  background-clip:            border-box;
+  border:                4px black dashed;
+  padding:                             20px;
+  background:           url(../img/sky.png);
+  background-size:                     80px;
+  background-repeat:              no-repeat;
+  background-clip:               border-box;
 }
 
 .ex2 {
-  border:             4px black dashed;
-  padding:                          20px;
-  background:        url(../img/sky.png);
-  background-size:                  80px;
-  background-repeat:           no-repeat;
-  background-clip:           content-box;
+  border:                4px black dashed;
+  padding:                             20px;
+  background:           url(../img/sky.png);
+  background-size:                     80px;
+  background-repeat:              no-repeat;
+  background-clip:              content-box;
 }
 
 .ex3 {
-  border:             4px black dashed;
-  padding:                          20px;
-  background:        url(../img/sky.png);
-  background-size:                  80px;
-  background-repeat:           no-repeat;
-  background-clip:           padding-box;
+  border:                4px black dashed;
+  padding:                             20px;
+  background:           url(../img/sky.png);
+  background-size:                     80px;
+  background-repeat:              no-repeat;
+  background-clip:              padding-box;
 }
 
 .ex4 {
-  background:     url(../img/stars.jpeg);
-  color:                     transparent;
-  background-clip:                  text;
-  -webkit-background-clip:          text;
+  background-image:  url(../img/stars.jpeg);
+  color:                        transparent;
+  background-clip:                     text;
+  -webkit-background-clip:             text;
 }
 
-/* npm live-server                                                     */
+.ex5 {
+  background-image:    url(../img/bird.png);
+  background-size:                    55rem;
+  background-position:               center;
+  background-attachment:              fixed;
+}
+
+/* npm live-server                                                        */
