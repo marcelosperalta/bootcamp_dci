@@ -136,3 +136,6 @@ Folder **200304** (Class 04.03.2020)
 
 Folder **200305** (Class 05.03.2020)
 * HTML and CSS (background-clip)
+
+Folder **200306** (06.03.2020)
+* HTML and CSS (exercise from class 04.03.2020 - "Checkers")
