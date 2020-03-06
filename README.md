@@ -120,16 +120,16 @@ Folder **200227** (Class 26.02.2020)
 * HTML (link to other html files) and CSS (box-sizing and position)
 
 Folder **200229** (29.02.2020)
-* HTML and CSS (exercise from class 25.02.2020)
+* HTML and CSS (exercise from class 25.02.2020 - "Generic Webpage")
 
 Folder **200301** (01.03.2020)
-* HTML and CSS (exercise from class 26.02.2020)
+* HTML and CSS (exercise from class 26.02.2020 - "Wikipedia Article")
 
 Folder **200302** (Class 02.03.2020)
 * HTML and CSS (Selectors, Pseudo-classes and Pseudo-elements)
 
 Folder **200303** (03.03.2020)
-* HTML and CSS (exercise from class 02.03.2020)
+* HTML and CSS (exercise from class 02.03.2020 - "Periodic Table")
 
 Folder **200304** (Class 04.03.2020)
 * HTML and CSS (Selectors, Pseudo-classes and Pseudo-elements)
