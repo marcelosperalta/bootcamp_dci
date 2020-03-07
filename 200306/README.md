@@ -10,6 +10,12 @@ This exercise should be done using Table and no Class or ID and your css file sh
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element (Table content)
 
+### nth-child
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child
+
+https://css-tricks.com/how-nth-child-works/
+
 ### Articles
 
 http://learnlayout.com/toc.html
