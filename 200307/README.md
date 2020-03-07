@@ -2,7 +2,7 @@
 
 ### Exercise
 
-**Sky**
+**Sky**  
 Build a webpage that will give the feeling to the user that he is in the sky
 and remember that in the sky you will find some birds flying and many clouds.
 Keep on mind that your clouds will move around and for sure the birds do that too.
