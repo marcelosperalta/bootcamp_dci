@@ -139,3 +139,6 @@ Folder **200305** (Class 05.03.2020)
 
 Folder **200306** (06.03.2020)
 * HTML and CSS (exercise from class 04.03.2020 - "Checkers")
+
+Folder **200307** (07.03.2020)
+* HTML and CSS (exercise from class 05.03.2020 - "Sky")
