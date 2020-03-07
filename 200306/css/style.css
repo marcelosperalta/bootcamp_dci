@@ -1,10 +1,36 @@
 table {
     width:                   500px;
     height:                  500px;
+    border:      5px solid black;
+    border-collapse:      collapse;
+    table-layout:            fixed;
 }
+
+/*
 td {
-    border:      2px black solid;
+    border:        2px black solid;
 }
-tr:nth-child(odd) td:nth-child(even), tr:nth-child(even) td:nth-child(odd) {
+*/
+
+tr:nth-child(2n-1) td:nth-child(2n),
+tr:nth-child(2n)   td:nth-child(2n-1) {
     background:            black;
 }
+
+/* or */
+/*
+tr:nth-child(2n-1) td:nth-child(2n) {
+    background:              black;
+}
+tr:nth-child(2n) td:nth-child(2n-1) {
+    background:              black;
+}
+*/
+
+/* or */
+/* 
+tr:nth-child(odd)  td:nth-child(even),
+tr:nth-child(even) td:nth-child(odd) {
+    background:            black;
+}
+*/
