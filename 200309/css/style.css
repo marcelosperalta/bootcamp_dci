@@ -21,10 +21,16 @@
 }
 
 h1 {
-  font-family:               "Roboto", sans-serif;
+/*font-family:               "Roboto", sans-serif;*/
   font-size:                                 1rem;
   color:                        var(--color-font);
   padding:               var(--padding-main-text);
+  direction:                                  rtl;
+  writing-mode:                       vertical-lr;
+  text-orientation:                       upright;
+  text-shadow:               2px 2px 2px orange,
+                               3px 3px 5px pink,
+                                   4px 2px gray;
 }
 
 div {
@@ -39,6 +45,10 @@ div {
   font-weight:                               bold;
   line-height:                                2em;
   text-align:                             justify;
+  text-transform:                       uppercase;
+/*word-break:                            keep-all;*/
+  text-indent:                               3rem;
+  word-spacing:                              4rem;
 }
 
 .b {

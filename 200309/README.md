@@ -6,6 +6,14 @@ https://github.com/marcelosperalta/dci/blob/master/200309/index.html
 
 # CSS
 
+### text
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Text
+
+### font
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/font
+
 ### @font-face
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
