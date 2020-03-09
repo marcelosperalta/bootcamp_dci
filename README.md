@@ -142,3 +142,6 @@ Folder **200306** (06.03.2020)
 
 Folder **200307** (07.03.2020)
 * HTML and CSS (exercise from class 05.03.2020 - "Sky")
+
+Folder **200309** (Class 09.03.2020)
+* HTML and CSS (@font-face, font-family, font-style, font-size)

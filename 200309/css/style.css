@@ -1,0 +1,32 @@
+
+/* e.g.: box-sizing: ctrl + space > you can see the options of element    */
+
+* {
+  margin:                                       0;
+  padding:                                      0;
+  box-sizing:                          border-box;
+  font-size:                                 16px;
+}
+
+/* font-family */
+@font-face {
+  font-family:                           "Roboto";
+  src:           url(../fonts/Roboto-Regular.ttf);
+}
+
+h1 {
+  font-family:               "Roboto", sans-serif;
+  font-size:                                 5rem;
+}
+
+div {
+  font-size:                                 20px;
+}
+
+/* font-size */
+p {
+  font-size:                                  1em;
+  font-style:                       oblique 10deg;
+  font-weight:                               bold;
+  font:          italic 2rem "Roboto", sans-serif;
+}
