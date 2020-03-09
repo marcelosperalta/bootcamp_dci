@@ -34,6 +34,10 @@ https://fonts.google.com/
 
 https://j.eremy.net/confused-about-rem-and-em/
 
+### font-variant
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant
+
 ### Code
 
 https://github.com/marcelosperalta/dci/blob/master/200309/css/style.css

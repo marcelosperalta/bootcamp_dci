@@ -5,7 +5,13 @@
   margin:                                       0;
   padding:                                      0;
   box-sizing:                          border-box;
+/*font-size:                                 16px;*/
+}
+
+:root {
   font-size:                                 16px;
+  --color-font:                            pink;
+  --padding-main-text:                    2px 2px;
 }
 
 /* font-family */
@@ -16,7 +22,9 @@
 
 h1 {
   font-family:               "Roboto", sans-serif;
-  font-size:                                 5rem;
+  font-size:                                 1rem;
+  color:                        var(--color-font);
+  padding:               var(--padding-main-text);
 }
 
 div {
@@ -24,9 +32,23 @@ div {
 }
 
 /* font-size */
-p {
+.a {
+/*font:          italic 2rem "Roboto", sans-serif;*/
   font-size:                                  1em;
   font-style:                       oblique 10deg;
   font-weight:                               bold;
-  font:          italic 2rem "Roboto", sans-serif;
+  line-height:                                2em;
+  text-align:                             justify;
+}
+
+.b {
+  font-feature-settings:                   normal;
+  font-kerning:                              none;
+  font-language-override:                  normal;
+  font-optical-sizing:                       auto;
+  font-size:                              x-small;
+  font-size-adjust:                          none;
+  font-stretch:                             wider;
+  font-style:                              italic;
+  font-synthesis:                          weight;
 }
