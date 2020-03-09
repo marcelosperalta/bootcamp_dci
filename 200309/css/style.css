@@ -62,3 +62,8 @@ div {
   font-style:                              italic;
   font-synthesis:                          weight;
 }
+
+i {
+  color:                                   pink;
+  font-size:                             xx-large;
+}

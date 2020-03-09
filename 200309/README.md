@@ -46,6 +46,10 @@ https://j.eremy.net/confused-about-rem-and-em/
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant
 
+### Font Awesome
+
+https://fontawesome.com/
+
 ### Code
 
 https://github.com/marcelosperalta/dci/blob/master/200309/css/style.css
