@@ -145,3 +145,6 @@ Folder **200307** (07.03.2020)
 
 Folder **200309** (Class 09.03.2020)
 * HTML and CSS (@font-face, font-family, font-style, font-size, font-variant)
+
+Folder **200310** (Class 10.03.2020)
+* HTML and CSS (flexbox)

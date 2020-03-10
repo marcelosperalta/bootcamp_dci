@@ -1,0 +1,77 @@
+
+/* e.g.: box-sizing: ctrl + space > you can see the options of element    */
+
+/* flex-box */
+
+/* flex-direction */
+.daddy {
+  width:                   100vw;
+  height:                  100vh;
+  display:                  flex;
+  flex-direction:            row;
+/*justify-content:  space-evenly;*/
+  align-items:            center;
+  flex-wrap:                wrap;
+/*align-content:          center;*/
+  flex-flow: column-reverse wrap;
+}
+.baby1 {
+  background-color:        red;
+  width:                   250px;
+  height:                  250px;
+  align-self:         flex-start;
+  order:                       4;
+  flex:                        5;
+}
+.baby2 {
+  background-color:     yellow;
+  width:                   250px;
+  height:                  250px;
+  order:                       2;
+  flex:                        1;
+}
+.baby3 {
+  background-color:      green;
+  width:                   250px;
+  height:                  250px;
+  order:                       3;
+  flex:                        1;
+}
+.baby4 {
+  background-color:       pink;
+  width:                   250px;
+  height:                  250px;
+  order:                       1;
+  flex:                  1 1 25%;
+/*flex-grow:                    ;
+  flex-shrink:                  ;
+  flex-basis:                   ;*/
+}
+
+/* flex-wrap */
+
+/* flex-flow */
+
+/* justify-content */
+
+/* algin-items */
+
+/* align-content */
+
+/* vertical-align */
+
+/* visibility */
+
+/* more var */
+
+/* z-index */
+
+/* linear-gradient */
+
+/* radialGradient */
+
+/* transform - rotate()*/
+/* transform - rotateX(),rotateY(),rotateZ()*/
+/* transition */
+
+/* border-image */
