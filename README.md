@@ -150,4 +150,4 @@ Folder **200310** (Class 10.03.2020)
 * HTML and CSS (flexbox)
 
 Folder **200311** (Class 11.03.2020)
-* HTML and CSS (Exercise "YouTube")
+* HTML and CSS ("YouTube" exercise)
