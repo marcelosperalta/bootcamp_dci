@@ -1,0 +1,203 @@
+* {
+  margin:                              0;
+  padding-left:                        0;
+}
+
+.header {
+  background-color: rgb(143, 212, 235);
+  display:                          flex;
+  flex-direction:                    row;
+  align-items:                    center;
+  justify-content:         space-between;
+}
+
+.first-icon {
+  display:                          flex;
+  justify-content:                  left;
+}
+
+.youtube {
+  margin-top:                       10px;
+  margin-bottom:                    10px;
+  padding-left:                      5px;
+  font-size:                        16px;
+}
+
+.search {
+  display:                          flex;
+  justify-content:                center;
+}
+
+.text-box {
+  margin:                        .4rem 0;
+  margin-top:                       10px;
+  margin-bottom:                    10px;
+  padding-left:                      5px;
+  font-size:                      0.7rem;
+}
+
+.header-left {
+  display:                          flex;
+  justify-content:                  left;
+  padding-right:                     5px;
+}
+
+.page-layout {
+/*width:                           100vw;
+  height:                          100vh; */
+  display:                          flex;
+  text-align:                       left;
+  margin:                              0;
+  margin-left:                         0;
+  list-style-position:           outside;
+
+}
+
+nav {
+  width:                             15%;
+  background-color:          lightblue;
+  border-bottom:       1px solid black;
+}
+
+.line {
+  list-style:                       none;
+  font-size:                      0.7rem;
+}
+
+i {
+  vertical-align:                   -30%;
+  margin-top:                        7px;
+  margin-bottom:                     7px;
+  padding-left:                      5px;
+}
+
+li.home {
+  border-top:          1px solid black;
+}
+
+/*
+.navigation-bar {
+  background-color: cornflowerblue;
+  width: 100%;
+  display: flex;
+}
+*/
+
+.content {
+  width:                            100%;
+  height:                          100vh;
+  padding:                            2%;
+  display:                          flex;
+  flex-direction:                    row;
+  flex-wrap:                        wrap;
+  flex-flow:                         row;
+  align-items:                    center;
+  align-content:           space-between;
+  justify-content:          space-evenly;
+}
+
+
+.video01 {
+  background-color:         lightcoral;
+  width:                             30%;
+  height:                            25%;
+}
+
+.video02 {
+  background-color:          lightcyan;
+  width:                             30%;
+  height:                            25%;
+}
+
+.video03 {
+  background-color:      lightseagreen;
+  width:                             30%;
+  height:                            25%;
+}
+
+.video04 {
+  background-color:        lightsalmon;
+  width:                             30%;
+  height:                            25%;
+  /* order:                               1; */
+  /* flex:                          1 1 25%; */
+  /* flex-grow:                            ; */
+  /* flex-shrink:                          ; */
+  /* flex-basis:                           ; */
+}
+
+/*
+
+.video05 {
+  background-color:         lightcoral;
+  width:                           200px;
+  height:                          120px;
+}
+
+.video06 {
+  background-color:          lightcyan;
+  width:                           200px;
+  height:                          120px;
+}
+
+.video07 {
+  background-color:      lightseagreen;
+  width:                           200px;
+  height:                          120px;
+}
+
+.video08 {
+  background-color:        lightsalmon;
+  width:                           200px;
+  height:                          120px;
+}
+
+.video09 {
+  background-color:         lightcoral;
+  width:                           200px;
+  height:                          120px;
+}
+
+.video10 {
+  background-color:          lightcyan;
+  width:                           200px;
+  height:                          120px;
+}
+
+.video11 {
+  background-color:      lightseagreen;
+  width:                           200px;
+  height:                          120px;
+}
+
+.video12 {
+  background-color:        lightsalmon;
+  width:                           200px;
+  height:                          120px;
+}
+
+.video13 {
+  background-color:         lightcoral;
+  width:                           200px;
+  height:                          120px;
+}
+
+.video14 {
+  background-color:          lightcyan;
+  width:                           200px;
+  height:                          120px;
+}
+
+.video15 {
+  background-color:      lightseagreen;
+  width:                           200px;
+  height:                          120px;
+}
+
+.video16 {
+  background-color:        lightsalmon;
+  width:                           200px;
+  height:                          120px;
+}
+
+*/
