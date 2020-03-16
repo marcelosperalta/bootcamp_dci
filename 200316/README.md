@@ -2,7 +2,7 @@
 
 ### Code
 
-https://github.com/marcelosperalta/dci/blob/master/200316/index.html
+https://github.com/marcelosperalta/dci/blob/master/2003xx/index.html
 
 # CSS
 
@@ -14,10 +14,12 @@ https://developer.mozilla.org/en-US/docs/Glossary/Grid
 
 https://css-tricks.com/snippets/css/complete-guide-grid/
 
+https://css-tricks.com/things-ive-learned-css-grid-layout/
+
 ### Grid vs Flexbox
 
 https://www.youtube.com/watch?v=RSIclWvNTdQ
 
 ### Code
 
-https://github.com/marcelosperalta/dci/blob/master/200316/css/style.css
+https://github.com/marcelosperalta/dci/blob/master/2003xx/css/style.css
