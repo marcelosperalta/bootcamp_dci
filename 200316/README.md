@@ -1,4 +1,4 @@
-# HTML and CSS
+# HTML
 
 ### Code
 
