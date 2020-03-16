@@ -154,3 +154,6 @@ Folder **200311** (Class 11.03.2020)
 
 Folder **200312** (Class 12.03.2020)
 * HTML and CSS (Media queries and freeCodeCamp HTML and CSS basics)
+
+Folder **200316** (Class 16.03.2020)
+* HTML and CSS (Grid)
