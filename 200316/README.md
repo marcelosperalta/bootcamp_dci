@@ -2,7 +2,7 @@
 
 ### Code
 
-https://github.com/marcelosperalta/dci/blob/master/2003xx/index.html
+https://github.com/marcelosperalta/dci/blob/master/200316/index.html
 
 # CSS
 
@@ -20,6 +20,10 @@ https://css-tricks.com/things-ive-learned-css-grid-layout/
 
 https://www.youtube.com/watch?v=RSIclWvNTdQ
 
+### ColorZilla (Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies)
+
+https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp
+
 ### Code
 
-https://github.com/marcelosperalta/dci/blob/master/2003xx/css/style.css
+https://github.com/marcelosperalta/dci/blob/master/200316/css/style.css
