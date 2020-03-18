@@ -160,3 +160,6 @@ Folder **200316** (Class 16.03.2020)
 
 Folder **200317** (Class 17.03.2020)
 * HTML and CSS (position: relative, absolute...)
+
+Folder **200318** (Class 18.03.2020)
+* HTML and CSS (animation-timing-function)

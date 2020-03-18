@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  font-size: 16px;
+  --box-width: 3rem;
+  --box-color: green;
+}
+.box {
+  width: var(--box-width);
+  height: 2rem;
+  font-size: 2.5em;
+  color: var(--box-color);
+  position: relative;
+  animation-name: move-down;
+  animation-duration: 3s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes move-down {
+  from {
+    top: 0;
+    color: lawngreen;
+    background-color: orange;
+  }
+  to {
+    top: 150px;
+    color: midnightblue;
+    background-color: red;
+  }
+}
