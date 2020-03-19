@@ -10,6 +10,7 @@
 }
 body {
   display: flex;
+  /* flex-direction: column; */
 }
 .box {
   width: var(--box-width);
@@ -73,3 +74,45 @@ body {
     background-color: green;
   }
 }
+
+.box-up {
+  width: var(--box-width);
+  font-size: var(--box-width);
+  position: relative;
+  animation-name: up;
+  animation-iteration-count: infinite;
+  animation-duration: 3s;
+  animation-direction: alternate;
+}
+
+@keyframes up {
+  from {
+    top: 300px;
+  }
+  to {
+    top: 0;
+  }
+}
+
+.x-menu {
+  background-color: lightgray;
+  width: 4rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+  z-index: -1;
+}
+.line {
+  width: 3rem;
+  height: 0.4rem;
+  background-color: grey;
+  border-radius: 20%;
+}
+/*
+.line.one {
+}
+.lone.sec {
+}
+*/
