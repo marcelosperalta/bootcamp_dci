@@ -40,3 +40,36 @@ body {
     background-color: red;
   }
 }
+
+.size-change {
+  width: var(--box-width);
+  height: 2em;
+  border: 3px solid black;
+  position: relative;
+  animation-name: re-size;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes re-size {
+  0% {
+    width: calc(var(--box-width) * 1.5);
+    background-color: lawngreen;
+  }
+  25% {
+    width: calc(var(--box-width) * 2);
+    background-color: lawngreen;
+  }
+  50% {
+    width: calc(var(--box-width) * 2.5);
+    background-color: greenyellow;
+  }
+  75% {
+    width: calc(var(--box-width) * 3);
+    background-color: goldenrod;
+  }
+  100% {
+    width: calc(var(--box-width) * 3.5);
+    background-color: green;
+  }
+}
