@@ -171,4 +171,4 @@ Folder **200321** (21.03.2020)
 * HTML and CSS (exercise from class 19.03.2020 - "X mark")
 
 Folder **200323** (Class 23.03.2020)
-* HTML and CSS (overflow, script)
+* HTML and CSS (script, overflow, white-space)

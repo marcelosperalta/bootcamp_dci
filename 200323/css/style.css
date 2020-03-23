@@ -5,7 +5,7 @@
 }
 
 /* overflow */
-p {
+.p {
   width:                      3rem;
   height:                     3rem;
   background-color:   lightcoral;
@@ -27,6 +27,58 @@ p {
   background-color:         lime;
   width:                       50%;
   height:                     100%;
+}
+
+div {
+  display:           grid;
+  place-items:     center;
+}
+.image-1 {
+  width:            960px;
+  height:           420px;
+  clip-path:     polygon(
+                        /* horizontal  vertical */
+                           450px       300px,
+                           450px       210px,
+                           480px       250px,
+                           510px       210px,
+                           510px       300px,
+                           560px       300px,
+                           560px       150px,
+                           510px       150px,
+                           480px       190px,
+                           450px       150px,
+                           400px       150px,
+                           400px       300px
+                        );
+}
+.image-2 {
+  width:            280px;
+  height:           280px;
+  clip-path:     polygon(
+                          50% 0%,
+                          61% 35%,
+                          98% 35%,
+                          68% 57%,
+                          79% 91%,
+                          50% 70%,
+                          21% 91%,
+                          32% 57%,
+                          2% 35%,
+                          39% 35%
+                        );
+}
+
+.white-space-1 {
+  width:                25%;
+}
+.white-space-2 {
+  width:                25%;
+  white-space: break-spaces;
+}
+.white-space-3 {
+  width:                25%;
+  white-space:     pre-line;
 }
 
 /* use more header footer */

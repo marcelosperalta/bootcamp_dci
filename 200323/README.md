@@ -34,13 +34,25 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/white-space
 
 https://blog.px-lab.com/html-img-tag-vs-css-background-image/
 
-### clip-path
-
-https://bennettfeely.com/clippy/
-
 ### SVG
 
 https://developer.mozilla.org/en-US/docs/Web/SVG
+
+### CSS clip-path maker
+
+https://bennettfeely.com/clippy/
+
+### CSS clip-path-generator
+
+http://www.cssplant.com/clip-path-generator
+
+### How to make shapes with CSS
+
+https://www.youtube.com/watch?v=QY7Rj8aZcZk&t=173s
+
+### Exercise
+
+Creating a shape using "CSS clip-path maker" website and then using that shape in your HTML.
 
 ### Code
 
