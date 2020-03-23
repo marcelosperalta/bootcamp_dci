@@ -8,6 +8,10 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
 
+### script
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
+
 ### Code
 
 https://github.com/marcelosperalta/dci/blob/master/200323/index.html

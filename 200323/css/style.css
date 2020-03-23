@@ -1,32 +1,32 @@
 * {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
+  box-sizing:           border-box;
+  padding:                       0;
+  margin:                        0;
 }
 
 /* overflow */
 p {
-  width: 3rem;
-  height: 3rem;
-  background-color: lightcoral;
-  /* overflow: visible; */
-  /* overflow: hidden; */
-  /* overflow: auto; */
-  overflow: scroll;
-  white-space: normal;
-  overflow-wrap: normal;
+  width:                      3rem;
+  height:                     3rem;
+  background-color:   lightcoral;
+  /* overflow:                visible; */
+  /* overflow:                 hidden; */
+  /* overflow:                   auto; */
+  overflow:                 scroll;
+  white-space:              normal;
+  overflow-wrap:            normal;
 }
 
 /* %100 of the parent */
 .main {
-  width: 75vw;
-  height: 50vh;
+  width:                      75vw;
+  height:                     50vh;
   background-color: lightskyblue;
 }
 .box {
-  background-color: lime;
-  width: 50%;
-  height: 100%;
+  background-color:         lime;
+  width:                       50%;
+  height:                     100%;
 }
 
 /* use more header footer */
