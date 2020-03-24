@@ -47,10 +47,6 @@ https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_menu_icon
 
 https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_menu_icon_js
 
-### Exercise
-
-Turn the hamburger menu ("=") into a X mark ("x"). When the user hovers over the hamburger menu the lines should move around to look like X mark.
-
 ### Code
 
 https://github.com/marcelosperalta/dci/blob/master/200321/css/style.css
@@ -60,3 +56,8 @@ https://github.com/marcelosperalta/dci/blob/master/200321/css/style.css
 ### Code
 
 https://github.com/marcelosperalta/dci/blob/master/200321/js/index.js
+
+# Exercise
+
+Turn the hamburger menu ("=") into a X mark ("x");  
+When the user hovers over the hamburger menu the lines should move around to look like X mark.

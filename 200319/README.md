@@ -35,10 +35,11 @@ https://animista.net/
 
 https://codepen.io/search/pens?q=hamburger+menu+css&cursor=ZD0xJm89MCZwPTQ=
 
-### Exercise
-
-Turn the hamburger menu ("=") into a X mark ("x"). When the user hovers over the hamburger menu the lines should move around to look like X mark.
-
 ### Code
 
 https://github.com/marcelosperalta/dci/blob/master/200319/css/style.css
+
+# Exercise
+
+Turn the hamburger menu ("=") into a X mark ("x");  
+When the user hovers over the hamburger menu the lines should move around to look like X mark.
