@@ -50,10 +50,10 @@ http://www.cssplant.com/clip-path-generator
 
 https://www.youtube.com/watch?v=QY7Rj8aZcZk&t=173s
 
-### Exercise
-
-Creating a shape using "CSS clip-path maker" website and then using that shape in your HTML.
-
 ### Code
 
 https://github.com/marcelosperalta/dci/blob/master/200323/css/style.css
+
+# Exercise
+
+Creating a shape using "CSS clip-path maker" website and then using that shape in your HTML.
