@@ -8,15 +8,15 @@
 - You can  take some hamburger menu ideas from CodePen, only if you totally understand what in it, or you can build your own one;
 - Use the the pictures below and the background for this assignment.  
 
-![dcihtmlfullwebpage](./img/task_001_homepage.png)  
+![200320](./img/task_001_homepage.png)  
 
-![dcihtmlfullwebpage](./img/phone_001.png)  
+![200320](./img/phone_001.png)  
 
-![dcihtmlfullwebpage](./img/phone_002.png)  
+![200320](./img/phone_002.png)  
 
-![dcihtmlfullwebpage](./img/logo_001.png)  
+![200320](./img/logo_001.png)  
 
-![dcihtmlfullwebpage](./img/bg_001.jpg)
+![200320](./img/bg_001.jpg)
 
 ### CodePen "Hamburger Menu CSS"
 
@@ -28,6 +28,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Alignin
 
 ### Code
 
-https://github.com/marcelosperalta/dcihtmlfullwebpage/blob/master/index.html
+https://github.com/marcelosperalta/dci/blob/master/200320/index.html
 
-https://github.com/marcelosperalta/dcihtmlfullwebpage/tree/master/css/style.css
+https://github.com/marcelosperalta/dci/blob/master/200320/css/style.css
