@@ -30,6 +30,12 @@ https://github.com/marcelosperalta/dci/blob/master/200324/index.html
 
 https://github.com/marcelosperalta/dci/blob/master/200324/css/style.css
 
+# JavaScript
+
+### onclick
+
+https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onclick
+
 # Exercise
 
 Add "onclick" function (hide/show) on the hamburger menu on March 19's mobile app;  
