@@ -172,3 +172,6 @@ Folder **200321** (21.03.2020)
 
 Folder **200323** (Class 23.03.2020)
 * HTML and CSS (script, overflow, white-space)
+
+Folder **200324** (Class 24.03.2020)
+* HTML and CSS (script, onclick)

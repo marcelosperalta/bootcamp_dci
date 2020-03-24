@@ -1,0 +1,37 @@
+/*
+body {
+  background-color:              tomato;
+}
+*/
+
+/* click me button */
+#click {
+  padding:                         3rem;
+  font-size:                        2em;
+  text-align:                    center;
+  border-radius:                     5%;
+  background-color:         lightgray;
+  border:                          none;
+}
+#click:hover {
+  box-shadow: 0 12px 12px 0 gainsboro;
+  cursor:                      progress;
+  color:                        white;
+}
+#click:hover ::after {
+  content:                      "\00bb";
+}
+
+/* hide/show button */
+#box {
+  background-color:            tomato;
+  width:                           9rem;
+  height:                          9rem;
+}
+
+/* show me button */
+.cool {
+  background-color:            violet;
+  width:                           5rem;
+  height:                          5rem;
+}
