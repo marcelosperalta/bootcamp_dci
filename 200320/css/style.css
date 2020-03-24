@@ -40,7 +40,7 @@ body {
   padding-top:                           1.4em;
   font-weight: bolder;
 }
-.hamburguer {
+.hamburger {
   display:                                none;
   background-color:                    black;
   width:                                  35px;
@@ -149,7 +149,7 @@ p {
   .menu {
     display:                                none;
   }
- .hamburguer {
+ .hamburger {
     display:                               block;
     background-color:                    black;
     width:                                   15%;
