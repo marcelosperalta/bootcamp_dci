@@ -1,0 +1,287 @@
+body {
+  background-image:     url(../img/bg_001.jpg);
+  margin-top:                             50px;
+}
+.main-container {
+  margin:                               0 auto;
+  height:                                100vh;
+  width:                                  100%;
+}
+.center-container {
+  margin:                               0 auto;
+  height:                                 80vh;
+  width:                                  50vw;
+  position:                           relative;
+}
+.logo {
+  margin-left:                            auto;
+  margin-right:                           auto;
+  width:                                   20%;
+  position:                           absolute;
+  left:                                      0;
+}
+.menu {
+  position:                           absolute;
+  right:                                     0;
+  display:                                flex;
+}
+.menu-items {
+  padding:                                 1em;
+  padding-top:                           2.5em;
+  font-size:                              11px;
+  color:                               white;
+  font-family:    Arial, Helvetica, sans-serif;
+  font-weight:                            bold;
+}
+.menu-items:hover {
+  color:                    rgb(47, 194, 47);
+  cursor:                              pointer;
+  font-size:                              16px;
+  padding-top:                           1.4em;
+  font-weight: bolder;
+}
+.hamburguer {
+  display:                                none;
+  background-color:                    black;
+  width:                                  35px;
+  height:                                  5px;
+  margin:                                6px 0;
+}
+.text {
+  position:                           absolute;
+  top:                                     30%;
+  left:                                      0;
+  margin-left:                            auto;
+  margin-right:                           auto;
+  width:                                   49%;
+  font-family:    Arial, Helvetica, sans-serif;
+  font-size:                              16px;
+  color:                               white;
+}
+p {
+  font-size:                              13px;
+  padding-bottom:                          10%;
+}
+.buttons{
+  display:                                flex;
+}
+.button-1{
+  background-color:         rgb(47, 194, 47);
+  font-size:                              15px;
+  font-weight:                            bold;
+  padding:                                  4%;
+  padding-top:                              5%;
+  padding-left:                            10%;
+  padding-right:                           10%;
+  border-radius:                            5%;
+}
+.button-2{
+  padding:                                  2%;
+}
+.button-3 {
+  background-color:               dodgerblue;
+  font-size:                              15px;
+  font-weight:                            bold;
+  padding:                                  4%;
+  padding-top:                              5%;
+  padding-left:                            10%;
+  padding-right:                           10%;
+  border-radius:                            5%;
+}
+.link {
+  text-decoration:                        none;
+  color:                               white;
+}
+.images {
+  position:                           absolute;
+  top:                                     20%;
+  right:                                     0;
+  margin-left:                            auto;
+  margin-right:                           auto;
+  width:                                   30%;
+  font-family:    Arial, Helvetica, sans-serif;
+  font-size:                              16px;
+  color:                               white;
+}
+.phone-1 {
+  margin-left:                            auto;
+  margin-right:                           auto;
+  width:                                   90%;
+  position:                           absolute;
+  right:                                     0;
+}
+.phone-2 {
+  margin-left:                            auto;
+  margin-right:                           auto;
+  width:                                   90%;
+  position:                           absolute;
+  right:                                   41%;
+  padding-top:                              5%;
+}
+
+@media only screen and (max-width: 650px) {
+
+  body {
+    background-image:     url(../img/bg_001.jpg);
+    margin-top:                              25%;
+  }
+  .text {
+    position:                           absolute;
+    top:                                      5%;
+    left:                                      0;
+    margin-left:                            auto;
+    margin-right:                           auto;
+    width:                                   95%;
+    font-family:    Arial, Helvetica, sans-serif;
+    font-size:                              16px;
+    color:                               white;
+  }
+  h1 {
+    margin-top:                               10%;
+  }
+  .logo {
+    margin-left:                            auto;
+    margin-right:                           auto;
+    width:                                   30%;
+    position:                           absolute;
+    right:                                  -60%;
+  }
+  .menu {
+    display:                                none;
+  }
+ .hamburguer {
+    display:                               block;
+    background-color:                    black;
+    width:                                   15%;
+    height:                                  5px;
+    margin:                                5px 0;
+  }
+  .phone-1 {
+    display:                                none;
+  }
+  .phone-2 {
+    display:                                none;
+  }
+  .buttons{
+    display:                                flex;
+    flex-direction:                       column;
+  }
+  .button-1{
+    background-color:         rgb(47, 194, 47);
+    font-size:                              15px;
+    font-weight:                            bold;
+    text-align:                           center;
+  }
+  .button-2{
+    padding:                                  2%;
+  }
+  .button-3 {
+    background-color:               dodgerblue;
+    font-size:                              15px;
+    font-weight:                            bold;
+    text-align:                           center;
+  }
+
+}
+
+@media only screen and (min-width: 651px) and (max-width: 992px) {
+
+  body {
+    background-image:     url(../img/bg_001.jpg);
+    margin-top:                             30px;
+  }
+  .center-container {
+    margin:                               0 auto;
+    height:                                 80vh;
+    width:                                  60vw;
+    position:                           relative;
+  }
+  .logo {
+    margin-left:                            auto;
+    margin-right:                           auto;
+    width:                                   15%;
+    position:                           absolute;
+    left:                                      0;
+  }
+  .menu {
+    position:                           absolute;
+    right:                                     0;
+    display:                                flex;
+  }
+  .menu-items {
+    padding:                                 1em;
+    font-size:                               8px;
+    color:                               white;
+    font-family:    Arial, Helvetica, sans-serif;
+    font-weight:                            bold;
+  }
+  .menu-items:hover {
+    color:                    rgb(47, 194, 47);
+    font-size:                               8px;
+  }
+  .text {
+    position:                           absolute;
+    top:                                      5%;
+    left:                                      0;
+    margin-left:                            auto;
+    margin-right:                           auto;
+    width:                                   55%;
+    font-family:    Arial, Helvetica, sans-serif;
+    font-size:                              16px;
+    color:                               white;
+  }
+  h1 {
+    font-size:                              28px;
+  }
+  p {
+    font-size:                              10px;
+    padding-bottom:                          10%;
+  }
+  .images {
+    position:                           absolute;
+    top:                                     15%;
+    right:                                     0; 
+  }
+  .phone-1 {
+    margin-left:                            auto;
+    margin-right:                           auto;
+    width:                                   90%;
+    position:                           absolute;
+    right:                                     0;
+  }
+  .phone-2 {
+    margin-left:                            auto;
+    margin-right:                           auto;
+    width:                                   90%;
+    position:                           absolute;
+    right:                                   41%;
+    padding-top:                              5%;
+  }
+  .buttons{
+    display:                                flex;
+  }
+  .button-1{
+    background-color:         rgb(47, 194, 47);
+    font-size:                              11px;
+    font-weight:                            bold;
+    padding:                                  4%;
+    padding-top:                              5%;
+    padding-left:                             5%;
+    padding-right:                            5%;
+    border-radius:                            5%;
+  }
+  .button-2{
+    padding:                                  2%;
+  }
+  .button-3 {
+    background-color:               dodgerblue;
+    font-size:                              11px;
+    font-weight:                            bold;
+    padding:                                  4%;
+    padding-top:                              5%;
+    padding-left:                             5%;
+    padding-right:                            5%;
+    border-radius:                            5%;
+  }
+
+}
