@@ -167,6 +167,9 @@ Folder **200318** (Class 18.03.2020)
 Folder **200319** (Class 19.03.2020)
 * HTML and CSS (animation-direction, animation-fill-mode...)
 
+Folder **200320** (20.03.2020)
+* HTML and CSS (exercise from class 17.03.2020 - "Full Webpage")
+
 Folder **200321** (21.03.2020)
 * HTML and CSS (exercise from class 19.03.2020 - "X mark")
 
