@@ -28,8 +28,8 @@ https://github.com/marcelosperalta/dci/blob/master/200324/index.html
 
 ### Exercise
 
-Add "onclick" function (hide/show) on the hamburger menu on March 19's mobile app;
-Use some effects when the menu hides or shows (like "transition");
+Add "onclick" function (hide/show) on the hamburger menu on March 19's mobile app;  
+Use some effects when the menu hides or shows (like "transition");  
 The function is only for the mobile version of the app/website.
 
 ### Code
