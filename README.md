@@ -180,4 +180,4 @@ Folder **200324** (Class 24.03.2020)
 * HTML, CSS and JavaScript (script, onclick)
 
 Folder **200325** (Class 25.03.2020)
-* HTML, CSS and JavaScript (script, UI basics)
+* HTML, CSS and JavaScript (script, UI basics, WebKit CSS extensions)

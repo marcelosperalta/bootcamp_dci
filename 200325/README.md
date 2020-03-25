@@ -36,7 +36,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox
 
 https://github.com/marcelosperalta/dci/blob/master/200325/index.html
 
-https://github.com/marcelosperalta/dci/blob/master/200325/index.html
+https://github.com/marcelosperalta/dci/blob/master/200325/menu/menu.html
 
 # CSS
 
@@ -52,11 +52,15 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/appearance#Browser_compatibility
 
+### WebKit CSS extensions
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/WebKit_Extensions
+
 ### Code
 
 https://github.com/marcelosperalta/dci/blob/master/200325/css/style.css
 
-https://github.com/marcelosperalta/dci/blob/master/200325/css/style.css
+https://github.com/marcelosperalta/dci/blob/master/200325/menu/css/style.css
 
 # Exercise
 
