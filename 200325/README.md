@@ -52,6 +52,14 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/appearance#Browser_compatibility
 
+#### Browser rendering engines
+
+WebKit, --webkit, developed by Apple (safari, ios, BlackBerry, Amazon Kindle...)  
+  
+Gecko, --ms, developed by Mozilla (Firefox)  
+  
+Blink, developed by Google (Chrome, Edge, Opera....)
+
 ### WebKit CSS extensions
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/WebKit_Extensions
