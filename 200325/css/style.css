@@ -1,0 +1,60 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+form {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  border: 2px solid gray;
+  width: 50vw;
+  height: 50vh;
+  border-radius: 2%;
+}
+input {
+  width: 50%;
+}
+
+.coolStyle {
+  font-size: 3rem;
+  background-color: violet;
+  color: yellow;
+  border: 4px dashed black;
+}
+
+.menu1 {
+  display:                             flex;
+  background-color:        cornflowerblue;
+  margin:                              10px;
+  padding:                              5px;
+  border-radius:                        10%;
+  font-size:                           16px;
+  font-weight:                         bold;
+  color:                       whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color:                            white;
+  text-decoration:                     none;
+}
+
+/* Browser rendering engines */
+
+/* WebKit, --webkit developed by Apple (safari, ios, BlackBerry, Amazon Kindle,
+some times also chrome 🤨) */
+
+/* Gecko, --ms (Firefox)*/
+
+/* Blink, developed by Google (Chrome, Edge, Opera, and more */
+
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/appearance#Browser_compatibility */

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- css -->
+    <link rel="stylesheet" href="./css/style.css" />
+
+    <title>Nice Form Elements</title>
+
+  </head>
+
+  <body>
+
+    <form action="index.php" method="get" id="userForm">
+
+      Hi this is user form
+
+      <button onclick="fancy()">Make me Cool</button>
+
+      <input type="email" name="userEmail" id="1" />
+      <input type="password" name="pass" id="2" />
+
+      <label for="married">Married</label>
+      <input type="checkbox" name="married" id="married" />
+
+      <label for="male">Male</label>
+      <input type="radio" name="gender" id="male" />
+      <label for="female">Female</label>
+      <input type="radio" name="gender" id="female" />
+
+      <input type="submit" value="send" />
+      <input type="reset" value="clear" onclick="cleanUp()" />
+
+      <div class="menu1"><a href="./menu/menu.html">MENU</a></div>
+
+    </form>
+
+  </body>
+
+  <script>
+    const fancy = () => {
+      // userForm.style.backgroundColor = "pink";
+      // userForm.style.color = "red";
+      userForm.classList.add("coolStyle");
+      event.preventDefault();
+    };
+    const cleanUp = () => {
+      userForm.classList.remove("coolStyle");
+    };
+  </script>
+
+</html>

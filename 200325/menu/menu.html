@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- css -->
+    <link rel="stylesheet" href="./css/style.css" />
+
+    <title>Menu</title>
+
+  </head>
+
+  <body>
+
+    <button onclick="shMenu()">⎈</button>
+    <nav class="main-nav" id="menuBox">
+      <ul>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Call</a></li>
+      </ul>
+    </nav>
+
+    <script>
+      const shMenu = () => {
+        console.log("Hi, i am function");
+        // nav.style.display = "none";
+        if (menuBox.style.display == "none") {
+          menuBox.style.display = "block";
+        } else {
+          menuBox.style.display = "none";
+        }
+      };
+    </script>
+
+  </body>
+
+</html>
