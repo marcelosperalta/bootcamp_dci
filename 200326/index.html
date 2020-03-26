@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Google Web Fonts -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- css -->
+    <link rel="stylesheet" href="./css/style.css" />
+
+    <title>Drop-down menu</title>
+
+  </head>
+
+  <body>
+
+    <div class="dropdown">
+
+      <div class="items" id="about">
+        <button  id="shBtn" class="shBtn" onclick="hideShowAbout()">
+        About
+        <span id="span1" class="material-icons">arrow_drop_down_circle</span>
+        </button>
+      </div>
+
+      <div class="items" id="services">
+        <button  id="shBtn" class="shBtn" onclick="hideShowServices()">
+        Services
+        <span id="span2" class="material-icons">arrow_drop_down_circle</span>
+      </button>
+      </div>
+
+      <div class="items" id="topPicks">
+        <button  id="shBtn" class="shBtn" onclick="hideShowTopPicks()">
+        Top Picks
+        <span class="material-icons">arrow_drop_down_circle</span>
+      </button>
+      </div>
+    </div>
+
+    <div class="menus">
+
+    <div id="menuAbout1" class="menuAbout">
+      <div id="menuAboutSub"><div class="text">Florists</div></div>
+      <div id="menuAboutSub"><div class="text">Meet the team</div></div>
+      <div id="menuAboutSub"><div class="text">Careers</div></div>
+    </div>
+
+    <div id="menuServices1" class="menuServices">
+      <div id="menuServicesSub1"><div class="text">Pick your flowers</div></div>
+      <div id="menuServicesSub"><div class="text">Custom packing</div></div>
+      <div id="menuServicesSub"><div class="text">Same day delivery</div></div>
+    </div>
+
+    </div>
+
+  </body>
+
+  <script>
+    function hideShowAbout() {
+      if (menuAbout1.style.display == "none") {
+          menuAbout1.style.display = "block";
+          about.style.backgroundColor = "blueviolet";
+          span1.style.backgroundColor = "blueviolet";
+          // menuAboutSub.style.zIndex = "1";
+          // menuAboutSub.style.position = "absolute";
+          // menuServices.style.zIndex = "none";
+          // menuServicesSub1.style.flexDirection = "column";
+          // menuServicesSub2.style.display = "none";
+          // menuServicesSub3.style.display = "none";
+      } else {
+          menuAbout1.style.display = "none";
+          about.style.backgroundColor = "black";
+          span1.style.backgroundColor = "black";
+          // menuServices.style.display = "none";
+      }
+    }
+  </script>
+
+  <script>
+    function hideShowServices() {
+      if (menuServices1.style.display == "none") {
+          menuServices1.style.display = "block";
+          services.style.backgroundColor = "blueviolet";
+          span2.style.backgroundColor = "blueviolet";
+      } else {
+          menuServices1.style.display = "none";
+          services.style.backgroundColor = "black";
+          span2.style.backgroundColor = "black";
+      }
+    }
+  </script>
+
+  <script>
+    function hideShowTopPicks() {
+      if (menuServices1.style.display == "none") {
+          menuServices1.style.display = "block";
+          services.style.backgroundColor = "blueviolet";
+          span2.style.backgroundColor = "blueviolet";
+      } else {
+          menuServices1.style.display = "none";
+          services.style.backgroundColor = "black";
+          span2.style.backgroundColor = "black";
+      }
+    }
+  </script>
+
+</html>
