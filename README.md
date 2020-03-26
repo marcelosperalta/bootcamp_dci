@@ -182,5 +182,5 @@ Folder **200324** (Class 24.03.2020)
 Folder **200325** (Class 25.03.2020)
 * HTML, CSS and JavaScript (script, UI basics, WebKit CSS extensions)
 
-Folder **200326** (Class 26.03.2020)
+Folder **[200326](https://github.com/marcelosperalta/dci/tree/master/200326)** (Class 26.03.2020)
 * HTML, CSS and JavaScript (drop-down menu)
