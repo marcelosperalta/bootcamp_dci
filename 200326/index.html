@@ -21,73 +21,145 @@
 
     <div class="dropdown">
 
-      <div class="items" id="about">
+      <div class="menu-items" id="about" display="none">
         <button  id="shBtn" class="shBtn" onclick="hideShowAbout()">
         About
         <span id="span1" class="material-icons">arrow_drop_down_circle</span>
         </button>
       </div>
 
-      <div class="items" id="services">
+      <div class="menu-items" id="services">
         <button  id="shBtn" class="shBtn" onclick="hideShowServices()">
         Services
         <span id="span2" class="material-icons">arrow_drop_down_circle</span>
       </button>
       </div>
 
-      <div class="items" id="topPicks">
+      <div class="menu-items" id="topPicks">
         <button  id="shBtn" class="shBtn" onclick="hideShowTopPicks()">
         Top Picks
-        <span class="material-icons">arrow_drop_down_circle</span>
+        <span id="span3"  class="material-icons">arrow_drop_down_circle</span>
       </button>
       </div>
     </div>
 
-    <div class="menus">
+    <div class="sub-menus">
 
-    <div id="menuAbout1" class="menuAbout">
-      <div id="menuAboutSub"><div class="text">Florists</div></div>
-      <div id="menuAboutSub"><div class="text">Meet the team</div></div>
-      <div id="menuAboutSub"><div class="text">Careers</div></div>
-    </div>
+      <div id="menuAbout1" class="menuAbout">
+        <div id="menuAboutSub">
+          <div class="textMenuAbout">
+            <a href="./html/maintenance.html">Florists</a>
+          </div>
+        </div>
 
-    <div id="menuServices1" class="menuServices">
-      <div id="menuServicesSub1"><div class="text">Pick your flowers</div></div>
-      <div id="menuServicesSub"><div class="text">Custom packing</div></div>
-      <div id="menuServicesSub"><div class="text">Same day delivery</div></div>
-    </div>
+        <div id="menuAboutSub">
+          <div class="textMenuAbout">
+            <a href="./html/maintenance.html">Meet the team</a>
+          </div>
+        </div>
+
+        <div id="menuAboutSub">
+          <div class="textMenuAbout">
+            <a href="./html/maintenance.html">Careers</a>
+          </div>
+        </div>
+      </div>
+
+
+      <div id="menuServices1" class="menuServices">
+        <div id="menuServicesSub">
+          <div class="textMenuServices">
+            <a href="./html/maintenance.html">Pick your flowers</a>
+          </div>
+        </div>
+
+        <div id="menuServicesSub">
+          <div class="textMenuServices">
+            <a href="./html/maintenance.html">Custom packing</a>
+          </div>
+        </div>
+
+        <div id="menuServicesSub">
+          <div class="textMenuServices">
+            <a href="./html/maintenance.html">Same day delivery</a>
+          </div>
+        </div>
+      </div>
+
+      <div id="menuTopPicks1" class="menuTopPicks">
+        <div id="menuTopPicksSub">
+          <div class="textMenuTopPicks">
+            <a href="./html/maintenance.html">Tulip</a>
+          </div>
+        </div>
+        
+        <div id="menuTopPicksSub">
+          <div class="textMenuTopPicks">
+            <a href="./html/maintenance.html">Rose</a>
+          </div>
+        </div>
+
+        <div id="menuTopPicksSub">
+          <div class="textMenuTopPicks">
+            <a href="./html/maintenance.html">Geranium</a>
+          </div>
+        </div>
+      </div>
 
     </div>
 
   </body>
 
+  <!-- menu drop-down "About" -->
   <script>
     function hideShowAbout() {
-      if (menuAbout1.style.display == "none") {
+
+      // disable dropdown "Services"
+      menuServices1.style.display = "none";
+      services.style.backgroundColor = "black";
+      span2.style.backgroundColor = "black";
+
+      // disable dropdown "Top Picks"
+      menuTopPicks1.style.display = "none";
+      topPicks.style.backgroundColor = "black";
+      span3.style.backgroundColor = "black";
+
+      // show "About" sub-items
+      if (menuAbout1.style.display == "" || menuAbout1.style.display == "none") {
           menuAbout1.style.display = "block";
           about.style.backgroundColor = "blueviolet";
           span1.style.backgroundColor = "blueviolet";
-          // menuAboutSub.style.zIndex = "1";
-          // menuAboutSub.style.position = "absolute";
-          // menuServices.style.zIndex = "none";
-          // menuServicesSub1.style.flexDirection = "column";
-          // menuServicesSub2.style.display = "none";
-          // menuServicesSub3.style.display = "none";
+      
+      // hide "About" sub-items
       } else {
           menuAbout1.style.display = "none";
           about.style.backgroundColor = "black";
           span1.style.backgroundColor = "black";
-          // menuServices.style.display = "none";
       }
     }
   </script>
 
+  <!-- menu drop-down "Services" -->
   <script>
-    function hideShowServices() {
-      if (menuServices1.style.display == "none") {
+    function hideShowServices(a) {
+
+      // disable dropdown "About"
+      menuAbout1.style.display = "none";
+      about.style.backgroundColor = "black";
+      span1.style.backgroundColor = "black";
+
+      // disable dropdown "Top Picks"
+      menuTopPicks1.style.display = "none";
+      topPicks.style.backgroundColor = "black";
+      span3.style.backgroundColor = "black";
+
+      // show "Services" sub-items
+      if (menuServices1.style.display == "" || menuServices1.style.display == "none") {
           menuServices1.style.display = "block";
           services.style.backgroundColor = "blueviolet";
           span2.style.backgroundColor = "blueviolet";
+
+      // hide "Services" sub-items
       } else {
           menuServices1.style.display = "none";
           services.style.backgroundColor = "black";
@@ -96,16 +168,31 @@
     }
   </script>
 
+  <!-- menu drop-down "Top Picks" -->
   <script>
     function hideShowTopPicks() {
-      if (menuServices1.style.display == "none") {
-          menuServices1.style.display = "block";
-          services.style.backgroundColor = "blueviolet";
-          span2.style.backgroundColor = "blueviolet";
+
+      // disable dropdown "About"
+      menuAbout1.style.display = "none";
+      about.style.backgroundColor = "black";
+      span1.style.backgroundColor = "black";
+
+      // disable dropdown "Services"
+      menuServices1.style.display = "none";
+      services.style.backgroundColor = "black";
+      span2.style.backgroundColor = "black";
+
+      // show "Top Picks" sub-items
+      if (menuTopPicks1.style.display == "" || menuTopPicks1.style.display == "none") {
+          menuTopPicks1.style.display = "block";
+          topPicks.style.backgroundColor = "blueviolet";
+          span3.style.backgroundColor = "blueviolet";
+
+      // hide "Top Picks" sub-items
       } else {
-          menuServices1.style.display = "none";
-          services.style.backgroundColor = "black";
-          span2.style.backgroundColor = "black";
+          menuTopPicks1.style.display = "none";
+          topPicks.style.backgroundColor = "black";
+          span3.style.backgroundColor = "black";
       }
     }
   </script>

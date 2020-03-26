@@ -31,6 +31,10 @@
 
 https://en.wikipedia.org/wiki/Drop-down_list
 
+### Finite-state machine
+
+https://en.wikipedia.org/wiki/Finite-state_machine
+
 ### Code
 
 https://github.com/marcelosperalta/dci/blob/master/200326/index.html
