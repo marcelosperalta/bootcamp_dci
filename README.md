@@ -167,13 +167,13 @@ Folder **200318** (Class 18.03.2020)
 Folder **200319** (Class 19.03.2020)
 * HTML and CSS (animation-direction, animation-fill-mode...)
 
-Folder **200320** (20.03.2020)
+Folder **[200320](https://github.com/marcelosperalta/dci/tree/master/200320)** (20.03.2020)
 * HTML and CSS (exercise from class 17.03.2020 - "Full Webpage")
 
-Folder **200321** (21.03.2020)
+Folder **[200321](https://github.com/marcelosperalta/dci/tree/master/200321)** (21.03.2020)
 * HTML and CSS (exercise from class 19.03.2020 - "X mark")
 
-Folder **200323** (Class 23.03.2020)
+Folder **[200323](https://github.com/marcelosperalta/dci/tree/master/200323)** (Class 23.03.2020)
 * HTML and CSS (script, overflow, white-space)
 
 Folder **[200324](https://github.com/marcelosperalta/dci/tree/master/200324)** (Class 24.03.2020)
