@@ -149,13 +149,13 @@ Folder **200309** (Class 09.03.2020)
 Folder **200310** (Class 10.03.2020)
 * HTML and CSS (flexbox)
 
-Folder **200311** (Class 11.03.2020)
+Folder **[200311](https://github.com/marcelosperalta/dci/tree/master/200311)** (Class 11.03.2020)
 * HTML and CSS ("YouTube" exercise)
 
-Folder **200312** (Class 12.03.2020)
+Folder **[200312](https://github.com/marcelosperalta/dci/tree/master/200312)** (Class 12.03.2020)
 * HTML and CSS (Media queries and freeCodeCamp HTML and CSS basics)
 
-Folder **200316** (Class 16.03.2020)
+Folder **[200316](https://github.com/marcelosperalta/dci/tree/master/200316)** (Class 16.03.2020)
 * HTML and CSS (Grid)
 
 Folder **[200317](https://github.com/marcelosperalta/dci/tree/master/200317)** (Class 17.03.2020)
