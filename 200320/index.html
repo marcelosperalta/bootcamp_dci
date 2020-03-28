@@ -20,7 +20,9 @@
       <div class="center-container">
 
         <div class="a">
+
           <img class="logo" src="./img/logo_001.png" alt="logo">
+
           <div class="menu">
             <div class="menu-items">PRODUCTS</div>
             <div class="menu-items">PRICES</div>
@@ -29,16 +31,31 @@
             <div class="menu-items">LOGIN</div>
             <div class="menu-items">SIGN UP</div>
           </div>
-          <div class="hamburger-nav">
-            <div class="hamburger"></div>
-            <div class="hamburger"></div>
-            <div class="hamburger"></div>
+
+          <div class="wrapper">
+            <button  id="shBtn" class="shBtn" onclick="hideShow()">
+            Menu
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
           </div>
+
+          <div id="menuTwoScript" class="menuTwo" onclick="">
+            <div class="menuTwoSub" onclick="">PRODUCTS</div>
+            <div class="menuTwoSub" onclick="">PRICES</div>
+            <div class="menuTwoSub" onclick="">BLOG</div>
+            <div class="menuTwoSub" onclick="">TEAM</div>
+            <div class="menuTwoSub" onclick="">LOGIN</div>
+            <div class="menuTwoSub" onclick="">SIGN UP</div>
+          </div>
+
         </div>
 
         <div class="text">
 
-          <h1 class=>Make your Startup web with our template,</h1>
+          <h1>Make your Startup web with our template,</h1>
+
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
             Quas mollitia quidem, ducimus optio possimus dolore 
             voluptatibus sed quibusdam obcaecati. At ullam accusantium 
@@ -70,6 +87,23 @@
 
     </div>
 
+    <footer>
+      <p>2020 Marcelo Soares Peralta</p>
+    </footer>
+
   </body>
+
+  <script>
+    function hideShow() {
+
+      if (menuTwoScript.style.display == "" || menuTwoScript.style.display == "none") {
+          menuTwoScript.style.display = "block";
+
+      } else {
+          menuTwoScript.style.display = "none";
+      }
+      
+    }
+  </script>
 
 </html>

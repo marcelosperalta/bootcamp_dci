@@ -26,6 +26,10 @@ https://codepen.io/search/pens?q=hamburger+menu+css&cursor=ZD0xJm89MCZwPTQ=
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Aligning_Items_in_a_Flex_Container
 
+### CSS :hover not working on iOS Safari and Chrome
+
+https://stackoverflow.com/questions/35187970/css-hover-not-working-on-ios-safari-and-chrome
+
 ### Code
 
 https://github.com/marcelosperalta/dci/blob/master/200320/index.html
