@@ -1,0 +1,66 @@
+* {
+  padding:                              5px;
+  margin:                               5px;
+  box-sizing:                    border-box;
+}
+
+div {
+  display:                             grid;
+  place-items:                       center;
+}
+.a {
+  border:                   5px solid red;
+  width:                                50%;
+  height:                              25vh;
+}
+.b {
+  border:                 5px solid green;
+  width:                                50%;
+  height:                              25vh;
+}
+.c {
+  border:                  5px solid blue;
+  width:                                50%;
+  height:                              25vh;
+}
+
+#button1 {
+  background-color:             Transparent;
+  background-repeat:              no-repeat;
+  border:                              none;
+  cursor:                           pointer;
+  overflow:                          hidden;
+  outline:                             none;
+}
+
+/* dark mode / light mode checkbox        */
+input[type="checkbox"] {
+  display:                             none;
+}
+input[type="checkbox"] + label::before {
+  width:                               15px;
+  height:                              15px;
+  border:                 3px solid   red;
+  background-color:                  #fff;
+  display:                            block;
+  content:                               "";
+  float:                               left;
+  margin-right:                         5px;
+  /* border-radius:                       15px; */
+}
+input[type="checkbox"]:checked+label::before {
+  box-shadow:  inset 0px 0px 0px 3px #fff;
+  background-color:                   red;
+}
+label {
+  font-weight:                         bold;
+  font-size:                           20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color:                             blue;
+}
+
+/* make me black / make me white button  */
+/* 
+.black {
+  background-color:                    #000;
+} */

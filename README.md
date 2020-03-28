@@ -184,3 +184,6 @@ Folder **[200325](https://github.com/marcelosperalta/dci/tree/master/200325)** (
 
 Folder **[200326](https://github.com/marcelosperalta/dci/tree/master/200326)** (Class 26.03.2020)
 * HTML, CSS and JavaScript (drop-down menu)
+
+Folder **[200328](https://github.com/marcelosperalta/dci/tree/master/200328)** (28.03.2020)
+* HTML, CSS and JavaScript (exercise from class 25.03.2020 - "Dark Theme checkbox")
