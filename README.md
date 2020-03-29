@@ -30,7 +30,7 @@ Folder **200108** (Class 08.01.2020)
 * JavaScript (Math object and Exercises) and Terminal (nodemon)
 
 Folder **200109** (Class 09.01.2020)
-* JavaScript (Math object, typeof, and or, isNaN and Exercises)
+* JavaScript (Math object, typeof, AND/OR, isNaN and Exercises)
 
 Folder **200113** (Class 13.01.2020)
 * JavaScript (toFixed, and or, substring and Exercises)
@@ -92,7 +92,7 @@ Folder **200212** (Class 12.02.2020)
 Folder **200213** (Class 13.02.2020)
 * JavaScript (try...catch, throw, call function several times, setTimeout() and Exercises)
 
-Folder **200216** (16.02.2020)
+Folder **200216** (Homework 16.02.2020)
 * JavaScript (Exercises from 06.01.2020 to 13.02.2020 - 139 exercises)
 
 Folder **200217** (Test 17.02.2020)
@@ -119,17 +119,17 @@ Folder **200226** (Class 26.02.2020)
 Folder **200227** (Class 26.02.2020)
 * HTML (link to other html files) and CSS (box-sizing and position)
 
-Folder **200229** (29.02.2020)
-* HTML and CSS (exercise from class 25.02.2020 - "Generic Webpage")
+Folder **200229** (Homework 29.02.2020)
+* HTML and CSS (Exercise from class 25.02.2020 - "Generic Webpage")
 
-Folder **200301** (01.03.2020)
-* HTML and CSS (exercise from class 26.02.2020 - "Wikipedia Article")
+Folder **200301** (Homework 01.03.2020)
+* HTML and CSS (Exercise from class 26.02.2020 - "Wikipedia Article")
 
 Folder **200302** (Class 02.03.2020)
 * HTML and CSS (Selectors, Pseudo-classes and Pseudo-elements)
 
-Folder **200303** (03.03.2020)
-* HTML and CSS (exercise from class 02.03.2020 - "Periodic Table")
+Folder **200303** (Homework 03.03.2020)
+* HTML and CSS (Exercise from class 02.03.2020 - "Periodic Table")
 
 Folder **200304** (Class 04.03.2020)
 * HTML and CSS (Selectors, Pseudo-classes and Pseudo-elements)
@@ -137,16 +137,16 @@ Folder **200304** (Class 04.03.2020)
 Folder **200305** (Class 05.03.2020)
 * HTML and CSS (background-clip)
 
-Folder **200306** (06.03.2020)
-* HTML and CSS (exercise from class 04.03.2020 - "Checkers")
+Folder **[200306](https://github.com/marcelosperalta/dci/tree/master/200306)** (Homework 06.03.2020)
+* HTML and CSS (Exercise from class 04.03.2020 - "Checkers")
 
-Folder **200307** (07.03.2020)
-* HTML and CSS (exercise from class 05.03.2020 - "Sky")
+Folder **[200307](https://github.com/marcelosperalta/dci/tree/master/200307)** (Homework 07.03.2020)
+* HTML and CSS (Exercise from class 05.03.2020 - "Sky")
 
-Folder **200309** (Class 09.03.2020)
+Folder **[200309](https://github.com/marcelosperalta/dci/tree/master/200309)** (Class 09.03.2020)
 * HTML and CSS (@font-face, font-family, font-style, font-size, font-variant)
 
-Folder **200310** (Class 10.03.2020)
+Folder **[200310](https://github.com/marcelosperalta/dci/tree/master/200310)** (Class 10.03.2020)
 * HTML and CSS (flexbox)
 
 Folder **[200311](https://github.com/marcelosperalta/dci/tree/master/200311)** (Class 11.03.2020)
@@ -167,11 +167,11 @@ Folder **[200318](https://github.com/marcelosperalta/dci/tree/master/200318)** (
 Folder **[200319](https://github.com/marcelosperalta/dci/tree/master/200319)** (Class 19.03.2020)
 * HTML and CSS (animation-direction, animation-fill-mode...)
 
-Folder **[200320](https://github.com/marcelosperalta/dci/tree/master/200320)** (20.03.2020)
+Folder **[200320](https://github.com/marcelosperalta/dci/tree/master/200320)** (Homework 20.03.2020)
 * HTML and CSS (exercise from class 17.03.2020 - "Full Webpage")
 
-Folder **[200321](https://github.com/marcelosperalta/dci/tree/master/200321)** (21.03.2020)
-* HTML and CSS (exercise from class 19.03.2020 - "X mark")
+Folder **[200321](https://github.com/marcelosperalta/dci/tree/master/200321)** (Homework 21.03.2020)
+* HTML and CSS (Exercise from class 19.03.2020 - "X mark")
 
 Folder **[200323](https://github.com/marcelosperalta/dci/tree/master/200323)** (Class 23.03.2020)
 * HTML and CSS (script, overflow, white-space)
@@ -185,5 +185,5 @@ Folder **[200325](https://github.com/marcelosperalta/dci/tree/master/200325)** (
 Folder **[200326](https://github.com/marcelosperalta/dci/tree/master/200326)** (Class 26.03.2020)
 * HTML, CSS and JavaScript (drop-down menu)
 
-Folder **[200328](https://github.com/marcelosperalta/dci/tree/master/200328)** (28.03.2020)
-* HTML, CSS and JavaScript (exercise from class 25.03.2020 - "Dark Theme checkbox")
+Folder **[200328](https://github.com/marcelosperalta/dci/tree/master/200328)** (Homework 28.03.2020)
+* HTML, CSS and JavaScript (Exercise from class 25.03.2020 - "Dark Theme checkbox")
