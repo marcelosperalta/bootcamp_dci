@@ -108,10 +108,10 @@ Folder **200220** (Class 20.02.2020)
 * JavaScript (GitHub, git and Exercises)
 
 Folder **200224** (Class 24.02.2020)
-* HTML and CSS
+* HTML and CSS (nav, a, img, form, input)
 
 Folder **200225** (Class 25.02.2020)
-* HTML and CSS
+* HTML and CSS (li, table, form, input)
 
 Folder **200226** (Class 26.02.2020)
 * HTML and CSS (CSS basic box model)
@@ -128,13 +128,13 @@ Folder **200301** (Homework 01.03.2020)
 Folder **200302** (Class 02.03.2020)
 * HTML and CSS (Selectors, Pseudo-classes and Pseudo-elements)
 
-Folder **200303** (Homework 03.03.2020)
+Folder **[200303](https://github.com/marcelosperalta/dci/tree/master/200303)** (Homework 03.03.2020)
 * HTML and CSS (Exercise from class 02.03.2020 - "Periodic Table")
 
-Folder **200304** (Class 04.03.2020)
+Folder **[200304](https://github.com/marcelosperalta/dci/tree/master/200304)** (Class 04.03.2020)
 * HTML and CSS (Selectors, Pseudo-classes and Pseudo-elements)
 
-Folder **200305** (Class 05.03.2020)
+Folder **[200305](https://github.com/marcelosperalta/dci/tree/master/200305)** (Class 05.03.2020)
 * HTML and CSS (background-clip)
 
 Folder **[200306](https://github.com/marcelosperalta/dci/tree/master/200306)** (Homework 06.03.2020)
