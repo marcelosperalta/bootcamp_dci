@@ -86,16 +86,16 @@ Folder **200210** (Class 10.02.2020)
 Folder **200211** (Class 11.02.2020)
 * JavaScript (Nested Arrays, Nested Loops, map, forEach, for...in, for...of, Objects and Exercises)
 
-Folder **200212** (Class 12.02.2020)
+Folder **[200212](https://github.com/marcelosperalta/dci/tree/master/200212)** (Class 12.02.2020)
 * JavaScript (get, set, constructor, new operator, class, extends, arrays and Exercises)
 
-Folder **200213** (Class 13.02.2020)
+Folder **[200213](https://github.com/marcelosperalta/dci/tree/master/200213)** (Class 13.02.2020)
 * JavaScript (try...catch, throw, call function several times, setTimeout() and Exercises)
 
-Folder **200216** (Homework 16.02.2020)
+Folder **[200216](https://github.com/marcelosperalta/dci/tree/master/200216)** (Homework 16.02.2020)
 * JavaScript (Exercises from 06.01.2020 to 13.02.2020 - 139 exercises)
 
-Folder **200217** (Test 17.02.2020)
+Folder **[200217](https://github.com/marcelosperalta/dci/tree/master/200217)** (Test 17.02.2020)
 * JavaScript (Test - 9 exercises)
 
 Folder **[200218](https://github.com/marcelosperalta/dci/tree/master/200218)** (Class 18.02.2020)
