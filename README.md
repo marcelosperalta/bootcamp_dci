@@ -98,25 +98,25 @@ Folder **200216** (Homework 16.02.2020)
 Folder **200217** (Test 17.02.2020)
 * JavaScript (Test - 9 exercises)
 
-Folder **200218** (Class 18.02.2020)
+Folder **[200218](https://github.com/marcelosperalta/dci/tree/master/200218)** (Class 18.02.2020)
 * JavaScript (GitHub, git and Exercises)
 
-Folder **200219** (Class 19.02.2020)
+Folder **[200219](https://github.com/marcelosperalta/dci/tree/master/200219)** (Class 19.02.2020)
 * JavaScript (GitHub, git and Exercises)
 
-Folder **200220** (Class 20.02.2020)
+Folder **[200220](https://github.com/marcelosperalta/dci/tree/master/200220)** (Class 20.02.2020)
 * JavaScript (GitHub, git and Exercises)
 
-Folder **200224** (Class 24.02.2020)
+Folder **[200224](https://github.com/marcelosperalta/dci/tree/master/200224)** (Class 24.02.2020)
 * HTML and CSS (nav, a, img, form, input)
 
-Folder **200225** (Class 25.02.2020)
+Folder **[200225](https://github.com/marcelosperalta/dci/tree/master/200225)** (Class 25.02.2020)
 * HTML and CSS (li, table, form, input)
 
-Folder **200226** (Class 26.02.2020)
+Folder **[200226](https://github.com/marcelosperalta/dci/tree/master/200226)** (Class 26.02.2020)
 * HTML and CSS (CSS basic box model)
 
-Folder **200227** (Class 26.02.2020)
+Folder **[200227](https://github.com/marcelosperalta/dci/tree/master/200227)** (Class 26.02.2020)
 * HTML (link to other html files) and CSS (box-sizing and position)
 
 Folder **[200229](https://github.com/marcelosperalta/dci/tree/master/200229)** (Homework 29.02.2020)
