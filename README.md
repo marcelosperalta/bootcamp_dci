@@ -80,7 +80,7 @@ Folder **[200205](https://github.com/marcelosperalta/dci/tree/master/200205)** (
 Folder **[200206](https://github.com/marcelosperalta/dci/tree/master/200206)** (Class 06.02.2020)
 * JavaScript (Chrome DevTools Console, Functions, Array and Exercises)
 
-Folder **[200210](https://github.com/marcelosperalta/dci/tree/master/200211)** (Class 10.02.2020)
+Folder **[200210](https://github.com/marcelosperalta/dci/tree/master/200210)** (Class 10.02.2020)
 * JavaScript (Shallow Copy, Deep Copy, Factorial, Recursion, Console, and Exercises)
 
 Folder **[200211](https://github.com/marcelosperalta/dci/tree/master/200211)** (Class 11.02.2020)
