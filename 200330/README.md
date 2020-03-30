@@ -22,4 +22,25 @@ https://getbootstrap.com/
 
 https://getbootstrap.com/docs/4.4/getting-started/introduction/  
 
-https://getbootstrap.com/docs/4.4/components/alerts/
+https://getbootstrap.com/docs/4.4/components/alerts/  
+
+#### **Other Open-Source-CSS-Framework**
+
+**Bulma**  
+https://bulma.io/  
+
+**Foundation**  
+https://get.foundation/
+
+**Pure**  
+https://purecss.io/  
+https://github.com/pure-css/pure-site/blob/master/LICENSE.md
+
+### 15 Best CSS Frameworks for Developers in 2020
+
+https://www.mockplus.com/blog/post/css-framework
+
+# Exercise
+
+Build a random webpage using Bootstrap;  
+Create a GitHub repository and enable GitHub Pages functionality.

@@ -5,10 +5,7 @@
   <head>
 
     <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
     <!-- Bootstrap CSS -->
     <link
@@ -19,7 +16,10 @@
     />
 
     <!-- my own css -->
-    <link rel="stylesheet" href="./css/style.css" />
+    <link 
+      rel="stylesheet" 
+      href="./css/style.css" 
+    />
 
     <title>Bootstrap</title>
 
@@ -27,21 +27,277 @@
 
   <body>
 
+    <!-- Bootstrap Navbar -->
+    <!-- https://getbootstrap.com/docs/4.4/components/navbar/ -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#">Navbar</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" 
+      data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
+      aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Link</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" 
+            role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Dropdown
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">Action</a>
+              <a class="dropdown-item" href="#">Another action</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Something else here</a>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+          </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+    </nav>
+
+    <br>
+
+    <!-- Bootstrap "container" has 12 columns -->
+    <!-- https://getbootstrap.com/docs/4.4/layout/grid/#how-it-works -->
     <div class="container">
       Hi, I am Bootstrap
     </div>
 
-    <div class="card" style="width: 18rem;">
-      <img src="./img/tree.jpg" class="card-img-top" alt="Tree pic" />
-      <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
-        </p>
+    <br>
+
+    <!-- Bootstrap Cards -->
+    <!-- https://getbootstrap.com/docs/4.4/components/card/ -->
+    <div class="container">
+      <div class="card" style="width: 18rem;">
+        <img src="./img/tree.jpg" class="card-img-top" alt="Tree pic" />
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">
+            Some quick example text to build on the card title and make up the
+            bulk of the card's content.
+          </p>
+        </div>
       </div>
     </div>
 
+    <br>
+
+    <!-- Bootstrap "container" has 12 columns -->
+    <!-- https://getbootstrap.com/docs/4.4/layout/grid/#how-it-works -->
+    <!-- Bootstrap "text 1" has 2 columns -->
+    <!-- Bootstrap "text 2" has 8 columns -->
+    <!-- Bootstrap "text 3" has 2 columns -->
+    <div class="container">
+      <br>
+      <div class="row">
+        <div class="col">
+          This is text 1
+        </div>
+        <div class="col-8">
+          This is text 2
+        </div>
+        <div class="col">
+          This is text 3
+        </div>
+      </div>
+      <br>
+    </div>
+
+    <br>
+
+    <!-- <hr>: The Thematic Break (Horizontal Rule) element -->
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr -->
+    <hr>
+
+    <br>
+
+    <!-- Bootstrap Typography -->
+    <!-- https://getbootstrap.com/docs/4.4/migration/#typography -->
+    <!-- Full Emoji List, v13.0 -->
+    <!-- https://unicode.org/emoji/charts/full-emoji-list.html -->
+    <div class="container">
+      <h1 class="page-header">
+        Hey, Welcome to my Page
+        <small>learn more about me 😀</small>
+      </h1>
+      <p class="lead">
+        this is nothing but text
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Laborum enim dolores, obcaecati unde libero minima.
+      </p>
+    </div>
+
+    <br>
+
+    <!-- <hr>: The Thematic Break (Horizontal Rule) element -->
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr -->
+    <hr>
+
+    <br>
+
+    <!-- aliment: left, center, right, justify, nowrap ... -->
+    <div class="container">
+      <p class="text-right">
+        text right
+      </p>
+      <p class="text-center">
+        text center
+      </p>
+      <!-- capitalize, lowercase, uppercase ... -->
+      <p class="text-center text-capitalize">
+        capitalize text
+      </p>
+      <p class="text-center text-uppercase">
+        uppercase text
+      </p>
+    </div>
+
+    <br>
+
+    <div class="container">
+      <br>
+      <!-- float -->
+      <div class="float-right">*</div>
+      <div class="float-left">*</div>
+      <!-- Bootstrap Clearfix -->
+      <!-- https://getbootstrap.com/docs/4.4/utilities/clearfix/ -->
+      <div class="clearfix"></div>
+      <br>
+    </div>
+
+    <!-- <br>: The Line Break element -->
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br -->
+    <br>
+
+    <!-- Bootstrap Unstyled List  -->
+    <!-- https://getbootstrap.com/docs/4.0/content/typography/#unstyled -->
+    <div class="container">
+      <br>
+      <ul class="list-unstyled">
+        <li>Food</li>
+        <li>Drink</li>
+        <li>Clothes</li>
+      </ul>
+    </div>
+
+    <br>
+
+    <!-- <code>: The Inline Code element -->
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code -->
+    <!-- Bootstrap Code -->
+    <!-- https://getbootstrap.com/docs/4.0/content/code/ -->
+    <div class="container">
+      <code>
+        &lt; section &gt; <br>
+        function sum () { <br>
+          return 4 + 3; <br>
+        }
+      </code>
+    </div>
+
+    <br>
+
+    <!-- Bootstrap Alerts -->
+    <!-- https://getbootstrap.com/docs/4.4/components/alerts/ -->
+    <div class="container">
+      <p class="text-primary">A simple primary alert</p>
+      <p class="bg-primary">A simple primary alert</p>
+      <p class="text-danger">Danger</p>
+      <p class="bg-danger">Danger</p>
+      <p class="text-success">Success</p>
+      <p class="bg-success">Success</p>
+    </div>
+
+    <br>
+
+    <!-- Bootstrap List group -->
+    <!-- https://getbootstrap.com/docs/4.0/components/list-group/ -->
+    <div class="container">
+      <br>
+      <div class="list-group">
+        <a href="#" class="list-group-item-active">First option</a>
+        <a href="#" class="list-group-item-success">Second option</a>
+        <a href="#" class="list-group-item">Third option</a>
+      </div>
+      <br>
+    </div>
+
+    <br>
+
+    <!-- Bootstrap Jumbotron -->
+    <!-- https://getbootstrap.com/docs/4.4/components/jumbotron/ -->
+    <!-- Bootstrap Buttons -->
+    <!-- https://getbootstrap.com/docs/4.4/components/buttons/ -->
+    <div class="container">
+      <br>
+      <div class="row justify-content-md-center">
+        <div class="jumbotron">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+          Corrupti eum fuga recusandae soluta accusantium quibusdam ipsa natus, 
+          magni delectus suscipit architecto ipsam eius nam nobis odio temporibus. 
+          Voluptates, rerum quidem?
+          <button type="button" class="btn btn-dark">Dark</button>
+        </div>
+      </div>
+    </div>
+
+    <br>
+
+    <!-- Bootstrap Forms -->
+    <!-- https://getbootstrap.com/docs/4.4/components/forms/#form-controls -->
+    <div class="container">
+      <br>
+      <form>
+        <div class="form-group">
+          <label for="exampleFormControlInput1">Email address</label>
+          <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+        </div>
+        <div class="form-group">
+          <label for="exampleFormControlSelect1">Example select</label>
+          <select class="form-control" id="exampleFormControlSelect1">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="exampleFormControlSelect2">Example multiple select</label>
+          <select multiple class="form-control" id="exampleFormControlSelect2">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="exampleFormControlTextarea1">Example textarea</label>
+          <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        </div>
+      </form>
+    </div>
+
+    <br>
+
+    <!-- JS -->
+    <!-- https://getbootstrap.com/docs/4.4/getting-started/introduction/#js -->
     <script
       src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
       integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
@@ -59,5 +315,5 @@
     ></script>
 
   </body>
-  
+
 </html>
