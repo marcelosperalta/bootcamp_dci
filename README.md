@@ -68,10 +68,10 @@ Folder **200129** (Class 29.01.2020)
 Folder **200130** (Class 30.01.2020)
 * JavaScript (Code refactoring, Call Stack, charCodeAr, UTF-16 and Exercises)
 
-Folder **200203** (Class 03.02.2020)
+Folder **[200203](https://github.com/marcelosperalta/dci/tree/master/200203)** (Class 03.02.2020)
 * JavaScript (For loop, functions, closure SIAF, IIFE and Exercises)
 
-Folder **200204** (Class 04.02.2020)
+Folder **[200204](https://github.com/marcelosperalta/dci/tree/master/200204)** (Class 04.02.2020)
 * JavaScript (Object, Object.getOwnPropertyNames, for...in, for...of and Exercises)
 
 Folder **[200205](https://github.com/marcelosperalta/dci/tree/master/200205)** (Class 05.02.2020)
@@ -189,4 +189,7 @@ Folder **[200328](https://github.com/marcelosperalta/dci/tree/master/200328)** (
 * HTML, CSS and JavaScript (Exercise from class 25.03.2020 - "Dark Theme checkbox")
 
 Folder **[200330](https://github.com/marcelosperalta/dci/tree/master/200330)** (Class 30.03.2020)
-* HTML, CSS and JavaScript (Front-end framework "Bootstrap")
+* HTML, CSS and JavaScript (Front-end framework "Bootstrap" - Using Internet source)
+
+Folder **[200331](https://github.com/marcelosperalta/dci/tree/master/200331)** (Class 31.03.2020)
+* HTML, CSS and JavaScript (Front-end framework "Bootstrap" - Using local source)
