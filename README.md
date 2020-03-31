@@ -59,13 +59,13 @@ Folder **200123** (Class 23.01.2020)
 Folder **200127** (Class 27.01.2020)
 * JavaScript (Self-invoking function, Spread syntax and Exercises)
 
-Folder **200128** (Class 28.01.2020)
+Folder **[200128](https://github.com/marcelosperalta/dci/tree/master/200128)** (Class 28.01.2020)
 * JavaScript (Exercises)
 
-Folder **200129** (Class 29.01.2020)
+Folder **[200129](https://github.com/marcelosperalta/dci/tree/master/200129)** (Class 29.01.2020)
 * JavaScript (Exercises)
 
-Folder **200130** (Class 30.01.2020)
+Folder **[200130](https://github.com/marcelosperalta/dci/tree/master/200130)** (Class 30.01.2020)
 * JavaScript (Code refactoring, Call Stack, charCodeAr, UTF-16 and Exercises)
 
 Folder **[200203](https://github.com/marcelosperalta/dci/tree/master/200203)** (Class 03.02.2020)
