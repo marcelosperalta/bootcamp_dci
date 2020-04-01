@@ -38,13 +38,13 @@ Folder **200113** (Class 13.01.2020)
 Folder **200114** (Class 14.01.2020)
 * JavaScript (switch case, else if and Exercises)
 
-Folder **200115** (Class 15.01.2020)
+Folder **[200115](https://github.com/marcelosperalta/dci/tree/master/200115)** (Class 15.01.2020)
 * JavaScript (Exercises)
 
-Folder **200116** (Class 16.01.2020)
+Folder **[200116](https://github.com/marcelosperalta/dci/tree/master/200116)** (Class 16.01.2020)
 * JavaScript (else if, do while, for and Exercises)
 
-Folder **200120** (Class 20.01.2020)
+Folder **[200120](https://github.com/marcelosperalta/dci/tree/master/200120)** (Class 20.01.2020)
 * JavaScript (Array and Exercises)
 
 Folder **[200121](https://github.com/marcelosperalta/dci/tree/master/200121)** (Class 21.01.2020)
