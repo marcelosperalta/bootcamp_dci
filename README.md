@@ -47,16 +47,16 @@ Folder **200116** (Class 16.01.2020)
 Folder **200120** (Class 20.01.2020)
 * JavaScript (Array and Exercises)
 
-Folder **200121** (Class 21.01.2020)
+Folder **[200121](https://github.com/marcelosperalta/dci/tree/master/200121)** (Class 21.01.2020)
 * JavaScript (Array, Function and Exercises)
 
-Folder **200122** (Class 22.01.2020)
+Folder **[200122](https://github.com/marcelosperalta/dci/tree/master/200122)** (Class 22.01.2020)
 * JavaScript (Array, Function and Exercises)
 
-Folder **200123** (Class 23.01.2020)
+Folder **[200123](https://github.com/marcelosperalta/dci/tree/master/200123)** (Class 23.01.2020)
 * JavaScript (Review and Exercises)
 
-Folder **200127** (Class 27.01.2020)
+Folder **[200127](https://github.com/marcelosperalta/dci/tree/master/200127)** (Class 27.01.2020)
 * JavaScript (Self-invoking function, Spread syntax and Exercises)
 
 Folder **[200128](https://github.com/marcelosperalta/dci/tree/master/200128)** (Class 28.01.2020)
