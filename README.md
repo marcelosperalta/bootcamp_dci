@@ -1,41 +1,40 @@
 # DCI
-## Digital Career Institute
+## [Digital Career Institute](https://digitalcareerinstitute.org/)
 ### Berlin
-#### Web Development
+#### [Web Development](https://digitalcareerinstitute.org/courses/web-development-course)
 #### 2019-2021
-#### https://digitalcareerinstitute.org/courses/web-development-course
 \
-Folder **191210** (Class 10.12.2019)
+Folder **[191210](https://github.com/marcelosperalta/dci/tree/master/191210)** (Class 10.12.2019)
 * Terminal
 
-Folder **191211** (Class 11.12.2019)
+Folder **[191211](https://github.com/marcelosperalta/dci/tree/master/191211)** (Class 11.12.2019)
 * Markdown
 
-Folder **191212** (Class 12.12.2019)
+Folder **[191212](https://github.com/marcelosperalta/dci/tree/master/191212)** (Class 12.12.2019)
 * Markdown and Terminal
 
-Folder **191217** (Class 17.12.2019)
+Folder **[191217](https://github.com/marcelosperalta/dci/tree/master/191217)** (Class 17.12.2019)
 * Markdown and Git
 
-Folder **191218** (Class 18.12.2019)
+Folder **[191218](https://github.com/marcelosperalta/dci/tree/master/191218)** (Class 18.12.2019)
 * GitHub and Git
 
-Folder **191219** (Class 19.12.2019)
+Folder **[191219](https://github.com/marcelosperalta/dci/tree/master/191219)** (Class 19.12.2019)
 * JavaScript, Git and Terminal
 
-Folder **200106** (Class 06.01.2020)
+Folder **[200106](https://github.com/marcelosperalta/dci/tree/master/200106)** (Class 06.01.2020)
 * JavaScript (var, let and const, Hoisting, Boolean Expressions, Ternary Condition and Exercises)
 
-Folder **200108** (Class 08.01.2020)
+Folder **[200108](https://github.com/marcelosperalta/dci/tree/master/200108)** (Class 08.01.2020)
 * JavaScript (Math object and Exercises) and Terminal (nodemon)
 
-Folder **200109** (Class 09.01.2020)
+Folder **[200109](https://github.com/marcelosperalta/dci/tree/master/200109)** (Class 09.01.2020)
 * JavaScript (Math object, typeof, AND/OR, isNaN and Exercises)
 
-Folder **200113** (Class 13.01.2020)
+Folder **[200113](https://github.com/marcelosperalta/dci/tree/master/200113)** (Class 13.01.2020)
 * JavaScript (toFixed, and or, substring and Exercises)
 
-Folder **200114** (Class 14.01.2020)
+Folder **[200114](https://github.com/marcelosperalta/dci/tree/master/200114)** (Class 14.01.2020)
 * JavaScript (switch case, else if and Exercises)
 
 Folder **[200115](https://github.com/marcelosperalta/dci/tree/master/200115)** (Class 15.01.2020)
@@ -193,3 +192,9 @@ Folder **[200330](https://github.com/marcelosperalta/dci/tree/master/200330)** (
 
 Folder **[200331](https://github.com/marcelosperalta/dci/tree/master/200331)** (Class 31.03.2020)
 * HTML, CSS and JavaScript (Front-end framework "Bootstrap" - Using local source)
+
+Folder **[200401](https://github.com/marcelosperalta/dci/tree/master/200401)** (Homework 01.04.2020)
+* HTML, CSS and JavaScript (Exercise from class 30.03.2020 - "Bootstrap")
+
+Folder **[200402](https://github.com/marcelosperalta/dci/tree/master/200402)** (Homework 02.04.2020)
+* HTML, CSS and JavaScript (Exercise from class 31.03.2020 - "Portfolio")

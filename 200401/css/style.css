@@ -1,0 +1,17 @@
+/* my own css */
+
+#my-container {
+  border:     1px solid black;
+}
+
+.my-h3 {
+  display:                 grid;
+  place-items:           center;
+}
+
+.my-span-center {
+  display:                 grid;
+  place-items:           center;
+  text-align:            center;
+  margin:                  20px;
+}
