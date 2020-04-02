@@ -7,9 +7,9 @@ Create a GitHub repository and enable GitHub Pages functionality.
 
 ### Code
 
-https://github.com/marcelosperalta/dcihtmlbootstrap/blob/master/index.html  
+https://github.com/marcelosperalta/dci/blob/master/200401/index.html  
 
-https://github.com/marcelosperalta/dcihtmlbootstrap/blob/master/css/style.css
+https://github.com/marcelosperalta/dci/blob/master/200401/css/style.css
 
 # Front-end framework
 
