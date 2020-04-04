@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="UTF-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" >
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../bootstrap-4.4.1-dist/css/bootstrap.css" >
+
+    <!-- My CSS -->
+    <link rel="stylesheet" href="../css/style.css" >
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Thambi+2&display=swap" rel="stylesheet" >
+
+    <!-- Google Material Design Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <title>About</title>
+
+  </head>
+
+  <body>
+
+    <div class="my-background">
+
+        <div class="container">
+
+            <!-- Navbar -->
+            <nav class="navbar navbar-expand-lg navbar-light" id="my-font">
+
+                <a class="navbar-brand" href="#"></a>
+                
+                <button class="navbar-toggler" 
+                type="button" 
+                data-toggle="collapse" 
+                data-target="#navbarSupportedContent" 
+                aria-controls="navbarSupportedContent" 
+                aria-expanded="false" 
+                aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+              
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+                  <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                      <a 
+                      id="myFontColor" 
+                      class="nav-link" 
+                      href="../index.html"
+                      onmouseover="changeColor()"
+                      onmouseout="resetColor()">
+                            Home
+                        <span class="sr-only">(current)</span></a>
+                    </li>
+
+                    <li class="nav-item active">
+                        <a
+                          id="myFontColorBold" 
+                          class="nav-link" 
+                          href="#">
+                            About
+                          <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+
+                    <li class="nav-item active">
+                        <a 
+                          id="myFontColor" 
+                          class="nav-link" 
+                          href="../html/portfolio.html" 
+                          onmouseover="changeColor()"
+                          onmouseout="resetColor()">
+                            Portfolio
+                        <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+
+                    <li class="nav-item active">
+                        <a 
+                          id="myFontColor" 
+                          class="nav-link" 
+                          href="../html/contact.html"
+                          onmouseover="changeColor()"
+                          onmouseout="resetColor()">
+                            Contact
+                          <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+
+                  </ul>
+
+                </div>
+
+              </nav>
+
+              <!-- Content -->
+              <div id="my-jumbotron"  class="jumbotron">
+
+                <p id="my-font-text" class="lead">
+                    I study web development at DCI in Berlin.
+                    <span  id="my-material-icon" class="material-icons md-48 my-icon-transparent">
+                      keyboard_arrow_down
+                    </span>
+                </p>
+
+                <hr class="my-4">
+
+                <div class="my-div-about">
+
+                  <div id="my-fix-row" class="row">
+
+                    <!-- Bootstrap < Justify content > -->
+                    <!-- https://getbootstrap.com/docs/4.0/utilities/flex/#justify-content -->
+                    <div class="col-3 d-flex justify-content-center">
+                      <div 
+                      class="card" 
+                      style="width: 60%; background-color: transparent; border-color: transparent;">
+                        <img src="../img/about_HTML5_logo.png" class="card-img-top" alt="...">
+                      </div>
+                    </div>
+
+                    <div class="col-3 d-flex justify-content-center">
+                      <div 
+                      class="card" 
+                      style="width: 60%; background-color: transparent; border-color: transparent;">
+                        <img src="../img/about_CSS3_logo.png" class="card-img-top" alt="...">
+                      </div>
+                    </div>
+
+                    <div class="col-3 d-flex justify-content-center">
+                      <div 
+                      class="card" 
+                      style="width: 60%; background-color: transparent; border-color: transparent;">
+                        <img src="../img/about_JS5_logo.png" class="card-img-top" alt="...">
+                      </div>
+                    </div>
+
+                    <div class="col-3 d-flex justify-content-center">
+                      <div 
+                      class="card" 
+                      style="width: 60%; background-color: transparent; border-color: transparent;">
+                        <img src="../img/about_ES6_logo.png" class="card-img-top" alt="...">
+                      </div>
+                    </div>
+
+                  </div>
+
+                </div>
+
+              </div>
+              
+              <!-- Footer -->
+              <footer class="my-footer">
+
+                <div>
+                  2020 Marcelo Soares Peralta
+                </div>
+                  <div>
+                    <a class="my-git-logo-link" href="https://github.com/marcelosperalta/dci">
+                      <img class="my-git-logo" src="../img/footer_GitHub_logo.png" alt="GitHub Logo">
+                    </a>
+                  </div>
+
+              </footer>
+
+        </div>
+
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="./bootstrap-4.4.1-dist/js/bootstrap.bundle.js"></script>
+
+    <!-- change Navbar color -->
+    <script>
+      function changeColor() {
+            myFontColorBold.style.color = "#fff";
+            myFontColorBold.style.fontWeight = "normal";
+      }
+    </script>
+    <script>
+      function resetColor() {
+            myFontColorBold.style.color = "#cd5c5c";
+            myFontColorBold.style.fontWeight = "bold";
+      }
+    </script>
+
+  </body>
+
+</html>
