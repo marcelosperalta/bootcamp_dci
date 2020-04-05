@@ -29,7 +29,7 @@ I study web development at [DCI](https://digitalcareerinstitute.org/) in Berlin.
 - ["Sign in page"](https://github.com/marcelosperalta/dci/tree/master/200322)
 - ["Dark Theme checkbox"](https://github.com/marcelosperalta/dci/tree/master/200327)
 - ["Dropdown Menu"](https://github.com/marcelosperalta/dci/tree/master/200328)
-- ["Bootstrap"](https://github.com/marcelosperalta/dci/tree/master/200401)
+- ["Bootstrap"](https://github.com/marcelosperalta/dci/tree/master/200402)
 
 #### JavasScript
 
