@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- css -->
+    <link rel="stylesheet" href="./css/style.css" />
+
+    <title> CSS: Checkbox styling</title>
+
+  </head>
+
+  <body>
+
+    <div id="container">
+
+      <div class="a">
+          <input type="checkbox" name="test" id="test" onclick="darkModeOn()" />
+          <label for="test">DARK MODE / LIGHT MODE</label>
+        </button>
+
+      </div>
+
+      <div class="b">
+        <button onclick="black()">make me black</button>
+        <button onclick="white()">make me white</button>
+      </div>
+
+      <div class="c">
+        <input type="reset" value="reset" onclick="cleanUp()" />
+      </div>
+
+      <div id="box"></div>
+
+    </div>
+
+  </body>
+
+  <script>
+
+    // "DARK MODE / LIGHT MODE" checkbox
+    function darkModeOn() {
+
+      if (test.checked == true) {
+        container.style.backgroundColor = "#000";
+
+      } else if (test.checked == false) {
+        container.style.backgroundColor = "#fff";
+
+      } else {
+        null
+
+      }
+
+    }
+
+  </script>
+
+  <script>
+
+    // "make me black" button
+    const black = () => {
+      test.checked = true;
+      container.style.backgroundColor = "#000";
+      // container.classList.add("black");
+      event.preventDefault();
+    };
+    // "make me white" button
+    const white = () => {
+      test.checked = false;
+      container.style.backgroundColor = "#fff";
+      // container.classList.remove("black");
+    };
+
+    // "reset" button
+    const cleanUp = () => {
+      container.classList.remove("black");
+      container.style.backgroundColor = "#fff";
+      test.checked = false;
+    };
+
+  </script>
+
+</html>

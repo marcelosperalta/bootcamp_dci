@@ -1,66 +1,130 @@
 * {
-  padding:                              5px;
-  margin:                               5px;
+  padding:                                0;
+  margin:                                 0;
   box-sizing:                    border-box;
 }
 
-div {
-  display:                             grid;
-  place-items:                       center;
+/*     "About / Services / Top Picks"
+          general configuration           */
+.dropdown {
+  display:                             flex;
+  background-color:                 black;
 }
-.a {
-  border:                   5px solid red;
-  width:                                50%;
-  height:                              25vh;
+.menu-items {
+  vertical-align:                    middle;
+  font-size:                           24px;
 }
-.b {
-  border:                 5px solid green;
-  width:                                50%;
-  height:                              25vh;
+span {
+  margin-left:                          5px;
+  vertical-align:                    middle;
+  background-color:                 black;
 }
-.c {
-  border:                  5px solid blue;
-  width:                                50%;
-  height:                              25vh;
-}
-
-#button1 {
-  background-color:             Transparent;
-  background-repeat:              no-repeat;
-  border:                              none;
-  cursor:                           pointer;
-  overflow:                          hidden;
+button {
+  font-size:                           24px;
+  color:                            white;
+  background:                   transparent;
+  border:                                 0;
   outline:                             none;
+  cursor:                           pointer;
+  width:                               100%;
+  height:                              50px;
 }
 
-/* dark mode / light mode checkbox        */
-input[type="checkbox"] {
+/* menus About / Services / Top Picks     */
+#about{
+  width:                                10%;
+}
+#services {
+  width:                                11%;
+}
+#topPicks {
+  width:                                12%;
+}
+
+/* sub-menus About / Services / Top Picks */
+a {
+  color:                            white;
+  text-decoration:                     none;
+}
+.sub-menus{
+  display:                             flex;
+  width:                               100%;
+}
+#menuAbout1 {
   display:                             none;
+  width:                               100%;
 }
-input[type="checkbox"] + label::before {
-  width:                               15px;
-  height:                              15px;
-  border:                 3px solid   red;
-  background-color:                  #fff;
-  display:                            block;
-  content:                               "";
-  float:                               left;
-  margin-right:                         5px;
-  /* border-radius:                       15px; */
+#menuServices1 {
+  display:                             none;
+  width:                               100%;
 }
-input[type="checkbox"]:checked+label::before {
-  box-shadow:  inset 0px 0px 0px 3px #fff;
-  background-color:                   red;
-}
-label {
-  font-weight:                         bold;
-  font-size:                           20px;
-  font-family: Arial, Helvetica, sans-serif;
-  color:                             blue;
+#menuTopPicks1 {
+  display:                             none;
+  width:                               100%;
 }
 
-/* make me black / make me white button  */
-/* 
-.black {
-  background-color:                    #000;
-} */
+/* sub-menu "About"                       */
+#menuAbout1 {
+  font-size:                           20px;
+  color:                            white;
+  background-color:            blueviolet;
+}
+#menuAboutSub{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:                           18px;
+  padding-top:                         20px;
+  padding-bottom:                      20px;
+  width:                               100%;
+}
+#menuAboutSub:hover {
+  background-color:                violet;
+  cursor:                           pointer;
+  font-weight:                         bold;
+}
+.textMenuAbout {
+  padding-left:                        20px;
+}
+
+/* sub-menu "Services"                    */
+#menuServices1 {
+  font-size:                           20px;
+  color:                            white;
+  background-color:            blueviolet;
+}
+#menuServicesSub{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:                           18px;
+  padding-top:                         20px;
+  padding-bottom:                      20px;
+  width:                               100%;
+}
+#menuServicesSub:hover {
+  background-color:                violet;
+  cursor:                           pointer;
+  font-weight:                         bold;
+}
+.textMenuServices {
+  padding-left:                         11%;
+}
+
+/* sub-menu "Top Picks"                   */
+#menuTopPicks1 {
+  font-size:                           20px;
+  color:                            white;
+  background-color:            blueviolet;
+}
+#menuTopPicksSub{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:                           18px;
+  padding-top:                         20px;
+  padding-bottom:                      20px;
+  width:                               100%;
+}
+#menuTopPicksSub:hover {
+  background-color:                violet;
+  cursor:                           pointer;
+  font-weight:                         bold;
+}
+.textMenuTopPicks {
+  padding-left:                       22.3%;
+}

@@ -7,82 +7,194 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+    <!-- Google Web Fonts -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
     <!-- css -->
     <link rel="stylesheet" href="./css/style.css" />
 
-    <title> CSS: Checkbox styling</title>
+    <title>Drop-down menu</title>
 
   </head>
 
   <body>
 
-    <div id="container">
+    <div class="dropdown">
 
-      <div class="a">
-          <input type="checkbox" name="test" id="test" onclick="darkModeOn()" />
-          <label for="test">DARK MODE / LIGHT MODE</label>
+      <div class="menu-items" id="about" display="none">
+        <button  id="shBtn" class="shBtn" onclick="hideShowAbout()">
+        About
+        <span id="span1" class="material-icons">arrow_drop_down_circle</span>
         </button>
-
       </div>
 
-      <div class="b">
-        <button onclick="black()">make me black</button>
-        <button onclick="white()">make me white</button>
+      <div class="menu-items" id="services">
+        <button  id="shBtn" class="shBtn" onclick="hideShowServices()">
+        Services
+        <span id="span2" class="material-icons">arrow_drop_down_circle</span>
+      </button>
       </div>
 
-      <div class="c">
-        <input type="reset" value="reset" onclick="cleanUp()" />
+      <div class="menu-items" id="topPicks">
+        <button  id="shBtn" class="shBtn" onclick="hideShowTopPicks()">
+        Top Picks
+        <span id="span3"  class="material-icons">arrow_drop_down_circle</span>
+      </button>
+      </div>
+    </div>
+
+    <div class="sub-menus">
+
+      <div id="menuAbout1" class="menuAbout">
+        <div id="menuAboutSub">
+          <div class="textMenuAbout">
+            <a href="./html/maintenance.html">Florists</a>
+          </div>
+        </div>
+
+        <div id="menuAboutSub">
+          <div class="textMenuAbout">
+            <a href="./html/maintenance.html">Meet the team</a>
+          </div>
+        </div>
+
+        <div id="menuAboutSub">
+          <div class="textMenuAbout">
+            <a href="./html/maintenance.html">Careers</a>
+          </div>
+        </div>
       </div>
 
-      <div id="box"></div>
+
+      <div id="menuServices1" class="menuServices">
+        <div id="menuServicesSub">
+          <div class="textMenuServices">
+            <a href="./html/maintenance.html">Pick your flowers</a>
+          </div>
+        </div>
+
+        <div id="menuServicesSub">
+          <div class="textMenuServices">
+            <a href="./html/maintenance.html">Custom packing</a>
+          </div>
+        </div>
+
+        <div id="menuServicesSub">
+          <div class="textMenuServices">
+            <a href="./html/maintenance.html">Same day delivery</a>
+          </div>
+        </div>
+      </div>
+
+      <div id="menuTopPicks1" class="menuTopPicks">
+        <div id="menuTopPicksSub">
+          <div class="textMenuTopPicks">
+            <a href="./html/maintenance.html">Tulip</a>
+          </div>
+        </div>
+        
+        <div id="menuTopPicksSub">
+          <div class="textMenuTopPicks">
+            <a href="./html/maintenance.html">Rose</a>
+          </div>
+        </div>
+
+        <div id="menuTopPicksSub">
+          <div class="textMenuTopPicks">
+            <a href="./html/maintenance.html">Geranium</a>
+          </div>
+        </div>
+      </div>
 
     </div>
 
   </body>
 
+  <!-- menu drop-down "About" -->
   <script>
+    function hideShowAbout() {
 
-    // "DARK MODE / LIGHT MODE" checkbox
-    function darkModeOn() {
+      // disable dropdown "Services"
+      menuServices1.style.display = "none";
+      services.style.backgroundColor = "black";
+      span2.style.backgroundColor = "black";
 
-      if (test.checked == true) {
-        container.style.backgroundColor = "#000";
+      // disable dropdown "Top Picks"
+      menuTopPicks1.style.display = "none";
+      topPicks.style.backgroundColor = "black";
+      span3.style.backgroundColor = "black";
 
-      } else if (test.checked == false) {
-        container.style.backgroundColor = "#fff";
-
+      // show "About" sub-items
+      if (menuAbout1.style.display == "" || menuAbout1.style.display == "none") {
+          menuAbout1.style.display = "block";
+          about.style.backgroundColor = "blueviolet";
+          span1.style.backgroundColor = "blueviolet";
+      
+      // hide "About" sub-items
       } else {
-        null
-
+          menuAbout1.style.display = "none";
+          about.style.backgroundColor = "black";
+          span1.style.backgroundColor = "black";
       }
-
     }
-
   </script>
 
+  <!-- menu drop-down "Services" -->
   <script>
+    function hideShowServices(a) {
 
-    // "make me black" button
-    const black = () => {
-      test.checked = true;
-      container.style.backgroundColor = "#000";
-      // container.classList.add("black");
-      event.preventDefault();
-    };
-    // "make me white" button
-    const white = () => {
-      test.checked = false;
-      container.style.backgroundColor = "#fff";
-      // container.classList.remove("black");
-    };
+      // disable dropdown "About"
+      menuAbout1.style.display = "none";
+      about.style.backgroundColor = "black";
+      span1.style.backgroundColor = "black";
 
-    // "reset" button
-    const cleanUp = () => {
-      container.classList.remove("black");
-      container.style.backgroundColor = "#fff";
-      test.checked = false;
-    };
+      // disable dropdown "Top Picks"
+      menuTopPicks1.style.display = "none";
+      topPicks.style.backgroundColor = "black";
+      span3.style.backgroundColor = "black";
 
+      // show "Services" sub-items
+      if (menuServices1.style.display == "" || menuServices1.style.display == "none") {
+          menuServices1.style.display = "block";
+          services.style.backgroundColor = "blueviolet";
+          span2.style.backgroundColor = "blueviolet";
+
+      // hide "Services" sub-items
+      } else {
+          menuServices1.style.display = "none";
+          services.style.backgroundColor = "black";
+          span2.style.backgroundColor = "black";
+      }
+    }
+  </script>
+
+  <!-- menu drop-down "Top Picks" -->
+  <script>
+    function hideShowTopPicks() {
+
+      // disable dropdown "About"
+      menuAbout1.style.display = "none";
+      about.style.backgroundColor = "black";
+      span1.style.backgroundColor = "black";
+
+      // disable dropdown "Services"
+      menuServices1.style.display = "none";
+      services.style.backgroundColor = "black";
+      span2.style.backgroundColor = "black";
+
+      // show "Top Picks" sub-items
+      if (menuTopPicks1.style.display == "" || menuTopPicks1.style.display == "none") {
+          menuTopPicks1.style.display = "block";
+          topPicks.style.backgroundColor = "blueviolet";
+          span3.style.backgroundColor = "blueviolet";
+
+      // hide "Top Picks" sub-items
+      } else {
+          menuTopPicks1.style.display = "none";
+          topPicks.style.backgroundColor = "black";
+          span3.style.backgroundColor = "black";
+      }
+    }
   </script>
 
 </html>

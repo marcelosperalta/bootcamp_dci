@@ -1,34 +1,20 @@
-# HTML
+# Dropdown Menu
 
-### input
+**Instructions**
+1. Create a navigation bar at the top of the page with three items. 
+![200328](./images/navbar.png)
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+1. When the user hovers over one of these items, a drop down should appear with further options. 
+![200328](./images/navbar-dropdown.png)
 
-### checkbox
+1. The user should be able to hover over the dropdown items.
+![200328](./images/navbar-item-hover.png)
 
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox
+1. When the user click on any link should lead him to.
+![200328](./images/under.png)
 
-### Code
+## And 
+ 
+* you can use your own thems (colors. fonts and so)
 
-https://github.com/marcelosperalta/dci/blob/master/200328/index.html
-
-# CSS
-
-### CSS: Checkbox styling
-
-https://boolie.org/css-checkbox-styling/
-
-
-### How TO - Custom Checkbox
-
-https://www.w3schools.com/howto/howto_css_custom_checkbox.asp
-
-### Code
-
-https://github.com/marcelosperalta/dci/blob/master/200328/css/style.css
-
-# Exercise
-
-Do a checkbox using only CSS and hide the old ugly checkbox;  
-Use that checkbox in your "YouTube App" to add "dark theme" feature ("on" and "off");  
-By "on" will be "dark mode" and by "off" will be "light mode".
+* We need for this deopdown some animation
