@@ -1,0 +1,170 @@
+/* 
+* {
+  margin:                              0;
+  padding:                             0;
+  box-sizing:                 border-box;
+  background-color:      rgb(47, 43, 43);
+}
+*/
+
+
+/* Home / About / Skills / Contact */
+.my-background {
+  background-color:    rgb(47, 43, 43);
+  height:                          100vh;
+}
+
+
+/* Home */
+.my-table {
+/*Quick CSS Trick: How To Center an Object Exactly In The Center                        */
+/*https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/ */
+  position:                        fixed;
+  top:                               50%;
+  left:                              50%;
+  transform:       translate(-50%, -50%);
+/*------------------------------------------------------------------------------------- */
+
+/*PX to REM converter                                                                   */
+/*https://nekocalc.com/px-to-rem-converter                                              */
+  font-size:                        3rem;
+/*------------------------------------------------------------------------------------- */
+
+  color:                         white;
+  text-align:                     center;
+
+/*Google Fonts                                                                          */
+/*https://fonts.google.com/specimen/Baloo+Thambi+2                                      */
+  font-family: 'Baloo Thambi 2', cursive;
+/*------------------------------------------------------------------------------------- */
+}
+.my-name {
+  font-weight:                      bold;
+  color:                     indianred;
+}
+.my-button {
+  font-size:                      1.4rem;
+  color:                         white;
+  border:              2px solid white;
+  border-radius:                    10px;
+  margin-top:                         3%;
+  margin-left:                       39%;
+  margin-right:                      39%;
+  padding-top:                        1%;
+  padding-bottom:                     1%;
+}
+.my-button:hover {
+  font-weight:                      bold;
+  color:                     indianred;
+  border:          2px solid indianred;
+  border-radius:                    10px;
+}
+.my-anchor {
+  text-decoration:                  none;
+  color:                         white;
+}
+.my-anchor:link {
+  text-decoration:                  none;
+}
+.my-anchor:visited {
+  text-decoration:                  none;
+}
+.my-anchor:hover {
+  text-decoration:                  none;
+  color:                     indianred;
+}
+.my-anchor:active {
+  text-decoration:                  none;
+}
+
+
+/* About / Skills / Contact */
+#my-fix-row {
+  height:                           30vh;
+}
+#my-font {
+  font-family: 'Baloo Thambi 2', cursive;
+  font-size:                     2.25rem;
+}
+#my-font-text {
+  font-family: 'Baloo Thambi 2', cursive;
+  font-size:                     1.75rem;
+}
+#myFontColor{
+  color:                         white;
+}
+#myFontColor:hover {
+  font-weight:                      bold;
+  color:                     indianred;
+}
+#myFontColorBold {
+  font-weight:                      bold;
+  color:                     indianred;
+}
+#my-jumbotron {
+  padding-top:                        5%;
+  padding-bottom:                     5%;
+  margin-bottom:                      3%;
+}
+
+
+/* About / Contact */
+.material-icons.my-icon-transparent {
+  color:                     transparent;
+}
+/* Portfolio */
+#my-material-icon {
+  vertical-align:                 middle;
+}
+.material-icons.md-48 {
+  font-size:                        48px;
+}
+.material-icons.my-icon-color {
+  color:                     indianred;
+}
+
+
+/* Contact */
+.my-contact-button {
+  border:                           none;
+  color:                     transparent;
+  background-color:          transparent;
+}
+
+
+/* Footer */
+.my-footer {
+  display:                          flex;
+  align-items:                    center;
+  justify-content:                center;
+  font-family: 'Baloo Thambi 2', cursive;
+  font-size:                      0.9rem;
+  font-weight:                      bold;
+  color:                     indianred;
+}
+.my-git-logo {
+  padding-left:                     10px;
+  height:                           18px;
+}
+
+
+/* Mobile special settings */
+@media only screen and (max-width: 750px) {
+  .my-table {
+    font-size:                      1rem;
+  }
+  .my-button {
+    font-size:                    0.4rem;
+    border-radius:                   3px;
+    border:            1px solid white;
+  }
+  .my-button:hover {
+    font-weight:                    bold;
+    color:                   indianred;
+    border:        1px solid indianred;
+    border-radius:                   3px;
+  }
+  footer {
+    display:                        none;
+  }
+}

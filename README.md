@@ -199,11 +199,14 @@ Folder **[200330](https://github.com/marcelosperalta/dci/tree/master/200330)** (
 Folder **[200331](https://github.com/marcelosperalta/dci/tree/master/200331)** (Class 31.03.2020)
 * HTML, CSS and JavaScript (Front-end framework "Bootstrap" - Using local source)
 
-Folder **[200401](https://github.com/marcelosperalta/dci/tree/master/200401)** (Homework 01.04.2020)
-* HTML, CSS and JavaScript (Exercise from class 30.03.2020 - "Bootstrap")
+Folder **[200401](https://github.com/marcelosperalta/dci/tree/master/200401)** (Class 01.04.2020)
+* HTML, CSS and JavaScript (drop-down menu)
 
 Folder **[200402](https://github.com/marcelosperalta/dci/tree/master/200402)** (Homework 02.04.2020)
+* HTML, CSS and JavaScript (Exercise from class 30.03.2020 - "Bootstrap")
+
+Folder **[200403](https://github.com/marcelosperalta/dci/tree/master/200403)** (Homework 03.04.2020)
 * HTML, CSS and JavaScript (Exercise from class 31.03.2020 - "Portfolio")
 
-Folder **[200404](https://github.com/marcelosperalta/dci/tree/master/200402)** (Homework 04.04.2020)
+Folder **[200404](https://github.com/marcelosperalta/dci/tree/master/200404)** (Homework 04.04.2020)
 * HTML, CSS and JavaScript (Exercise from class 31.03.2020 - "Portfolio" - "Carousel version")

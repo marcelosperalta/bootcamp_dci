@@ -1,90 +1,26 @@
-# My Portfolio
+# HTML and CSS
 
-Hi, I'm **Marcelo Soares Peralta**  
-I'm a web developer.  
-  
-_My work:_  
+# Exercise
 
+Build a random webpage using Bootstrap;  
+Create a GitHub repository and enable GitHub Pages functionality.
 
-## **About**
+### Code
 
-I study web development at [DCI](https://digitalcareerinstitute.org/) in Berlin.
+https://github.com/marcelosperalta/dci/blob/master/200401/index.html  
 
-### Skills
-- HTML  
-- CSS  
-- JavaScript
+https://github.com/marcelosperalta/dci/blob/master/200401/css/style.css
 
+# Front-end framework
 
-## **Portfolio**
+### **Bootstrap**
 
-#### HTML and CSS
+Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
 
-- ["Periodic Table"](https://github.com/marcelosperalta/dci/tree/master/200303)
-- ["Checkers"](https://github.com/marcelosperalta/dci/tree/master/200306)
-- ["YouTube"](https://github.com/marcelosperalta/dci/tree/master/200315)
-- ["Sign in page"](https://github.com/marcelosperalta/dci/tree/master/200315)
-- ["Full Webpage"](https://github.com/marcelosperalta/dci/tree/master/200320)
-- ["X mark"](https://github.com/marcelosperalta/dci/tree/master/200321)
-- ["Dark Theme checkbox"](https://github.com/marcelosperalta/dci/tree/master/200328)
-- ["Bootstrap"](https://github.com/marcelosperalta/dci/tree/master/200401)
+Originally created by a designer and a developer at Twitter, Bootstrap has become one of the most popular front-end frameworks and open source projects in the world.
 
-#### JavasScript
+https://getbootstrap.com/  
 
-- [Code tests](https://github.com/marcelosperalta/dci/blob/master/200216/index.js)
+https://getbootstrap.com/docs/4.4/getting-started/introduction/  
 
-
-## **Contact**
-
-- Email:  
-marcelosperalta@gmail.com
-
-- LinkedIn  
-https://www.linkedin.com/in/marcelo-soares-peralta-b1a7aa95
-
-- GitHub  
-https://github.com/marcelosperalta
-
-
-## **My Portfolio Webpage**
-
-- https://marcelosperalta.github.io/dcihtmlportfolio/
-
-
-### **Code Reference**
-
-- [Matthew Williams](http://findmatthew.com)
-
-- [Bootstrap](https://getbootstrap.com/)
-
-- [MATERIAL DESIGN](https://material.io/)
-
-- [Google Fonts](https://fonts.google.com/)
-
-- [MDN](https://developer.mozilla.org/en-US/)
-
-- [CSS-TRICKS](https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/)
-
-- [nekoCalc](https://nekocalc.com/px-to-rem-converter)
-
-
-### **Guidelines**
-
-- Apple  
-[Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/)
-
-
-### **Logos Reference**
-
-- [LinkedIn](https://brand.linkedin.com/downloads)
-
-- [GitHub](https://github.com/logos)
-
-- [pngfind](https://www.pngfind.com/mpng/hmbwbh_png-file-svg-icon-email-transparent-png/)
-
-
-### **Tools**
-
-- [Visual Studio Code](https://code.visualstudio.com/)
-
-- [Paint 3D](https://www.microsoft.com/de-de/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab)
+https://getbootstrap.com/docs/4.4/components/alerts/
