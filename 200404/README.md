@@ -1,4 +1,4 @@
-# My Portfolio v2 ("carousel")
+# My Portfolio
 
 Hi, I'm **Marcelo Soares Peralta**  
 I'm a web developer.  
