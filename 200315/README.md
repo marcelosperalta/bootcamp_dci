@@ -1,10 +1,10 @@
-# HTML
+# HTML and CSS
 
-### Code
+### Exercise
 
-https://github.com/marcelosperalta/dci/blob/master/200315/index.html
+Create a webpage based on the image below.
 
-# CSS
+![200315](./img/youtube_model.png)  
 
 ### CSS Default Values Reference
 
@@ -22,13 +22,13 @@ https://css-tricks.com/the-current-state-of-styling-scrollbars/
 
 ### Material Design
 
-https://material.io/
+https://material.io/  
 
 https://material.io/resources/icons/?style=baseline
 
 ### Material UI
 
-https://material-ui.com/
+https://material-ui.com/  
 
 https://material-ui.com/store/
 
@@ -40,10 +40,16 @@ https://fontawesome.com/
 
 http://learnlayout.com/
 
+### @font-face
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
+
+### white-space
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/white-space
+
 ### Code
+
+https://github.com/marcelosperalta/dci/blob/master/200315/index.html  
 
 https://github.com/marcelosperalta/dci/blob/master/200315/css/style.css
-
-# JavaScript
-
-### Code

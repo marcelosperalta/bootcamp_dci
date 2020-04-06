@@ -1,0 +1,241 @@
+* {
+  margin:                                           0;
+}
+
+@font-face {
+  font-family:                               "Roboto";
+  src:      url("/fonts/RobotoCondensed-Regular.ttf");
+}
+
+/*  header  */
+.header {
+  background-color:       rgb(68, 65, 65);
+  display:                             flex;
+  flex-direction:                       row;
+  align-items:                       center;
+  justify-content:            space-between;
+  color:                            white;
+  padding-top:                          3px;
+  padding-bottom:                       3px;
+}
+.first-icon {
+  display:                             flex;
+  justify-content:                     left;
+  padding-left:                        10px;
+}
+.youtube-logo {
+  height:                              20px;
+  width:                               40px;
+  margin-left:                         20px;
+  margin-right: -3px;
+}
+.youtube {
+  display:                             flex;
+  align-items:                       center;
+  justify-content:                   center;
+  padding-left:                           0;
+  font-family:  "Roboto", Arial, sans-serif;
+  letter-spacing:                      -1px;
+  font-size:                           20px;
+  font-weight:                         bold;
+}
+.search {
+  display:                             flex;
+  align-items:                       center;
+  justify-content:                   center;
+}
+.text-box {
+  margin:                           .4rem 0;
+  margin-top:                          10px;
+  margin-bottom:                       10px;
+  padding-left:                         5px;
+  font-size:                         0.7rem;
+}
+.header-left {
+  display:                             flex;
+  align-items:                       center;
+  justify-content:                     left;
+  padding-right:                       10px;
+}
+#icons-right {
+  margin-left:                         15px;
+}
+#icon-center {
+  margin-left:                         10px;
+}
+
+/* main menu ("Home", "Trending", ...) */
+.container-main {
+  display:                             flex;
+}
+.container-main-hr {
+  border-top:   2px solid rgb(73, 67, 67);
+  border-bottom:                transparent;
+  border-left:                  transparent;
+  border-right:                 transparent;
+  margin-top:                           5px;
+  margin-bottom:                        5px;
+}
+#icon-padding {
+  padding-left:                        10px;
+  padding-right:                       20px;
+  vertical-align:                    middle;
+  margin-top:                          -2px;
+}
+.icon-text {
+  padding-top:                         10px;
+  padding-bottom:                      10px;
+  white-space:                       nowrap;
+}
+.icon-text:hover {
+  background-color:    rgb(112, 112, 112);
+  font-weight:                         bold;
+  color:                            white;
+}
+
+/* Home... / Library... / SUBSCRIPTIONS */
+.main-menu {
+  background-color:       rgb(54, 53, 53);
+  width:                                15%;
+  color:               rgb(184, 178, 178);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:                         0.7rem;
+}
+.main-menu-div {
+  width:                               100%;
+}
+.subscriptions {
+  margin-top:                          15px;
+  margin-bottom:                        5px;
+  margin-left:                         10px;
+  font-weight:                         bold;
+  font-size:                         0.7rem;
+}
+
+/* navigation and videos menu */
+.nav-vid-menu {
+  background-color:                 black;
+  width:                                85%;
+}
+
+/* navigation menu (Home, Videos, Playlists... */
+.navig-home {
+  display:                             flex;
+  align-items:                       center;
+  text-align:                        center;
+  height:                              50px;
+  margin-bottom:                       20px;
+  padding-left:                        60px;
+  background-color:       rgb(44, 44, 44);
+}
+.navig-home-sub {
+  display:                             flex;
+  align-items:                       center;
+  justify-content:                   center;
+  color:                            white;
+  width:                                10%;
+  height:                              100%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:                           14px;
+}
+.navig-home-sub:hover {
+  font-weight:                         bold;
+  font-size:                           16px;
+  border-bottom:          2px solid white;
+}
+
+/* navigation and videos menu (Uploads, Popular uploads...) */
+.menu-videos-top {
+  width:                                95%;
+  display:                             flex;
+  margin-left:                           5%;
+}
+.menu-videos-top-div {
+  background-color:                 black;
+  width:                                75%;
+  font-family: Arial, Helvetica, sans-serif;
+  color:                            white;
+}
+.menu-videos-top-display {
+  display:                             flex;
+}
+.line {
+  border:     0.5px solid rgb(39, 39, 39);
+  margin-top:                          40px;
+  margin-bottom:                       20px;
+}
+
+/* Uploads / Popular Videos */
+.menu-videos {
+  display:                             flex;
+  align-items:                       center;
+  font-size:                           16px;
+  padding-bottom:                      10px;
+}
+.video {
+  width:                                25%;
+  padding:                              5px;
+}
+.video-container {
+  width:                               100%;
+  display:                            block;
+  position:                        relative;
+}
+img {
+  width:                               100%;
+}
+.time {
+  background-color:       rgb(39, 39, 39);
+  position:                        absolute;
+  bottom:                                 0;
+  right:                                  0;
+  font-size:                           16px;
+  margin:                               3px;
+  padding:                              2px;
+  margin-bottom:                        7px;
+  margin-right:                         3px;
+}
+.title{
+  padding-top:                          8px;
+  font-size:                            70%;
+  font-weight:                         bold;
+}
+.views{
+  padding-top:                          8px;
+  font-size:                            70%;
+  color:               rgb(131, 127, 127);
+}
+
+/* 2ND CHANNEL */
+.channels-container-2nd {
+  height:                              82vh;
+  background-color:                 black;
+  width:                                15%;
+  font-family: Arial, Helvetica, sans-serif;
+  color:                            white;
+  font-weight:                         bold;
+  font-size:                           12px;
+  padding-top:                         20px;
+  margin-left:                         10px;
+}
+.channels-container {
+  padding-top:                         15px;
+  justify-content:                   center;
+}
+.channels-container-sub {
+  display:                             flex;
+}
+.channels {
+  text-align:                        center;
+  justify-content:                   center;
+  padding:                            6px 0;
+  padding-bottom:                      10px;
+  padding-left:                         5px;
+}
+.channels-subscribe {
+  background-color:       rgb(39, 39, 39);
+  width:                                40%;
+  text-align:                        center;
+  padding:                              4px;
+  font-size:                            1em;
+}
