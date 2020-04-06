@@ -13,7 +13,9 @@
 
   </head>
 
-  <body>
+  <!-- onload -->
+  <!-- https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onload -->
+  <body id="randomImg" onload="getRandomInt()">
     
     <div class="container">
 
@@ -51,6 +53,22 @@
         </div>
 
     </div>
+    
+    <!-- Random background -->
+    <!-- Math.random() -->
+    <!-- https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Math/math.random -->
+    <script>
+      function getRandomInt(max) {
+          var randomNum = Math.floor(Math.random() * Math.floor(max))
+          var background = [
+                        `url(./img/forest.jpg)`,
+                        `url(./img/forest2.jpg)`,
+                        `url(./img/forest3.jpg)`,
+                        ];
+          randomImg.style.backgroundImage = background[randomNum];
+      }
+      getRandomInt(3);
+    </script>
     
   </body>
 

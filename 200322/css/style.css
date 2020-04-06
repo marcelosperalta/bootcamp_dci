@@ -1,6 +1,5 @@
 body {
-  background-image:     url(../img/forest.jpg);
-  background-position:                  center;
+  background-size:                       cover;
 }
 .container {
   height:                                100vh;
