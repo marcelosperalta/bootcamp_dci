@@ -53,9 +53,13 @@ https://github.com/marcelosperalta
 - https://marcelosperalta.github.io/dcihtmlportfolio/
 
 
-### **Code Reference**
+### **Layout Reference**
 
 - [Matthew Williams](http://findmatthew.com)
+
+- [Caitlyn Greffly](https://caitlyngreffly.com/)
+
+### **Code Reference**
 
 - [Bootstrap](https://getbootstrap.com/)
 
@@ -68,7 +72,6 @@ https://github.com/marcelosperalta
 - [CSS-TRICKS](https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/)
 
 - [nekoCalc](https://nekocalc.com/px-to-rem-converter)
-
 
 ### **Guidelines**
 
