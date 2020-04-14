@@ -1,0 +1,5 @@
+# files and folders ignored by git (git add, ...)
+
+200414/dist/
+200414/src/styles/
+200414/node_modules/

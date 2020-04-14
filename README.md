@@ -213,3 +213,6 @@ Folder **[200403](https://github.com/marcelosperalta/dci/tree/master/200403)** (
 
 Folder **[200404](https://github.com/marcelosperalta/dci/tree/master/200404)** (Homework 04.04.2020)
 * HTML, CSS and JavaScript (Exercise from class 31.03.2020 - "Portfolio" - "Carousel version")
+
+Folder **[200414](https://github.com/marcelosperalta/dci/tree/master/200414)** (Class 14.04.2020)
+* Sass (Sass, Scss, gitignore)
