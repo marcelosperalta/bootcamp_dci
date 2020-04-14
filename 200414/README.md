@@ -71,3 +71,7 @@ https://en.wikipedia.org/wiki/Template_(file_format)
 20. create a new GitHub repository;
 21. initiate the new repository and push the files ("git init", "git add .", "git commit -m "..."", git remote add origin "...", "git push origin master);
 22. type "npm run deploy" (if ran OK, the last line will be "Published").
+
+## Project Template GitHub Page
+
+https://marcelosperalta.github.io/dciScssTemplate/

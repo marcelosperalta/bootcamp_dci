@@ -10,14 +10,313 @@
     <!-- My CSS -->
     <link rel="stylesheet" href="./styles/style.css">
     
-    <title>Project template</title>
+    <title>Project Template</title>
 
 </head>
 
+<style>
+    a {
+        text-decoration:   transparent;
+    }
+    .background {
+        background-color: blueviolet;
+        width:                   500px;
+        padding:                  15px;
+        color:                 white;
+        font-weight:              bold;
+        border-radius:             5px;
+    }
+    h3 {
+        font-size: 28px;
+    }
+    span {
+        background-color:     violet;
+        padding:                   5px;
+        border-radius:             5px;
+    }
+</style>
+
 <body>
 
-    <h1>Project template</h1>
+    <h1>Project Template</h1>
     
+    <h2>An HTML and CSS <a href="https://en.wikipedia.org/wiki/Boilerplate_code" target="_blank"><b>boilerplate code</b></a> with built-in <a href="https://sass-lang.com/" target="_blank"><b>Sass</b></a> support</h2>
+
+    <br>
+
+    <h3>Get Started</h3>
+
+    <a href="#Setup">Setup</a>
+    <br>
+    <br>
+    <a href="#Useful_Commands">Useful Commands</a>
+    <br>
+    <br>
+    <a href="#Project_Structure">Project Structure</a>
+
+    <!-- Setup -->
+    <h3 id="Setup">Setup</h3>
+
+    <ol>
+
+        <!-- 1 -->
+        <li>create a folder for your project</li>
+        <br>
+
+        <!-- 2 -->
+        <li>create <a href="https://daringfireball.net/projects/markdown/" target="_blank"><b>README.md</b></a> file</li>
+        <br>
+
+        <!-- 3 -->
+        <li>run on <a href="https://en.wikipedia.org/wiki/Terminal_emulator" target="_blank"><b>Terminal</b></a>
+            <br>
+            <br>
+            <div class="background">
+            <code>npm init</code>
+            </div>
+            <br>
+            (after the command above the <a href="https://www.json.org/" target="_blank"><code><b>package.json</b></code></a> file will be created)
+        </li>
+        <br>
+
+<!-- 4 -->
+<li>edit <code><b>package.json</b></code> file to add your project's name
+<br>
+<br>
+<div class="background">
+<pre>
+{
+    "name": "[project name]",
+    ...
+    "author": "[your name]"
+}
+</pre>
+</div>
+</li>
+<br>
+
+        <!-- 5 -->
+        <li>create <a href="https://git-scm.com/docs/gitignore" target="_black"><b>.gitignore</b></a> file and skip this folders
+            <br>
+            <br>
+            <div class="background">
+            <code>dist/</code>
+            <br>
+            <br>
+            <code>src/styles</code>
+            <br>
+            <br>
+            <code>node_modules</code>
+            </div>
+        </li>
+        <br>
+
+        <!-- 6 -->
+        <li>create a <b>scr</b> folder</li>
+        <br>
+
+        <!-- 7 -->
+        <li>create the folders below inside <b>scr</b> folder
+            <br>
+            <br>
+            <div class="background">
+            <code>scss</code>
+            <br>
+            <br>
+            <code>img</code>
+            <br>
+            <br>
+            <code>scripts</code>
+            <br>
+            </div>
+        </li>
+        <br>
+
+        <!-- 8 -->
+        <li>create a <b>index.html</b> inside <b>scr</b> folder</li>
+        <br>
+
+<!-- 9 -->
+<li>edit the <b>index.html</b> file (./scr/index.html) to add your project's name
+<br>
+<br>
+<div class="background">
+<pre>
+...
+&lt;head&gt;
+  ...
+  &lt;title&gt;[project name]&lt;/title&gt;
+&lt;/head&gt;
+...
+</pre>
+</div>
+</li>
+<br>
+
+        <!-- 10 -->
+        <li>start a new git repository and make an initial commit. this will make sure that you can work on your project with git
+            <br>
+            <br>
+            <div class="background">
+            <code>git init</code>
+            <br>
+            <code>git add . && git commit -m "Initial commit"</code>
+            <br>
+            </div>
+            <br>
+            (remember to push to <a href="https://github.com" target="_blank"><b>GitHub</b></a>)
+        </li>
+        <br>
+
+        <!-- 11 -->
+        <li>install the <code><b>package.json</b></code> dependencies
+            <br>
+            <br>
+            <div class="background">
+            <code>npm install</code>
+            </div>
+            <br>
+        </li>
+
+    </ol>
+
+    <!-- Useful Commands -->
+    <h3 id="Useful_Commands">Useful Commands</h3>
+
+    <h4>Development</h4>
+
+    <p>Run <a href="https://www.npmjs.com/package/live-server" target="_blank"><b>live-server</b></a> 
+        and <a href="https://sass-lang.com/" target="_blank"><b>Sass</b></a> in watch mode and start coding!</p>
+
+    <ol>
+    <div class="background">
+    <code>npm start</code>
+    </div>
+    </ol>
+    
+    <h4>Production</h4>
+
+    <p><a href="https://en.wikipedia.org/wiki/Source-to-source_compiler" target="_blank"><b>Transpile</b></a> <b>Sass</b> 
+        and copy relevant files from <b>src</b> to <b>dist</b> to prepare your website for <b>deployment</b>.</p>
+
+    <ol>
+    <div class="background">
+    <code>npm run build</code>
+    </div>
+    </ol>
+    
+    <h4>Deploy to GitHub Pages</h4>
+
+    <p>
+        Deploy your code to <a href="https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site" target="_blank"><b>Github Pages</b></a>: this script creates a <b>gh-pages</b> branch and publishes the <b>dist</b> folder.
+        <br>
+        <br>
+        For this to work, make sure you already have a remote repository on <a href="https://github.com" target="_blank"><b>GitHub</b></a>.
+    </p>
+
+    <ol>
+    <div class="background">
+    <code>npm run deploy</code>
+    </div>
+    </ol>
+
+    <!-- Project Structure -->
+    <h3 id="Project_Structure">Project Structure</h3>
+
+    <p>Any project created with this boilerplate will follow the structure below:</p>
+
+    <ol>
+    <div class="background">
+<pre>
+Project
+|   README.md
+|   package.json
+|   package-lock.json
+└───src
+|   |   index.html
+|   └───styles
+|   └───scss
+|   |   └───style.scss
+|   └───scripts
+|   └───img
+└───dist
+</pre>
+    </div>
+    </ol>
+
+    <h4 class="h4"><span>README.md</span></h4>
+
+    <p>
+        The <b>README.md</b> should contain a brief description of your project. 
+        Feel free to delete this guide or rename it to add your own description.
+    </p>
+
+    <h4 class="h4"><span>package.json</span> <b>&</b> <span>package-lock.json</span></h4>
+
+    <p>
+        These files contain various information about you, your project and the project dependencies, 
+        as well as useful scripts to help you with the development process.
+        <br>
+        Please do not edit these files for the time being, except where you are asked to.
+    </p>
+
+    <h4 class="h4"><span>src</span> <b>&</b> <span>index.html</span></h4>
+
+    <p>
+        The <b>src</b> folder contains any file you would want to add to your website before any processing is done to it. 
+        This is the main folder you will be working in.
+        <br>
+        <br>
+        <b>index.html</b> is the main page for your website which you will be working on. 
+        Feel free to add any new html pages you create directly in the <b>src</b> folder.
+    </p>
+
+    <h4 class="h4"><span>scripts</span></h4>
+
+    <p>
+        The <b>scripts</b> folder will contain any <b>js</b> files you will add to your website. 
+        Eventually <b>index.js</b> is the <i><b>main script</b></i> file of your project.
+        <br>
+        Feel free to use this file to add any JavaScript that you want to experiment with.
+    </p>
+
+    <h4 class="h4"><span>scss</span> <b>&</b> <span>style.scss</span></h4>
+
+    <p>
+        The <b>scss</b> folder will contain any <b>scss</b> or <b>css</b> files (depending on your preference). 
+        In order to include additional styles in your project, you must import them to <b>style.scss</b>.
+        <br>
+        <br>
+        <b>style.scss</b> is your style <i><b>entry point</b></i>. Any other <b>scss</b> or <b>css</b> imported to this file can be used, 
+        and any styles written directly to this file will be applied.
+    </p>
+
+    <h4 class="h4"><span>img</span> <b>&</b> <span>fonts</span></h4>
+
+    <p>
+        For the sake of organization and good project structure practices, 
+        please use these folders in order to keep your images and fonts respectively.
+    </p>
+
+    <h4 class="h4"><span>dist</span></h4>
+
+    <p>
+        The <b>dist</b> folder will be automatically generated whenever your run the build script:
+    </p>
+
+    <ol>
+        <div class="background">
+        <code>npm run build</code>
+        </div>
+    </ol>
+
+    <p>
+        This folder will contain your built project, ready to be deployed online. 
+        It is excluded from <b>git</b> tracking since it is not customary to include compiled code in a development project.
+    </p>
+
+    <br>
+
 </body>
 
 </html>
