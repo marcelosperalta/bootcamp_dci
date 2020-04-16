@@ -218,4 +218,7 @@ Folder **[200414](https://github.com/marcelosperalta/dci/tree/master/200414)** (
 * Sass (Sass, Scss, .gitignore)
 
 Folder **[200415](https://github.com/marcelosperalta/dci/tree/master/200415)** (Class 15.04.2020)
-* Sass (Scss: variables, At-Rules (@import, @function))
+* Sass (variables, At-Rules (@import, @function))
+
+Folder **[200416](https://github.com/marcelosperalta/dci/tree/master/200416)** (Class 16.04.2020)
+* Sass (At-Rules (@mixin and @include))
