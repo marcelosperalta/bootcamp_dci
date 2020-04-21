@@ -225,3 +225,6 @@ Folder **[200416](https://github.com/marcelosperalta/dci/tree/master/200416)** (
 
 Folder **[200420](https://github.com/marcelosperalta/dci/tree/master/200420)** (Class 20.04.2020)
 * DOM (Document, Window, getElementsByTagName, getElementById, querySelector, outerHTML, innerHTML)
+
+Folder **[200421](https://github.com/marcelosperalta/dci/tree/master/200421)** (Class 21.04.2020)
+* DOM (Node, NodeList, document.querySelector, document.querySelectorAll(), .forEach, .classList.add...)
