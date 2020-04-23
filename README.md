@@ -231,3 +231,6 @@ Folder **[200421](https://github.com/marcelosperalta/dci/tree/master/200421)** (
 
 Folder **[200422](https://github.com/marcelosperalta/dci/tree/master/200422)** (Class 22.04.2020)
 * DOM (Document.write(), Document.createElement(), Document.createTextNode(), Node.appendChild())
+
+Folder **[200423](https://github.com/marcelosperalta/dci/tree/master/200423)** (Class 23.04.2020)
+* DOM (Exercises)
