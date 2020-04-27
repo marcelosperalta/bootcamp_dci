@@ -234,3 +234,6 @@ Folder **[200422](https://github.com/marcelosperalta/dci/tree/master/200422)** (
 
 Folder **[200423](https://github.com/marcelosperalta/dci/tree/master/200423)** (Class 23.04.2020)
 * DOM (Exercise "To-do list")
+
+Folder **[200427](https://github.com/marcelosperalta/dci/tree/master/200427)** (Class 27.04.2020)
+* DOM (Node, Node.previousSibling, .previousElementSibling, Element.closest(), Element.matches()...)
