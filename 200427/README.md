@@ -55,7 +55,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML
 
 # "Reading part"
 
-### Differences from innerText
+## Differences from innerText
 
 https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent#Differences_from_innerText
 

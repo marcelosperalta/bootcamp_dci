@@ -237,3 +237,6 @@ Folder **[200423](https://github.com/marcelosperalta/dci/tree/master/200423)** (
 
 Folder **[200427](https://github.com/marcelosperalta/dci/tree/master/200427)** (Class 27.04.2020)
 * DOM (Node, Node.previousSibling, .previousElementSibling, Element.closest(), Element.matches()...)
+
+Folder **[200428](https://github.com/marcelosperalta/dci/tree/master/200428)** (Class 28.04.2020)
+* DOM (EventListener, addEventListener(), onclick, mouseover event, mouseleave event, keypress event...)
