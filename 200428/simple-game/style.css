@@ -1,0 +1,20 @@
+body {
+    background-image: url(./bg.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+  }
+.mini {
+  position: absolute;
+  font-size: 2rem;
+  z-index: 1;
+}
+.final {
+  position: absolute;
+  top: 50%;
+  right: 5%;
+  width: 3rem;
+  height: 3rem;
+  background-color: white;
+}
