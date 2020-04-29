@@ -242,4 +242,4 @@ Folder **[200428](https://github.com/marcelosperalta/dci/tree/master/200428)** (
 * DOM (EventListener, addEventListener(), onclick, mouseover event, mouseleave event, keypress event...)
 
 Folder **[200429](https://github.com/marcelosperalta/dci/tree/master/200429)** (Class 29.04.2020)
-* DOM (removeEventListener() and exercise)
+* DOM (removeEventListener(), "Weekend Countdown App" and exercise)

@@ -7,6 +7,16 @@ https://www.w3.org/TR/REC-DOM-Level-1/introduction.html
 
 https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener
 
+# Weekend Countdown App
+
+## .toLocaleDateString()
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString
+
+## Code
+
+https://github.com/marcelosperalta/dci/tree/master/200429/weekend-countdown
+
 # Exercise
 
 #### Simple calculator
@@ -21,12 +31,3 @@ The user will be able to input two numbers for which they would like to do two t
 Bonus:  
 * Include other arithmetic operations;
 * The user can choose the operation from a select list (+, *, -, /, %).
-
-# Weekend Countdown App
-
-## .toLocaleDateString()
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString
-
-## Code
-
