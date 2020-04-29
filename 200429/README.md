@@ -21,3 +21,12 @@ The user will be able to input two numbers for which they would like to do two t
 Bonus:  
 * Include other arithmetic operations;
 * The user can choose the operation from a select list (+, *, -, /, %).
+
+# Weekend Countdown App
+
+## .toLocaleDateString()
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString
+
+## Code
+
