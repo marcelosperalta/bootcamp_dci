@@ -36,7 +36,7 @@ Instructions:
 * Uplode your favorite movie images and create your own design, write a function that adds and handles the dynamic pill behaviour;
 * Deploy this page on Github Pages.
 
-Hint: Refer to the representation below, for an idea of what your result should look like.
+Hint:
+* Refer to the representation below, for an idea of what your result should look like.
 
-
-
+![200430](./img/demo.gif)

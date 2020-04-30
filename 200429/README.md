@@ -25,6 +25,10 @@ https://en.wikipedia.org/wiki/Type_inference
 
 https://www.kylesletten.com/2019/01/25/type-inference-in-javascript.html
 
+## DRY (Don't repeat yourself)
+
+https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+
 # Exercise
 
 #### Simple calculator
