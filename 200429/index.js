@@ -81,3 +81,29 @@ function calcSubtraction() {
         null
     }
 }
+
+// multiplication
+function calcMultiplication() {
+    var data1 = parseInt(document.getElementById("firstNumberMul").value);
+    var data2 = parseInt(document.getElementById("secondNumberMul").value);
+    mul = data1 * data2;
+    if (mul >= 0 || mul <= 0) {
+        console.log(mul);
+        document.querySelector('#resultMul').textContent = mul;
+    } else {
+        null
+    }
+}
+
+// division
+function calcDivision() {
+    var data1 = parseInt(document.getElementById("firstNumberDiv").value);
+    var data2 = parseInt(document.getElementById("secondNumberDiv").value);
+    div = data1 / data2;
+    if (div >= 0 || div <= 0) {
+        console.log(div);
+        document.querySelector('#resultDiv').textContent = div;
+    } else {
+        null
+    }
+}
