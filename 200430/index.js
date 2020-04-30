@@ -1,6 +1,6 @@
 // Event Bubbling
 
-
+// food list
 const list = document.querySelector(".container ul");
 list.addEventListener("click", function (e) {
     if (e.target.className == "delete") {
@@ -10,12 +10,15 @@ list.addEventListener("click", function (e) {
     }
     // alert("Hi");
 });
+//
+
 
 // const del = document.querySelector(".delete");
 // del.addEventListener("click", function () {
 //     event.stopPropagation();
 //     console.log("Nice ");
 // });
+
 
 // checkbox hide
 const hide = document.querySelector("#hide");
