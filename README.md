@@ -243,3 +243,6 @@ Folder **[200428](https://github.com/marcelosperalta/dci/tree/master/200428)** (
 
 Folder **[200429](https://github.com/marcelosperalta/dci/tree/master/200429)** (Class 29.04.2020)
 * DOM (removeEventListener(), "Weekend Countdown App" and exercise)
+
+Folder **[200430](https://github.com/marcelosperalta/dci/tree/master/200430)** (Class 30.04.2020)
+* DOM (Event bubbling and capture, .removeChild(), .classList)

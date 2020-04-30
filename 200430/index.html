@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Event Bubbling</title>
+  </head>
+
+  <style>
+    .delete:hover {
+      cursor: pointer;
+    }
+  </style>
+
+  <body>
+    <div class="container">
+      <h3>Chef choice</h3>
+
+      <!-- food list -->
+      <ul>
+        <li>Pizza<span class="delete"> 🗑</span></li>
+        <li>Falafel<span class="delete"> 🗑</span></li>
+        <li>Sushi<span class="delete"> 🗑</span></li>
+        <li>Döner<span class="delete"> 🗑</span></li>
+      </ul>
+      <!--  -->
+
+      <!-- checkbox hide -->
+      <form>
+        <input type="checkbox" id="hide">
+        <label for="hide">Hide this list</label>
+      </form>
+      <!--  -->
+    </div>
+
+    <!-- My JavaScript             -->
+    <script src="./index.js"></script>
+    <!--                           -->
+  </body>
+</html>

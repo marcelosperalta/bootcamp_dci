@@ -23,6 +23,7 @@ header.addEventListener("mouseleave", whiteBg);
 // header.removeEventListener("mouseover", function () {
 //     this.style.backgroundColor = "red";
 // });
+//
 
 
 // pop up message
@@ -34,6 +35,7 @@ function windowLoad() {
     // alert("Hi new person");
 }
 window.addEventListener("load", windowLoad);
+//
 
 
 // form
@@ -48,22 +50,34 @@ function changeColor() {
     event.preventDefault();
     form.style.backgroundColor = "pink"
 }
-
-// calculator
-// var sumNum1 = document.querySelector(".num1");
-// var sumNum1 = document.querySelector('input');
-// var sumNum2 = document.querySelector(".num2");
-// sumNum2.querySelector('input');
-// var sum = sumNum1 + sumNum2;
-// var result = document.querySelector(".sum");
-// sumNum1.addEventListener('input', (e) => {
-//   result.textContent = e;
-// });
+//
 
 
-var sumNum1 = document.querySelector("#firstNumber");
-var result = document.querySelector("#sumResult");
+// calculator:
 
-sumNum1.addEventListener('input', (e) => {
-  result.textContent = e;
-});
+// addition
+function calcAddition() {
+    var data1 = parseInt(document.getElementById("firstNumberAdd").value);
+    var data2 = parseInt(document.getElementById("secondNumberAdd").value);
+    sum = data1 + data2;
+    if (sum >= 0) {
+        console.log(sum);
+        document.querySelector('#resultAdd').textContent = sum;
+        // document.querySelector('#sumResult') = sum;
+    } else {
+        null
+    }
+}
+
+// subtraction
+function calcSubtraction() {
+    var data1 = parseInt(document.getElementById("firstNumberSub").value);
+    var data2 = parseInt(document.getElementById("secondNumberSub").value);
+    sub = data1 - data2;
+    if (sub >= 0 || sub <= 0) {
+        console.log(sub);
+        document.querySelector('#resultSub').textContent = sub;
+    } else {
+        null
+    }
+}

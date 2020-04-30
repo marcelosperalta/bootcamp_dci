@@ -3,54 +3,91 @@
 <html lang="en">
 
   <head>
-
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
     <title>More on Events</title>
-
   </head>
 
-  <body>
-    <!-- weekend countdown app -->
-    <a href="./weekend-countdown/weekend.html">>>>>> Weekend Countdown App</a>
+  <style>
+    * {
+      text-align: center;
+    }
+    .container input {
+      width: 40px;
+    }
+  </style>
 
-    <!-- h1 -->
+  <body>
+    <br>
+    <!-- weekend countdown app                                             -->
+    <a href="./weekend-countdown/weekend.html">
+      <b>Weekend Countdown App</b>
+    </a>
+    <!--                                                                   -->
+
+    <br>
+    <br>
+    <hr>
+
+    <!-- h1                                              -->
     <h1>Hi, this is an "event" place. I am "h1".</h1>
     <!-- STOP Listening -->
     <button onclick="stop()">STOP Listening "h1".</button>
     <!-- START Listening -->
     <button onclick="start()">START Listening "h1".</button>
+    <!--                                                 -->
 
     <br>
     <br>
+    <hr>
+    <br>
 
-    <!-- form -->
+    <!-- form                                           -->
     <form action="script.js">
       <input type="text" name="userName" id="userData">
       <input type="submit" value="Send">
       <input type="reset" value="Clear">
       <button onclick="changeColor()">Change Color</button>
     </form>
+    <!--                                                -->
 
     <br>
+    <hr>
+    <br>
 
-    <!-- calculator -->
+    <!-- calculator                                   -->
     <div class="container">
-      <input type="text" name="num1" id="firstNumber" />
+      <b>Calculator</b>
+      <br>
+      <br>
+      <!-- addition -->
+      <input type="text" name="num1" id="firstNumberAdd" onchange="calcAddition()" />
       <span>+</span>
-      <input type="text" name="num2" id="secondNumber" />
+      <input type="text" name="num2" id="secondNumberAdd" onchange="calcAddition()" />
       <span>=</span>
-      <p name="sum" id="sumResult"></p>
-      <!-- <input type="text" name="sum" id="sumResult" /> -->
-      <!-- readonly  -->
+      <span id="resultAdd"></span>
+      <!-- <input type="text" name="sum" id="sumResult" readonly /> -->
+      <br>
+      <br>
+      <!-- subtraction -->
+      <input type="text" name="num1" id="firstNumberSub" onchange="calcSubtraction()" />
+      <span>-</span>
+      <input type="text" name="num2" id="secondNumberSub" onchange="calcSubtraction()" />
+      <span>=</span>
+      <span id="resultSub"></span>
+      <!-- <input type="text" name="sum" id="sumResult" readonly /> -->
+      <!--   -->
     </div>
+    <!--                                             -->
 
+    <!-- pop up message    -->
     <div class="result"></div>
+    <!--                   -->
 
-    <!-- My JavaScript -->
+    <!-- My JavaScript             -->
     <script src="./index.js"></script>
-
+    <!--                           -->
   </body>
 
 </html>

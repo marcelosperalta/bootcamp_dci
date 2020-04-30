@@ -17,6 +17,14 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 https://github.com/marcelosperalta/dci/tree/master/200429/weekend-countdown
 
+# Concepts:
+
+## Type Inference
+
+https://en.wikipedia.org/wiki/Type_inference  
+
+https://www.kylesletten.com/2019/01/25/type-inference-in-javascript.html
+
 # Exercise
 
 #### Simple calculator
