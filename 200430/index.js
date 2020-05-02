@@ -1,3 +1,8 @@
+// Principles:
+// DRY   - Don't Repeat Yourself    - https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+// KISS  - Keep It Stupid Simple    - https://en.wikipedia.org/wiki/KISS_principle
+// YAGNI - You aren't gonna need it - https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it
+
 // Event Bubbling
 
 // food list
