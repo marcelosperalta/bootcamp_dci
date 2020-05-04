@@ -1,0 +1,24 @@
+* {
+  margin:              0;
+  padding:             0;
+  box-sizing: border-box;
+}
+:root {
+  font-family:     arial;
+}
+body {
+  height:          100vh;
+  display:          flex;
+}
+h1 {
+  text-align:     center;
+  margin-top:       10px;
+}
+main {
+  margin-left:      30px;
+}
+img {
+  width:            8rem;
+  height:           8rem;
+}
+

@@ -242,7 +242,10 @@ Folder **[200428](https://github.com/marcelosperalta/dci/tree/master/200428)** (
 * DOM (EventListener, addEventListener(), onclick, mouseover event, mouseleave event, keypress event...)
 
 Folder **[200429](https://github.com/marcelosperalta/dci/tree/master/200429)** (Class 29.04.2020)
-* DOM (removeEventListener(), "Weekend Countdown App" and exercise)
+* DOM (removeEventListener(), "Weekend Countdown App" and exercise "Simple Calculator")
 
 Folder **[200430](https://github.com/marcelosperalta/dci/tree/master/200430)** (Class 30.04.2020)
-* DOM (Event bubbling and capture, .removeChild(), .classList)
+* DOM (Event bubbling and capture, .removeChild(), .classList and exercise "Dynamic Pills")
+
+Folder **[200504](https://github.com/marcelosperalta/dci/tree/master/200504)** (Class 04.05.2020)
+* JSON (npm, JSON.parse() and exercise "Dynamic Pills")
