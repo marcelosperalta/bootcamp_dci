@@ -46,6 +46,12 @@ Project
 |   └───images
 ```
 
+# HTML
+
+## script > type > module
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script#attr-type
+
 # Javascript 
 
 ## defer
@@ -78,11 +84,11 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 Description:
 
-* Today’s assignment is to use JSON in your movie app from [last week](https://github.com/marcelosperalta/dci/tree/master/200430#exercise).
+* Today’s assignment is to use [JSON](https://www.json.org/json-en.html) in your movie app from [last week](https://github.com/marcelosperalta/dci/tree/master/200430#exercise).
 
 Notes:
 
-* remember you  need to use module script;
-* write DRY _index.html_ file;
-* export your object;
-* import that object into your _index.js_.
+* remember you need to use [module](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script#attr-type) script;
+* write [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) _index.html_ file;
+* [export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export) your object;
+* [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import) that object into your _index.js_.
