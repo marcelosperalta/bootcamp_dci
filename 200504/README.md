@@ -52,6 +52,10 @@ Project
 
 https://javascript.info/script-async-defer#defer
 
+## JSON.stringify()
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
+
 ## Parse 
 
 https://developer.mozilla.org/en-US/docs/Glossary/Parse
