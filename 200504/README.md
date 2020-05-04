@@ -16,7 +16,7 @@ HTML, CSS and JavaScript with built-in Sass support.
 
 ### Setup
 
-1. Clone the https://github.com/FBw-26/live-coding/tree/master/may/04-05 repo's to your machine;
+1. Clone the [today's repo](https://github.com/FBw-26/live-coding/tree/master/may/04-05) to your machine;
 
 2. Install the dependencies;  
     ```
