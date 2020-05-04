@@ -248,4 +248,4 @@ Folder **[200430](https://github.com/marcelosperalta/dci/tree/master/200430)** (
 * DOM (Event bubbling and capture, .removeChild(), .classList and exercise "Dynamic Pills")
 
 Folder **[200504](https://github.com/marcelosperalta/dci/tree/master/200504)** (Class 04.05.2020)
-* JSON (npm, JSON.parse() and exercise "Dynamic Pills")
+* JSON (npm, JSON.stringify(), JSON.parse(), export, import and exercise "Dynamic Pills")

@@ -52,6 +52,14 @@ Project
 
 https://javascript.info/script-async-defer#defer
 
+## export
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export
+
+## import
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
+
 ## JSON.stringify()
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
