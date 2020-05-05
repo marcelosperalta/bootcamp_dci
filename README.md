@@ -251,4 +251,4 @@ Folder **[200504](https://github.com/marcelosperalta/dci/tree/master/200504)** (
 * JSON (npm, JSON.stringify(), JSON.parse(), export, import and exercise "Dynamic Pills")
 
 Folder **[200505](https://github.com/marcelosperalta/dci/tree/master/200505)** (Class 05.05.2020)
-* JavaScript (Promise and exercise "Promise me a modal")
+* JavaScript (.setTimeout(), Promise and exercise "Promise me a modal")
