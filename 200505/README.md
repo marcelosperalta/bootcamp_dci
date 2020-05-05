@@ -8,6 +8,10 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/
 
+## modal
+
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLDialogElement/showModal
+
 # Exercise
 
 ## Promise me a modal

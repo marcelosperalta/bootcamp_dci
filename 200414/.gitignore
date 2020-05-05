@@ -1,0 +1,10 @@
+# Generate output
+dist/
+# Generate styles
+src/styles/
+# Dependency dir
+node_modules/
+# VS code config
+.vscode/
+# .DS_Store ( only for Mac users)
+.DS_Store
