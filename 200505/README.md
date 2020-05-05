@@ -8,6 +8,10 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 https://medium.com/@kevinyckim33/what-are-promises-in-javascript-f1a5fc5b34bf
 
+## Asynchronous Programming
+
+https://eloquentjavascript.net/11_async.html
+
 ## Blocking vs Non-Blocking code
 
 https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/
