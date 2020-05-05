@@ -37,3 +37,8 @@ Instructions:
 Notes:
 
 * The user should be able to close the modal.
+
+References:
+
+_GlobalEventHandlers.onclick_  
+https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onclick
