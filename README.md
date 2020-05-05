@@ -249,3 +249,6 @@ Folder **[200430](https://github.com/marcelosperalta/dci/tree/master/200430)** (
 
 Folder **[200504](https://github.com/marcelosperalta/dci/tree/master/200504)** (Class 04.05.2020)
 * JSON (npm, JSON.stringify(), JSON.parse(), export, import and exercise "Dynamic Pills")
+
+Folder **[200505](https://github.com/marcelosperalta/dci/tree/master/200505)** (Class 05.05.2020)
+* JavaScript (Promise)
