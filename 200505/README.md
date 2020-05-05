@@ -4,6 +4,10 @@
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
 
+## Promises in JavaScript explained whimsically
+
+https://medium.com/@kevinyckim33/what-are-promises-in-javascript-f1a5fc5b34bf
+
 ## Blocking vs Non-Blocking code
 
 https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/
