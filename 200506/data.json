@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Ali",
+      "age": 22,
+      "city": "Berlin",
+      "photo": "🤓"
+    },
+    {
+      "id": 2,
+      "name": "Olga",
+      "age": 43,
+      "city": "Paris",
+      "photo": "👩🏼‍⚕️"
+    },
+    {
+      "id": 3,
+      "name": "Nancy",
+      "age": 19,
+      "city": "LA",
+      "photo": "👧🏻"
+    },
+    {
+      "id": 4,
+      "name": "Zain",
+      "age": 26,
+      "city": "Moscow",
+      "photo": "😎"
+    }
+  ]

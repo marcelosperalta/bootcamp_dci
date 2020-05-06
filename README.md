@@ -252,3 +252,6 @@ Folder **[200504](https://github.com/marcelosperalta/dci/tree/master/200504)** (
 
 Folder **[200505](https://github.com/marcelosperalta/dci/tree/master/200505)** (Class 05.05.2020)
 * JavaScript (.setTimeout(), Promise and exercise "Promise me a modal")
+
+Folder **[200506](https://github.com/marcelosperalta/dci/tree/master/200506)** (Class 06.05.2020)
+* JavaScript (API, Fetch API)
