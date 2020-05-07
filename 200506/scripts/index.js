@@ -23,7 +23,7 @@
 
 // Fetch Text
 const fetchTextFile = () => {
-    fetch("../plain.txt")
+    fetch("./plain.txt")
         // .then((response) => console.log(response))
         .then((response) => response.text())
         .then((data) => {
