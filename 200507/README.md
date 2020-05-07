@@ -6,6 +6,10 @@ https://any-api.com/
 
 # JavaScript
 
+## Asynchronous Programming
+
+https://eloquentjavascript.net/11_async.html
+
 ## async function
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
