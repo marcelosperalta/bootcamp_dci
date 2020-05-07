@@ -256,4 +256,7 @@ Folder **[200505](https://github.com/marcelosperalta/dci/tree/master/200505)** (
 Folder **[200506](https://github.com/marcelosperalta/dci/tree/master/200506)** (Class 06.05.2020)
 * JavaScript (API, Fetch API)
 
+Folder **[200507](https://github.com/marcelosperalta/dci/tree/master/200507)** (Class 07.05.2020)
+* JavaScript (async function, await)
+
 [Webpage with classes and homework about HTML, CSS, Sass, DOM and JSON](https://marcelosperalta.github.io/dci/)
