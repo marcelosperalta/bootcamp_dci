@@ -9,6 +9,12 @@
 <style>
     * {
         font-family: Arial, Helvetica, sans-serif;
+        margin: 5px;
+    }
+
+    table {
+        margin-top: 11px;
+        margin-bottom: 11px;
     }
 
     table,
@@ -34,10 +40,20 @@
     a {
         text-decoration: none;
     }
+
+    .goTop,
+    .goBack {
+        border: 1px solid black;
+        border-radius: 5px;
+        color: blueviolet;
+        padding: 3px;
+        font-weight: bold;
+        margin-right: 0;
+    }
 </style>
 
 <body>
-    <a href="https://github.com/marcelosperalta/dci">Go back</a>
+    <a class="goBack" href="https://github.com/marcelosperalta/dci">Go back</a>
     <table>
         <thead>
             <tr>
@@ -320,7 +336,8 @@
             </tr>
         </tbody>
     </table>
-    <a href="https://github.com/marcelosperalta/dci">Go back</a>
+    <a class="goBack" href="https://github.com/marcelosperalta/dci">Go back</a>
+    <a class="goTop" href="#">Top</a>
 </body>
 
 </html>
