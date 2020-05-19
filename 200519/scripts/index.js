@@ -9,7 +9,8 @@
 "use strict";
 // "sloppy mode";
 
-class GitHubApi {
+
+class GitHubApi { // Classes https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
     constructor(options = {}) {
         this.options = {
             container: "#anyElement",
@@ -76,7 +77,7 @@ class GitHubApi {
         return `
                 <form class="form">
                     <label for="username">Name</label>
-                    <input type="text" class="inputText" placeholder="Github username" required>
+                    <input type="text" class="inputText" placeholder="GitHub username" required>
                     <input type="submit" class="btn" value="Submit"/>
                 </form>
                 <div class="repositories"></div>

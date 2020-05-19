@@ -2,15 +2,26 @@
 
 /* main container */
 .container {
+    /* border: 1px solid black; */
     margin: 0 auto;
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
     flex-direction: column;
   }
+  /* GitHub Username Widget tittle */
   h2 {
-    color: lightseagreen;
-    font-size: large;
+    background-color: purple;
+    border-radius: 15px;
+    padding: 1rem;
+    color: white;
+    font-size: 2em;
+    width: 25rem;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
   }
   /* result from js */
   .repositories {
@@ -24,19 +35,32 @@
     justify-content: space-evenly;
     align-items: center;
     flex-direction: row;
-    width: 25vw;
+    width: initial;
+    max-width: 100%;
+    background-color: purple;
+    border-radius: 15px;
+    padding: 1rem;
+    color: white;
+    margin: 5px;
   }
   .form label {
-    font-size: medium;
+    font-size: 1.5rem;
+    font-weight: bold;
   }
   .inputText {
-    padding: 0.1em;
-    font-size: medium;
+    padding: 0.3em;
+    font-size: 1rem;
+    border-radius: 5px;
+    margin: 5px;
   }
   .btn {
-    background-color: orange;
+    background-color: lightpink;
     padding: 0.5em;
-    border-radius: 5%;
+    font-size: 0.8rem;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    margin: 5px;
   }
   /* Github widget box styling */
   .widget-box {
@@ -44,15 +68,18 @@
     justify-content: flex-start;
     flex-direction: column;
     text-decoration: none;
-    color: rgb(110, 106, 106);
-    border: 1px solid lightblue;
-    padding: 1.5rem;
-    width: 35vw;
-    background-color: white;
+    margin-top: 10px;
+    background-color: lightpink;
+    border-radius: 15px;
+    padding: 1rem;
+    width: initial;
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
   }
   .widget-box:hover {
-    background-color: lightgray;
+    background-color: hotpink;
   }
   .widget-box p {
-    color: rgb(66, 65, 65);
+    color: darkblue;
   }
