@@ -259,4 +259,10 @@ Folder **[200506](https://github.com/marcelosperalta/dci/tree/master/200506)** (
 Folder **[200507](https://github.com/marcelosperalta/dci/tree/master/200507)** (Class 07.05.2020)
 * JavaScript (async function, await)
 
+Folder **[200518](https://github.com/marcelosperalta/dci/tree/master/200518)** (Class 18.05.2020)
+* Teamwork ("Blackjack" - 1st teamwork from 11.05 to 18.05)
+
+Folder **[200519](https://github.com/marcelosperalta/dci/tree/master/200519)** (Class 19.05.2020)
+* JavaScript (encodeURIComponent(), GitHub Search API)
+
 [Webpage with classes and homework about HTML, CSS, Sass, DOM and JSON](https://marcelosperalta.github.io/dci/)
