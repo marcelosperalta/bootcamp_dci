@@ -1,0 +1,27 @@
+// Header with "Blackjack" title
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 10px double black;
+  width: 19em;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.313em;
+}
+
+// "Blackjack" title
+h1 {
+  text-align: center;
+  color: black;
+  font-size: 4.375em;
+  font-weight: bolder;
+}
+
+// "Dealer and Player cards title" and "Game result display"
+h2 {
+  text-align: center;
+  color: #cafffb;
+  padding: 0.3em;
+  font-size: 1.6em;
+}

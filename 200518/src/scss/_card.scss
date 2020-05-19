@@ -1,0 +1,99 @@
+// Cards front side
+.card-holder,
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  justify-content: flex-start;
+  .card {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    margin: 0.313em;
+    width: 5em;
+    max-width: 100%;
+    height: 8em;
+    .cardValueTop,
+    .cardValueBottom {
+      background-color: initial;
+      padding: 0.188em;
+      font-family: "Cards", Arial, Helvetica, sans-serif;
+      font-size: 1.25em;
+    }
+    .cardValueTop {
+      display: flex;
+      flex-direction: column;
+      align-content: flex-start;
+      justify-content: flex-start;
+    }
+    .cardValueBottom {
+      display: flex;
+      flex-direction: column;
+      // align-items: flex-end;
+      // justify-content: flex-end;
+      transform: rotate(180deg);
+    }
+    .heartsShape,
+    .diamondsShape,
+    .clubsShape,
+    .spadesShape {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background-color: initial;
+      height: 80%;
+      width: 80%;
+      margin-left: 10%;
+      background-position: center;
+      background-size: 50%;
+      background-repeat: no-repeat;
+    }
+    .heartsShape {
+      background-image: url(../images/hearts.png);
+    }
+    .diamondsShape {
+      background-image: url(../images/diamonds.png);
+    }
+    .clubsShape {
+      background-image: url(../images/clubs.png);
+    }
+    .spadesShape {
+      background-image: url(../images/spades.png);
+    }
+  }
+}
+
+#player-cards {
+  .card:nth-child(8) {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-left: 12.75em;
+  }
+}
+
+// Card backside
+.card-back {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .cardBackShape {
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    margin: 0.313em;
+    width: 5em;
+    height: 8em;
+    background-color: white;
+    background-image: url(../images/back.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 90% 93%;
+  }
+}

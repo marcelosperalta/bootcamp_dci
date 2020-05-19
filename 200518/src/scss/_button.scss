@@ -1,0 +1,26 @@
+// "NEW GAME", "HIT", and "STAND" buttons
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1em;
+  input {
+    border: 3px groove #32bf84;
+    border-radius: 10px;
+    margin: 0.5em;
+    height: 3em;
+    width: 7em;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #32bf84;
+    font-size: 1.1em;
+    font-family: "Blackjack", Arial, Helvetica, sans-serif;
+    display: flex;
+    color: #cafffb;
+  }
+  input:hover {
+    font-weight: bold;
+    color: #048243;
+  }
+}

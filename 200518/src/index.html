@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Favicon (favorite icon / tab icon) -->
+  <link rel="shortcut icon" type="image/png" href="./images/jackfavicon.png" />
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="./styles/style.css" />
+
+  <title>Blackjack</title>
+</head>
+
+<body>
+  <!-- Header with "Blackjack" title -->
+  <div class="header">
+    <h1>Blackjack</h1>
+  </div>
+
+  <!-- "NEW GAME", "HIT", and "STAND" buttons -->
+  <div class="buttons">
+    <div id="newGame">
+      <input type="button" id="new-game-button" value="NEW GAME" onclick="newGame();" />
+    </div>
+    <div id="hit" class="hide">
+      <input type="button" id="hit-button" value="HIT" onclick="hit();" />
+    </div>
+    <div id="stand" class="hide">
+      <input type="button" id="stand-button" value="STAND" onclick="stand();" />
+    </div>
+  </div>
+
+  <!-- Wins and Losses display -->
+  <div class="winsandlosses">
+    <div id="wins"></div>
+    <div id="losses"></div>
+  </div>
+
+  <!-- Table for Dealer and Player cards -->
+  <div class="container-1">
+    <!-- Game result display -->
+    <div class="display-result"></div>
+    <!-- Dealer cards -->
+    <div class="card-holder" id="dealer-cards"></div>
+    <!-- Player cards -->
+    <div class="card-holder" id="player-cards"></div>
+    <!-- Four initial cards to be hidden when button "NEW GAME" is pressed -->
+    <div class="table-cards-start" id="table-cards-start">
+      <div class="card card-1">
+        <span class="cardValueTop">A</span>
+        <span class="clubsShape">
+          <img src="./images/clubs.png" alt="clubs" width="50px" />
+        </span>
+        <span class="cardValueBottom">A</span>
+      </div>
+      <div class="card card-2">
+        <span class="cardValueTop">A</span>
+        <span class="heartsShape">
+          <img src="./images/hearts.png" alt="hearts" width="50px" />
+        </span>
+        <span class="cardValueBottom">A</span>
+      </div>
+      <div class="card card-3">
+        <span class="cardValueTop">A</span>
+        <span class="spadesShape">
+          <img src="./images/spades.png" alt="spades" width="50px" />
+        </span>
+        <span class="cardValueBottom">A</span>
+      </div>
+      <div class="card card-4">
+        <span class="cardValueTop">A</span>
+        <span class="diamondsShape">
+          <img src="./images/diamonds.png" alt="diamonds" width="50px" />
+        </span>
+        <span class="cardValueBottom">A</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Chips -->
+  <div class="chips">
+    <img class="chip-1" src="./images/chip.png" alt="chip" />
+    <img class="chip-2" src="./images/chip.png" alt="chip" />
+    <img class="chip-1" src="./images/chip.png" alt="chip" />
+    <div id="aces" onclick="makeAceDeck();">
+      <img class="chip-2" id="aces" src="./images/chip.png" alt="chip" />
+    </div>
+    <img class="chip-1" src="./images/chip.png" alt="chip" />
+  </div>
+
+  <!-- JavaScript -->
+  <script src="./scripts/index.js"></script>
+  <script src="./scripts/cards.js"></script>
+  <script src="./scripts/shuffle.js"></script>
+  <script src="./scripts/firstDeal.js"></script>
+  <script src="./scripts/score.js"></script>
+  <script src="./scripts/bust.js"></script>
+  <script src="./scripts/hitMe.js"></script>
+  <script src="./scripts/dealersTurn.js"></script>
+  <script src="./scripts/winnersLosers.js"></script>
+  <script src="./scripts/acedeck.js"></script>
+  <script src="./scripts/newGame.js"></script>
+</body>
+
+</html>

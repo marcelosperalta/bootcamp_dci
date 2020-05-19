@@ -1,0 +1,527 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #048243;
+  position: relative;
+  margin-top: 1rem;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 10px double black;
+  width: 19em;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.313em;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  font-size: 4.375em;
+  font-weight: bolder;
+}
+
+h2 {
+  text-align: center;
+  color: #cafffb;
+  padding: 0.3em;
+  font-size: 1.6em;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1em;
+}
+.buttons input {
+  border: 3px groove #32bf84;
+  border-radius: 10px;
+  margin: 0.5em;
+  height: 3em;
+  width: 7em;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #32bf84;
+  font-size: 1.1em;
+  font-family: "Blackjack", Arial, Helvetica, sans-serif;
+  display: flex;
+  color: #cafffb;
+}
+.buttons input:hover {
+  font-weight: bold;
+  color: #048243;
+}
+
+.container-1 {
+  background-color: #32bf84;
+  border: 10px solid black;
+  border-radius: 4% 4% 50% 50%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 45em;
+  max-width: 100%;
+  min-height: 33em;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Blackjack", Arial, Helvetica, sans-serif;
+  text-align: justify;
+}
+.container-1 .table-cards-start {
+  height: 20em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container-1 .table-cards-start .card {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  margin: 0.313em;
+  width: 5em;
+  height: 8em;
+}
+.container-1 .table-cards-start .card .cardValueTop,
+.container-1 .table-cards-start .card .cardValueBottom {
+  background-color: initial;
+  padding: 0.188em;
+  font-family: "Cards", Arial, Helvetica, sans-serif;
+  font-size: 1.25em;
+}
+.container-1 .table-cards-start .card .cardValueTop {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  justify-content: flex-start;
+}
+.container-1 .table-cards-start .card .cardValueBottom {
+  display: flex;
+  flex-direction: column;
+  transform: rotate(180deg);
+}
+.container-1 .table-cards-start .card .heartsShape,
+.container-1 .table-cards-start .card .diamondsShape,
+.container-1 .table-cards-start .card .clubsShape,
+.container-1 .table-cards-start .card .spadesShape {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: initial;
+  height: 80%;
+  width: 80%;
+  margin-left: 10%;
+  background-position: center;
+  background-size: 50%;
+  background-repeat: no-repeat;
+}
+.container-1 .table-cards-start .card .heartsShape {
+  background-image: url(../images/hearts.png);
+}
+.container-1 .table-cards-start .card .diamondsShape {
+  background-image: url(../images/diamonds.png);
+}
+.container-1 .table-cards-start .card .clubsShape {
+  background-image: url(../images/clubs.png);
+}
+.container-1 .table-cards-start .card .spadesShape {
+  background-image: url(../images/spades.png);
+}
+.container-1 .table-cards-start .card-1 {
+  transform: rotate(340deg);
+  margin-right: -50px;
+}
+.container-1 .table-cards-start .card-2 {
+  transform: rotate(350deg);
+  margin-right: -50px;
+  margin-top: -40px;
+}
+.container-1 .table-cards-start .card-3 {
+  transform: rotate(10deg);
+  margin-top: -40px;
+}
+.container-1 .table-cards-start .card-4 {
+  transform: rotate(20deg);
+  margin-left: -50px;
+}
+
+.card-holder,
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  justify-content: flex-start;
+}
+.card-holder .card,
+.cards .card {
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  margin: 0.313em;
+  width: 5em;
+  max-width: 100%;
+  height: 8em;
+}
+.card-holder .card .cardValueTop,
+.card-holder .card .cardValueBottom,
+.cards .card .cardValueTop,
+.cards .card .cardValueBottom {
+  background-color: initial;
+  padding: 0.188em;
+  font-family: "Cards", Arial, Helvetica, sans-serif;
+  font-size: 1.25em;
+}
+.card-holder .card .cardValueTop,
+.cards .card .cardValueTop {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  justify-content: flex-start;
+}
+.card-holder .card .cardValueBottom,
+.cards .card .cardValueBottom {
+  display: flex;
+  flex-direction: column;
+  transform: rotate(180deg);
+}
+.card-holder .card .heartsShape,
+.card-holder .card .diamondsShape,
+.card-holder .card .clubsShape,
+.card-holder .card .spadesShape,
+.cards .card .heartsShape,
+.cards .card .diamondsShape,
+.cards .card .clubsShape,
+.cards .card .spadesShape {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: initial;
+  height: 80%;
+  width: 80%;
+  margin-left: 10%;
+  background-position: center;
+  background-size: 50%;
+  background-repeat: no-repeat;
+}
+.card-holder .card .heartsShape,
+.cards .card .heartsShape {
+  background-image: url(../images/hearts.png);
+}
+.card-holder .card .diamondsShape,
+.cards .card .diamondsShape {
+  background-image: url(../images/diamonds.png);
+}
+.card-holder .card .clubsShape,
+.cards .card .clubsShape {
+  background-image: url(../images/clubs.png);
+}
+.card-holder .card .spadesShape,
+.cards .card .spadesShape {
+  background-image: url(../images/spades.png);
+}
+
+#player-cards .card:nth-child(8) {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  margin-left: 12.75em;
+}
+
+.card-back {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-back .cardBackShape {
+  border: 1px solid black;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  margin: 0.313em;
+  width: 5em;
+  height: 8em;
+  background-color: white;
+  background-image: url(../images/back.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 90% 93%;
+}
+
+.chips {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1em;
+}
+.chips .chip-1,
+.chips .chip-2 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin: 0.125em;
+}
+.chips .chip-1 {
+  background-color: #32bf84;
+}
+.chips .chip-2 {
+  background-color: #cafffb;
+}
+
+.hide {
+  display: none !important;
+}
+
+.show {
+  display: block;
+}
+
+.display-result {
+  padding: 0.5em;
+}
+.display-result h2 {
+  background-color: transparent;
+  border: 3px groove transparent;
+  border-radius: 10px;
+  width: 25em;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Blackjack", Arial, Helvetica, sans-serif;
+  font-size: 1.5em;
+  text-align: center;
+  color: firebrick;
+}
+
+.winsandlosses {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1rem;
+  font-family: "Blackjack", Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  padding: 1em;
+}
+.winsandlosses #wins,
+.winsandlosses #losses {
+  font-size: 1rem;
+}
+.winsandlosses #losses {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+@media screen and (max-width: 600px) {
+  .header {
+    border-bottom: 10px double black;
+    width: 13em;
+  }
+  .header h1 {
+    font-size: 3em;
+  }
+
+  .buttons {
+    padding: 0;
+  }
+  .buttons input {
+    height: 2.5em;
+    width: 6.5em;
+    margin: 0.625em;
+  }
+
+  .container-1 {
+    border: 6px solid black;
+    border-radius: 5%;
+    max-width: 90%;
+    min-height: 26.5em;
+    height: 100%;
+    margin-top: 0;
+    padding: 0;
+    padding-bottom: 0.313em;
+  }
+  .container-1 h2 {
+    width: 100%;
+    font-size: 1.25em;
+  }
+  .container-1 .cardBackShape {
+    margin-top: 0.313em;
+    height: 5.5em;
+    width: 4em;
+  }
+  .container-1 .card {
+    height: 5.5em;
+    width: 4em;
+  }
+  .container-1 .card .cardValueTop,
+.container-1 .card .cardValueBottom {
+    font-size: 0.938em;
+  }
+  .container-1 .card .cardValueTop {
+    width: 4em;
+  }
+  .container-1 .card .cardValueBottom {
+    width: 4em;
+  }
+  .container-1 .card .heartsShape,
+.container-1 .card .diamondsShape,
+.container-1 .card .clubsShape,
+.container-1 .card .spadesShape {
+    background-size: 40%;
+  }
+
+  #player-cards .card:nth-child(8) {
+    margin-left: 0.313em;
+  }
+
+  .chips {
+    padding: 0.313em;
+  }
+
+  .chip-1,
+.chip-2 {
+    max-width: 30px;
+    max-height: 30px;
+    vertical-align: middle;
+  }
+
+  .display-result h2 {
+    width: 100%;
+    font-size: 0.9em;
+    padding: 0;
+  }
+
+  .card-holder {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .table-cards-start {
+    margin-top: 1em;
+  }
+}
+@media screen and (min-width: 600px) and (max-width: 992px) {
+  .winsandlosses {
+    position: fixed;
+    top: 0;
+    justify-content: flex-end;
+  }
+  .winsandlosses #wins,
+.winsandlosses #losses {
+    font-size: 1rem;
+  }
+  .winsandlosses #losses {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+
+  .header {
+    width: 13em;
+    border-bottom: 10px double black;
+  }
+  .header h1 {
+    padding-top: 0;
+    font-size: 3em;
+  }
+
+  .buttons {
+    padding: 0;
+  }
+  .buttons input {
+    height: 2.5em;
+    width: 6.5em;
+    margin: 0.625em;
+  }
+
+  .container-1 {
+    border: 4px solid black;
+    border-radius: 3%;
+    max-width: 90%;
+    min-height: 5em;
+    margin-top: 0;
+    padding: 0;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+  }
+  .container-1 h2 {
+    font-size: 1.25em;
+  }
+  .container-1 .cardBackShape {
+    margin-top: 0.313em;
+    height: 5.5em;
+    width: 4em;
+  }
+  .container-1 .card {
+    height: 5.5em;
+    width: 4em;
+  }
+  .container-1 .card .cardValueTop,
+.container-1 .card .cardValueBottom {
+    font-size: 0.938em;
+  }
+  .container-1 .card .cardValueTop {
+    width: 4em;
+  }
+  .container-1 .card .cardValueBottom {
+    width: 4em;
+  }
+  .container-1 .card .heartsShape,
+.container-1 .card .diamondsShape,
+.container-1 .card .clubsShape,
+.container-1 .card .spadesShape {
+    background-size: 40%;
+  }
+
+  #player-cards .card:nth-child(8) {
+    margin-left: 0.313em;
+  }
+
+  .chips {
+    display: none;
+  }
+
+  .display-result {
+    position: fixed;
+    top: 7%;
+    right: 1%;
+  }
+  .display-result h2 {
+    border: 3px groove #32bf84;
+    background-color: #32bf84;
+    width: 9.5em;
+    font-size: 1em;
+    vertical-align: middle;
+  }
+
+  .table-cards-start {
+    max-height: 12.25em;
+    padding-top: 1.5em;
+  }
+}
+@font-face {
+  font-family: "Blackjack";
+  src: url(../fonts/BLACKJAC.TTF);
+}
+@font-face {
+  font-family: "Cards";
+  src: url(../fonts/CARDC___.TTF);
+}
+
+/*# sourceMappingURL=style.css.map */

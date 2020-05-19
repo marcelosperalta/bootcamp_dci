@@ -1,0 +1,17 @@
+// Game result display
+.display-result {
+  padding: 0.5em;
+  h2 {
+    background-color: transparent;
+    border: 3px groove transparent;
+    border-radius: 10px;
+    width: 25em;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Blackjack", Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+    color: firebrick;
+  }
+}
