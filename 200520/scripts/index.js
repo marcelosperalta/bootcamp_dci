@@ -29,7 +29,6 @@ function callback2(chocolate, callback3) {
         callback3(marshmallow);
     }
 }
-
 function callback3(marshmallow) {
     if (marshmallow == "added") {
         console.log("Cool, your drink is ready!");
@@ -44,15 +43,53 @@ function addElement(newContent) {
     var currentDiv = document.getElementById("div1");
     document.body.insertBefore(newDiv, currentDiv)
 }
-
 // calling the function
 prepareHotChocolate(callback);
-
-
-
-
 // async function version
+// async function prepareHotChocolateAsync() {
+//     try {
+//         const response = await prepareHotChocolate(callback);
+//     } catch (err) {
+//         console.log(err);
+//     }
+// }
+// prepareHotChocolateAsync()
 
 
-
-// Promise version
+// async function version // Promise version
+function milkCheck(response) {
+    return new Promise((resolve) => {
+        setTimeout(() => {
+            if (response == "heated") {
+                resolve("your milk is hot now add chocolate");
+            }
+        }, 3000);
+    });
+}
+function chocolateCheck(response) {
+    return new Promise((resolve) => {
+        resolve(` ${response} now add marshmallow`);
+    });
+}
+function marshmallowCheck(response) {
+    return new Promise((resolve) => {
+        resolve(` ${response} now your drink is ready`);
+    });
+}
+function addElement2(newContent2) {
+    var newDiv = document.createElement("div");
+    var newContent2 = document.createTextNode("Cool, your drink is ready! (async function)");
+    newDiv.appendChild(newContent2);
+    var currentDiv = document.getElementById("div1");
+    document.body.insertBefore(newDiv, currentDiv)
+}
+async function prepareHotCocoa() {
+    const step1 = await milkCheck("heated"); // Starts here < < < < <
+    console.log(step1);
+    const step2 = await chocolateCheck(step1);
+    console.log(step2);
+    const step3 = await marshmallowCheck(step2);
+    console.log(step3);
+    addElement2()
+}
+prepareHotCocoa();
