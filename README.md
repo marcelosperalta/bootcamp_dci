@@ -265,6 +265,9 @@ Folder **[200518](https://github.com/marcelosperalta/dci/tree/master/200518)** (
 Folder **[200519](https://github.com/marcelosperalta/dci/tree/master/200519)** (Class 19.05.2020)
 * JavaScript (encodeURIComponent(), GitHub Search API)
 
+Folder **[200520](https://github.com/marcelosperalta/dci/tree/master/200520)** (Class 20.05.2020)
+* JavaScript (Callback, async function, and Promise _recapitulation_)
+
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
         Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM and JSON

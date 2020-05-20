@@ -11,6 +11,7 @@
 
 
 class GitHubApi { // Classes https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+
     constructor(options = {}) {
         this.options = {
             container: "#anyElement",
@@ -23,6 +24,7 @@ class GitHubApi { // Classes https://developer.mozilla.org/en-US/docs/Web/JavaSc
         // start widget init
         this.init();
     }
+
     init() {
         this.elements.container = document.querySelector(this.options.container);
         this.elements.container.innerHTML = this.parsedInitialTemplate();
