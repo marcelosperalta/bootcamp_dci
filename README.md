@@ -271,6 +271,9 @@ Folder **[200520](https://github.com/marcelosperalta/dci/tree/master/200520)** (
 Folder **[200525](https://github.com/marcelosperalta/dci/tree/master/200525)** (Class 25.05.2020)
 * Node.js (Runtime environment, process, process.argv, require, fs (File System), fs.readFile, fs.writeFile)
 
+Folder **[200526](https://github.com/marcelosperalta/dci/tree/master/200526)** (Class 26.05.2020)
+* Node.js (process.exit(), fs.appendFile, fs.rename, fs.unlink)
+
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
         Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM and JSON

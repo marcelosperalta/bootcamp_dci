@@ -1,3 +1,5 @@
+// console.log(process);
+
 //console.log(`\nTestes:\n`);
 
 function imprimirCabecalho(quantidadeEstrelas, palavra) {
@@ -35,6 +37,7 @@ function imprimirCabecalho(quantidadeEstrelas, palavra) {
 // console.log(`\nExercise:\n`);
 
 const args = process.argv.slice(2);
+// My solution:
 function headerPrinter(args) {
     let stars = "";
     if (process.argv.length == 4) {
@@ -47,3 +50,17 @@ function headerPrinter(args) {
     }
 }
 headerPrinter(args);
+
+// on terminal:
+// node index.js 7 Marcelo
+// result:
+// *******
+// Marcelo
+// *******
+
+// on terminal:
+// node index.js
+// result:
+// **********
+//     Hi
+// **********
