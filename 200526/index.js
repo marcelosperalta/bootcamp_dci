@@ -14,6 +14,21 @@ function sum(numArray) {
 function avg(numArray) {
     return sum(numArray) / numArray.length;
 }
+function med(numArray) {
+    let sorted = numArray.sort();
+    let middleNumber = (sorted.length / 2);
+    if (Number.isInteger(sorted.length / 2)) {
+        return `
+                 Sorted: ${sorted}
+                 Median: ${(sorted[middleNumber - 1] + sorted[middleNumber]) / 2}
+                `;
+    } else {
+        return `
+                Sorted: ${sorted}
+                Median: ${sorted[middleNumber - 0.5]}
+                `;
+    }
+}
 
 const [operation, ...rest] = args;
 
@@ -29,11 +44,18 @@ switch (operation) {
         console.log(avg(numbers));
         break;
     case "med":
-        // console.log(med(numbers));
+        console.log(med(numbers));
         break;
     default:
         console.log(
-            "I cannot do this, please type 'sum' to calculate Sum or 'avg' to calculate average"
+            `
+            I cannot do this,please type:\n
+            'sum' to calculate Summation
+            or
+            'avg' to calculate Average
+            or
+            'med' to calculate Median
+            `
         );
 }
 // on terminal:
@@ -44,3 +66,6 @@ switch (operation) {
 // node index.js agv 4 4 4 5 6
 // result:
 // 4.6
+// node index.js med 1 2 3 4 5 6 8 9
+// result:
+// 4.5
