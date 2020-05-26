@@ -58,14 +58,21 @@ switch (operation) {
             `
         );
 }
+
 // on terminal:
+
 // node index.js sum 4 4 4 5 6
 // result:
 // 23
+
 // or
+
 // node index.js agv 4 4 4 5 6
 // result:
 // 4.6
+
+// or
+
 // node index.js med 1 2 3 4 5 6 8 9
 // result:
 // 4.5
