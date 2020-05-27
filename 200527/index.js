@@ -28,3 +28,15 @@ fs.open("new.txt", "w", (err) => {
     if (err) throw err;
     console.log("Done (new.txt)");
 });
+fs.open("newTextA.txt", "a", (err) => {
+    if (err) throw err;
+    console.log("Done (newTextA.txt)");
+});
+fs.open("newTextAplus.txt", "a+", (err) => {
+    if (err) throw err;
+    console.log(`Done (newTextAplus.txt using "a+")`);
+});
+fs.open("newTextR.txt", "r", (err) => {
+    if (err) throw err;
+    console.log(`Done (newTextR.txt using "r")`);
+});
