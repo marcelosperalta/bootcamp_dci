@@ -122,7 +122,7 @@ Folder **[200229](https://github.com/marcelosperalta/dci/tree/master/200229)** (
 * HTML and CSS (Exercise from class 25.02.2020 - "[Generic Webpage](https://marcelosperalta.github.io/dci/200229/)")
 
 Folder **[200301](https://github.com/marcelosperalta/dci/tree/master/200301)** (Homework 01.03.2020)
-* HTML and CSS (Exercise from class 26.02.2020 - "Wikipedia Article")
+* HTML and CSS (Exercise from class 26.02.2020 - "[Wikipedia Article](https://marcelosperalta.github.io/dci/200301/)")
 
 Folder **[200302](https://github.com/marcelosperalta/dci/tree/master/200302)** (Class 02.03.2020)
 * HTML and CSS (Selectors, Pseudo-classes and Pseudo-elements)
