@@ -128,7 +128,7 @@ Folder **[200302](https://github.com/marcelosperalta/dci/tree/master/200302)** (
 * HTML and CSS (Selectors, Pseudo-classes and Pseudo-elements)
 
 Folder **[200303](https://github.com/marcelosperalta/dci/tree/master/200303)** (Homework 03.03.2020)
-* HTML and CSS (Exercise from class 02.03.2020 - "Periodic Table")
+* HTML and CSS (Exercise from class 02.03.2020 - "[Periodic Table](https://marcelosperalta.github.io/dci/200303/)")
 
 Folder **[200304](https://github.com/marcelosperalta/dci/tree/master/200304)** (Class 04.03.2020)
 * HTML and CSS (Selectors, Pseudo-classes and Pseudo-elements)
