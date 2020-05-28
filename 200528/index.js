@@ -30,4 +30,11 @@ if (args.includes("--help")) {
 // 3. If you included a capitalized letter in the wrong place of your string
 //    the program will correct it for you.
 prepareString(args);
-
+// on terminal:
+// node index.js marcelo peralta
+// result:
+// Marcelo Peralta
+// on terminal:
+// node index.js sAo   pAulo
+// result:
+// Sao Paulo
