@@ -277,6 +277,9 @@ Folder **[200526](https://github.com/marcelosperalta/dci/tree/master/200526)** (
 Folder **[200527](https://github.com/marcelosperalta/dci/tree/master/200527)** (Class 27.05.2020)
 * Node.js (module.exports, fs.copyFile, fs.readFileSync, fs.open, File System Flags)
 
+Folder **[200528](https://github.com/marcelosperalta/dci/tree/master/200528)** (Class 28.05.2020)
+* Node.js (module.exports and exercise)
+
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
         Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM and JSON
