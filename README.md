@@ -92,7 +92,7 @@ Folder **[200213](https://github.com/marcelosperalta/dci/tree/master/200213)** (
 * JavaScript (try...catch, throw, call function several times, setTimeout() and Exercises)
 
 Folder **[200216](https://github.com/marcelosperalta/dci/tree/master/200216)** (Homework 16.02.2020)
-* JavaScript (Exercises from 06.01.2020 to 13.02.2020 - 139 exercises)
+* JavaScript (Exercises from 06.01.2020 to 13.02.2020 - [139 exercises](https://github.com/marcelosperalta/dci/blob/master/200216/index.js))
 
 Folder **[200217](https://github.com/marcelosperalta/dci/tree/master/200217)** (Test 17.02.2020)
 * JavaScript (Test - 9 exercises)
