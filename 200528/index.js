@@ -30,3 +30,4 @@ if (args.includes("--help")) {
 // 3. If you included a capitalized letter in the wrong place of your string
 //    the program will correct it for you.
 prepareString(args);
+
