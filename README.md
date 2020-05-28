@@ -119,7 +119,7 @@ Folder **[200227](https://github.com/marcelosperalta/dci/tree/master/200227)** (
 * HTML (link to other html files) and CSS (box-sizing and position)
 
 Folder **[200229](https://github.com/marcelosperalta/dci/tree/master/200229)** (Homework 29.02.2020)
-* HTML and CSS (Exercise from class 25.02.2020 - "Generic Webpage")
+* HTML and CSS (Exercise from class 25.02.2020 - "[Generic Webpage](https://marcelosperalta.github.io/dci/200229/)")
 
 Folder **[200301](https://github.com/marcelosperalta/dci/tree/master/200301)** (Homework 01.03.2020)
 * HTML and CSS (Exercise from class 26.02.2020 - "Wikipedia Article")
