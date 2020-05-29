@@ -137,7 +137,7 @@ Folder **[200305](https://github.com/marcelosperalta/dci/tree/master/200305)** (
 * HTML and CSS (background-clip)
 
 Folder **[200306](https://github.com/marcelosperalta/dci/tree/master/200306)** (Homework 06.03.2020)
-* HTML and CSS (Exercise from class 04.03.2020 - "Checkers")
+* HTML and CSS (Exercise from class 04.03.2020 - "[Checkers](https://marcelosperalta.github.io/dci/200306/)")
 
 Folder **[200307](https://github.com/marcelosperalta/dci/tree/master/200307)** (Homework 07.03.2020)
 * HTML and CSS (Exercise from class 05.03.2020 - "Sky")
