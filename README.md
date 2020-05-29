@@ -140,7 +140,7 @@ Folder **[200306](https://github.com/marcelosperalta/dci/tree/master/200306)** (
 * HTML and CSS (Exercise from class 04.03.2020 - "[Checkers](https://marcelosperalta.github.io/dci/200306/)")
 
 Folder **[200307](https://github.com/marcelosperalta/dci/tree/master/200307)** (Homework 07.03.2020)
-* HTML and CSS (Exercise from class 05.03.2020 - "Sky")
+* HTML and CSS (Exercise from class 05.03.2020 - "[Sky](https://marcelosperalta.github.io/dci/200307/)")
 
 Folder **[200309](https://github.com/marcelosperalta/dci/tree/master/200309)** (Class 09.03.2020)
 * HTML and CSS (@font-face, font-family, font-style, font-size, font-variant)
