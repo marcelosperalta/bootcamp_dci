@@ -155,7 +155,7 @@ Folder **[200312](https://github.com/marcelosperalta/dci/tree/master/200312)** (
 * HTML and CSS (Media queries and freeCodeCamp HTML and CSS basics)
 
 Folder **[200315](https://github.com/marcelosperalta/dci/tree/master/200315)** (Homework 15.03.2020)
-* HTML and CSS (Exercise from class 11.03.2020 - "YouTube")
+* HTML and CSS (Exercise from class 11.03.2020 - "[YouTube](https://marcelosperalta.github.io/dci/200315/)")
 
 Folder **[200316](https://github.com/marcelosperalta/dci/tree/master/200316)** (Class 16.03.2020)
 * HTML and CSS (Grid)
