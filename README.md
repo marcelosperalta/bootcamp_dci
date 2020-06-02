@@ -176,7 +176,7 @@ Folder **[200321](https://github.com/marcelosperalta/dci/tree/master/200321)** (
 * HTML and CSS (Exercise from class 19.03.2020 - "[X mark](https://marcelosperalta.github.io/dci/200321/)")
 
 Folder **[200322](https://github.com/marcelosperalta/dci/tree/master/200322)** (Homework 22.03.2020)
-* HTML and CSS (Exercise from class 16.03.2020 - "Sign in page")
+* HTML and CSS (Exercise from class 16.03.2020 - "[Sign in page](https://marcelosperalta.github.io/dci/200322/)")
 
 Folder **[200323](https://github.com/marcelosperalta/dci/tree/master/200323)** (Class 23.03.2020)
 * HTML and CSS (script, overflow, white-space)
