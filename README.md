@@ -173,7 +173,7 @@ Folder **[200320](https://github.com/marcelosperalta/dci/tree/master/200320)** (
 * HTML and CSS (Exercise from class 17.03.2020 - "[Full Webpage](https://marcelosperalta.github.io/dci/200320/)")
 
 Folder **[200321](https://github.com/marcelosperalta/dci/tree/master/200321)** (Homework 21.03.2020)
-* HTML and CSS (Exercise from class 19.03.2020 - "X mark")
+* HTML and CSS (Exercise from class 19.03.2020 - "[X mark](https://marcelosperalta.github.io/dci/200321/)")
 
 Folder **[200322](https://github.com/marcelosperalta/dci/tree/master/200322)** (Homework 22.03.2020)
 * HTML and CSS (Exercise from class 16.03.2020 - "Sign in page")
