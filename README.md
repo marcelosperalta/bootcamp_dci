@@ -280,6 +280,9 @@ Folder **[200527](https://github.com/marcelosperalta/dci/tree/master/200527)** (
 Folder **[200528](https://github.com/marcelosperalta/dci/tree/master/200528)** (Class 28.05.2020)
 * Node.js (module.exports and exercise)
 
+Folder **[200602](https://github.com/marcelosperalta/dci/tree/master/200602)** (Class 02.06.2020)
+* Node.js (url.resolve(from, to) / OpenWeather API, creating a package.json file, nodemon, axios)
+
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
         Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM and JSON
