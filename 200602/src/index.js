@@ -8,5 +8,5 @@ weather(args[0], args[1]).then(console.log).catch(console.error);
 // npm start Berlin
 // result:
 // It is now 26.44°C in Berlin, DE
-// Today's weather has clear sky
+// Today's weather has a clear sky
 // Feels like 22.74

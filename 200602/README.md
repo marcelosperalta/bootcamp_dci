@@ -41,3 +41,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get
 ## setter
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set
+
+# Screenshot
+
+![screenshot](./src/img/screenshot.png)
