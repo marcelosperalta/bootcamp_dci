@@ -29,4 +29,4 @@ https://getbootstrap.com/docs/4.4/components/alerts/
 
 https://marcelosperalta.github.io/dci/200402/
 
-![webpage](./images/screen.png)
+![webpage](./img/screen.png)
