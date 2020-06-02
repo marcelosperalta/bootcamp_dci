@@ -209,7 +209,7 @@ Folder **[200402](https://github.com/marcelosperalta/dci/tree/master/200402)** (
 * HTML, CSS and JavaScript (Exercise from class 30.03.2020 - "[Bootstrap](https://marcelosperalta.github.io/dci/200402/)")
 
 Folder **[200403](https://github.com/marcelosperalta/dci/tree/master/200403)** (Homework 03.04.2020)
-* HTML, CSS and JavaScript (Exercise from class 31.03.2020 - "Portfolio")
+* HTML, CSS and JavaScript (Exercise from class 31.03.2020 - "[Portfolio](https://marcelosperalta.github.io/dci/200403/)")
 
 Folder **[200404](https://github.com/marcelosperalta/dci/tree/master/200404)** (Homework 04.04.2020)
 * HTML, CSS and JavaScript (Exercise from class 31.03.2020 - "Portfolio" - "Carousel version")
