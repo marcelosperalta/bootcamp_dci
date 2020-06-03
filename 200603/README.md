@@ -57,3 +57,57 @@ https://en.wikipedia.org/wiki/Composability
 # Screenshot
 
 ![screenshot](./img/screenshot.png)
+
+# Exercise
+
+## Compress File
+
+Create a program to compress files.
+
+The program should compress any file into a [**gzip**](https://www.gnu.org/software/gzip/) archive and notify the user of success.
+
+- Make sure to create `index.js`, and to create your program you should use `createReadStream`, 
+`pipe` and the [`zlib`](https://www.npmjs.com/package/zlib) library.
+- In this repository you will find a file `input.txt` that would have to be compressed by your program
+into `input.txt.gz` by default (if not file path has been provided).
+
+```bash
+$ node index
+File Compressed.
+```
+- After you have executed `index.js` you should be able to see 
+on your program folder the new compressed file `input.txt.gz`.
+
+- The program should also be able to compress files 
+from other folders if you pass a path as an argument. 
+
+For example:
+
+```bash
+$ node index ./Node-FindWord/data.txt
+File Compressed.
+```
+- After you have executed the program that way 
+you should be able to see in the `Node-FindWord` folder the new compressed file `data.txt.gz`.
+
+## Code
+
+https://github.com/marcelosperalta/dci/blob/master/200603/indexExercise.js
+
+## Screenshot
+
+![screenshot](./img/screenshotExercise.png)
+
+## Resource
+
+### zlib (npm)
+
+https://www.npmjs.com/package/zlib
+
+### zlib (Node.js)
+
+https://nodejs.org/api/zlib.html#zlib_zlib
+
+### zlib (Read the Docs)
+
+https://node.readthedocs.io/en/latest/api/zlib/
