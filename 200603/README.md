@@ -122,14 +122,14 @@ https://nodejs.org/api/zlib.html#zlib_zlib
 
 https://nodejs.org/dist/latest-v12.x/docs/api/zlib.html#zlib_zlib_creategzip_options
 
-## Path
+### Path
 
 https://nodejs.org/api/path.html#path_path
 
-## __dirname
+### __dirname
 
 https://nodejs.org/docs/latest/api/globals.html#globals_dirname
 
-## Event: 'close'
+### Event: 'close'
 
 https://nodejs.org/api/stream.html#stream_event_close
