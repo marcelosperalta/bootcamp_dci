@@ -1,4 +1,3 @@
-
 const OpenWeatherClient = require("./weather-client");
 const myKey = require("../../config");
 const API_KEY = myKey;

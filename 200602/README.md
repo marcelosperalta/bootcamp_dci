@@ -6,6 +6,8 @@ https://nodejs.org/en/
 
 https://nodejs.org/docs/latest/api/url.html#url_url_resolve_from_to
 
+## getWeather()
+
 # OpenWeather API
 
 https://openweathermap.org/  
@@ -16,21 +18,49 @@ https://openweathermap.org/current
 
 # Creating a package.json file
 
-npm init  
+- to create package.json  
+
+```
+npm init
+```
 
 https://docs.npmjs.com/creating-a-package-json-file  
 
-# nodemon
+- to create package-lock.json
+
+```
+npm install
+```
+
+https://docs.npmjs.com/configuring-npm/package-locks.html
+
+## chmod
+
+https://en.wikipedia.org/wiki/Chmod  
+
+## npm link
+
+https://docs.npmjs.com/cli/link  
+
+## npm unlink
+
+https://www.npmjs.com/package/unlink  
+
+## nodemon
 
 npm install nodemon  
 
 https://www.npmjs.com/package/nodemon  
 
-# axios
+## axios
 
 npm install axios  
 
 https://www.npmjs.com/package/axios  
+
+## A guide to creating a NodeJS command-line package
+
+https://medium.com/netscape/a-guide-to-create-a-nodejs-command-line-package-c2166ad0452e
 
 # Recapitulation
 
@@ -44,4 +74,10 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set
 
 # Screenshot
 
-![screenshot](./src/img/screenshot.png)
+**My solution:**
+
+![screenshot](./src/img/screenshot1.png)
+
+**Teacher's solution**
+
+![screenshot](./src/img/screenshot2.png)

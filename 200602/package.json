@@ -8,7 +8,7 @@
     "deploy": "chmod +x src/index.js && npm link",
     "undeploy": "npm unlink"
   },
-  "author": "Marcelo Soares Peralta",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
