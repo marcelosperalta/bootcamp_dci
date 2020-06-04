@@ -10,11 +10,11 @@ https://nodejs.org/api/http.html#http_http
 
 https://nodejs.org/api/http.html#http_http_createserver_options_requestlistener
 
-### zlib (Node.js)
+## zlib (Node.js)
 
 https://nodejs.org/api/zlib.html#zlib_zlib
 
-#### zlib.createGzip([options])
+### zlib.createGzip([options])
 
 https://nodejs.org/dist/latest-v12.x/docs/api/zlib.html#zlib_zlib_creategzip_options
 
