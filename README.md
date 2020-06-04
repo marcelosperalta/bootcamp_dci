@@ -281,7 +281,7 @@ Folder **[200528](https://github.com/marcelosperalta/dci/tree/master/200528)** (
 * Node.js (module.exports and exercise)
 
 Folder **[200602](https://github.com/marcelosperalta/dci/tree/master/200602)** (Class 02.06.2020)
-* Node.js (url.resolve(from, to) / OpenWeather API, creating a package.json file, nodemon, axios)
+* Node.js (url.resolve(from, to) / OpenWeather API, creating a package.json file, chmod, link, nodemon, axios)
 
 Folder **[200603](https://github.com/marcelosperalta/dci/tree/master/200603)** (Class 03.06.2020)
 * Node.js (Stream, pipe, fs.createWriteStream(), fs.createReadStream(), and Exercise "Compress File")
