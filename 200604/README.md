@@ -40,10 +40,10 @@ https://zellwk.com/blog/publish-to-npm/
 
 # Screenshot
 
-## **Terminal**
+## **Terminal:**
 
 ![screenshot](./img/screenshotTerminal.png)
 
-## **Browser**
+## **Browser:**
 
 ![screenshot](./img/screenshotBrowser.png)
