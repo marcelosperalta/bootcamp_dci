@@ -110,14 +110,26 @@ https://github.com/marcelosperalta/dci/blob/master/200603/indexExercise.js
 
 https://www.npmjs.com/package/zlib
 
+### zlib (Read the Docs)
+
+https://node.readthedocs.io/en/latest/api/zlib/
+
 ### zlib (Node.js)
 
 https://nodejs.org/api/zlib.html#zlib_zlib
 
-#### zlib.createGzip
+#### zlib.createGzip([options])
 
 https://nodejs.org/dist/latest-v12.x/docs/api/zlib.html#zlib_zlib_creategzip_options
 
-### zlib (Read the Docs)
+## Path
 
-https://node.readthedocs.io/en/latest/api/zlib/
+https://nodejs.org/api/path.html#path_path
+
+## __dirname
+
+https://nodejs.org/docs/latest/api/globals.html#globals_dirname
+
+## Event: 'close'
+
+https://nodejs.org/api/stream.html#stream_event_close

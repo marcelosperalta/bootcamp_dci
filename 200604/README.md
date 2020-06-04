@@ -10,6 +10,22 @@ https://nodejs.org/api/http.html#http_http
 
 https://nodejs.org/api/http.html#http_http_createserver_options_requestlistener
 
+### zlib (Node.js)
+
+https://nodejs.org/api/zlib.html#zlib_zlib
+
+#### zlib.createGzip([options])
+
+https://nodejs.org/dist/latest-v12.x/docs/api/zlib.html#zlib_zlib_creategzip_options
+
+## Path
+
+https://nodejs.org/api/path.html#path_path
+
+## __dirname
+
+https://nodejs.org/docs/latest/api/globals.html#globals_dirname
+
 # env
 
 https://man7.org/linux/man-pages/man1/env.1.html
@@ -24,4 +40,10 @@ https://zellwk.com/blog/publish-to-npm/
 
 # Screenshot
 
-![screenshot](./img/screenshot.png)
+**Terminal**
+
+![screenshot](./img/screenshotTerminal.png)
+
+**Browser**
+
+![screenshot](./img/screenshotBrowser.png)

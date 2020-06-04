@@ -287,7 +287,7 @@ Folder **[200603](https://github.com/marcelosperalta/dci/tree/master/200603)** (
 * Node.js (Stream, pipe, fs.createWriteStream(), fs.createReadStream(), and Exercise "Compress File")
 
 Folder **[200604](https://github.com/marcelosperalta/dci/tree/master/200604)** (Class 04.06.2020)
-* Node.js (HTTP, http.createServer())
+* Node.js (HTTP, http.createServer(), zlib.createGzip(), Path, __dirname)
 
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
