@@ -102,7 +102,7 @@ https://github.com/marcelosperalta/dci/blob/master/200603/indexExercise.js
 
 **Teacher's solution**
 
-![screenshot](./src/img/screenshotExerciseTeacher.png)
+![screenshot](./img/screenshotExerciseTeacher.png)
 
 ## Resource
 
