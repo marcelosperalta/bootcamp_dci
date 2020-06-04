@@ -2,7 +2,16 @@ const http = require("http");
 
 const requestListener = function (req, res) {
     res.writeHead(200);
-    res.end("Hey, I am a server")
+    res.end(`
+    <style>
+        body{
+          background-color: lightcyan;
+        }
+    </style>
+    <h1>
+        Hey, I am a server
+    </h1>
+    `)
 };
 const server = http.createServer(requestListener);
 server.listen(8080);
