@@ -6,8 +6,6 @@ https://nodejs.org/en/
 
 https://nodejs.org/docs/latest/api/url.html#url_url_resolve_from_to
 
-## getWeather()
-
 # OpenWeather API
 
 https://openweathermap.org/  
