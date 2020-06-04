@@ -96,11 +96,11 @@ https://github.com/marcelosperalta/dci/blob/master/200603/indexExercise.js
 
 ## Screenshot
 
-**My solution:**
+### **My solution:**
 
 ![screenshot](./img/screenshotExercise.png)
 
-**Teacher's solution**
+### **Teacher's solution:**
 
 ![screenshot](./img/screenshotExerciseTeacher.png)
 
