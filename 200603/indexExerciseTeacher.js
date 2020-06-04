@@ -18,3 +18,12 @@ const stream = fs
     .pipe(fs.createWriteStream(filePath + ".gz"));
 
 stream.on("close", () => console.log("Done"));
+
+
+// on terminal:
+
+// node indexExerciseTeacher.js
+
+// or 
+
+// node indexExerciseTeacher

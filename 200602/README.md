@@ -74,10 +74,4 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set
 
 # Screenshot
 
-**My solution:**
-
-![screenshot](./src/img/screenshot1.png)
-
-**Teacher's solution**
-
-![screenshot](./src/img/screenshot2.png)
+![screenshot](./src/img/screenshot.png)

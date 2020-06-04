@@ -18,5 +18,11 @@ newWriter.on("pipe", () => {
 
 let reader = fs.createReadStream("newText.txt").pipe(newWriter);
 
+
 // on terminal:
-// node index.js or node index
+
+// node index.js
+
+// or 
+
+// node index

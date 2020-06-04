@@ -18,3 +18,12 @@ if (args[0]) {  // e.g. "node indexExercise ./Node-FindWord/data.txt"
     });
 }
 inp.pipe(gzip).pipe(out);
+
+
+// on terminal:
+
+// node indexExercise.js
+
+// or 
+
+// node indexExercise

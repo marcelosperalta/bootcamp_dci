@@ -96,7 +96,13 @@ https://github.com/marcelosperalta/dci/blob/master/200603/indexExercise.js
 
 ## Screenshot
 
+**My solution:**
+
 ![screenshot](./img/screenshotExercise.png)
+
+**Teacher's solution**
+
+![screenshot](./src/img/screenshotExerciseTeacher.png)
 
 ## Resource
 
@@ -107,6 +113,10 @@ https://www.npmjs.com/package/zlib
 ### zlib (Node.js)
 
 https://nodejs.org/api/zlib.html#zlib_zlib
+
+#### zlib.createGzip
+
+https://nodejs.org/dist/latest-v12.x/docs/api/zlib.html#zlib_zlib_creategzip_options
 
 ### zlib (Read the Docs)
 
