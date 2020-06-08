@@ -13,14 +13,20 @@ function formatData(data) {
 
 module.exports = async function weather(city, country) {
     const client = new OpenWeatherClient(API_KEY);
-    // console.log(client);
     const currentData = await client.getWeather(city, country);
-    // console.log(currentData);
     return formatData(currentData);
-    //return `It is now ${currentData.main.temp}\u00B0C in ${currentData.name}, ${
+};
+
+//or
+// module.exports = async function weather(city, country) {
+    // const client = new OpenWeatherClient(API_KEY);
+    // console.log(client);
+    // const currentData = await client.getWeather(city, country);
+    // console.log(currentData);
+    // return `It is now ${currentData.main.temp}\u00B0C in ${currentData.name}, ${
     //     currentData.sys.country
     //   }
     //  Today's weather ${currentData.weather
     //    .map((condition) => condition.description)
     //    .join(", ")} `;
-};
+// };
