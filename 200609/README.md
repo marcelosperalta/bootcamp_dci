@@ -36,6 +36,10 @@ npm run build
 
 https://web.dev/add-manifest/
 
+# Create React App
+
+https://create-react-app.dev/
+
 # Screenshot
 
 ## Original:
