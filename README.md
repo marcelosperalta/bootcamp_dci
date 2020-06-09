@@ -289,8 +289,11 @@ Folder **[200603](https://github.com/marcelosperalta/dci/tree/master/200603)** (
 Folder **[200604](https://github.com/marcelosperalta/dci/tree/master/200604)** (Class 04.06.2020)
 * Node.js (HTTP, http.createServer(), zlib.createGzip(), Path, __dirname)
 
+Folder **[200609](https://github.com/marcelosperalta/dci/tree/master/200609)** (Class 09.06.2020)
+* React (MVC, npx, create-react-app)
+
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
-        Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM and JSON
+        Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM, JSON, and React
     </a>
 </div>
