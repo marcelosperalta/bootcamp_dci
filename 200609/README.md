@@ -2,6 +2,10 @@
 
 https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller  
 
+## MVC Architecture & Its Benefits in Web Application Development
+
+https://techaffinity.com/blog/mvc-architecture-benefits-of-mvc/
+
 # npx
 
 https://www.npmjs.com/package/npx  
@@ -27,6 +31,10 @@ npx create-react-app first-app
 ```
 npm run build
 ```
+
+# Add a web app manifest
+
+https://web.dev/add-manifest/
 
 # Screenshot
 
