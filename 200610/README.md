@@ -129,8 +129,6 @@ export default Text;
 
 **12. create "public" folder**
 
-- file:
-
 ![image](./src/img/12public.PNG)
 
 **13. create "index.html" file inside "public" folder with the code below**
