@@ -292,6 +292,9 @@ Folder **[200604](https://github.com/marcelosperalta/dci/tree/master/200604)** (
 Folder **[200609](https://github.com/marcelosperalta/dci/tree/master/200609)** (Class 09.06.2020)
 * React (MVC, npx, create-react-app)
 
+Folder **[200610](https://github.com/marcelosperalta/dci/tree/master/200610)** (Class 10.06.2020)
+* React (SPA, build react app from scratch)
+
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
         Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM, JSON, and React
