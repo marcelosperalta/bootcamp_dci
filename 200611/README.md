@@ -24,7 +24,7 @@ https://reactjs.org/docs/components-and-props.html
 
 ## react.development.js
 
-![screenshot](./src/img/react.png)
+![screenshot](./src/img/react.PNG)
 
 # Screenshots
 
