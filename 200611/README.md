@@ -6,6 +6,10 @@ https://reactjs.org/
 
 https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
 
+## Fragments
+
+https://reactjs.org/docs/fragments.html
+
 ## JSX
 
 https://reactjs.org/docs/introducing-jsx.html
@@ -18,6 +22,12 @@ https://reactjs.org/docs/react-dom.html#render
 
 https://reactjs.org/docs/components-and-props.html
 
-# Screenshot
+## react.development.js
+
+![screenshot](./src/img/react.png)
+
+# Screenshots
 
 ![screenshot](./src/img/screenshot.png)
+
+![screenshot](./src/img/screenshot2.png)

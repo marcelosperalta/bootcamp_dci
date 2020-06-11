@@ -296,7 +296,7 @@ Folder **[200610](https://github.com/marcelosperalta/dci/tree/master/200610)** (
 * React (SPA, build react app from scratch)
 
 Folder **[200611](https://github.com/marcelosperalta/dci/tree/master/200611)** (Class 11.06.2020)
-* React (Google Chrome extension "React Developer Tools", render(), props)
+* React (Google Chrome extension "React Developer Tools", Fragments, render(), props)
 
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">

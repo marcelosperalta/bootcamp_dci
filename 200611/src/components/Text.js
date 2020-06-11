@@ -14,7 +14,18 @@ import React from "react";
 // export default Text;
 
 // class component:
-export default class Text extends React.Component {
+// export default class Text extends React.Component {
+//     render() {
+//         return (
+//             <h1>
+//                 {" "}
+//                 Hey, I am {this.props.name}, and I am {this.props.age}
+//             </h1>
+//         );
+//     }
+// }
+
+class Text extends React.Component {
     render() {
         return (
             <h1>
@@ -24,4 +35,14 @@ export default class Text extends React.Component {
         );
     }
 }
-// export default Text;
+class Hello extends React.Component {
+    render() {
+        return (
+            <h1>
+                {" "}
+                Hey, I like React
+            </h1>
+        );
+    }
+}
+export { Text, Hello }
