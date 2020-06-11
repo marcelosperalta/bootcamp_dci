@@ -156,10 +156,18 @@ export default Text;
 </html>
 ```
 
-or type "!", press "Enter" and change the title
+**or**
+
+type "!" and press "Enter";
 
 ```
 !
+```
+
+change the title and add the line below inside body.
+
+```
+<div id="root"></div>
 ```
 
 **14. create "scss" folder inside "src" folder**
