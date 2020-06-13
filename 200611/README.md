@@ -31,3 +31,27 @@ https://reactjs.org/docs/components-and-props.html
 ![screenshot](./src/img/screenshot.png)
 
 ![screenshot](./src/img/screenshot2.png)
+
+# Exercise
+
+**To-do-list with React**
+
+- The user should have the ability to add a items list (listItem) through the input field;
+
+- The list of all items (listOfAllItems) should be displayed for the user.
+
+Reference:
+
+https://github.com/FBw-26/live-coding/blob/master/apr/22-04/index.js
+
+Solution:
+
+- code:
+
+```
+
+```
+
+- screeshot:
+
+![screenshot](./src/img/solution.png)

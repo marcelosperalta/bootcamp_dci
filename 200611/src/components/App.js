@@ -5,6 +5,13 @@ import { Text, Hello } from "./Text";
 
 const userLogin = true;
 const names = ["Ali", "Hadi", "Nancy", "Zain"];
+const create = () => {
+    let newElement = document.createElement("div");
+    let newText = document.createTextNode("I am a new element");
+    //console.log(newElement);
+    newElement.appendChild(newText);
+    document.body.appendChild(newElement);
+};
 const App = () => {
     const NamesList = names.map((name, index) => <li key={index}>{name}</li>);
     return (
@@ -35,5 +42,4 @@ const App = () => {
         </React.Fragment>
     );
 };
-
 export default App;
