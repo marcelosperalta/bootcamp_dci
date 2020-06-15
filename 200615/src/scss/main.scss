@@ -1,0 +1,12 @@
+body {
+  background-color: lightblue;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+li:nth-child(odd) {
+  background-color: lightcyan;
+}
+li:nth-child(even) {
+  background-color: lightskyblue;
+}
