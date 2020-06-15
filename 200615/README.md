@@ -14,9 +14,14 @@ https://reactjs.org/docs/state-and-lifecycle.html
 
 https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
 
-
 # Exercise "to-do list"
 
 ## Screenshots
 
 ![screenshot](./src/img/screenshot.png)
+
+# Exercise "adding more feature to the to-do list"
+
+- Adding array of objects instead of just array for your to-do list;
+- Removing item by ID;
+- Adding new checkbox referring whether this to-do is done or not.

@@ -1,6 +1,5 @@
 import React from "react";
 import UserList from "./UserList";
-
 export default class List extends React.Component {
     constructor(props) {
         super(props);
@@ -23,6 +22,13 @@ export default class List extends React.Component {
                 list: [...this.state.list, userText],
             });
         };
+        this.remove = (itemToRemove) => {
+            const newArr = this.state.list.filter((item) => item !== itemToRemove);
+            console.log(newArr);
+            this.setState({
+                list: newArr,
+            });
+        };
         return (
             <React.Fragment>
                 <form onSubmit={this.add}>
@@ -34,7 +40,7 @@ export default class List extends React.Component {
                     />
                     <input type="submit" value="Add" />
                 </form>
-                <UserList list={this.state.list} />
+                <UserList list={this.state.list} del={this.remove} />
             </React.Fragment>
         );
     }
