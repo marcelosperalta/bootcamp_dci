@@ -40,18 +40,12 @@ https://reactjs.org/docs/components-and-props.html
 
 - The list of all items (listOfAllItems) should be displayed for the user.
 
-Reference:
+References:
 
-https://github.com/FBw-26/live-coding/blob/master/apr/22-04/index.js
+https://github.com/FBw-26/live-coding/blob/master/apr/22-04/index.js  
 
 Solution:
 
-- code:
-
-```
-
-```
+- code:  
 
 - screeshot:
-
-![screenshot](./src/img/solution.png)

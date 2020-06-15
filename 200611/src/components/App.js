@@ -1,17 +1,11 @@
 // import React, { Component } from "react";
 // import Text from "./Text";
 import React from "react";
-import { Text, Hello } from "./Text";
+import { Text, Hello, Todolist } from "./Text";
 
 const userLogin = true;
 const names = ["Ali", "Hadi", "Nancy", "Zain"];
-const create = () => {
-    let newElement = document.createElement("div");
-    let newText = document.createTextNode("I am a new element");
-    //console.log(newElement);
-    newElement.appendChild(newText);
-    document.body.appendChild(newElement);
-};
+
 const App = () => {
     const NamesList = names.map((name, index) => <li key={index}>{name}</li>);
     return (
@@ -39,6 +33,7 @@ const App = () => {
 
                 // When we have to write JavaScript in React (JSX) we need to put the code between curly braces "{}"
             }
+            <Todolist />
         </React.Fragment>
     );
 };
