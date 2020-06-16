@@ -44,6 +44,8 @@ References:
 
 https://github.com/FBw-26/live-coding/blob/master/apr/22-04/index.js  
 
+[Building an Awesome Todo List App in React](https://www.kirupa.com/react/simple_todo_app_react.htm)
+
 Solution:
 
 - code:  
