@@ -1,7 +1,7 @@
 {
-  "name": "200615",
+  "name": "200616",
   "version": "1.0.0",
-  "description": "https://developer.mozilla.org/en-US/docs/Glossary",
+  "description": "https://reactjs.org/",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
@@ -10,8 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^4.5.0",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1"
   },
