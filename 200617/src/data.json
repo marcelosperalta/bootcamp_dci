@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "name": "Tequila 1",
+        "url": "./img/tequila1.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Tequila 2",
+        "url": "./img/tequila2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tequila 3",
+        "url": "./img/tequila3.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tequila 4",
+        "url": "./img/tequila4.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Tequila 5",
+        "url": "./img/tequila5.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Tequila 6",
+        "url": "./img/tequila6.jpg"
+    }
+]

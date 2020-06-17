@@ -14,4 +14,6 @@ https://reactjs.org/
 - Consider that you have to use **props** and pass data to components;
 - Create repo and send me the link in private message.
 
-![screenshot](./src/img/screenshot.png)
+# Screenshot
+
+![screenshot](./public/img/screenshot.png)
