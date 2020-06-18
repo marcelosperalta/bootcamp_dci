@@ -10,3 +10,19 @@ li:nth-child(odd) {
 li:nth-child(even) {
   background-color: lightskyblue;
 }
+.header {
+  text-align: center;
+}
+.form{
+  margin: 10px;
+}
+li {
+  list-style: none;
+  display: flex;
+}
+.item{
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  margin-right: 5px;
+}

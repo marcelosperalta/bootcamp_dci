@@ -1,20 +1,32 @@
 import React from "react";
 
 const UserList = (props) => {
-    const toDos = props.list.map((item, i) => (
-        <li key={i}>
-            {item}{" "}
+    const toDos = props.list.map((item) => (
+        <li key={item.id}>
+            <input
+                className="list"
+                type="checkbox"
+                value={item.done}
+                onChange={() => {
+                    props.check(item.id);
+                }}
+            />
+            {item.title}
             <i
+                className="item"
                 onClick={() => {
                     console.log(item);
-                    props.del(item);
-                }}
-            >
+                    props.del(item.id);
+                }}>
                 🗑
-      </i>
+            </i>
+
         </li>
     ));
-    return <ul>{toDos}</ul>;
+    return <span>{toDos}</span>;
 };
 
 export default UserList;
+
+// <ul>{toDos}</ul>;
+// {<div className="item">item.title</div>}

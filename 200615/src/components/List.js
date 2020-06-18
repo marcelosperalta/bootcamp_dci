@@ -19,19 +19,34 @@ export default class List extends React.Component {
             const userText = this.state.userInput;
             this.setState({
                 userInput: "",
-                list: [...this.state.list, userText],
+                list: [
+                    ...this.state.list,
+                    { id: this.state.list.length, title: userText, done: false },
+                ],
             });
         };
         this.remove = (itemToRemove) => {
-            const newArr = this.state.list.filter((item) => item !== itemToRemove);
+            const newArr = this.state.list.filter((item) => item.id !== itemToRemove);
             console.log(newArr);
+            this.setState({
+                list: newArr,
+            });
+        };
+        this.check = (itemToCheck) => {
+            const newArr = this.state.list.filter((item) => {
+                if (item.id === itemToCheck) {
+                    item.done = !item.done;
+                }
+                return item;
+            });
+
             this.setState({
                 list: newArr,
             });
         };
         return (
             <React.Fragment>
-                <form onSubmit={this.add}>
+                <form className="form" onSubmit={this.add}>
                     <input
                         type="text"
                         value={this.state.userInput}
@@ -40,7 +55,7 @@ export default class List extends React.Component {
                     />
                     <input type="submit" value="Add" />
                 </form>
-                <UserList list={this.state.list} del={this.remove} />
+                <UserList list={this.state.list} del={this.remove} check={this.check} />
             </React.Fragment>
         );
     }
