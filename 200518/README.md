@@ -70,4 +70,4 @@ You can find more info about the game in [Wikipedia](https://en.wikipedia.org/wi
 
 ## GitHub main repository:
 
-https://github.com/NLJZ/blackjack
+https://github.com/NLJZ/blackjack  
