@@ -308,7 +308,7 @@ Folder **[200617](https://github.com/marcelosperalta/dci/tree/master/200617)** (
 * React (Regular Expressions, exercise "Instagram mock-up" solution)
 
 Folder **[200618](https://github.com/marcelosperalta/dci/tree/master/200618)** (Class 18.06.2020)
-* React ((State, exercise "Morse translator")
+* React (State, exercise "Morse translator")
 
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
