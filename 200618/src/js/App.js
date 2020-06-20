@@ -16,7 +16,6 @@ const App = () => {
                     rows="5"
                     cols="33">
                 </textarea>
-                <input type="input" id="in" name="in" value="" />
             </div>
             <br></br>
             <div className="text">
@@ -30,7 +29,6 @@ const App = () => {
                     rows="5"
                     cols="33">
                 </textarea>
-                <output name="result" for="in"></output>
             </div>
         </div>
     );
