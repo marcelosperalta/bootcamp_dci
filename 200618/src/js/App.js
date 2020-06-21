@@ -45,15 +45,13 @@ const dictionary = {
 const outputMessage = () => {
     var output = document.getElementById('output');
     var input = document.getElementById('input');
-    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
-    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find
-    // https://developer.mozilla.org/en-US/docs/Web/API/HTMLTextAreaElement > .value
-    // console.log(Object.keys(dictionary));
-    // output.placeholder = Object.keys(dictionary).find(element => dictionary[element] === input.value);
+    var result = "";
     for (let index = 0; index < input.value.length; index++) {
-        output.placeholder = Object.keys(dictionary).find(element => dictionary[element] === input.value[index]);
+        result += Object.keys(dictionary).find(element => dictionary[element] === input.value.toLowerCase()[index]) + "  ";
     }
+    output.placeholder = result;
 };
+
 
 const App = () => {
     return (

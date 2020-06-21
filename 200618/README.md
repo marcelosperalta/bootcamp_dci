@@ -23,6 +23,13 @@ https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
 
 ![screenshot](./screenshot.png)
 
-## Reference
+## References
 
-[Morse Code Translator](https://morsecode.world/international/translator.html)
+[Morse Code Translator](https://morsecode.world/international/translator.html)  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find  
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLTextAreaElement > .value  
+
+## Solution
+
+![screenshot](./src/img/screenshot.png)
