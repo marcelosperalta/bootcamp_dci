@@ -22,3 +22,7 @@ https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
 ## Screenshot
 
 ![screenshot](./screenshot.png)
+
+## Reference
+
+[Morse Code Translator](https://morsecode.world/international/translator.html)
