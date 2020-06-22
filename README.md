@@ -311,7 +311,7 @@ Folder **[200618](https://github.com/marcelosperalta/dci/tree/master/200618)** (
 * React (State, exercise "Morse translator")
 
 Folder **[200622](https://github.com/marcelosperalta/dci/tree/master/200622)** (Class 22.06.2020)
-* React (Lifecycle)
+* React (Lifecycle, Font Awesome)
 
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
