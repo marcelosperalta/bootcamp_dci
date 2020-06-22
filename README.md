@@ -310,6 +310,9 @@ Folder **[200617](https://github.com/marcelosperalta/dci/tree/master/200617)** (
 Folder **[200618](https://github.com/marcelosperalta/dci/tree/master/200618)** (Class 18.06.2020)
 * React (State, exercise "Morse translator")
 
+Folder **[200622](https://github.com/marcelosperalta/dci/tree/master/200622)** (Class 22.06.2020)
+* React (Lifecycle)
+
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
         >>> Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM, and JSON <<<
