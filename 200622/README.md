@@ -22,6 +22,10 @@ https://levelup.gitconnected.com/componentdidmakesense-react-lifecycle-explanati
 
 [How to deploy React App to GitHub Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)  
 
+## How To Use [Font Awesome 5](https://fontawesome.com/) with React
+
+https://www.digitalocean.com/community/tutorials/how-to-use-font-awesome-5-with-react
+
 # Screenshot
 
 ![screenshot](./screenshot.png)
