@@ -1,0 +1,27 @@
+# React
+
+https://reactjs.org/
+
+## Lifecycle
+
+https://reactjs.org/docs/state-and-lifecycle.html
+
+### React Lifecycle Methods Diagram
+
+https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
+
+### React Component Lifecycle Explanation
+
+https://levelup.gitconnected.com/componentdidmakesense-react-lifecycle-explanation-393dcb19e459
+
+## Deploy React on [GitHub Pages](https://pages.github.com/)
+
+[How to Create a React Application and Deploy It on GitHub Pages](https://www.pluralsight.com/guides/how-to-create-react-application-and-deploy-on-github-pages)  
+
+[How to deploy your React app into Github Pages](https://blog.usejournal.com/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e)  
+
+[How to deploy React App to GitHub Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)  
+
+# Screenshot
+
+![screenshot](./screenshot.png)
