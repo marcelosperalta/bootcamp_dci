@@ -1,6 +1,13 @@
+// your scss files should import here 💪🏻
 body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: lightblue;
-}
+    flex-direction: column;
+    height: 100vh;
+  }
+  .loading {
+    font-size: 4rem;
+  
+    color: gray;
+  }

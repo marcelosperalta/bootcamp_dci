@@ -1,59 +1,48 @@
 import React from "react";
-//import { render } from "react-dom";
-// get our fontawesome imports
-import { faHome, faAddressBook, faBacon } from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import Loading from "./components/Loading";
+import Country from "./components/Country";
+//import axios from "axios"; if you would like to use it 💪🏻
 
 export default class App extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            userName: "",
+            userInput: "",
+            loading: true,
         };
-        this.text = "";
+        this.handleChange = (e) => {
+            this.setState({
+                userInput: e.target.value.trim(),
+            });
+        };
     }
-    login = () => {
-        this.setState({ userName: "Ali" });
-    };
     componentDidMount() {
         setTimeout(() => {
-            this.setState({ userName: "Nancy" });
-        }, 1000);
+            this.setState({
+                loading: false,
+            });
+        }, 2000);
     }
-    componentDidUpdate() {
-        this.text = "I run after the update has been rendered in the DOM";
-    }
-    shouldComponentUpdate() {
-        return true;
-    }
+
+    // fetch result
+    // let { name, capital, topLevelDomain, timezones, languages } = item;
+    // this.setState({
+    //   name,
+    //   capital,
+    //   topLevelDomain,
+    //   timezones,
+    //   languages,
+    //   loading: false,
+    // });
+
     render() {
+        if (this.state.loading) return <Loading />;
         return (
             <React.Fragment>
-                <div>
-                    Font Awesome Icons:
-                    <br></br>
-                    <FontAwesomeIcon icon={faHome} />
-                    <span> </span>
-                    <FontAwesomeIcon icon={faAddressBook} />
-                    <span> </span>
-                    <FontAwesomeIcon icon={faBacon} />
-                </div>
-                <h1>Hey {this.state.userName}, I am a React App</h1>
-                <button onClick={this.login}>Login</button>
-                <h4>{this.text}</h4>
+                <h1>Country App</h1>
+
+                <Country data="sendSomething" />
             </React.Fragment>
         );
     }
 }
-
-// // create our App
-// const App = () => (
-//     <div>
-//         <FontAwesomeIcon icon={faHome} />
-//     </div>
-// );
-
-// // render to #root
-// render(<App />, document.getElementById("root"));
-
-// export default App;
