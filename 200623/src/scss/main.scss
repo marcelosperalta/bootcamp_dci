@@ -1,13 +1,29 @@
 // your scss files should import here 💪🏻
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    height: 100vh;
-  }
-  .loading {
-    font-size: 4rem;
-  
-    color: gray;
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.loading {
+  font-size: 4rem;
+  color: gray;
+}
+.flag {
+  width: 25vw;
+}
+button {
+  border: none;
+  border-radius: 5%;
+  background-color: gray;
+  color: white;
+  height: 1.5rem;
+}
+input {
+  height: 1.5rem;
+  width: 10vw;
+  border: none;
+}
+input:focus {
+  border: 1px solid gray;
+}

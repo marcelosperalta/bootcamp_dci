@@ -1,7 +1,7 @@
 {
   "name": "loading-spinner",
   "version": "1.0.0",
-  "description": "Country API",
+  "description": "Doing instagram in React",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "author": "Marcelo Soares Peralta",
+  "author": "Hadi Nsreeny",
   "license": "ISC",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",
