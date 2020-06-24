@@ -316,6 +316,9 @@ Folder **[200622](https://github.com/marcelosperalta/dci/tree/master/200622)** (
 Folder **[200623](https://github.com/marcelosperalta/dci/tree/master/200623)** (Class 23.06.2020)
 * React (Axios, exercise "Country API")
 
+Folder **[200624](https://github.com/marcelosperalta/dci/tree/master/200624)** (Class 24.06.2020)
+* React (Exercise "Online Shop")
+
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
         >>> Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM, and JSON <<<
