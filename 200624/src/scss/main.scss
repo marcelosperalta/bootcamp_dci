@@ -27,17 +27,32 @@ body {
     .iconProduct{
       text-align: center; 
       vertical-align: middle;
+      margin: 0;
+      padding: 0;
     }
     .productName {
-      width: 120px;
+      width: 100px;
+      text-align: left;
+    }
+    .price{
+      text-align: right; 
+      vertical-align: middle;
     }
     button {
       background-color: lightblue;
       border-radius: 5px;
       border: none;
-      width: 90px;
-      font-size: 15px;
+      width: 80px;
+      font-size: 12px;
       height: 25px;
+      margin-left: 10px;
+      vertical-align: middle;
+    }
+    .inventory{
+      text-align: center; 
+      vertical-align: middle;
+      font-size: 8px;
+      width: 10px;
     }
   }
 
