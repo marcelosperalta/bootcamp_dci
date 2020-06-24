@@ -5,7 +5,7 @@ const ProductList = (props) => {
     const items = props.data.map((item) => {
         return <ProductItem info={item} />;
     });
-    return <ul>{items}</ul>;
+    return <div>{items}</div>;
 };
 
 export default ProductList;
