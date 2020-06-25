@@ -32,8 +32,9 @@ export default class App extends Component {
         return (
             <React.Fragment>
                 <h1>Welcome to our online store</h1>
-                <form onSubmit={this.submitHandle}>
+                <form className="filter" onSubmit={this.submitHandle}>
                     <input
+                        className="input"
                         type="text"
                         onChange={this.changeHandle}
                         value={this.state.userInput}

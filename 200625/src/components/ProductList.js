@@ -10,6 +10,6 @@ export default class ProductList extends React.Component {
         const items = this.props.data.map((item, i) => {
             return <ProductItem key={i} info={item} />;
         });
-        return <ul>{items}</ul>;
+        return <div>{items}</div>;
     }
 }

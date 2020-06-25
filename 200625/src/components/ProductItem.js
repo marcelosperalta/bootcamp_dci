@@ -2,6 +2,7 @@ import React from "react";
 
 const ProductItem = (props) => {
     const { id, productName, icon, price, inventory } = props.info;
+    const add = (itemId) => { };
     return (
         <div className="container" key={id}>
             <table>
@@ -10,7 +11,7 @@ const ProductItem = (props) => {
                     <td className="productName">{productName}</td>
                     <td className="price">{price}</td>
                     <td>
-                        <button disabled={inventory === 0}>
+                        <button onClick={add(id)} disabled={inventory === 0}>
                             {inventory > 0 ? "Add to cart" : "Sold out"}
                         </button>
                     </td>

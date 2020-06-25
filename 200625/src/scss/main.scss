@@ -9,6 +9,15 @@ body {
   align-items: center;
   width: 100%;
 }
+.filter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .input {
+    width: 70%;
+    margin: 10px;
+  }
+}
 .container{
   display: flex;
   justify-content: center;
