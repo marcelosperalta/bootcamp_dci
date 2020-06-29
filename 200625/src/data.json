@@ -10,7 +10,7 @@
         "id": 1,
         "productName": "watermelon",
         "icon": "🍉",
-        "price": 0,
+        "price": 90,
         "inventory": 3
     },
     {
@@ -33,5 +33,19 @@
         "icon": "🍦",
         "price": 7,
         "inventory": 66
+    },
+    {
+        "id": 5,
+        "productName": "water",
+        "icon": "🧊",
+        "price": 10,
+        "inventory": 0
+    },
+    {
+        "id": 6,
+        "productName": "sushi",
+        "icon": "🍣",
+        "price": 33,
+        "inventory": 3
     }
 ]
