@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-//import Data from "./data.json";
+import Data from "./data.json";
 import Product from "./components/Product";
 import ProductInfo from "./components/ProductInfo";
 import About from "./components/About";
@@ -15,11 +15,26 @@ export default class App extends Component {
                 <Menu />
                 <h1>online store</h1>
                 <Switch>
-                    <Route exact path="/" component={Home} />
-                    <Route path="/product" component={Product} />
+                    <Route path="/" exact component={Home} />
+                    <Route
+                        path="/product/:id"
+                        component={({ match }) => (
+                            <ProductInfo data={Data} id={match.params.id} />
+                        )}
+                    />
+                    <Route
+                        path="/product"
+                        exact
+                        component={() => <Product data={Data} />}
+                    />
+
                     <Route path="/about" component={About} />
+                    <Route path="/*" component={Soon} />
                 </Switch>
             </Router>
         );
     }
 }
+// <Route path="/about" component={About}>
+// <About name="Hadi" />
+// </Route>

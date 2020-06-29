@@ -1,8 +1,9 @@
 {
   "name": "loading-spinner",
   "version": "1.0.0",
-  "description": "Country API",
+  "description": "SPA routing",
   "main": "index.js",
+  "homepage": "",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
