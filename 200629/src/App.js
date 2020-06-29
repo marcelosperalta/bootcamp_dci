@@ -15,7 +15,8 @@ export default class App extends Component {
                 <Menu />
                 <h1>online store</h1>
                 <Switch>
-                    <Route path="/" exact component={Home} />
+                    {/* <Route path="/" exact component={Home} /> */}
+                    <Route path={process.env.PUBLIC_URL + "/"} exact component={Home} />
                     <Route
                         path="/product/:id"
                         component={({ match }) => (

@@ -323,7 +323,7 @@ Folder **[200625](https://github.com/marcelosperalta/dci/tree/master/200625)** (
 * React (Exercise "Online Shop" - added filter)
 
 Folder **[200629](https://github.com/marcelosperalta/dci/tree/master/200629)** (Class 29.06.2020)
-* React (react-router-dom)
+* React (REACT ROUTER, process.env.PUBLIC_URL)
 
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
