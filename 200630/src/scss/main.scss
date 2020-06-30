@@ -1,0 +1,12 @@
+// your scss files should import here 💪🏻
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav li {
+  background-color: gray;
+  list-style: none;
+  color: white;
+}
