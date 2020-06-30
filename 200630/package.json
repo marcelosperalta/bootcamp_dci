@@ -1,7 +1,7 @@
 {
-  "name": "loading-spinner",
+  "name": "redux",
   "version": "1.0.0",
-  "description": "SPA routing",
+  "description": "Redux",
   "main": "index.js",
   "homepage": "",
   "scripts": {
