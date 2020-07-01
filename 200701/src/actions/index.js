@@ -1,20 +1,29 @@
-// first step
-// action what you want to do
-
-const increment = () => {
+// step 1.
+const addProduct = (product) => {
     return {
-        type: "INCREMENT",
-    };
-};
-const decrement = () => {
-    return {
-        type: "DECREMENT",
-    };
-};
-const login = () => {
-    return {
-        type: "LOGIN",
+        type: "ADD_PRODUCT",
+        product,
     };
 };
 
-export { increment, decrement, login };
+const removeOne = (product) => {
+    return {
+        type: "REMOVE_ONE",
+        product,
+    };
+};
+
+const removeAll = (product) => {
+    return {
+        type: "REMOVE_ALL",
+        product,
+    };
+};
+
+const checkout = () => {
+    return {
+        type: "CHECKOUT",
+    };
+};
+
+export { addProduct, removeOne, removeAll, checkout };
