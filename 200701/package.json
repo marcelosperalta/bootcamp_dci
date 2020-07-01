@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "web store",
   "main": "index.js",
-  "homepage": "https://marcelosperalta.github.io/dci/200701",
+  "homepage": "",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
