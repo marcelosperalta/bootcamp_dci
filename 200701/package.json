@@ -1,9 +1,9 @@
 {
-  "name": "redux",
+  "name": "mini-store",
   "version": "1.0.0",
-  "description": "Redux",
+  "description": "web store",
   "main": "index.js",
-  "homepage": "",
+  "homepage": "https://marcelosperalta.github.io/dci/200701",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
