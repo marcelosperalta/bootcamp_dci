@@ -1,18 +1,18 @@
-// step 2.
 const allReducers = (state = {}, action) => {
     const { cart, products } = state;
     const { product } = action;
     const { id, productName, price } = product || {};
-    let quantity, inventory;
+    let quantity, inventory, newCart;
+
     switch (action.type) {
         case "ADD_PRODUCT":
             quantity = cart[id] ? cart[id].quantity : 0;
-            inventory =
-                product.inventory > 0 ? product.inventory - 1 : product.inventory;
+            inventory = product.inventory > 0 ? product.inventory - 1 : product.inventory;
+
             return {
                 ...state,
                 products: {
-                    ...product,
+                    ...products,
                     [id]: {
                         ...product,
                         inventory,
@@ -28,6 +28,7 @@ const allReducers = (state = {}, action) => {
                     },
                 },
             };
+
         default:
             return state;
     }

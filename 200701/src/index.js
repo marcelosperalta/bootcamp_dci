@@ -9,6 +9,7 @@ import allReducers from "./reducers";
 
 // products data
 import products from "./data.json";
+
 const store = createStore(
     allReducers,
     {

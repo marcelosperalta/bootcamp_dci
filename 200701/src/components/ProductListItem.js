@@ -10,9 +10,9 @@ class ProductListItem extends Component {
             <li>
                 <span>
                     <h4>{item.productName}</h4> €{item.price}
-                    <div>
+                    {<div>
                         {item.inventory > 0 ? `x ${item.inventory} items left` : "sorry no more items"}
-                    </div>
+                    </div>}
                 </span>
                 <i>{item.icon}</i>
                 <div>
