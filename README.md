@@ -328,6 +328,9 @@ Folder **[200629](https://github.com/marcelosperalta/dci/tree/master/200629)** (
 Folder **[200630](https://github.com/marcelosperalta/dci/tree/master/200630)** (Class 30.06.2020)
 * React (Redux)
 
+Folder **[200701](https://github.com/marcelosperalta/dci/tree/master/200701)** (Class 01.07.2020)
+* React (Redux)
+
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
         >>> Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM, and JSON <<<
