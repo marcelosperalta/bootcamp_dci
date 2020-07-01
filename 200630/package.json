@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Redux",
   "main": "index.js",
-  "homepage": "https://marcelosperalta.github.io/dci/200630/",
+  "homepage": "https://marcelosperalta.github.io/dci/200630/public/index.html",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
