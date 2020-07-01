@@ -11,9 +11,7 @@ class ProductListItem extends Component {
                 <span>
                     <h4>{item.productName}</h4> €{item.price}
                     <div>
-                        {item.inventory > 0
-                            ? `x ${item.inventory} items left`
-                            : "sorry no more items"}
+                        {item.inventory > 0 ? `x ${item.inventory} items left` : "sorry no more items"}
                     </div>
                 </span>
                 <i>{item.icon}</i>
