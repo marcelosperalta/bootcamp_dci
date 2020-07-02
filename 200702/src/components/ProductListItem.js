@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 import { addProduct } from "../actions";
+import { Link } from "react-router-dom";
 
 class ProductListItem extends Component {
     render() {
@@ -9,10 +10,14 @@ class ProductListItem extends Component {
         return (
             <li>
                 <span>
-                    <h4>{item.productName}</h4> €{item.price}
-                    {<div>
-                        {item.inventory > 0 ? `x ${item.inventory} items left` : "sorry no more items"}
-                    </div>}
+                    <Link to={`/product/${item.id}`} key={item.id}>
+                        <h4>{item.productName}</h4> €{item.price}
+                    </Link>
+                    <div>
+                        {item.inventory > 0
+                            ? `x ${item.inventory} items left`
+                            : "sorry no more items"}
+                    </div>
                 </span>
                 <i>{item.icon}</i>
                 <div>

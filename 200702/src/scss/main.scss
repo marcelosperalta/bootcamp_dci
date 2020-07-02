@@ -1,32 +1,52 @@
 // your scss files should import here 💪🏻
 body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  ul {
-    display: flex;
-    align-items: center;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: space-around;
-    width: 80vw;
-    height: 30vh;
-  }
-  li {
-    list-style: none;
-    border: 1px solid orange;
-    text-align: center;
-    padding: 5px;
-    width: 10rem;
-    height: 12rem;
-  }
-  button {
-    background-color: lightblue;
-    border-radius: 5%;
-    border: none;
-  }
-  
-  i {
-    font-size: 2rem;
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+nav {
+  background-color: orange;
+  width: 75vw;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-around;
+}
+nav li {
+  list-style: none;
+  color: white;
+}
+nav li:hover {
+  background-color: lightgray;
+  color: orange;
+}
+.product {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  width: 80vw;
+  height: 30vh;
+}
+.product li {
+  list-style: none;
+  border: 1px solid orange;
+  text-align: center;
+  padding: 5px;
+  width: 10rem;
+  height: 12rem;
+}
+a {
+  text-decoration: none;
+}
+button {
+  background-color: lightblue;
+  border-radius: 5%;
+  border: none;
+}
+
+i {
+  font-size: 2rem;
+}

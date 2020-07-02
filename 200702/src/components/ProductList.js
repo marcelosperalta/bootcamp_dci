@@ -10,7 +10,7 @@ class ProductList extends Component {
         const allItems = items.map((item) => (
             <ProductListItem item={item} key={item.id} />
         ));
-        return <ul>{allItems}</ul>;
+        return <ul className="product">{allItems}</ul>;
     }
 }
 
