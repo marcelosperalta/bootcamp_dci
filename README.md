@@ -320,16 +320,19 @@ Folder **[200624](https://github.com/marcelosperalta/dci/tree/master/200624)** (
 * React (Exercise "Online Shop")
 
 Folder **[200625](https://github.com/marcelosperalta/dci/tree/master/200625)** (Class 25.06.2020)
-* React (Exercise "Online Shop" - added filter)
+* React (Exercise "Online Shop")
 
 Folder **[200629](https://github.com/marcelosperalta/dci/tree/master/200629)** (Class 29.06.2020)
 * React (REACT ROUTER, process.env.PUBLIC_URL)
 
 Folder **[200630](https://github.com/marcelosperalta/dci/tree/master/200630)** (Class 30.06.2020)
-* React (Redux)
+* React (Redux, exercise "Online Shop")
 
 Folder **[200701](https://github.com/marcelosperalta/dci/tree/master/200701)** (Class 01.07.2020)
-* React (Redux)
+* React (Redux, exercise "Online Shop")
+
+Folder **[200702](https://github.com/marcelosperalta/dci/tree/master/200702)** (Class 02.07.2020)
+* React (Redux, exercise "Online Shop")
 
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
