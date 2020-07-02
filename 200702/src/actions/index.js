@@ -1,3 +1,4 @@
+
 // step 1.
 const addProduct = (product) => {
     return {
