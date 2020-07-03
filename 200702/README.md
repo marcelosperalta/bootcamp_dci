@@ -85,6 +85,8 @@ npm init
 npm install
 ```
 
+[npm install documentantion](https://docs.npmjs.com/cli/install#:~:text=npm%20install%20(in%20package%20directory,directory)%20as%20a%20global%20package.)
+
 * You can install after that whatever dependencies you want. e.g.
 
 ```
@@ -92,9 +94,12 @@ npm i redux
 ```
 - The command above will install **redux** on **node_modules** and add to the "package.json" dependencies  
 
+[npm redux documentantion](https://docs.npmjs.com/cli/install#:~:text=npm%20install%20(in%20package%20directory,directory)%20as%20a%20global%20package.)
+
 \
 3. to run the app
 
 ```
 npm start
 ```
+[npm start documentantion](https://docs.npmjs.com/cli/install#:~:text=npm%20install%20(in%20package%20directory,directory)%20as%20a%20global%20package.)
