@@ -78,7 +78,7 @@ https://medium.com/javascript-in-plain-english/how-to-deep-copy-objects-and-arra
 npm init
 ```
 
-[npm init documentantion](https://docs.npmjs.com/cli/init)
+- [npm init documentantion](https://docs.npmjs.com/cli/init)
 
 \
 2. install **package.json** dependencies (will generate **node_modules** folder)
@@ -87,7 +87,7 @@ npm init
 npm install
 ```
 
-[npm install documentantion](https://docs.npmjs.com/cli/install)
+- [npm install documentantion](https://docs.npmjs.com/cli/install)
 
 * You can install after that whatever dependencies you want. e.g.
 
@@ -96,7 +96,7 @@ npm i redux
 ```
 - The command above will install **redux** on **node_modules** and add to the "package.json" dependencies  
 
-[npm redux documentantion](https://www.npmjs.com/package/redux)
+- [npm redux documentantion](https://www.npmjs.com/package/redux)
 
 \
 3. to run the app
@@ -104,4 +104,4 @@ npm i redux
 ```
 npm start
 ```
-[npm start documentantion](https://docs.npmjs.com/cli/start.html)
+- [npm start documentantion](https://docs.npmjs.com/cli/start.html)
