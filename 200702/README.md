@@ -72,7 +72,7 @@ https://medium.com/javascript-in-plain-english/how-to-deep-copy-objects-and-arra
 
 # Important steps to run the app
 
-1. create "package.json"
+1. create **package.json**
 
 ```
 npm init
