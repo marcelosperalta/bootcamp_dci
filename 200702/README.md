@@ -89,12 +89,12 @@ npm install
 
 - [npm install documentantion](https://docs.npmjs.com/cli/install)
 
-* You can install after that whatever dependencies you want. e.g.
+You can install after that whatever dependencies you want. e.g.
 
 ```
 npm i redux
 ```
-- The command above will install **redux** on **node_modules** and add to the "package.json" dependencies  
+The command above will install **redux** on **node_modules** and add to the "package.json" dependencies  
 
 - [npm redux documentantion](https://www.npmjs.com/package/redux)
 
