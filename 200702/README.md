@@ -63,3 +63,38 @@ https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b
 ## How to Deep Copy Objects and Arrays in JavaScript
 
 https://medium.com/javascript-in-plain-english/how-to-deep-copy-objects-and-arrays-in-javascript-7c911359b089
+
+# Screenshot
+
+![screenshot](./screenshot1.png)  
+
+![screenshot](./screenshot2.png)
+
+# Important steps to run the app
+
+1. create "package.json"
+
+```
+npm init
+```
+
+\
+2. install **package.json** dependencies (will generate **node_modules** folder)
+
+```
+npm install
+```
+
+* You can install after that whatever dependencies you want. e.g.
+
+```
+npm i redux
+```
+- The command above will install **redux** on **node_modules** and add to the "package.json" dependencies  
+
+\
+3. to run the app
+
+```
+npm start
+```

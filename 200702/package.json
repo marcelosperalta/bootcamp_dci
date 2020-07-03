@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "web store",
   "main": "index.js",
-  "homepage": "",
+  "homepage": "your-repo",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "author": "Marcelo Soares Peralta",
+  "author": "Hadi Nsreeny",
   "license": "ISC",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",

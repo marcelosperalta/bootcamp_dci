@@ -11,17 +11,17 @@ import allReducers from "./reducers";
 import products from "./data.json";
 
 const store = createStore(
-    allReducers,
-    {
-        products: products,
-        cart: {},
-    },
-    window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
+  allReducers,
+  {
+    products: products,
+    cart: {},
+  },
+  window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
 );
 
 ReactDOM.render(
-    <Provider store={store}>
-        <App />
-    </Provider>,
-    document.getElementById("root")
+  <Provider store={store}>
+    <App />
+  </Provider>,
+  document.getElementById("root")
 );
