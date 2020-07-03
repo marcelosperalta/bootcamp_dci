@@ -104,4 +104,4 @@ npm i redux
 ```
 npm start
 ```
-[npm start documentantion](https://docs.npmjs.com/cli/start.html.)
+[npm start documentantion](https://docs.npmjs.com/cli/start.html)
