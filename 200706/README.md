@@ -2,13 +2,17 @@
 
 https://reactjs.org/
 
-## ES7 React/Redux/GraphQL/React-Native snippets
+## Snippet
+
+https://en.wikipedia.org/wiki/Snippet_(programming)
+
+### ES7 React/Redux/GraphQL/React-Native snippets
 
 https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
 
-### Snippet
+### Simple React Snippets
 
-https://en.wikipedia.org/wiki/Snippet_(programming)
+https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets
 
 # Hooks
 
