@@ -2,15 +2,9 @@
 
 https://reactjs.org/
 
-# Redux
+# Hooks
 
-https://redux.js.org/
-
-## Exercise "Small App"
-
-### Screenshot
-
-![screenshot](./screenshot.png)
+https://reactjs.org/docs/hooks-intro.html
 
 # Important steps to run the app
 
@@ -47,3 +41,12 @@ The command above will install [redux](https://redux.js.org/) on **node_modules*
 npm start
 ```
 - [npm start documentantion](https://docs.npmjs.com/cli/start.html)
+
+## Screenshot
+
+![screenshot](./screenshot.png)
+
+## Exercise "To-do list with Hooks"
+
+- Refactoring our To-do list into React Hooks;
+- Do your modification into other branch on the To-do list repo;
