@@ -61,7 +61,7 @@ npm start
 ## Exercise "To-do list with Hooks"
 
 - Refactoring our To-do list into React Hooks;
-- Do your modification into other branch on the To-do list repo;
+- Do your modification into other branch on the To-do list repo.
 
 # React Recap
 
