@@ -1,6 +1,11 @@
 // your scss files should import here 💪🏻
 body {
+  background-color: lightcyan;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.counter {
+  font-size: 16px;
+  padding: 5px;
 }

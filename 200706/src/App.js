@@ -40,8 +40,8 @@ const App = () => {
   return (
     <Fragment>
       <h1>Hey, I am React Hooks</h1>
-      {counter}
       <button onClick={() => setCounter(counter + 1)}>+</button>
+      <span className="counter">{counter}</span>
       <button onClick={() => setCounter(counter - 1)}>-</button>
       {books.map((book, i) => (
         <BookInfo key={i} info={book} />
