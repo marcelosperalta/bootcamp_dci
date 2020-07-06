@@ -2,10 +2,6 @@
 
 https://reactjs.org/
 
-# Hooks
-
-https://reactjs.org/docs/hooks-intro.html
-
 # Important steps to run the app
 
 1. create **package.json**
@@ -45,14 +41,3 @@ npm start
 ## Screenshot
 
 ![screenshot](./screenshot.png)
-
-## Exercise "To-do list with Hooks"
-
-- Refactoring our To-do list into React Hooks;
-- Do your modification into other branch on the To-do list repo;
-
-# React Recap
-
-## Screenshot
-
-![screenshot](./screenshot2.png)
