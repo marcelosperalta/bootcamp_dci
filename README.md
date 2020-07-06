@@ -332,10 +332,7 @@ Folder **[200701](https://github.com/marcelosperalta/dci/tree/master/200701)** (
 * React (Redux, exercise "Online Shop")
 
 Folder **[200702](https://github.com/marcelosperalta/dci/tree/master/200702)** (Class 02.07.2020)
-* React (Redux, exercise "Online Shop")
-
-Folder **[200703](https://github.com/marcelosperalta/dci/tree/master/200703)** (Extra 03.07.2020)
-* React (Redux, exercise "Simple App")
+* React (Redux, exercise "Online Shop", and exercise "Simple App")
 
 Folder **[200706](https://github.com/marcelosperalta/dci/tree/master/200706)** (Class 06.07.2020)
 * React (Hooks, exercise "To-do list", React _recapitulation_)
