@@ -105,9 +105,3 @@ The command above will install [redux](https://redux.js.org/) on **node_modules*
 npm start
 ```
 - [npm start documentantion](https://docs.npmjs.com/cli/start.html)
-
-# Exercise "Small App"
-
-## Screenshot
-
-![screenshot](./screenshot3.png)
