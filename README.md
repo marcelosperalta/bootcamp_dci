@@ -338,7 +338,7 @@ Folder **[200703](https://github.com/marcelosperalta/dci/tree/master/200703)** (
 * React (Redux, exercise "Simple App")
 
 Folder **[200706](https://github.com/marcelosperalta/dci/tree/master/200706)** (Class 06.07.2020)
-* React (Hooks, exercise "To-do list")
+* React (Hooks, exercise "To-do list", React _recapitulation_)
 
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
