@@ -50,13 +50,7 @@ npm start
 
 ![screenshot](./screenshot.png)
 
-## Exercise "..."
+## Exercise "Online Shop with React Hooks"
 
-- ... ;
-- ... .
-
-# ... Recap
-
-## Screenshot
-
-![screenshot](./screenshot2.png)
+- Refactoring our Online Shop into React Hooks (useState, useContext);
+- Do your modification into other branch on the Online Shop repo.
