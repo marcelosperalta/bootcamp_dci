@@ -10,6 +10,14 @@ https://reactjs.org/docs/context.html#reactcreatecontext
 
 https://reactjs.org/docs/context.html#reactcreatecontext
 
+## Hooks
+
+https://reactjs.org/docs/hooks-intro.html
+
+### Learn the basics of React Hooks in <10 minutes
+
+https://www.freecodecamp.org/news/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d/
+
 # Important steps to run the app
 
 1. create **package.json**
