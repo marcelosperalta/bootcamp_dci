@@ -337,6 +337,9 @@ Folder **[200702](https://github.com/marcelosperalta/dci/tree/master/200702)** (
 Folder **[200706](https://github.com/marcelosperalta/dci/tree/master/200706)** (Class 06.07.2020)
 * React (Hooks, exercise "To-do list", React _recapitulation_)
 
+Folder **[200707](https://github.com/marcelosperalta/dci/tree/master/200707)** (Class 07.07.2020)
+* React (Context)
+
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
         >>> Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM, and JSON <<<
