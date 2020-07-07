@@ -18,6 +18,10 @@ https://reactjs.org/docs/hooks-intro.html
 
 https://www.freecodecamp.org/news/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d/
 
+### React.js Hooks Crash Course
+
+https://www.youtube.com/watch?v=-MlNBTSg_Ww
+
 # Important steps to run the app
 
 1. create **package.json**
