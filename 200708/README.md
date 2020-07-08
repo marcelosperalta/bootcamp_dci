@@ -1,5 +1,11 @@
 # Tools:
 
+## Mobile
+
+### [React Native](https://reactnative.dev/)
+
+https://reactnative.dev/docs/getting-started
+
 ## APIs
 
 ### [Spotify for Developers](https://developer.spotify.com)
@@ -56,15 +62,9 @@ https://www.npmjs.com/package/eslint
 
 https://www.npmjs.com/package/jquery
 
-### [Webpack](https://webpack.js.org/)
+### [webpack](https://webpack.js.org/)
 
 https://www.npmjs.com/package/webpack
-
-## Mobile
-
-### [React Native](https://reactnative.dev/)
-
-https://reactnative.dev/docs/getting-started
 
 ## Browsers Add-ons
 
@@ -76,90 +76,104 @@ https://extensionworkshop.com/documentation/develop/
 
 https://developer.chrome.com/extensions/getstarted
 
+## Mashine learning
 
+### [TensorFlow](https://www.tensorflow.org/)
 
+https://www.tensorflow.org/learn
 
-
-
-
-
-## Hooks API Reference
-
-https://reactjs.org/docs/hooks-reference.html
-
-
-
-# Create Chrome Extensions
-
-https://developer.chrome.com/extensions/getstarted
-
-# Create Firefox Extensions
-
-https://extensionworkshop.com/
-
-# TensorFlow
-
-https://www.tensorflow.org/
-
-# Machine Learning for Free on AWS
+### [AWS machine learning](https://aws.amazon.com/free/machine-learning/)
 
 https://aws.amazon.com/free/machine-learning/
 
-# Gatsby
+## Frameworks
+
+### Gatsby
 
 https://www.gatsbyjs.org/
 
-# AngularJS
+### AngularJS
 
 https://angularjs.org/
 
-# Vue.js
+### Vue.js
 
 https://vuejs.org/
 
-# Backbone.js
+### Backbone.js
 
 https://backbonejs.org/
 
-# Ember.js
+### Ember.js
 
 https://emberjs.com/
 
-# JSCompress.com
+### JEST
+
+https://jestjs.io/
+
+### JSCompress
 
 https://jscompress.com/
 
+## Compiler
 
-# yarn
+## Babel
+
+https://babeljs.io/
+
+## Data query and manipulation language for APIs
+
+### GraphQL
+
+https://graphql.org/
+
+## JavaScript tools
+
+### ELECTRON
+
+https://www.electronjs.org/
+
+### webpack
+
+https://webpack.js.org/
+
+### ESLint
+
+https://eslint.org/
+
+### yarn
 
 https://yarnpkg.com/
 
-# Google Developers
+### JSHint
+
+https://jshint.com/
+
+## For Developers
+
+### Google
 
 https://developers.google.com/
 
-# AWS Developer Center
+### AWS
 
 https://aws.amazon.com/developer/
 
-# Facebook for Developers
+### Facebook
 
 https://developers.facebook.com/
 
+### Apple
 
+https://developer.apple.com/
 
-
-
-# jQuery
-
-https://jquery.com/
-
-# GitHub Gist
+## GitHub Gist
 
 https://gist.github.com/
 
 
 
-# JEST
 
-https://jestjs.io/
+
+
