@@ -61,3 +61,27 @@ https://developers.google.com/
 # AWS Developer Center
 
 https://aws.amazon.com/developer/
+
+# Facebook for Developers
+
+https://developers.facebook.com/
+
+# Spotify for Developers
+
+https://developer.spotify.com/documentation/
+
+# Rakuten Rapid API
+
+https://english.api.rakuten.net/
+
+# jQuery
+
+https://jquery.com/
+
+# GitHub Gist
+
+https://gist.github.com/
+
+# JEST
+
+https://jestjs.io/
