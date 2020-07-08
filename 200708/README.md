@@ -25,3 +25,16 @@ https://aws.amazon.com/free/machine-learning/
 # Gatsby
 
 https://www.gatsbyjs.org/
+
+# AngularJS
+
+https://angularjs.org/
+
+# Vue.js
+
+https://vuejs.org/
+
+# Backbone.js
+
+https://backbonejs.org/
+
