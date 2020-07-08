@@ -341,7 +341,7 @@ Folder **[200707](https://github.com/marcelosperalta/dci/tree/master/200707)** (
 * React (Context, exercise "Online Shop")
 
 Folder **[200708](https://github.com/marcelosperalta/dci/tree/master/200708)** (Class 08.07.2020)
-* Tools (React Native, Chrome Extensions, TensorFlow, AWS Machine Learning, Gatsby, ...)
+* Tools (React Native, Gatsby, AngularJS, JEST, jQuery, TypeScript, webpack, TensorFlow, GitHub Gist, ...)
 
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
