@@ -76,7 +76,7 @@ https://extensionworkshop.com/documentation/develop/
 
 https://developer.chrome.com/extensions/getstarted
 
-## Mashine learning
+## Machine learning
 
 ### [TensorFlow](https://www.tensorflow.org/)
 
