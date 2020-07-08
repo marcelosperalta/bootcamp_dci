@@ -38,3 +38,26 @@ https://vuejs.org/
 
 https://backbonejs.org/
 
+# Ember.js
+
+https://emberjs.com/
+
+# JSCompress.com
+
+https://jscompress.com/
+
+# webpack
+
+https://webpack.js.org/
+
+# yarn
+
+https://yarnpkg.com/
+
+# Google Developers
+
+https://developers.google.com/
+
+# AWS Developer Center
+
+https://aws.amazon.com/developer/
