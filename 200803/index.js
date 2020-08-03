@@ -5,7 +5,16 @@ const port = 3000;
 
 // http://localhost:3000/
 app.get("/", (req, res) => {
-  res.send("Hey, I am Home page");
+  res.send(`
+            <style>
+                body {
+                  background-color: lightblue;
+                }
+            </style>
+            <h1>
+              Hey, I am Home page
+            </h1>`
+          );
 });
 // http://localhost:3000/about
 app.get("/about", (req, res) => {

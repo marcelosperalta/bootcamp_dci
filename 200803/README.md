@@ -79,3 +79,9 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 ## HTTP request methods
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+
+# Tutorials
+
+[Traversy Media - Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE&feature=youtu.be)
+
+[The Coding Train - 8.2: HTTP Server with Express - Programming with Text](https://www.youtube.com/watch?v=6oiabY1xpBo&feature=youtu.be)
