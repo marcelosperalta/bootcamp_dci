@@ -344,7 +344,7 @@ Folder **[200708](https://github.com/marcelosperalta/dci/tree/master/200708)** (
 * Tools (React Native, Gatsby, AngularJS, JEST, jQuery, TypeScript, webpack, TensorFlow, GitHub Gist, ...)
 
 Folder **[200803](https://github.com/marcelosperalta/dci/tree/master/200803)** (Class 03.08.2020)
-* Express, HTTP (HTTP request methods (GET, POST...),  HTTP response status codes (200, 404...))
+* Express, HTTP (request methods (GET, POST...), response status codes (200, 404...))
 
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
