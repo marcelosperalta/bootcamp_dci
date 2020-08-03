@@ -51,7 +51,7 @@ npm install
 #### Run the App
 
 ```
-npm npm start
+npm start
 ```
 
 # Client/Server architecture
