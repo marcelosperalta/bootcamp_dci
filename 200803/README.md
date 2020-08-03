@@ -20,6 +20,10 @@ npm i express --save
 nodemon index.js
 ```
 
+## Screenshot
+
+![screenshot](./screenshot.png)
+
 ### Installing Express application generator
 
 http://expressjs.com/en/starter/generator.html
