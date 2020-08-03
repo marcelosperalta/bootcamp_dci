@@ -20,17 +20,11 @@ npm i express --save
 nodemon index.js
 ```
 
-or
-
-```
-node start
-```
-
 ### Installing Express application generator
 
 http://expressjs.com/en/starter/generator.html
 
-- Use the application generator tool, express-generator, to quickly create an application skeleton.
+Use the application generator tool, express-generator, to quickly create an application skeleton.
 
 ```
 npm install -g express-generator
@@ -43,6 +37,26 @@ express -help
 ```
 express --ejs myapp
 ```
+
+#### Install dependencies
+
+```
+npm install
+```
+
+#### Run the App
+
+```
+npm npm start
+```
+
+# Client/Server architecture
+
+https://www.setthings.com/en/clientserver-architecture/
+
+# How HTTP/1 works
+
+https://cascadingmedia.com/insites/2015/03/http-2.html
 
 # HTTP
 
