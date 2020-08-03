@@ -80,7 +80,7 @@ https://www.youtube.com/watch?v=eesqK59rhGA
 
 # HTTP (Hypertext Transfer Protocol)
 
-# How HTTP/1 works
+## How HTTP/1 works
 
 https://cascadingmedia.com/insites/2015/03/http-2.html
 
