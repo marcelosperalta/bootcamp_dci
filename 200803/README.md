@@ -72,7 +72,11 @@ https://www.youtube.com/watch?v=L5BlpPU_muY
 
 https://cascadingmedia.com/insites/2015/03/http-2.html
 
-# HTTP
+# The Http and the Web | Http Explained | Request-Response Cycle
+
+https://www.youtube.com/watch?v=eesqK59rhGA
+
+# HTTP (Hypertext Transfer Protocol)
 
 ## HTTP response status codes
 
