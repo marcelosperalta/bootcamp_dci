@@ -343,6 +343,9 @@ Folder **[200707](https://github.com/marcelosperalta/dci/tree/master/200707)** (
 Folder **[200708](https://github.com/marcelosperalta/dci/tree/master/200708)** (Class 08.07.2020)
 * Tools (React Native, Gatsby, AngularJS, JEST, jQuery, TypeScript, webpack, TensorFlow, GitHub Gist, ...)
 
+Folder **[200803](https://github.com/marcelosperalta/dci/tree/master/200803)** (Class 03.08.2020)
+* Tools (Express, HTTP request methods (GET, POST...),  HTTP response status codes (200, 404...))
+
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
         >>> Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM, and JSON <<<
