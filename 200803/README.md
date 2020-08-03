@@ -68,15 +68,21 @@ https://en.wikipedia.org/wiki/Client%E2%80%93server_model
 
 https://www.youtube.com/watch?v=L5BlpPU_muY  
 
-# How HTTP/1 works
+# How The Web Works - The Big Picture (Academind)
 
-https://cascadingmedia.com/insites/2015/03/http-2.html
+https://www.youtube.com/watch?v=hJHvdBlSxug  
 
-# The Http and the Web | Http Explained | Request-Response Cycle
+https://academind.com/learn/web-dev/how-the-web-works/  
+
+# The Http and the Web | Http Explained | Request-Response Cycle (The TechCave)
 
 https://www.youtube.com/watch?v=eesqK59rhGA
 
 # HTTP (Hypertext Transfer Protocol)
+
+# How HTTP/1 works
+
+https://cascadingmedia.com/insites/2015/03/http-2.html
 
 ## HTTP response status codes
 
