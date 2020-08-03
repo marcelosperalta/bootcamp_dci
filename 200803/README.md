@@ -54,6 +54,14 @@ npm install
 npm start
 ```
 
+*in the browser:*
+
+http://localhost:3000/
+
+#### Screenshot
+
+![screenshotMyApp](./screenshotMyApp.png)
+
 # Client/Server architecture
 
 https://www.setthings.com/en/clientserver-architecture/
