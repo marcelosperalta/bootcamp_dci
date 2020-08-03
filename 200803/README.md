@@ -62,9 +62,13 @@ http://localhost:3000/
 
 ![screenshotMyApp](./screenshotMyApp.png)
 
-# Client/Server architecture
+# Client–server model
 
-https://www.setthings.com/en/clientserver-architecture/
+https://en.wikipedia.org/wiki/Client%E2%80%93server_model  
+
+https://www.youtube.com/watch?v=L5BlpPU_muY  
+
+https://www.setthings.com/en/clientserver-architecture/  
 
 # How HTTP/1 works
 
