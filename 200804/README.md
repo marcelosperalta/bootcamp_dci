@@ -2,6 +2,8 @@
 
 https://expressjs.com/
 
+Fast, unopinionated, minimalist web framework for Node.js
+
 ## Installing
 
 https://expressjs.com/en/starter/installing.html
