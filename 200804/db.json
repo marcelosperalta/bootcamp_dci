@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "I like water"
+    },
+    {
+      "id": "2",
+      "title": "I like to sleep"
+    }
+  ],
+  "user": {
+    "name": "Hadi"
+  },
+  "num": 8
+}

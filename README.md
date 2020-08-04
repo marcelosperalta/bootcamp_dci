@@ -346,6 +346,9 @@ Folder **[200708](https://github.com/marcelosperalta/dci/tree/master/200708)** (
 Folder **[200803](https://github.com/marcelosperalta/dci/tree/master/200803)** (Class 03.08.2020)
 * Express, HTTP (request methods (GET, POST...), response status codes (200, 404...))
 
+Folder **[200804](https://github.com/marcelosperalta/dci/tree/master/200804)** (Class 04.08.2020)
+* Database (Lowdb)
+
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
         >>> Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM, and JSON <<<
