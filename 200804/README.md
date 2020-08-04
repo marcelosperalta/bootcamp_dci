@@ -28,6 +28,8 @@ nodemon index.js
 
 https://github.com/typicode/lowdb
 
+Small JSON database for Node, Electron and the browser. Powered by Lodash.
+
 ## Installing
 
 https://www.npmjs.com/package/lowdb
