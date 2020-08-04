@@ -14,16 +14,6 @@ npm init -y
 npm i express
 ```
 
-## Starting
-
-```
-nodemon index.js
-```
-
-## Screenshot
-
-![screenshot](./screenshot.png)
-
 # Lowdb
 
 https://github.com/typicode/lowdb
@@ -37,6 +27,16 @@ https://www.npmjs.com/package/lowdb
 ```
 npm i lowdb
 ```
+
+## Starting
+
+```
+nodemon index.js
+```
+
+## Screenshot
+
+![screenshot](./screenshot.png)
 
 # db-mock
 
