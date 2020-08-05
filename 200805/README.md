@@ -56,8 +56,10 @@ https://nodejs.org/dist/latest-v12.x/docs/api/process.html#process_process_env
 
 # Screenshots
 
+url: /login
 ![screenshot1](./screenshot1.png)
 
+url: /add
 ![screenshot2](./screenshot2.png)
 
 ![screenshot3](./screenshot3.png)

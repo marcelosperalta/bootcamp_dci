@@ -68,14 +68,13 @@ app.get("/user", async (req, res) => {
   res.send(`Hey ${name} `);
 });
 
-// Post method     url http://localhost:3000/login
+// Post method
+// login
+// url: http://localhost:3000/login
 //  {
 //     "userName": "Hadi",
 //      "pass":"000callme000"
 //  }
-//
-
-// login
 app.post("/login", (req, res) => {
   // url: /login
   console.log(req.body);
