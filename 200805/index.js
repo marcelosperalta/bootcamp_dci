@@ -1,5 +1,6 @@
 // npm i express
 // npm i lowdb
+// https://www.postman.com/downloads/
 
 // express
 const express = require("express");
@@ -18,11 +19,13 @@ app.use(bodyParser.json());
 app.use(bodyParser.raw());
 
 // root req
+// http://localhost:3000/
 app.get("/", (req, res) => {
   res.send("Welcome to our lowdb");
 });
 
 // db init
+// http://localhost:3000/new
 app.get("/new", async (req, res) => {
   // url: /new
   await db.defaults({ articles: [], user: {}, num: 1 }).write();
@@ -30,6 +33,7 @@ app.get("/new", async (req, res) => {
 });
 
 // adding new
+// http://localhost:3000/add?id=1&title=1+like+water
 app.get("/add", async (req, res) => {
   // url: /add?id=1&title=1+like+water
   const id = req.query.id;
@@ -39,6 +43,7 @@ app.get("/add", async (req, res) => {
 });
 
 // look up
+// http://localhost:3000/find?id=1
 app.get("/find", async (req, res) => {
   // url: /find?id=1
   const idToFind = req.query.id;
@@ -46,6 +51,7 @@ app.get("/find", async (req, res) => {
 });
 
 // update
+// http://localhost:3000/update
 app.get("/update", async (req, res) => {
   // url: /update
   await db.update("num", (n) => n + 1).write();
@@ -54,6 +60,7 @@ app.get("/update", async (req, res) => {
 });
 
 // user name
+// http://localhost:3000/user?name=Hadi
 app.get("/user", async (req, res) => {
   // url: /user?name=Hadi
   const name = req.query.name;
@@ -67,6 +74,8 @@ app.get("/user", async (req, res) => {
 //      "pass":"000callme000"
 //  }
 //
+
+// login
 app.post("/login", (req, res) => {
   // url: /login
   console.log(req.body);
@@ -80,6 +89,7 @@ app.post("/login", (req, res) => {
 });
 
 // remove
+// http://localhost:3000/delete
 app.get("/delete", async (req, res) => {
 
   // to remove article
@@ -95,13 +105,17 @@ app.get("/delete", async (req, res) => {
 
 });
 
+// api
+// http://localhost:3000/api
 app.get("/api", (req, res) => {
   // url: /api
   res.status(200).json({ id: 1, cityName: "Berlin", county: "DE" });
 });
 
+// https://nodejs.org/dist/latest-v12.x/docs/api/process.html#process_process_env
 const PORT = process.env.PORT || 3000;
 
+// nodemon index.js
 app.listen(PORT, () => {
   console.log(`server listen on http://localhost:${PORT}`);
 });
