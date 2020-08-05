@@ -56,14 +56,26 @@ https://nodejs.org/dist/latest-v12.x/docs/api/process.html#process_process_env
 
 # Screenshots
 
-**url: /login**
+**url: /login**  
 
 ![screenshot1](./screenshot1.png)
 
-**url: /add**
+**url: /add**  
 
 ![screenshot2](./screenshot2.png)
 
+**url: /api**  
+
 ![screenshot3](./screenshot3.png)
 
+**url: /delete**  
+
 ![screenshot4](./screenshot4.png)
+
+**url: /delete?id=1&title=I like water**  
+
+![screenshot5](./screenshot5.png)
+
+![screenshot6](./screenshot6.png)
+
+![screenshot7](./screenshot7.png)

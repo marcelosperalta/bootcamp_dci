@@ -71,10 +71,11 @@ app.get("/user", async (req, res) => {
 // Post method
 // login
 // url: http://localhost:3000/login
-//  {
-//     "userName": "Hadi",
-//      "pass":"000callme000"
-//  }
+// 
+// {
+//   "userName": "Hadi",
+//   "pass":"000callme000"
+// }
 app.post("/login", (req, res) => {
   // url: /login
   console.log(req.body);
@@ -93,14 +94,14 @@ app.get("/delete", async (req, res) => {
 
   // to remove article
   // url: /delete?title=something
-  //   const title = req.query.title;
-  //   await db.get("articles").remove({ title: title }).write();
-  //   res.status(200).send(`Your ${title} has been removed `);
+  const title = req.query.title;
+  await db.get("articles").remove({ title: title }).write();
+  res.status(200).send(`Your ${title} has been removed `);
 
   // to remove property
   // url: /delete
-  db.unset("user.name").write();
-  res.status(200).send("user.name has been removed");
+  // db.unset("user.name").write();
+  // res.status(200).send("user.name has been removed");
 
 });
 
