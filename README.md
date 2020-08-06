@@ -352,6 +352,9 @@ Folder **[200804](https://github.com/marcelosperalta/dci/tree/master/200804)** (
 Folder **[200805](https://github.com/marcelosperalta/dci/tree/master/200805)** (Class 05.08.2020)
 * Postman (Express, Lowdb, Node.js (process.env))
 
+Folder **[200806](https://github.com/marcelosperalta/dci/tree/master/200806)** (Class 06.08.2020)
+* Middleware (next())
+
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
         >>> Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM, and JSON <<<
