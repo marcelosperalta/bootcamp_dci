@@ -64,6 +64,18 @@ https://www.npmjs.com/package/router
 npm i router
 ```
 
+# http-errors
+
+https://github.com/jshttp/http-errors#readme
+
+## Installing
+
+https://www.npmjs.com/package/http-errors
+
+```
+npm i http-errors
+```
+
 # Postman
 
 https://www.postman.com/
