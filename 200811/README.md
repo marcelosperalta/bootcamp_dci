@@ -1,3 +1,7 @@
+# Exception handling
+
+https://en.wikipedia.org/wiki/Exception_handling
+
 # Express
 
 https://expressjs.com/
