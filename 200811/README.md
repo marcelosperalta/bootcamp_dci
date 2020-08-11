@@ -102,6 +102,14 @@ npm install
 
 # Screenshots
 
-**url: /**  
+**url: /admin**  /
 
-![screenshot](./screenshot.png)
+![screenshot1](./screenshot1.png)
+
+![screenshot2](./screenshot2.png)
+
+**url: /bill**  
+
+![screenshot3](./screenshot3.png)
+
+![screenshot4](./screenshot4.png)
