@@ -1,7 +1,3 @@
-# Exception handling
-
-https://en.wikipedia.org/wiki/Exception_handling
-
 # Express
 
 https://expressjs.com/
@@ -64,6 +60,18 @@ https://www.npmjs.com/package/router
 npm i router
 ```
 
+# http
+
+https://github.com/npm/security-holder#readme
+
+## Installing
+
+https://www.npmjs.com/package/http
+
+```
+npm i http
+```
+
 # http-errors
 
 https://github.com/jshttp/http-errors#readme
@@ -85,6 +93,12 @@ The Collaboration Platform for API Development
 ## Download
 
 https://www.postman.com/downloads/
+
+# How to install dependencies based on _package.json_ file
+
+```
+npm install
+```
 
 # Screenshots
 

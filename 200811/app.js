@@ -4,17 +4,23 @@ const morgan = require("morgan");
 const createError = require("http-errors");
 const usersRouter = require("./router/users");
 // const booksRouter = require("./router/books");
-app.use(morgan("dev"));
+
 // all err
-app.use((req, res, next) => {
-  if (!req.userName) return next(createError(401));
-});
+// app.use((req, res, next) => {
+//   if (!req.userName) return next(createError(401));
+// });
+
+app.use(morgan("dev"));
+
 app.use("/users", usersRouter);
 // app.use("/books", booksRouter);
+
+//http://localhost:3000/admin
 app.use("/admin", (req, res, next) => {
   if (!req.user) next(createError(401, "Please login to view this page."));
   next();
 });
+
 app
   .get("/", (req, res) => {
     console.log("GET");
@@ -26,11 +32,11 @@ app
     res.status(200).json({ text: "This was POST" });
   })
   .delete("/", (req, res) => {
-    console.log("POST");
+    console.log("DELETE");
     res.status(200).json({ text: "This was DELETE" });
   })
   .put("/", (req, res) => {
-    console.log("POST");
+    console.log("PUT");
     res.status(200).json({ text: "This was PUT" });
   });
 
@@ -48,10 +54,11 @@ app
 //   });
 // });
 
-// /bill error
+// bill error
+// http://localhost:3000/bill
 app.post("/bill", (req, res, next) => {
   next(
-    createError(402, `You don't have mony`, {
+    createError(402, `You don't have money`, {
       detail: {
         yourBalance: 400,
         itemCost: 6000,
