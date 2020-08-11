@@ -102,7 +102,7 @@ npm install
 
 # Screenshots
 
-**url: /admin**  /
+**url: /admin**  
 
 ![screenshot1](./screenshot1.png)
 
