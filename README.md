@@ -358,6 +358,9 @@ Folder **[200806](https://github.com/marcelosperalta/dci/tree/master/200806)** (
 Folder **[200810](https://github.com/marcelosperalta/dci/tree/master/200810)** (Class 10.08.2020)
 * Middleware (CORS, Router)
 
+Folder **[200811](https://github.com/marcelosperalta/dci/tree/master/200811)** (Class 11.08.2020)
+* Express (morgan)
+
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
         >>> Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM, and JSON <<<
