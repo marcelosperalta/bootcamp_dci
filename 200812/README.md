@@ -20,118 +20,70 @@ https://www.mongodb.com/
 
 https://www.mongodb.com/nosql-explained/nosql-vs-sql
 
-# Express
+### Installation on Linux
 
-https://expressjs.com/
+[Install MongoDB Community Edition on Linux](https://docs.mongodb.com/manual/administration/install-on-linux/)
 
-Fast, unopinionated, minimalist web framework for Node.js
+[Install MongoDB Community Edition on Ubuntu](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
 
-## Installing
-
-https://expressjs.com/en/starter/installing.html
+**check**
 
 ```
-npm init -y
+ps --no-headers -o comm 1
 ```
 
-```
-npm i express
-```
+e.g.
+_result:_ systemd
 
-## Starting
+![screenshot1](./readme/screenshot1.png)
 
-```
-nodemon server.js
-```
+**run**
 
-http://localhost:3000/  
-
-## Using middleware
-
-https://expressjs.com/en/guide/using-middleware.html  
-
-## Express/Node introduction (MDN)
-
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
-
-## Express Tutorial Part 4: Routes and controllers
-
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes
-
-# morgan
-
-https://github.com/expressjs/morgan#readme
-
-## Installing
-
-https://www.npmjs.com/package/morgan
+1. start
 
 ```
-npm i morgan
+sudo systemctl start mongod
 ```
 
-# router
-
-https://github.com/pillarjs/router#readme
-
-## Installing
-
-https://www.npmjs.com/package/router
+2. verify
 
 ```
-npm i router
+sudo systemctl status mongod
 ```
 
-# http
+![screenshot2](./readme/screenshot2.png)
 
-https://github.com/npm/security-holder#readme
-
-## Installing
-
-https://www.npmjs.com/package/http
+3. stop
 
 ```
-npm i http
+sudo systemctl stop mongod
 ```
 
-# http-errors
+![screenshot3](./readme/screenshot3.png)
 
-https://github.com/jshttp/http-errors#readme
-
-## Installing
-
-https://www.npmjs.com/package/http-errors
+4. stop
 
 ```
-npm i http-errors
+sudo systemctl restart mongod
 ```
 
-# Postman
-
-https://www.postman.com/
-
-The Collaboration Platform for API Development
-
-## Download
-
-https://www.postman.com/downloads/
-
-# How to install dependencies based on _package.json_ file
+5. stop
 
 ```
-npm install
+mongo
 ```
 
-# Screenshots
+6. documentation:
 
-**url: /admin**  
+mongo
+https://docs.mongodb.com/manual/reference/program/mongo/#bin.mongo
 
-![screenshot1](./screenshot1.png)
+The mongo Shel
+https://docs.mongodb.com/manual/mongo/
 
-![screenshot2](./screenshot2.png)
+Getting Started
+https://docs.mongodb.com/manual/tutorial/getting-started/#getting-started
 
-**url: /bill**  
+### Installation on Windows
 
-![screenshot3](./screenshot3.png)
-
-![screenshot4](./screenshot4.png)
+[Install MongoDB Community Edition on Windows](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
