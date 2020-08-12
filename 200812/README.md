@@ -16,12 +16,12 @@ https://en.wikipedia.org/wiki/NoSQL
 
 https://www.mongodb.com/  
 
-## NoSQL vs SQL Databases
+#### NoSQL vs SQL Databases
 
 https://www.mongodb.com/nosql-explained/nosql-vs-sql  
 <br>
 
-### Installation on Linux :penguin:
+#### Installation on Linux :penguin:
 
 [Install MongoDB Community Edition on Linux](https://docs.mongodb.com/manual/administration/install-on-linux/)  
 
@@ -87,7 +87,7 @@ _result:_ systemd
     https://docs.mongodb.com/manual/tutorial/getting-started/#getting-started  
 <br>
 
-### Installation on Windows :rainbow:
+#### Installation on Windows :rainbow:
 
 [Install MongoDB Community Edition on Windows](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)  
 
