@@ -131,4 +131,44 @@ or
 
 6. Run MongoDB Community Edition from the Command Interpreter  
 
-    * Create database directory
+    :rotating_light:  **IMPORTANT**  :rotating_light:
+
+    _You must open the command interpreter as an Administrator._
+
+* Create database directory
+
+    ```
+    cd C:\
+    ```
+
+    ```
+    md "\data\db"
+    ```
+    
+* Start your database
+
+    ```
+    cd C:\Program Files\MongoDB\Server\4.4\bin\
+    ```
+
+    ```
+    mongod.exe --dbpath="c:\data\db"
+    ```
+
+    If the MongoDB database server is running correctly, the Command Interpreter displays:  
+
+    **[initandlisten] waiting for connections**  
+
+    ![screenshot4](./readme/screenshot4.png)
+
+    ![screenshot5](./readme/screenshot5.png)
+
+* Connect to MongoDB
+
+    To connect a mongo.exe shell to the MongoDB instance, open another Command Interpreter with **Administrative privileges** and run:
+
+    ````
+    "C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
+    ````
+
+    ![screenshot6](./readme/screenshot6.png)
