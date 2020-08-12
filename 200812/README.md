@@ -63,19 +63,19 @@ _result:_ systemd
 
     ![screenshot3](./readme/screenshot3.png)
 
-4. stop  
+4. restart  
 
     ```
     sudo systemctl restart mongod
     ```
 
-5. stop  
+5. begin using  
 
     ```
     mongo
     ```
 
-6. documentation:  
+6. documentation  
 
     mongo  
     https://docs.mongodb.com/manual/reference/program/mongo/#bin.mongo  
