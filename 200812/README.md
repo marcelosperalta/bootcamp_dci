@@ -113,7 +113,7 @@ _result:_ systemd
 
     or  
 
--  open a Command Interpreter with Administrative privileges and run:
+-  open a Command Interpreter with :warning: Administrative privileges :warning: and run:
 
     ```
     "C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
