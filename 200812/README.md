@@ -121,13 +121,13 @@ _result:_ systemd
 
 5. For information on CRUD (Create, Read, Update, Delete) operations, see:
 
-    * [Insert Documents](https://docs.mongodb.com/manual/tutorial/insert-documents/)  
+* [Insert Documents](https://docs.mongodb.com/manual/tutorial/insert-documents/)  
 
-    * [Query Documents](https://docs.mongodb.com/manual/tutorial/query-documents/)  
+* [Query Documents](https://docs.mongodb.com/manual/tutorial/query-documents/)  
 
-    * [Update Documents](https://docs.mongodb.com/manual/tutorial/update-documents/)  
+* [Update Documents](https://docs.mongodb.com/manual/tutorial/update-documents/)  
 
-    * [Delete Documents](https://docs.mongodb.com/manual/tutorial/remove-documents/)  
+* [Delete Documents](https://docs.mongodb.com/manual/tutorial/remove-documents/)  
 
 6. Run MongoDB Community Edition from the Command Interpreter  
 
