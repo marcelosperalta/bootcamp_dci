@@ -129,13 +129,15 @@ _result:_ systemd
 
 * [Delete Documents](https://docs.mongodb.com/manual/tutorial/remove-documents/)  
 
-6. Run MongoDB Community Edition from the Command Interpreter  
+6. Run MongoDB Community Edition from the Command Interpreter<br><br>
 
     :rotating_light:  **IMPORTANT**  :rotating_light:
 
     _You must open the command interpreter as an Administrator._
 
-* Create database directory
+<br>
+
+* **Create database directory**
 
     ```
     cd C:\
@@ -144,8 +146,9 @@ _result:_ systemd
     ```
     md "\data\db"
     ```
-    
-* Start your database
+<br>
+
+* **Start your database**
 
     ```
     cd C:\Program Files\MongoDB\Server\4.4\bin\
@@ -162,8 +165,9 @@ _result:_ systemd
     ![screenshot4](./readme/screenshot4.png)
 
     ![screenshot5](./readme/screenshot5.png)
+<br><br>
 
-* Connect to MongoDB
+* **Connect to MongoDB**
 
     To connect a mongo.exe shell to the MongoDB instance, open another Command Interpreter with :warning: Administrative privileges :warning: and run:
 
