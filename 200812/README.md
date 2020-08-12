@@ -21,7 +21,7 @@ https://www.mongodb.com/
 https://www.mongodb.com/nosql-explained/nosql-vs-sql  
 <br>
 
-### Installation on Linux
+### Installation on Linux :penguin:
 
 [Install MongoDB Community Edition on Linux](https://docs.mongodb.com/manual/administration/install-on-linux/)  
 
@@ -87,7 +87,7 @@ _result:_ systemd
     https://docs.mongodb.com/manual/tutorial/getting-started/#getting-started  
 <br>
 
-### Installation on Windows
+### Installation on Windows :rainbow:
 
 [Install MongoDB Community Edition on Windows](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)  
 
@@ -165,7 +165,7 @@ or
 
 * Connect to MongoDB
 
-    To connect a mongo.exe shell to the MongoDB instance, open another Command Interpreter with **Administrative privileges** and run:
+    To connect a mongo.exe shell to the MongoDB instance, open another Command Interpreter with :warning: Administrative privileges :warning: and run:
 
     ````
     "C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
