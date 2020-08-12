@@ -119,7 +119,7 @@ _result:_ systemd
     "C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
     ```
 
-5. For information on CRUD (Create,Read,Update,Delete) operations, see:
+5. For information on CRUD (Create, Read, Update, Delete) operations, see:
 
     * [Insert Documents](https://docs.mongodb.com/manual/tutorial/insert-documents/)  
 
