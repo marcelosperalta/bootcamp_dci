@@ -75,7 +75,7 @@ _A key / id uniquely identifies a record_
 :arrow_right: **_Difference III:_** MongoDB implicitly provides unique IDs  
 <br>
 
-### :white_check_mark: CRUD: Four primary data operations
+### :white_check_mark: CRUD: Four basic functions of persistent storage.
 
 _[CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) aka Create, Read (aka Retrive), Update and Delete_  
 
