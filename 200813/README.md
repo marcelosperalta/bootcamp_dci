@@ -84,7 +84,7 @@ _[**CRUD**](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) aka C
 |**C**reate            |Insert |INSERT|PUT / POST        |POST      |write      |
 |**R**ead   (Retrieve) |Find   |SELECT|GET               |GET       |read / take|
 |**U**pdate (Modify)   |Update |UPDATE|PUT / POST / PATCH|PUT       |write      |
-|**D**elete (Destroy)  |Remove |DELETE|DELETE            |DELETE    |dispose    |
+|**D**elete (Destroy)  |Delete |DELETE|DELETE            |DELETE    |dispose    |
 
 #### Create: Inserting multiple documents / rows:
 
@@ -117,6 +117,10 @@ _[**CRUD**](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) aka C
 # MongoDB
 
 https://www.mongodb.com/  
+
+## MongoDB CRUD Operations
+
+https://docs.mongodb.com/manual/crud/#delete-operations
 
 ## run (Windows 10)
 
