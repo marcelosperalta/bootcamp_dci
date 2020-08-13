@@ -188,30 +188,35 @@ show dbs
 db
 ````
 ![screenshot5](./readme/screenshot05.png)
+<br><br>
 
 :ballot_box_with_check: Create new DB || Switch DB  
 ````
 use newTest
 ````
 ![screenshot6](./readme/screenshot06.png)
+<br><br>
 
 :ballot_box_with_check: Drop DB  
 ````
 db.dropDatabase()
 ````
 ![screenshot7](./readme/screenshot07.png)
+<br><br>
 
 :ballot_box_with_check: Create Collection  
 ````
 db.createCollection('users')
 ````
 ![screenshot8](./readme/screenshot08.png)
+<br><br>
 
 :ballot_box_with_check: Show Collections  
 ````
 show collections
 ````
 ![screenshot9](./readme/screenshot09.png)
+<br><br>
 
 :ballot_box_with_check: Insert new row  
 ````
@@ -228,6 +233,7 @@ db.users.insert({
 })
 ````
 ![screenshot10](./readme/screenshot10.png)
+<br><br>
 
 :ballot_box_with_check: Insert many rows  
 ````
@@ -253,18 +259,21 @@ db.users.insertMany([
 ])
 ````
 ![screenshot11](./readme/screenshot11.png)
+<br><br>
 
 :ballot_box_with_check: To show all rows in Collection  
 ````
 db.users.find()
 ````
 ![screenshot12](./readme/screenshot12.png)
+<br><br>
 
 :ballot_box_with_check: Make it pretty  
 ````
 db.users.find().pretty()
 ````
 ![screenshot13](./readme/screenshot13.png)
+<br><br>
 
 :ballot_box_with_check: Find rows with Criteria  
 ````
@@ -279,6 +288,7 @@ db.users.find({ add: 'Berlin' }).pretty()
 
 ````
 ![screenshot15](./readme/screenshot15.png)
+<br><br>
 
 :ballot_box_with_check: Sorting rows  
 
@@ -293,6 +303,7 @@ descending
 db.users.find().sort({ name: -1 }).pretty()
 ````
 ![screenshot17](./readme/screenshot17.png)
+<br><br>
 
 :ballot_box_with_check: Delete row with Criteria  
 ````
