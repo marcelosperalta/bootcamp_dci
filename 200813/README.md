@@ -79,12 +79,12 @@ _A key / id uniquely identifies a record_
 
 _[**CRUD**](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) aka Create, Read (aka Retrieve), Update and Delete_  
 
-|Operation             |MongoDB|SQL   |HTTP              |RESTful WS|DDS        |
-|:---------------------|:------|:-----|:-----------------|:---------|:----------|
-|**C**reate            |Insert |INSERT|PUT / POST        |POST      |write      |
-|**R**ead   (Retrieve) |Find   |SELECT|GET               |GET       |read / take|
-|**U**pdate (Modify)   |Update |UPDATE|PUT / POST / PATCH|PUT       |write      |
-|**D**elete (Destroy)  |Delete |DELETE|DELETE            |DELETE    |dispose    |
+|Operation             |MongoDB|SQL   |HTTP              |RESTful WS |
+|:---------------------|:------|:-----|:-----------------|:----------|
+|**C**reate            |Insert |INSERT|PUT / POST        |POST       |
+|**R**ead   (Retrieve) |Find   |SELECT|GET               |GET        |
+|**U**pdate (Modify)   |Update |UPDATE|PUT / POST / PATCH|PUT / PATCH|
+|**D**elete (Destroy)  |Delete |DELETE|DELETE            |DELETE     |
 
 #### Create: Inserting multiple documents / rows:
 
