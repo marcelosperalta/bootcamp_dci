@@ -174,7 +174,7 @@ To connect a mongo.exe shell to the MongoDB instance, open another Command Inter
 
 ## basics commands
 
-To see all Databases you have  
+:black_small_square: To see all Databases you have  
 ````
 show dbs
 ````
