@@ -36,7 +36,7 @@ _A place to keep records_
 |Creating a collection in MongoDB|`db.createCollection();`, `show collections`|
 |Creating a table in SQL|`CREATE TABLE <table name> (<column definitions>);`, `SHOW TABLES;`|
 
-**_Difference I:_**  
+:warning: **_Difference I:_**  
 SQL requires structure, e.g. `DESCRIBE <table name>`  
 
 ### Document | Row
@@ -48,7 +48,7 @@ _A single record in a collection / table_
 |Inserting a document in MongoDB|`db.<collection>.insertOne(<document>);`|
 |Inserting a row in MySQL|`INSERT INTO <table name> VALUES (<values>);`|
 
-**_Difference II:_**  
+:warning: **_Difference II:_**  
 Mongo implicitly creates collections with `.insertOne()`  
 
 ### Field | Column
@@ -68,7 +68,7 @@ _An key / id uniquely identifies a record_
 |:-------|:------|
 |Adding IDs to SQL|`CREATE TABLE <table name> ( id NOT NULL AUTO_INCREMENT, <column definitions>, PRIMARY_KEY(id) );`|
 
-**_Difference III:_**  
+:warning: **_Difference III:_**  
 MongoDB implicitly provides unique IDs  
 
 ### CRUD: Four primary data operations
