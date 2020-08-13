@@ -27,7 +27,7 @@ https://www.kb.blackbaud.co.uk/articles/Article/117098
 |MongoDB |`use <db name>`|
 |SQL     |`CREATE DATABASE <db name>;`, `USE <db name>;`|
 
-### Collection | Table
+### :white_check_mark: Collection | Table
 
 _A place to keep records_  
 
@@ -39,7 +39,7 @@ _A place to keep records_
 :arrow_right: **_Difference I_:**  
 SQL requires structure, e.g. `DESCRIBE <table name>`  
 
-### Document | Row
+### :white_check_mark: Document | Row
 
 _A single record in a collection / table_  
 
@@ -51,7 +51,7 @@ _A single record in a collection / table_
 :warning: **_Difference II:_**  
 Mongo implicitly creates collections with `.insertOne()`  
 
-### Field | Column
+### :white_check_mark: Field | Column
 
 _A value in a record_  
 
@@ -60,7 +60,7 @@ _A value in a record_
 |Showing all documents in MongoDB|`db.<collection>.find({})`|
 |Showing all rows of a table in SQL|`SELECT * from <table name>`|
 
-### Key | Id
+### :white_check_mark: Key | Id
 
 _An key / id uniquely identifies a record_  
 
@@ -71,7 +71,7 @@ _An key / id uniquely identifies a record_
 :warning: **_Difference III:_**  
 MongoDB implicitly provides unique IDs  
 
-### CRUD: Four primary data operations
+### :white_check_mark: CRUD: Four primary data operations
 
 CRUD aka Creat Retrieve Update Delete  
 
