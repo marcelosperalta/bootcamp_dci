@@ -20,7 +20,7 @@ https://www.kb.blackbaud.co.uk/articles/Article/117098
 
 ## [**Database Basics**](https://github.com/FBw-26/lessons/blob/master/MongoDB.md):
 
-### :o: MongoDB | SQL
+### :white_check_mark: MongoDB | SQL
 
 |Database|Command|
 |:-------|:------|
