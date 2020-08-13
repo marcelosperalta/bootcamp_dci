@@ -174,13 +174,11 @@ To connect a mongo.exe shell to the MongoDB instance, open another Command Inter
 
 ## basics commands
 
-
 :ballot_box_with_check: To see all Databases you have  
 ````
 show dbs
 ````
 ![screenshot4](./readme/screenshot04.png)
-
 
 :ballot_box_with_check: To show the current Database you are working with  
 ````
@@ -227,6 +225,49 @@ db.users.insert({
 })
 ````
 ![screenshot10](./readme/screenshot10.png)
+
+:ballot_box_with_check: Insert many rows  
+````
+db.users.insertMany([
+  {
+    name: "Jack",
+    age: 22,
+    add: "Paris",
+    data: Date(),
+  },
+  {
+    name: "Olga",
+    age: 40,
+    add: "Paris",
+    data: Date(),
+  },
+  {
+    name: "Zain",
+    age: 3,
+    add: "Berlin",
+    data: Date(),
+  },
+])
+````
+![screenshot11](./readme/screenshot11.png)
+
+:ballot_box_with_check: To show all rows in Collection  
+````
+db.users.find()
+````
+![screenshot12](./readme/screenshot12.png)
+
+:ballot_box_with_check: Make it pretty  
+````
+db.users.find().pretty()
+````
+![screenshot13](./readme/screenshot13.png)
+
+:ballot_box_with_check: Find rows with Criteria  
+````
+db.users.find({ add: 'Berlin' })
+````
+![screenshot14](./readme/screenshot14.png)
 
 ## MongoDB Compass
 

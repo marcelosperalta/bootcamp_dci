@@ -32,26 +32,26 @@ db.users.insert({
 })
 
 // Insert many rows
-// db.users.insertMany([
-//   {
-//     name: "Jack",
-//     age: 22,
-//     add: "Paris",
-//     data: Date(),
-//   },
-//   {
-//     name: "Olga",
-//     age: 40,
-//     add: "Paris",
-//     data: Date(),
-//   },
-//   {
-//     name: "Zain",
-//     age: 3,
-//     add: "Berlin",
-//     data: Date(),
-//   },
-// ])
+db.users.insertMany([
+  {
+    name: "Jack",
+    age: 22,
+    add: "Paris",
+    data: Date(),
+  },
+  {
+    name: "Olga",
+    age: 40,
+    add: "Paris",
+    data: Date(),
+  },
+  {
+    name: "Zain",
+    age: 3,
+    add: "Berlin",
+    data: Date(),
+  },
+])
 
 // To show all rows in Collection
 // db.users.find()
