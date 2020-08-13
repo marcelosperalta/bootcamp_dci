@@ -25,7 +25,7 @@ https://www.kb.blackbaud.co.uk/articles/Article/117098
 |Database|Command|
 |:-------|:------|
 |MongoDB |`use <db name>`|
-|SQL     |`CREATE DATABASE <db name>;`, `USE <db name>;`|
+|SQL     |`CREATE DATABASE <db name>;` , `USE <db name>;`|
 
 ### :white_check_mark: Collection | Table
 
@@ -33,8 +33,8 @@ _A place to keep records_
 
 |Database|Command|
 |:-------|:------|
-|Creating a collection in MongoDB|`db.createCollection();`, `show collections`|
-|Creating a table in SQL|`CREATE TABLE <table name> (<column definitions>);`, `SHOW TABLES;`|
+|Creating a collection in MongoDB|`db.createCollection();` , `show collections`|
+|Creating a table in SQL|`CREATE TABLE <table name> (<column definitions>);` , `SHOW TABLES;`|
 
 :arrow_right: **_Difference I_:**  
 SQL requires structure, e.g. `DESCRIBE <table name>`  
