@@ -12,17 +12,13 @@ https://en.wikipedia.org/wiki/NoSQL
 
 https://www.kb.blackbaud.co.uk/articles/Article/117098  
 
-### MongoDB
-
-https://www.mongodb.com/  
-
-#### NoSQL vs SQL Databases
+### NoSQL vs SQL Databases
 
 [NoSQL vs SQL Databases](https://www.mongodb.com/nosql-explained/nosql-vs-sql)  
 
 [SQL vs NoSQL or MySQL vs MongoDB by Academind](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)  
 
-[**Database Basics**](https://github.com/FBw-26/lessons/blob/master/MongoDB.md):
+## [**Database Basics**](https://github.com/FBw-26/lessons/blob/master/MongoDB.md):
 
 ### MongoDB | SQL
 
