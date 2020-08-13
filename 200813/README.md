@@ -126,51 +126,51 @@ https://docs.mongodb.com/manual/crud/#delete-operations
 
 Run MongoDB Community Edition from the Command Interpreter<br><br>
 
-    :rotating_light:  **IMPORTANT**  :rotating_light:
+:rotating_light:  **IMPORTANT**  :rotating_light:
 
-    _You must open the command interpreter as an Administrator._
+_You must open the command interpreter as an Administrator._
 
 <br>
 
-* **Create database directory**
+**Create database directory**
 
-    ```
-    cd C:\
-    ```
+```
+cd C:\
+```
 
-    ```
-    md "\data\db"
-    ```
+```
+md "\data\db"
+```
 <br>
 
-* **Start your database**
+**Start your database**
 
-    ```
-    cd C:\Program Files\MongoDB\Server\4.4\bin\
-    ```
+```
+cd C:\Program Files\MongoDB\Server\4.4\bin\
+```
 
-    ```
-    mongod.exe --dbpath="c:\data\db"
-    ```
+```
+mongod.exe --dbpath="c:\data\db"
+```
 
-    If the MongoDB database server is running correctly, the Command Interpreter displays:  
+If the MongoDB database server is running correctly, the Command Interpreter displays:  
 
-    **[initandlisten] waiting for connections**  
+**[initandlisten] waiting for connections**  
 
-    ![screenshot1](./readme/screenshot1.png)
+![screenshot1](./readme/screenshot1.png)
 
-    ![screenshot2](./readme/screenshot2.png)
+![screenshot2](./readme/screenshot2.png)
 <br><br>
 
-* **Connect to MongoDB**
+**Connect to MongoDB**
 
-    To connect a mongo.exe shell to the MongoDB instance, open another Command Interpreter with :warning: Administrative privileges :warning: and run:
+To connect a mongo.exe shell to the MongoDB instance, open another Command Interpreter with :warning: Administrative privileges :warning: and run:
 
-    ````
-    "C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
-    ````
+````
+"C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
+````
 
-    ![screenshot3](./readme/screenshot3.png)
+![screenshot3](./readme/screenshot3.png)
 
 ## basics commands
 
