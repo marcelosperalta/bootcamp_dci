@@ -174,11 +174,13 @@ To connect a mongo.exe shell to the MongoDB instance, open another Command Inter
 
 ## basics commands
 
+
 :ballot_box_with_check: To see all Databases you have  
 ````
 show dbs
 ````
 ![screenshot4](./readme/screenshot04.png)
+
 
 :ballot_box_with_check: To show the current Database you are working with  
 ````
