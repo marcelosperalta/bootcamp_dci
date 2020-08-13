@@ -49,7 +49,7 @@ _A single record in a collection / table_
 |Inserting a row in MySQL|`INSERT INTO <table name> VALUES (<values>);`|
 
 :arrow_right: **_Difference II:_**  
-Mongo implicitly creates collections with `.insertOne()`  
+MongoDB implicitly creates collections with `.insertOne()`  
 
 ### :white_check_mark: Field | Column
 
