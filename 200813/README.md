@@ -174,6 +174,58 @@ To connect a mongo.exe shell to the MongoDB instance, open another Command Inter
 
 ## basics commands
 
+To see all Databases you have  
+````
+show dbs
+````
+![screenshot4](./readme/screenshot04.png)
+
+To show the current Database you are working with  
+````
+db
+````
+![screenshot5](./readme/screenshot05.png)
+
+Create new DB || Switch DB  
+````
+use newTest
+````
+![screenshot6](./readme/screenshot06.png)
+
+Drop DB  
+````
+db.dropDatabase()
+````
+![screenshot7](./readme/screenshot07.png)
+
+Create Collection  
+````
+db.createCollection('users')
+````
+![screenshot8](./readme/screenshot08.png)
+
+Show Collections  
+````
+show collections
+````
+![screenshot9](./readme/screenshot09.png)
+
+Insert new row  
+````
+db.users.insert({
+  name: 'Ali',
+  age: 31,
+  add: 'Berlin',
+  hobbies: ['dance', 'sleep'],
+  emails: {
+    private: 'me@mail.co',
+    work: 'you@mail.com'
+  },
+  date: Date()
+})
+````
+![screenshot10](./readme/screenshot10.png)
+
 ## MongoDB Compass
 
 As the GUI for MongoDB, MongoDB Compass allows you to make smarter decisions about document structure, querying, indexing, document validation, and more. Commercial subscriptions include technical support for MongoDB Compass.

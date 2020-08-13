@@ -1,35 +1,35 @@
 // MongoDB today's commands
 
 // To see all Databases you have
-// show dbs
+show dbs
 
 // To show the current Database you are working with
-// db
+db
 
 // Create new DB || Switch DB
-// use newTest
+use newTest
 
 // Drop DB
-// db.dropDatabase()
+db.dropDatabase()
 
 // Create Collection
-// db.createCollection('users')
+db.createCollection('users')
 
 // Show Collections
-// show collections
+show collections
 
 // Insert new row
-// db.users.insert({
-//   name: 'Ali',
-//   age: 31,
-//   add: 'Berlin',
-//   hopis: ['dance', 'sleep'],
-//   emails: {
-//     private: 'me@mail.co',
-//     work: 'you@mail.com'
-//   },
-//   date: Date()
-// })
+db.users.insert({
+  name: 'Ali',
+  age: 31,
+  add: 'Berlin',
+  hobbies: ['dance', 'sleep'],
+  emails: {
+    private: 'me@mail.co',
+    work: 'you@mail.com'
+  },
+  date: Date()
+})
 
 // Insert many rows
 // db.users.insertMany([
