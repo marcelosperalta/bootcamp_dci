@@ -1,10 +1,10 @@
 # Database
 
-## SQL
+## SQL (Structured Query Language)
 
 https://en.wikipedia.org/wiki/SQL  
 
-## NoSQL
+## NoSQL (originally referring to "non-SQL" or "non-relational")
 
 https://en.wikipedia.org/wiki/NoSQL  
 
