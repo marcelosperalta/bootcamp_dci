@@ -180,37 +180,37 @@ show dbs
 ````
 ![screenshot4](./readme/screenshot04.png)
 
-:black_medium_small_square: To show the current Database you are working with  
+:ballot_box_with_check: To show the current Database you are working with  
 ````
 db
 ````
 ![screenshot5](./readme/screenshot05.png)
 
-Create new DB || Switch DB  
+:ballot_box_with_check: Create new DB || Switch DB  
 ````
 use newTest
 ````
 ![screenshot6](./readme/screenshot06.png)
 
-Drop DB  
+:ballot_box_with_check: Drop DB  
 ````
 db.dropDatabase()
 ````
 ![screenshot7](./readme/screenshot07.png)
 
-Create Collection  
+:ballot_box_with_check: Create Collection  
 ````
 db.createCollection('users')
 ````
 ![screenshot8](./readme/screenshot08.png)
 
-Show Collections  
+:ballot_box_with_check: Show Collections  
 ````
 show collections
 ````
 ![screenshot9](./readme/screenshot09.png)
 
-Insert new row  
+:ballot_box_with_check: Insert new row  
 ````
 db.users.insert({
   name: 'Ali',
