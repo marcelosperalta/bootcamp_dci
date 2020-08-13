@@ -362,10 +362,10 @@ Folder **[200811](https://github.com/marcelosperalta/dci/tree/master/200811)** (
 * Express (morgan, http, http-errors)
 
 Folder **[200812](https://github.com/marcelosperalta/dci/tree/master/200812)** (Class 12.08.2020)
-* Database (SQL, NoSQL (MongoDB installation))
+* Database (SQL, NoSQL (**MongoDB installation**))
 
 Folder **[200813](https://github.com/marcelosperalta/dci/tree/master/200813)** (Class 13.08.2020)
-* Database (SQL, NoSQL (MongoDB commands))
+* Database (SQL, NoSQL (**MongoDB commands**))
 
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">

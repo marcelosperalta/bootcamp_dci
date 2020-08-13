@@ -23,7 +23,7 @@ https://www.mongodb.com/nosql-explained/nosql-vs-sql
 [SQL vs NoSQL or MySQL vs MongoDB by Academind](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 <br>
 
-#### Installation on Linux :penguin:
+#### Installation on **Linux Ubuntu 18.04** :penguin:
 
 [Install MongoDB Community Edition on Linux](https://docs.mongodb.com/manual/administration/install-on-linux/)  
 
@@ -89,7 +89,7 @@ _result:_ systemd
     https://docs.mongodb.com/manual/tutorial/getting-started/#getting-started  
 <br>
 
-#### Installation on Windows :rainbow:
+#### Installation on **Windows 10** :rainbow:
 
 [Install MongoDB Community Edition on Windows](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)  
 
