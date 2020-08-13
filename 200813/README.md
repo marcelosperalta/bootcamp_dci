@@ -79,28 +79,28 @@ _A key / id uniquely identifies a record_
 
 _[**CRUD**](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) aka Create, Read (aka Retrieve), Update and Delete_  
 
-**Create: Inserting multiple documents / rows:**
+#### Create: Inserting multiple documents / rows:
 
 |Database|Command|
 |:-------|:------|
 |MongoDB |`db.<collection>.insertMany([{ <document 1> }, { <document 2> }, <...>]);`|
 |SQL     |`INSERT INTO <table> VALUES (<row 1>), (<row 2>), <...>;`|
 
-#### Read: Querying the table / collection:
+#### Read: Querying the collection / table:
 
 |Database|Command|
 |:-------|:------|
 |MongoDB |`db.<collection>.find({ <field name>: { criteria } });`|
 |SQL     |`SELECT * from <table> WHERE <criteria>`|
 
-#### Update: Updating a row / document:
+#### Update: Updating a document / row:
 
 |Database|Command|
 |:-------|:------|
 |MongoDB |`db.<collection>.updateOne({ <criteria>, {$set: <values> });`|
 |SQL     |`UPDATE <table> SET <values> WHERE <criteria>;`|
 
-#### Delete: Deleting a row / document:
+#### Delete: Deleting a document / row:
 
 |Database|Command|
 |:-------|:------|
