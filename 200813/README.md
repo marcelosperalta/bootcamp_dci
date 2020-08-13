@@ -292,13 +292,13 @@ db.users.find({ add: 'Berlin' }).pretty()
 
 :ballot_box_with_check: Sorting rows  
 
-ascending (alphabetical order)
+**ascending** (alphabetical order)
 ````
 db.users.find().sort({ name: 1 }).pretty()
 ````
 ![screenshot16](./readme/screenshot16.png)
 
-descending
+**descending**
 ````
 db.users.find().sort({ name: -1 }).pretty()
 ````
