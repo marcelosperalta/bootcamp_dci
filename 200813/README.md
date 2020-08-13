@@ -17,8 +17,10 @@ https://www.kb.blackbaud.co.uk/articles/Article/117098
 [NoSQL vs SQL Databases](https://www.mongodb.com/nosql-explained/nosql-vs-sql)  
 
 [SQL vs NoSQL or MySQL vs MongoDB by Academind](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)  
+<br>
 
 ## [**Database Basics**](https://github.com/FBw-26/lessons/blob/master/MongoDB.md):
+<br>
 
 ### :white_check_mark: MongoDB | SQL
 
@@ -26,6 +28,7 @@ https://www.kb.blackbaud.co.uk/articles/Article/117098
 |:-------|:------|
 |MongoDB |`use <db name>`|
 |SQL     |`CREATE DATABASE <db name>;` , `USE <db name>;`|
+<br>
 
 ### :white_check_mark: Collection | Table
 
@@ -36,8 +39,9 @@ _A place to keep records_
 |Creating a collection in MongoDB|`db.createCollection();` , `show collections`|
 |Creating a table in SQL|`CREATE TABLE <table name> (<column definitions>);` , `SHOW TABLES;`|
 
-:arrow_right: **_Difference I_:**  <br><br>
+:arrow_right: **_Difference I_:**  
 SQL requires structure, e.g. `DESCRIBE <table name>`  
+<br>
 
 ### :white_check_mark: Document | Row
 
@@ -50,6 +54,7 @@ _A single record in a collection / table_
 
 :arrow_right: **_Difference II:_**  
 MongoDB implicitly creates collections with `.insertOne()`  
+<br>
 
 ### :white_check_mark: Field | Column
 
@@ -59,6 +64,7 @@ _A value in a record_
 |:-------|:------|
 |Showing all documents in MongoDB|`db.<collection>.find({})`|
 |Showing all rows of a table in SQL|`SELECT * from <table name>`|
+<br>
 
 ### :white_check_mark: Key | Id
 
@@ -70,6 +76,7 @@ _An key / id uniquely identifies a record_
 
 :arrow_right: **_Difference III:_**  
 MongoDB implicitly provides unique IDs  
+<br>
 
 ### :white_check_mark: CRUD: Four primary data operations
 
