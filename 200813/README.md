@@ -48,7 +48,7 @@ _A single record in a collection / table_
 |Inserting a document in MongoDB|`db.<collection>.insertOne(<document>);`|
 |Inserting a row in MySQL|`INSERT INTO <table name> VALUES (<values>);`|
 
-:warning: **_Difference II:_**  
+:arrow_right: **_Difference II:_**  
 Mongo implicitly creates collections with `.insertOne()`  
 
 ### :white_check_mark: Field | Column
@@ -68,7 +68,7 @@ _An key / id uniquely identifies a record_
 |:-------|:------|
 |Adding IDs to SQL|`CREATE TABLE <table name> ( id NOT NULL AUTO_INCREMENT, <column definitions>, PRIMARY_KEY(id) );`|
 
-:warning: **_Difference III:_**  
+:arrow_right: **_Difference III:_**  
 MongoDB implicitly provides unique IDs  
 
 ### :white_check_mark: CRUD: Four primary data operations
