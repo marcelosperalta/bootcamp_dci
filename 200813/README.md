@@ -292,7 +292,7 @@ db.users.find({ add: 'Berlin' }).pretty()
 
 :ballot_box_with_check: Sorting rows  
 
-ascending => Alphabetical order
+ascending (alphabetical order)
 ````
 db.users.find().sort({ name: 1 }).pretty()
 ````
