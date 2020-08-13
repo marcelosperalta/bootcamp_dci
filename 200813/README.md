@@ -36,7 +36,7 @@ _A place to keep records_
 |Creating a collection in MongoDB|`db.createCollection();` , `show collections`|
 |Creating a table in SQL|`CREATE TABLE <table name> (<column definitions>);` , `SHOW TABLES;`|
 
-:arrow_right: **_Difference I_:**  
+:arrow_right: **_Difference I_:**  <br>
 SQL requires structure, e.g. `DESCRIBE <table name>`  
 
 ### :white_check_mark: Document | Row
