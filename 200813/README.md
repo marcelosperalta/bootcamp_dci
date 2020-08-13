@@ -157,9 +157,9 @@ If the MongoDB database server is running correctly, the Command Interpreter dis
 
 **[initandlisten] waiting for connections**  
 
-![screenshot1](./readme/screenshot1.png)
+![screenshot1](./readme/screenshot01.png)
 
-![screenshot2](./readme/screenshot2.png)
+![screenshot2](./readme/screenshot02.png)
 <br><br>
 
 **Connect to MongoDB**
@@ -170,8 +170,26 @@ To connect a mongo.exe shell to the MongoDB instance, open another Command Inter
 "C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
 ````
 
-![screenshot3](./readme/screenshot3.png)
+![screenshot3](./readme/screenshot03.png)
 
 ## basics commands
+
+## MongoDB Compass
+
+As the GUI for MongoDB, MongoDB Compass allows you to make smarter decisions about document structure, querying, indexing, document validation, and more. Commercial subscriptions include technical support for MongoDB Compass.
+
+### download
+
+https://www.mongodb.com/try/download/compass
+
+### screenshots
+
+![screenshot](./readme/screenshot20.png)
+
+![screenshot](./readme/screenshot21.png)
+
+![screenshot](./readme/screenshot22.png)
+
+![screenshot](./readme/screenshot23.png)
 
 
