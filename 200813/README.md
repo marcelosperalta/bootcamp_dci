@@ -77,7 +77,7 @@ _A key / id uniquely identifies a record_
 
 ### :white_check_mark: CRUD: Four primary data operations
 
-CRUD aka Creat Retrieve Update Delete  
+_[CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) aka Create, Read (aka Retrive), Update and Delete_  
 
 **Create: Inserting multiple documents / rows:**
 
@@ -86,7 +86,7 @@ CRUD aka Creat Retrieve Update Delete
 |MongoDB |`db.<collection>.insertMany([{ <document 1> }, { <document 2> }, <...>]);`|
 |SQL     |`INSERT INTO <table> VALUES (<row 1>), (<row 2>), <...>;`|
 
-#### Retrieve: Querying the table / collection:
+#### Read: Querying the table / collection:
 
 |Database|Command|
 |:-------|:------|
