@@ -66,7 +66,7 @@ _A value in a record_
 
 ### :white_check_mark: Key | Id
 
-_An key / id uniquely identifies a record_  
+_A key / id uniquely identifies a record_  
 
 |Database|Command|
 |:-------|:------|
