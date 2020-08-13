@@ -269,6 +269,36 @@ db.users.find({ add: 'Berlin' })
 ````
 ![screenshot14](./readme/screenshot14.png)
 
+or  
+
+````
+db.users.find({ add: 'Berlin' }).pretty()
+
+````
+![screenshot15](./readme/screenshot15.png)
+
+:ballot_box_with_check: Sorting rows  
+
+ascending => Alphabetical order
+````
+db.users.find().sort({ name: 1 }).pretty()
+````
+![screenshot16](./readme/screenshot16.png)
+
+descending
+````
+db.users.find().sort({ name: -1 }).pretty()
+````
+![screenshot17](./readme/screenshot17.png)
+
+:ballot_box_with_check: Delete row with Criteria  
+````
+db.users.remove({ name: 'Olga' })
+````
+![screenshot18](./readme/screenshot18.png)
+
+![screenshot19](./readme/screenshot19.png)
+
 ## MongoDB Compass
 
 As the GUI for MongoDB, MongoDB Compass allows you to make smarter decisions about document structure, querying, indexing, document validation, and more. Commercial subscriptions include technical support for MongoDB Compass.

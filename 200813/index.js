@@ -1,4 +1,6 @@
-// MongoDB today's commands
+/*
+    MongoDB today's commands:
+*/
 
 // To see all Databases you have
 show dbs
@@ -54,19 +56,19 @@ db.users.insertMany([
 ])
 
 // To show all rows in Collection
-// db.users.find()
+db.users.find()
 
 // Make it pretty
-// db.users.find().pretty()
+db.users.find().pretty()
 
 // Find rows with Criteria
-// db.users.find({ add: 'Berlin' })
+db.users.find({ add: 'Berlin' })
 
 // Sorting rows
-// ascending => Alphabetical order
-// db.users.find().sort({ name: 1 }).pretty()
-// descending
-// db.users.find().sort({ name: -1 }).pretty()
+    // ascending => Alphabetical order
+db.users.find().sort({ name: 1 }).pretty()
+    // descending
+db.users.find().sort({ name: -1 }).pretty()
 
 // Delete row with Criteria
-// db.users.remove({ name: 'Olga' })
+db.users.remove({ name: 'Olga' })
