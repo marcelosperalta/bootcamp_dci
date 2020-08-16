@@ -6,8 +6,8 @@ https://github.com/sass/sass-site
 
 # Project
 
-https://github.com/marcelosperalta/dciScssTemplate
+https://github.com/marcelosperalta/boilerplate_sass
 
 ### Class
 
-https://marcelosperalta.github.io/dciScssTemplate/html/20200416/20200416.html
+https://marcelosperalta.github.io/boilerplate_sass/html/20200416/20200416.html
