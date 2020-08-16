@@ -74,4 +74,4 @@ https://en.wikipedia.org/wiki/Template_(file_format)
 
 ## Project Template GitHub Page
 
-https://marcelosperalta.github.io/dciScssTemplate/
+https://marcelosperalta.github.io/boilerplate_sass/
