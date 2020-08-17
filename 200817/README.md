@@ -1,22 +1,121 @@
-#
+# MongoDB
+
+## run (Windows 10)
+
+Run MongoDB Community Edition from the Command Interpreter<br><br>
+
+:rotating_light:  **IMPORTANT**  :rotating_light:
+
+_You must open the command interpreter as an Administrator._
+
+<br>
+
+**Create database directory**
+
 ```
-git init -y
+cd C:\
 ```
 
 ```
-npm i mongoose
+md "\data\db"
+```
+<br>
+
+**Start your database**
+
+```
+cd C:\Program Files\MongoDB\Server\4.4\bin\
 ```
 
 ```
-npm i dotenv
+mongod.exe --dbpath="c:\data\db"
 ```
 
+If the MongoDB database server is running correctly, the Command Interpreter displays:  
 
-Mongo
+**[initandlisten] waiting for connections**  
+
+![screenshot1](./readme/screenshot01.png)
+
+![screenshot2](./readme/screenshot02.png)
+<br><br>
+
+**Connect to MongoDB**
+
+To connect a mongo.exe shell to the MongoDB instance, open another Command Interpreter with :warning: Administrative privileges :warning: and run:
 
 ````
 "C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
 ````
+
+![screenshot3](./readme/screenshot03.png)
+<br>
+
+**Create a empty Database using MongoDB Compass Community**
+
+![screenshot4](./readme/screenshot04.png)
+
+![screenshot5](./readme/screenshot05.png)
+
+
+# Connection with MongoDB using JavaScript, Node.js, Express, Mongoose and Dotenv
+
+## Installing the project based on existing ```package.json```
+
+```
+npm install
+```
+or  
+
+:dvd: Create a new ```package.json```
+
+```
+git init -y
+```
+
+:dvd: Install [Express](https://expressjs.com/)
+
+```
+npm i express
+```
+
+:dvd: Install []()
+
+```
+npm i 
+```
+
+:dvd: Install []()
+
+```
+npm i 
+```
+:dvd: Install []()
+
+```
+npm i 
+```
+:dvd: Install []()
+
+```
+npm i 
+```
+
+:page_facing_up: Create an ```.env``` file and add the lines below
+
+```
+PORT=3000
+DB_URL=mongodb://localhost:27017/employees
+```
+
+:rotating_light: The ```.env``` was not added to the ```.gitignore``` because this is a repository for study.  
+In a company envirorment, will never push this type of file to a repository like GitHub (or any other version control systems).
+
+:page_facing_up: Create an ```.gitignore``` file and add the line below
+
+```
+node_modules
+```
 
 
 
@@ -25,6 +124,20 @@ Start
 ````
 npm start
 ````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
