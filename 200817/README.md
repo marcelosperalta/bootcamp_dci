@@ -24,9 +24,9 @@ If the MongoDB database server is running correctly, the Command Interpreter dis
 
 **[initandlisten] waiting for connections**  
 
-![screenshot1](./readme/screenshot01.png)
+![screenshot01](./readme/screenshot01.png)
 
-![screenshot2](./readme/screenshot02.png)
+![screenshot02](./readme/screenshot02.png)
 <br><br>
 
 **Connect to MongoDB**
@@ -37,14 +37,14 @@ To connect a mongo.exe shell to the MongoDB instance, open another Command Inter
 "C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
 ````
 
-![screenshot3](./readme/screenshot03.png)
+![screenshot03](./readme/screenshot03.png)
 <br>
 
 **Create a empty Database using MongoDB Compass Community**
 
-![screenshot4](./readme/screenshot04.png)
+![screenshot04](./readme/screenshot04.png)
 
-![screenshot5](./readme/screenshot05.png)
+![screenshot05](./readme/screenshot05.png)
 
 
 # Connection with MongoDB using JavaScript, Node.js, Express, Mongoose and Dotenv
@@ -86,16 +86,16 @@ npm i nodemon
 npm i morgan
 ```
 
-:dvd: Install [dotenv](https://www.npmjs.com/package/dotenv)
-
-```
-npm i dotenv
-```
-
 :dvd: Install [http](https://www.npmjs.com/package/http)
 
 ```
 npm i http
+```
+
+:dvd: Install [dotenv](https://www.npmjs.com/package/dotenv)
+
+```
+npm i dotenv
 ```
 
 :page_facing_up: Create an ```.env``` file and add the lines below
@@ -124,10 +124,39 @@ node_modules
 
 _Project Structure:_
 
-![screenshot6](./readme/screenshot06.png)
+![screenshot06](./readme/screenshot06.png)
 
 #### :runner: Run the project
 
 ````
 npm start
 ````
+
+#### :cd: Using [Postman](https://www.postman.com/)
+
+_Get data from Database (empty scenario)_
+GET  
+http://localhost:3000/employees/  
+![screenshot07](./readme/screenshot07.png)  
+
+_Add data to Database_
+POST  
+http://localhost:3000/employees/  
+```
+{
+    "name": "Marcelo",
+    "age": 39,
+    "add": "Berlin"
+}
+```
+![screenshot08](./readme/screenshot08.png)  
+
+_Get data from Database_
+GET  
+http://localhost:3000/employees/Marcelo
+![screenshot09](./readme/screenshot09.png)  
+
+_Delete data from Database_
+DELETE  
+http://localhost:3000/employees/Marcelo
+![screenshot10](./readme/screenshot10.png)  
