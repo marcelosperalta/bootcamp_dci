@@ -118,9 +118,15 @@ node_modules
 
 :page_facing_up: Create an [app.js](https://github.com/marcelosperalta/dci/blob/master/200817/app.js) and [server.js](https://github.com/marcelosperalta/dci/blob/master/200817/server.js) files and copy de code from this repository.  
 
-:file_folder: Create a [module](https://github.com/marcelosperalta/dci/tree/master/200817/module) folder, create an [employeesModule.js](https://github.com/marcelosperalta/dci/blob/master/200817/module/employeesModule.js) file inside and copy de code from this repository.  
+:file_folder: Create a [module](https://github.com/marcelosperalta/dci/tree/master/200817/module) folder, create an [employeesModule.js](https://github.com/marcelosperalta/dci/blob/master/200817/module/employeesModule.js) file inside, and copy de code from this repository.  
 
-#### :runner: run the project
+:file_folder: Create a [router](https://github.com/marcelosperalta/dci/tree/master/200817/module) folder, create an [employees.js](https://github.com/marcelosperalta/dci/blob/master/200817/module/employeesModule.js) file inside, and copy de code from this repository.  
+
+_Project Structure:_
+
+![screenshot6](./readme/screenshot05.png)
+
+#### :runner: Run the project
 
 ````
 npm start
