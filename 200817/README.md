@@ -108,10 +108,10 @@ PORT=3000
 DB_URL=mongodb://localhost:27017/employees
 ```
 
-<div align="center">:rotating_light:</div>
-The ```.env``` was not added to the ```.gitignore``` because this is a repository for study.  
-In a company envirorment, never push this type of file to a repository like GitHub (or any other version control systems).
-<div align="center">:rotating_light:</div>
+<div align="center">:rotating_light: :rotating_light: :rotating_light: :rotating_light: :rotating_light:</div>
+<div align="center">The ```.env``` was not added to the ```.gitignore``` because this is a repository for study.  
+In a company envirorment, never push this type of file to a repository like GitHub (or any other version control systems).:</div>
+<div align="center">:rotating_light: :rotating_light: :rotating_light: :rotating_light: :rotating_light:</div>
 
 :page_facing_up: Create an ```.gitignore``` file and add the line below
 
