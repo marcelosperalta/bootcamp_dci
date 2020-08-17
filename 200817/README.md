@@ -101,7 +101,7 @@ DB_URL=mongodb://localhost:27017/employees
 
 <div align="center">:rotating_light: :rotating_light: :rotating_light: :rotating_light: :rotating_light:</div>
 <div align="center">The <code>.env</code> was not added to the <code>.gitignore</code> because this is a repository for study.<br>
-In a company envirorment, never push this type of file to a repository like GitHub (or any other version control system).<br>:link: See <a href="https://12factor.net/config" name="The Twelve-Factor"></div>
+In a company envirorment, never push this type of file to a repository like GitHub (or any other version control system).<br>:link: See <a href="https://12factor.net/config">The Twelve-Factor App - Config</a></div>
 <div align="center">:rotating_light: :rotating_light: :rotating_light: :rotating_light: :rotating_light:</div>
 
 :page_facing_up: Create an ```.gitignore``` file and add the line below
