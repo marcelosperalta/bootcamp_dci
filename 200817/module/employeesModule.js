@@ -11,10 +11,21 @@ const employeesDataSchema = new mongoose.Schema({
   },
   add: String,
   employeeAddedDate: {
-    type: String,
+    type: Date,
     required: true,
     default: Date.now,
   },
 });
 
-module.exports = mongoose.model("employeesData", employeesDataSchema);
+// create new collection
+// module.exports = mongoose.model(
+//   "EmployeesData",
+//   employeesDataSchema
+// );
+
+// work on collection that we have
+module.exports = mongoose.model(
+  "EmployeesData",
+  employeesDataSchema,
+  "EmployeesData"
+);

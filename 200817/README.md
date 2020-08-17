@@ -92,6 +92,12 @@ npm i morgan
 npm i dotenv
 ```
 
+:dvd: Install [http](https://www.npmjs.com/package/http)
+
+```
+npm i http
+```
+
 :page_facing_up: Create an ```.env``` file and add the lines below
 
 ```
@@ -110,9 +116,11 @@ In a company envirorment, never push this type of file to a repository like GitH
 node_modules
 ```
 
-:page_facing_up: Create an [app.js](https://github.com/marcelosperalta/dci/blob/master/200817/app.js) and [server.js](https://github.com/marcelosperalta/dci/blob/master/200817/server.js) files and copy de code form this repository.
+:page_facing_up: Create an [app.js](https://github.com/marcelosperalta/dci/blob/master/200817/app.js) and [server.js](https://github.com/marcelosperalta/dci/blob/master/200817/server.js) files and copy de code from this repository.  
 
-:runner: run the project
+:file_folder: Create an [app.js](https://github.com/marcelosperalta/dci/blob/master/200817/app.js) and [server.js](https://github.com/marcelosperalta/dci/blob/master/200817/server.js) files and copy de code from this repository.  
+
+#### :runner: run the project
 
 ````
 npm start

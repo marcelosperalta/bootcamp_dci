@@ -368,7 +368,7 @@ Folder **[200813](https://github.com/marcelosperalta/dci/tree/master/200813)** (
 * Database (SQL, NoSQL (**MongoDB commands**))
 
 Folder **[200817](https://github.com/marcelosperalta/dci/tree/master/200817)** (Class 17.08.2020)
-* MongoDB (mongoose, dotenv)
+* MongoDB (mongoose, dotenv, **POST**, **GET**, **DELETE**)
 
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
