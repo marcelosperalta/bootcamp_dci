@@ -49,7 +49,7 @@ To connect a mongo.exe shell to the MongoDB instance, open another Command Inter
 
 # Connection with MongoDB using JavaScript, Node.js, Express, Mongoose and Dotenv
 
-#### Installing the project based on existing ```package.json```
+## Installing the project based on existing ```package.json```
 
 ```
 npm install
@@ -126,13 +126,13 @@ _Project Structure:_
 
 ![screenshot06](./readme/screenshot06.png)
 
-#### :runner: Run the project
+## :runner: Run the project
 
 ````
 npm start
 ````
 
-#### :cd: Using [Postman](https://www.postman.com/)
+## :cd: Using [Postman](https://www.postman.com/)
 
 _Get data from Database (empty scenario)_
 GET  
