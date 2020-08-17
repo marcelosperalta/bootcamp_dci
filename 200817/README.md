@@ -10,17 +10,6 @@ _You must open the command interpreter as an Administrator._
 
 <br>
 
-**Create database directory**
-
-```
-cd C:\
-```
-
-```
-md "\data\db"
-```
-<br>
-
 **Start your database**
 
 ```
@@ -60,7 +49,7 @@ To connect a mongo.exe shell to the MongoDB instance, open another Command Inter
 
 # Connection with MongoDB using JavaScript, Node.js, Express, Mongoose and Dotenv
 
-## Installing the project based on existing ```package.json```
+#### Installing the project based on existing ```package.json```
 
 ```
 npm install
