@@ -62,6 +62,14 @@ or
 git init -y
 ```
 
+:dvd: Add the line below into ```package.json```
+
+```
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+```
+
 :dvd: Install [express](https://www.npmjs.com/package/express)
 
 ```
