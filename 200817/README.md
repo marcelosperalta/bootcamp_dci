@@ -49,7 +49,7 @@ To connect a mongo.exe shell to the MongoDB instance, open another Command Inter
 
 # Connection with MongoDB using JavaScript, Node.js, Express, Mongoose and Dotenv
 
-## Installing the project based on existing ```package.json```
+## :computer: Installing the project based on existing ```package.json```
 
 ```
 npm install
