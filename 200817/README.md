@@ -134,12 +134,12 @@ npm start
 
 ## :cd: Using [Postman](https://www.postman.com/)
 
-_Get data from Database (empty scenario)_  
+**_Get data from Database (empty scenario)_**  
 GET  
 http://localhost:3000/employees/  
 ![screenshot07](./readme/screenshot07.png)  
 
-_Add data to Database_  
+**_Add data to Database_**  
 POST  
 http://localhost:3000/employees/  
 ```
@@ -151,12 +151,12 @@ http://localhost:3000/employees/
 ```
 ![screenshot08](./readme/screenshot08.png)  
 
-_Get data from Database_  
+**_Get data from Database_**  
 GET  
 http://localhost:3000/employees/Marcelo  
 ![screenshot09](./readme/screenshot09.png)  
 
-_Delete data from Database_  
+**_Delete data from Database_**  
 DELETE  
 http://localhost:3000/employees/Marcelo  
 ![screenshot10](./readme/screenshot10.png)  
