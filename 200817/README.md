@@ -62,32 +62,34 @@ or
 git init -y
 ```
 
-:dvd: Install [Express](https://expressjs.com/)
+:dvd: Install [Express](https://www.npmjs.com/package/express)
 
 ```
 npm i express
 ```
 
-:dvd: Install []()
+:dvd: Install [mongoose](https://www.npmjs.com/package/mongoose)
 
 ```
-npm i 
+npm i mongoose
 ```
 
-:dvd: Install []()
+:dvd: Install [nodemon](https://www.npmjs.com/package/nodemon)
 
 ```
-npm i 
+npm i nodemon
 ```
-:dvd: Install []()
+
+:dvd: Install [morgan](https://www.npmjs.com/package/morgan)
 
 ```
-npm i 
+npm i morgan
 ```
-:dvd: Install []()
+
+:dvd: Install [dotenv](https://www.npmjs.com/package/dotenv)
 
 ```
-npm i 
+npm i dotenv
 ```
 
 :page_facing_up: Create an ```.env``` file and add the lines below
