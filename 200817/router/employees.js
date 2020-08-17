@@ -60,15 +60,15 @@ async function getEmployee(req, res, next) {
 
 // Get one employee
 // url http://localhost:3000/employees/Ali
+// using GET
 // router.get("/:id", getEmployee, (req, res) => {
 router.get("/:name", getEmployee, (req, res) => {
   res.status(200).json(res.employee);
 });
 
-// Update one
-router.patch("/:name", getEmployee, (req, res) => {});
-
 // Delete
+// url http://localhost:3000/employees/Ali
+// using POST
 router.delete("/:name", getEmployee, async (req, res) => {
   try {
     await res.employee.remove();
@@ -79,5 +79,8 @@ router.delete("/:name", getEmployee, async (req, res) => {
     });
   }
 });
+
+// Update one
+router.patch("/:name", getEmployee, (req, res) => {});
 
 module.exports = router;

@@ -1,6 +1,6 @@
 # MongoDB
 
-## run (Windows 10)
+## run on Windows 10
 
 Run MongoDB Community Edition from the Command Interpreter<br><br>
 
@@ -125,5 +125,3 @@ node_modules
 ````
 npm start
 ````
-
-
