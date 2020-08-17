@@ -124,7 +124,7 @@ node_modules
 
 _Project Structure:_
 
-![screenshot6](./readme/screenshot05.png)
+![screenshot6](./readme/screenshot06.png)
 
 #### :runner: Run the project
 
