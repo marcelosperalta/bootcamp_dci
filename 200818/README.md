@@ -174,3 +174,8 @@ http://localhost:3000/employees/Marcelo
 DELETE  
 http://localhost:3000/employees/Marcelo  
 ![screenshot10](./readme/screenshot10.png)  
+
+**_Update data from Database_**  
+PATCH  
+http://localhost:3000/employees/Marcelo  
+![screenshot11](./readme/screenshot11.png)  
