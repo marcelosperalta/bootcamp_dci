@@ -52,6 +52,10 @@ To connect a mongo.exe shell to the MongoDB instance, open another Command Inter
 ## :computer: Installing the project based on existing ```package.json```
 
 ```
+git clone https://github.com/marcelosperalta/dci/tree/master/200817
+```
+
+```
 npm install
 ```
 or  
@@ -128,7 +132,7 @@ node_modules
 
 :file_folder: Create a [module](https://github.com/marcelosperalta/dci/tree/master/200817/module) folder, create an [employeesModule.js](https://github.com/marcelosperalta/dci/blob/master/200817/module/employeesModule.js) file inside, and copy de code from this repository.  
 
-:file_folder: Create a [router](https://github.com/marcelosperalta/dci/tree/master/200817/module) folder, create an [employees.js](https://github.com/marcelosperalta/dci/blob/master/200817/module/employeesModule.js) file inside, and copy de code from this repository.  
+:file_folder: Create a [router](https://github.com/marcelosperalta/dci/tree/master/200817/router) folder, create an [employees.js](https://github.com/marcelosperalta/dci/blob/master/200817/router/employees.js) file inside, and copy de code from this repository.  
 
 _Project Structure:_
 
