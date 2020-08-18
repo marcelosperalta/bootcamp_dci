@@ -1,7 +1,7 @@
 const EmployeesData = require("../model/employeesModel");
 
 // middleware
-async function getEmployee(req, res, next) {
+const getEmployee = async (req, res, next) => {
   let employee;
   try {
     // employee = await EmployeesData.findById(req.params.id);
@@ -18,11 +18,11 @@ async function getEmployee(req, res, next) {
   //res.employee = employee[0];
   res.employee = employee;
   next();
-}
+};
 const getAdd = async (req, res, next) => {
   let employee;
   try {
-    employee = await EmployeesData.findOne({ add: req.params.add });
+    employee = await EmployeesData.find({ add: req.params.add });
     if (employee == null)
       return res.status(404).json({ message: "employee NOT Found" });
   } catch (err) {
@@ -59,8 +59,7 @@ const addNewEmployee = async (req, res) => {
 const getOneEmployee = (req, res) => {
   res.status(200).json(res.employee);
 };
-const updateEmployee = async (req, res) => {
-  //res.send(res.employee.name);
+const updateOneEmployee = async (req, res) => {
   console.log(req.body);
   if (req.body.name != null) {
     res.employee.name = req.body.name;
@@ -94,7 +93,7 @@ module.exports = {
   getEmployee,
   getAdd,
   getAllEmployee,
-  updateEmployee,
+  updateOneEmployee,
   getOneEmployee,
   addNewEmployee,
   deleteOneEmployee,

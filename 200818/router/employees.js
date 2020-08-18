@@ -7,7 +7,7 @@ const {
   getAllEmployee,
   addNewEmployee,
   getOneEmployee,
-  updateEmployee,
+  updateOneEmployee,
   deleteOneEmployee,
 } = require("../controllers/employeeController");
 
@@ -16,7 +16,7 @@ router.route("/").get(getAllEmployee).post(addNewEmployee);
 router
   .route("/:name")
   .get(getEmployee, getOneEmployee)
-  .patch(getEmployee, updateEmployee)
+  .patch(getEmployee, updateOneEmployee)
   .delete(getEmployee, deleteOneEmployee);
 
 // GET  http://localhost:3000/employees/ -->  get all employees
