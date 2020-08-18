@@ -23,12 +23,13 @@ app.use(morgan("dev"));           // dev = Concise output colored by response st
 // Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
 // http://expressjs.com/en/api.html#req.body
 const bodyParser = require("body-parser");
-bodyParser.urlencoded({ extended: true }); // 
-bodyParser.json();
-bodyParser.raw();
-// app.use(bodyParser.urlencoded({ extended: true }));
-// app.use(bodyParser.json());
-// app.use(bodyParser.raw());
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.json());
+app.use(bodyParser.raw());
+// without "morgan":
+// bodyParser.urlencoded({ extended: true });
+// bodyParser.json();
+// bodyParser.raw();
 
 // MongoDB
 const mongoose = require("mongoose");
