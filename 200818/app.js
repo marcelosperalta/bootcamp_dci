@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const morgan = require("morgan");
+const morgan = require("morgan"); // e.g. on Terminal: PATCH /employees/Marcelo 200 25.234 ms - 169
 app.use(morgan("dev"));
 
 // To process the JSON data
