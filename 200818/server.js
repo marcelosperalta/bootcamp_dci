@@ -2,13 +2,13 @@
 
 // 🍃MongoDB with Express
 
-// 🍽 to read the ".env" file used by "const PORT"
+// 🍴 to read the ".env" file used by "const PORT"
 // dotenv
 // https://www.npmjs.com/package/dotenv
 // npm i dotenv
 require("dotenv").config();
 
-// 🍽 to create a simple HTTP server
+// 🍴 to create a simple HTTP server
 // http
 // https://nodejs.org/dist/latest-v12.x/docs/api/http.html#http_http
 // https://nodejs.org/en/knowledge/HTTP/servers/how-to-create-a-HTTP-server/
