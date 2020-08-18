@@ -17,13 +17,13 @@ const employeesDataSchema = new mongoose.Schema({
   },
 });
 
-// create new collection
+// Create new collection
 // module.exports = mongoose.model(
 //   "EmployeesData",
 //   employeesDataSchema
 // );
 
-// work on collection that we have
+// Work on collection that we have
 module.exports = mongoose.model(
   "EmployeesData",
   employeesDataSchema,

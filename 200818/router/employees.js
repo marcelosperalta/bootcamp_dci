@@ -3,14 +3,15 @@ const router = express.Router();
 const EmployeesData = require("../model/employeesModel");
 const { getEmployee } = require("../controllers/employeeController");
 
-// GET    http://localhost:3000/employees/      -->  get all employees
-// POST   http://localhost:3000/employees/      -->  add employee
-// GET    http://localhost:3000/employees/:name -->  get employee by name
-// PATCH  http://localhost:3000/employees/:name -->  update employee by name
-// PUT    http://localhost:3000/employees/:name -->  update employee by name
-// DELETE http://localhost:3000/employees/:name -->  delete employee by name
+// GET    -> http://localhost:3000/employees/      -> get all employees
+// POST   -> http://localhost:3000/employees/      -> add employee
+// GET    -> http://localhost:3000/employees/:name -> get employee by name
+// PATCH  -> http://localhost:3000/employees/:name -> update employee by name
+// PUT    -> http://localhost:3000/employees/:name -> update employee by name
+// DELETE -> http://localhost:3000/employees/:name -> delete employee by name
 
 // Get all employees
+// GET
 // url http://localhost:3000/employees/
 router.get("/", async (req, res) => {
   try {
@@ -22,6 +23,7 @@ router.get("/", async (req, res) => {
 });
 
 // Add employee
+// POST
 // url http://localhost:3000/employees/
 router.post("/", async (req, res) => {
   const employee = new EmployeesData({
@@ -40,6 +42,7 @@ router.post("/", async (req, res) => {
 });
 
 // Get one employee
+// GET
 // url http://localhost:3000/employees/Ali
 // router.get("/:id", getEmployee, (req, res) => {
 router.get("/:name", getEmployee, (req, res) => {
@@ -47,8 +50,10 @@ router.get("/:name", getEmployee, (req, res) => {
 });
 
 // Update one
+// PATCH
+// url http://localhost:3000/employees/Ali
 router.patch("/:name", getEmployee, async (req, res) => {
-  // res.send(res.employee.name);
+  //res.send(res.employee.name);
   console.log(req.body);
   if (req.body.name != null) {
     res.employee.name = req.body.name;
@@ -70,6 +75,8 @@ router.patch("/:name", getEmployee, async (req, res) => {
 });
 
 // Delete
+// DELETE
+// url http://localhost:3000/employees/Ali
 router.delete("/:name", getEmployee, async (req, res) => {
   try {
     await res.employee.remove();

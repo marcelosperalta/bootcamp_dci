@@ -130,7 +130,7 @@ node_modules
 
 :page_facing_up: Create an [app.js](https://github.com/marcelosperalta/dci/blob/master/200818/app.js) and [server.js](https://github.com/marcelosperalta/dci/blob/master/200818/server.js) files and copy de code from this repository.  
 
-:file_folder: Create a [module](https://github.com/marcelosperalta/dci/tree/master/200818/module) folder, create an [employeesModule.js](https://github.com/marcelosperalta/dci/blob/master/200818/module/employeesModule.js) file inside, and copy de code from this repository.  
+:file_folder: Create a [model](https://github.com/marcelosperalta/dci/tree/master/200818/model) folder, create an [employeesModel.js](https://github.com/marcelosperalta/dci/blob/master/200818/module/employeesModel.js) file inside, and copy de code from this repository.  
 
 :file_folder: Create a [router](https://github.com/marcelosperalta/dci/tree/master/200818/router) folder, create an [employees.js](https://github.com/marcelosperalta/dci/blob/master/200818/router/employees.js) file inside, and copy de code from this repository.  
 
