@@ -1,6 +1,5 @@
 // MongoDB with Express
-// But first REST API REpresentational State Transfer aka server can create delete update read requests
-
+// new version
 require("dotenv").config();
 const http = require("http");
 const app = require("./app");

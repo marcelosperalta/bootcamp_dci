@@ -134,7 +134,7 @@ node_modules
 
 :file_folder: Create a [router](https://github.com/marcelosperalta/dci/tree/master/200818/router) folder, create an [employees.js](https://github.com/marcelosperalta/dci/blob/master/200818/router/employees.js) file inside, and copy de code from this repository.  
 
-:file_folder: Create a [controllers](https://github.com/marcelosperalta/dci/tree/master/200818/module) folder, create an [employeesController.js](https://github.com/marcelosperalta/dci/blob/master/200818/module/employeesModule.js) file inside, and copy de code from this repository.  
+:file_folder: Create a [controllers](https://github.com/marcelosperalta/dci/tree/master/200818/controllers) folder, create an [employeesController.js](https://github.com/marcelosperalta/dci/blob/master/200818/controllers/employeeController.js) file inside, and copy de code from this repository.  
 
 _Project Structure:_
 
