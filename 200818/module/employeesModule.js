@@ -16,11 +16,13 @@ const employeesDataSchema = new mongoose.Schema({
     default: Date.now,
   },
 });
+
 // create new collection
 // module.exports = mongoose.model(
 //   "EmployeesData",
 //   employeesDataSchema
 // );
+
 // work on collection that we have
 module.exports = mongoose.model(
   "EmployeesData",

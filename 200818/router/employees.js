@@ -3,6 +3,13 @@ const router = express.Router();
 const EmployeesData = require("../model/employeesModel");
 const { getEmployee } = require("../controllers/employeeController");
 
+// GET    http://localhost:3000/employees/      -->  get all employees
+// POST   http://localhost:3000/employees/      -->  add employee
+// GET    http://localhost:3000/employees/:name -->  get employee by name
+// PATCH  http://localhost:3000/employees/:name -->  update employee by name
+// PUT    http://localhost:3000/employees/:name -->  update employee by name
+// DELETE http://localhost:3000/employees/:name -->  delete employee by name
+
 // Get all employees
 // url http://localhost:3000/employees/
 router.get("/", async (req, res) => {
@@ -13,6 +20,7 @@ router.get("/", async (req, res) => {
     res.status(500).json({ message: err.message });
   }
 });
+
 // Add employee
 // url http://localhost:3000/employees/
 router.post("/", async (req, res) => {
@@ -31,22 +39,16 @@ router.post("/", async (req, res) => {
   }
 });
 
-// GET  http://localhost:3000/employees/ -->  get all employees
-// POST http://localhost:3000/employees/ -->  add employee
-// GET http://localhost:3000/employees/:name -->  get employee by name
-// PATCH http://localhost:3000/employees/:name -->  update employee by name
-// UPDATE aka PUT http://localhost:3000/employees/:name -->  update employee by name
-// DELETE http://localhost:3000/employees/:name -->  delete employee by name
-
 // Get one employee
 // url http://localhost:3000/employees/Ali
 // router.get("/:id", getEmployee, (req, res) => {
 router.get("/:name", getEmployee, (req, res) => {
   res.status(200).json(res.employee);
 });
+
 // Update one
 router.patch("/:name", getEmployee, async (req, res) => {
-  //res.send(res.employee.name);
+  // res.send(res.employee.name);
   console.log(req.body);
   if (req.body.name != null) {
     res.employee.name = req.body.name;
@@ -66,6 +68,7 @@ router.patch("/:name", getEmployee, async (req, res) => {
     });
   }
 });
+
 // Delete
 router.delete("/:name", getEmployee, async (req, res) => {
   try {
