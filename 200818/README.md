@@ -98,12 +98,6 @@ npm i nodemon
 npm i morgan
 ```
 
-:dvd: Install [http](https://www.npmjs.com/package/http)
-
-```
-npm i http
-```
-
 :dvd: Install [dotenv](https://www.npmjs.com/package/dotenv)
 
 ```
@@ -145,6 +139,8 @@ _Project Structure:_
 ````
 npm start
 ````
+
+### :arrow_right: Flowchart
 
 ## :cd: Using [Postman](https://www.postman.com/)
 

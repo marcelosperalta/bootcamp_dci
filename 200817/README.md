@@ -98,12 +98,6 @@ npm i nodemon
 npm i morgan
 ```
 
-:dvd: Install [http](https://www.npmjs.com/package/http)
-
-```
-npm i http
-```
-
 :dvd: Install [dotenv](https://www.npmjs.com/package/dotenv)
 
 ```
