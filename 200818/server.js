@@ -1,4 +1,4 @@
-// quote: "When eating an elephant, take one bite at a time."
+// quote: :smile: 💬 "When eating an elephant, take one bite at a time." 💬
 
 // MongoDB with Express
 
