@@ -1,6 +1,6 @@
 // quote: 📜 When eating an elephant, take one bite at a time 📜
 
-// 🍃MongoDB with Express
+// 🍃MongoDB🍃 with Express
 
 // 🍴😋 to read the ".env" file used by "const PORT"
 // dotenv
@@ -8,7 +8,7 @@
 // npm i dotenv
 require("dotenv").config();
 
-// 🍴😋 to create a simple HTTP server
+// 🍴😋 to create a simple HTTP server using Node.js
 // http
 // https://nodejs.org/dist/latest-v12.x/docs/api/http.html#http_http
 // https://nodejs.org/en/knowledge/HTTP/servers/how-to-create-a-HTTP-server/
