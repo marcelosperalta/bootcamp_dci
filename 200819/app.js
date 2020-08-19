@@ -15,6 +15,7 @@ const app = express();
 // npm i morgan
 const morgan = require("morgan"); // e.g. on Terminal: PATCH /employees/Marcelo 200 25.234 ms - 169
 app.use(morgan("dev"));           // dev = Concise output colored by response status for development use
+// app.use
 
 // 🍴😋 to process the JSON data using the Express method "body-parser"
 // body-parser
