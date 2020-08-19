@@ -1,4 +1,7 @@
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" style="background-color:red;"/>
+<div>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" style="background-color:#339933;"/>
+&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" style="background-color:#47A248;"/>
 
 # MongoDB
 
