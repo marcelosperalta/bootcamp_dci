@@ -196,4 +196,4 @@ http://localhost:3000/employees/Marcelo
 
 <a href="https://runkit.com/">![RunKit](https://img.shields.io/badge/RunKit-A%20node%20playground%20in%20your%20browser-red)</a>  
 
-<a href="https://simpleicons.org/">![Simple Icons](https://img.shields.io/badge/RunKit-A%20node%20playground%20in%20your%20browser-red)</a>  
+<a href="https://simpleicons.org/">![Simple Icons](https://img.shields.io/badge/Simple%20Icons-1400%20Free%20SVG%20icons%20for%20popular%20brands-yellowgreen)</a>  
