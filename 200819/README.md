@@ -141,7 +141,7 @@ npm start
 ````
 
 ![gif01](./readme/gif01.gif)
-:arrow_up: GIF genereted with [ShareX](https://getsharex.com/)
+:arrow_up: GIF generated with [ShareX](https://getsharex.com/)
 
 ### :arrow_right: Flowchart
 
