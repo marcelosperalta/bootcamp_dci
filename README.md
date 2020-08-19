@@ -373,6 +373,9 @@ Folder **[200817](https://github.com/marcelosperalta/dci/tree/master/200817)** (
 Folder **[200818](https://github.com/marcelosperalta/dci/tree/master/200818)** (Class 18.08.2020)
 * MongoDB (**PATCH**)
 
+Folder **[200819](https://github.com/marcelosperalta/dci/tree/master/200819)** (Class 19.08.2020)
+* MongoDB (**PUT**)
+
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
         >>> Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM, and JSON <<<

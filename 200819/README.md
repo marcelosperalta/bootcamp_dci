@@ -140,6 +140,8 @@ _Project Structure:_
 npm start
 ````
 
+### :arrow_right: Flowchart
+
 ## :cd: Using [Postman](https://www.postman.com/)
 
 **_Get data from Database (empty scenario)_**  
