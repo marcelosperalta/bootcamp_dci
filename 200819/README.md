@@ -130,9 +130,10 @@ node_modules
 
 :file_folder: Create a [controllers](https://github.com/marcelosperalta/dci/tree/master/200818/controllers) folder, create an [employeesController.js](https://github.com/marcelosperalta/dci/blob/master/200818/controllers/employeeController.js) file inside, and copy de code from this repository.  
 
-_Project Structure:_
+**_Project Structure:_**
 
-![screenshot06](./readme/screenshot06.png)  
+![screenshot06](./readme/screenshot06.png)
+:arrow_up: Navigation on GitHub using [Octotree](https://www.octotree.io/)
 
 ## :runner: Run the project
 
