@@ -202,5 +202,5 @@ http://localhost:3000/employees/Marcelo
 
 <a href="https://whimsical.com/">![Whimsical](https://img.shields.io/badge/Whimsical-The%20Visual%20Workspace-orange)</a>  
 
-<a href="https://whimsical.com/">![Whimsical](https://img.shields.io/badge/Whimsical-The%20Visual%20Workspace-ff69b)</a>  
+<a href="https://whimsical.com/">![Whimsical](https://img.shields.io/static/v1?label=Whimsical&message=The%20Visual%20Workspace&color=ff69b)</a>  
 
