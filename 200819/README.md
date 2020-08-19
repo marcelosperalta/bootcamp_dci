@@ -156,7 +156,9 @@ npm start
 
 ### :arrow_right: Flowchart
 
-## :cd: Using [Postman](https://www.postman.com/)
+## :cd: Using Postman
+
+<a href="https://www.postman.com/">![Postman](https://img.shields.io/badge/Postman-The%20Collaboration%20Platform%20for%20API%20Development-orange)</a>  
 
 **_Get data from Database (empty scenario)_**  
 GET  
