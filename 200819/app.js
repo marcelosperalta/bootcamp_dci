@@ -3,6 +3,8 @@
 // 🍃MongoDB🍃 with Express
 
 // 🍴😋 to use the "Express" web framework for Node.js
+// Express is a routing and middleware web framework that has minimal functionality of its own: 
+// An Express application is essentially a series of middleware function calls.
 // express
 // https://www.npmjs.com/package/express
 // npm i express
@@ -15,7 +17,7 @@ const app = express();
 // npm i morgan
 const morgan = require("morgan"); // e.g. on Terminal: PATCH /employees/Marcelo 200 25.234 ms - 169
 app.use(morgan("dev"));           // dev = Concise output colored by response status for development use
-// app.use
+// app.use https://expressjs.com/en/guide/using-middleware.html#middleware.application
 
 // 🍴😋 to process the JSON data using the Express method "body-parser"
 // body-parser
