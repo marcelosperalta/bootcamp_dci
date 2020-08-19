@@ -1,5 +1,5 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" style="background-color:#007ACC;"/>&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" style="background-color:#F7DF1E;"/>&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" style="background-color:#F7DF1E;"/>&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" style="background-color:#339933;"/>&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" style="background-color:#47A248;"/>
 
