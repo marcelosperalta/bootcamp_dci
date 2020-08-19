@@ -3,7 +3,7 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" style="background-color:#339933;"/>&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" style="background-color:#47A248;"/>
 
-# MongoDB ![mongo]()
+# MongoDB
 <a href="https://www.mongodb.com/">![MongoDB](https://img.shields.io/badge/MongoDB-The%20database%20for%20modern%20applications-brightgreen)</a>  
 
 ## run on Windows 10
