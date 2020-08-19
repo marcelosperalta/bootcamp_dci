@@ -1,12 +1,12 @@
 {
-  "name": "18-08",
+  "name": "19.08.2020",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "MongoDB with Express",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
   },
-  "author": "",
+  "author": "Marcelo Peralta",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",

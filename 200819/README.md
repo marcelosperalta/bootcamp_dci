@@ -132,13 +132,16 @@ node_modules
 
 _Project Structure:_
 
-![screenshot06](./readme/screenshot06.png)
+![screenshot06](./readme/screenshot06.png)  
 
 ## :runner: Run the project
 
 ````
 npm start
 ````
+
+![gif01](./readme/gif01.gif)  
+###### :arrow_up: GIF genereted with [ShareX](https://getsharex.com/)  
 
 ### :arrow_right: Flowchart
 
