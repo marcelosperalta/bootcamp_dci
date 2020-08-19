@@ -182,4 +182,4 @@ http://localhost:3000/employees/Marcelo
 ![screenshot12](./readme/screenshot12.png)  
 
 
-[![email](https://img.shields.io/badge/email-marcelosperalta%40gmail.com-brightgreen)](marcelosperalta@gmail.com)
+[![email](https://img.shields.io/badge/email-marcelosperalta%40gmail.com-brightgreen)](<a href="mailto:marcelosperalta@gmail.com">marcelosperalta@gmail.com</a>)
