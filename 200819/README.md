@@ -1,9 +1,6 @@
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" style="background-color:#F7DF1E;"/>
-&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" style="background-color:#007ACC;"/>
-&nbsp;
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" style="background-color:#339933;"/>
-&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" style="background-color:#F7DF1E;"/>&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" style="background-color:#007ACC;"/>&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" style="background-color:#339933;"/>&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" style="background-color:#47A248;"/>
 
 # MongoDB
@@ -198,3 +195,5 @@ http://localhost:3000/employees/Marcelo
 <a href="https://shields.io">![Shields IO](https://img.shields.io/badge/Shields%20IO-Concise%2C%20consistent%2C%20and%20legible%20badges%20in%20SVG%20and%20raster%20format-brightgreen)</a>  
 
 <a href="https://runkit.com/">![RunKit](https://img.shields.io/badge/RunKit-A%20node%20playground%20in%20your%20browser-red)</a>  
+
+<a href="https://simpleicons.org/">![Simple Icons](https://img.shields.io/badge/RunKit-A%20node%20playground%20in%20your%20browser-red)</a>  
