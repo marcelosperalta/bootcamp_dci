@@ -65,7 +65,7 @@ mongoose
 
 
 // 🍴😋 to parse incoming requests with JSON payloads
-// #middleware
+// #middleware #methods
 // This is a built-in middleware function in Express. 
 // It parses incoming requests with JSON payloads and is based on body-parser.
 // express.json()
