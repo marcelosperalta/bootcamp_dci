@@ -142,7 +142,11 @@ npm start
 ````
 
 ![gif01](./readme/gif01.gif)
-:arrow_up: GIF generated with [ShareX](https://getsharex.com/)
+:arrow_up: GIF generated with [ShareX](https://getsharex.com/)  
+
+**or run using [Gitpod](https://www.gitpod.io/)**  
+
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/marcelosperalta/mock-up_e-learning_platform)
 
 ### :arrow_right: Flowchart
 
@@ -181,5 +185,7 @@ http://localhost:3000/employees/Marcelo
 ![screenshot11](./readme/screenshot11.png)  
 ![screenshot12](./readme/screenshot12.png)  
 
+## Tools
 
-<a href="mailto:marcelosperalta@gmail.com">![email](https://img.shields.io/badge/email-marcelosperalta%40gmail.com-brightgreen)</a>
+<a href="https://shields.io">![Shields IO](https://img.shields.io/badge/Shields%20IO-Concise%2C%20consistent%2C%20and%20legible%20badges%20in%20SVG%20and%20raster%20format-brightgreen)</a>  
+
