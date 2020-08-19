@@ -1,3 +1,5 @@
+<img src="node-dot-js.svg" alt="Node.js" width="100" height="100" style="background-color: #339933>  
+
 # MongoDB
 
 ## run on Windows 10
