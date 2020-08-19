@@ -182,4 +182,4 @@ http://localhost:3000/employees/Marcelo
 ![screenshot12](./readme/screenshot12.png)  
 
 
-[![Try express on RunKit](https://badge.runkitcdn.com/express.svg)](https://npm.runkit.com/express)
+[![email](https://img.shields.io/badge/email-marcelosperalta%40gmail.com-brightgreen)](marcelosperalta@gmail.com)
