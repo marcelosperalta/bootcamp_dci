@@ -1,12 +1,4 @@
-<style>
-.node  {
-  width: 25px;
-  height: 25px;
-  background-image: url("./readme/node-dot-js.svg");
-  background-color: #339933;
-}
-</style>
-<div class="node"><div>
+<img src="./readme/node-dot-js.svg" alt="Node.js" width="50" height="50" style="background-color: #339933;">  
 
 # MongoDB
 
