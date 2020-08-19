@@ -1,11 +1,5 @@
-<img src="./readme/node-dot-js.svg" alt="Node.js" width="150" height="150" fill="green;">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg"/>
 
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-     width="320px" height="100px" viewBox="0 0 320 100" enable-background="new 0 0 320 100" xml:space="preserve">
-<polygon class="mystar" fill="#3CB54A" points="134.973,14.204 143.295,31.066 161.903,33.77 148.438,46.896 151.617,65.43 134.973,56.679 
-    118.329,65.43 121.507,46.896 108.042,33.77 126.65,31.066 "/>
-<circle class="mycircle" fill="#ED1F24" cx="202.028" cy="58.342" r="12.26"/>
-</svg>
 
 # MongoDB
 
