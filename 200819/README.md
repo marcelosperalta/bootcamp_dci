@@ -200,7 +200,6 @@ http://localhost:3000/employees/Marcelo
 <a href="https://simpleicons.org/">![Simple Icons](https://img.shields.io/badge/Simple%20Icons-1400%20Free%20SVG%20icons%20for%20popular%20brands-yellowgreen)</a>
 &nbsp;
 <a href="https://whimsical.com/">![Whimsical](https://img.shields.io/static/v1?label=Whimsical&message=The%20Visual%20Workspace&color=blueviolet)</a>
-
 <a href="https://www.gitpod.io/">![Gitpod](https://img.shields.io/badge/Gitpod-Prebuilt%20Dev%20Environments-blue)</a>
 &nbsp;
 <a href="https://runkit.com/">![RunKit](https://img.shields.io/badge/RunKit-A%20node%20playground%20in%20your%20browser-red)</a>
