@@ -1,4 +1,4 @@
-<img src="./readme/node-dot-js.svg" alt="Node.js" width="150" height="150" style="color:rgb(51, 153, 51);">
+<img src="./readme/node-dot-js.svg" alt="Node.js" width="150" height="150" fill="green;">
 
 # MongoDB
 
