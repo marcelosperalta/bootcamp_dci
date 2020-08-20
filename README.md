@@ -377,7 +377,7 @@ Folder **[200819](https://github.com/marcelosperalta/dci/tree/master/200819)** (
 * MongoDB (**PUT**)
 
 Folder **[200820](https://github.com/marcelosperalta/dci/tree/master/200820)** (Class 20.08.2020)
-* MongoDB ()
+* MongoDB (**POST**, **GET**, **DELETE**, **PATCH**, and **PUT**)
 
 <div align="center">
     <a href="https://marcelosperalta.github.io/dci/">
