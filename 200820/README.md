@@ -154,6 +154,8 @@ npm start
 
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/marcelosperalta/mock-up_e-learning_platform)
 
+### :arrow_right: Flowchart
+
 ## :cd: Using Postman
 
 <a href="https://www.postman.com/">![Postman](https://img.shields.io/badge/Postman-The%20Collaboration%20Platform%20for%20API%20Development-orange)</a>  
