@@ -1,5 +1,11 @@
 // quote: 📜 When eating an elephant, take one bite at a time 📜
 
+// hints:
+// 1. to understand some parts, you can try to remove it and see what is the impact on the application;
+// 2. remember to use the "console.log" when you need to see what happens in some part;
+// 3. if is too hard to understand some point, see the documentation.
+
+
 // 🍃MongoDB🍃 with Express
 
 

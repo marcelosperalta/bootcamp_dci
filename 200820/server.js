@@ -2,6 +2,12 @@
 
 // 🍃MongoDB🍃 with Express
 
+// hints:
+// 1. to understand some parts, you can try to remove it and see what is the impact on the application;
+// 2. remember to use the "console.log" when you need to see what happens in some part;
+// 3. if is too hard to understand some point, see the documentation.
+
+
 // 🍴😋 to read the ".env" file used by "const PORT" using the "dotenv" module for Node.js.
 // dotenv
 // https://www.npmjs.com/package/dotenv
