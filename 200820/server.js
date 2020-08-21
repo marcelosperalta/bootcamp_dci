@@ -41,4 +41,10 @@ const server = http.createServer(app);
 // 🍴😋 to start a server listening for connections.
 // server.listen()
 // https://nodejs.org/api/net.html#net_server_listen
-server.listen(PORT);
+server.listen(PORT, function() {
+    console.log(`http://localhost:${PORT}`);
+});
+// es6 version (arrow fuction):
+// server.listen(PORT, () => {
+//     console.log(`http://localhost:${PORT}`);
+// });
