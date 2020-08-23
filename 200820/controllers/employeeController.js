@@ -24,7 +24,6 @@ const getEmployee = async (req, res, next) => {
   next();
 };
 
-
 // Get Address
 const getAdd = async (req, res, next) => {
   let employee;

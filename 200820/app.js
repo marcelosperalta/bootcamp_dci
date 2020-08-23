@@ -78,6 +78,12 @@ mongoose
 // https://expressjs.com/de/api.html#express.json
 app.use(express.json());
 
+// 🍴😋 setting a "get" to show some message on the root page ("/")
+// #CRUD #GET
+// url http://localhost:3000/
+app.get("/", (req, res) => {
+  res.send(`<h1>Hey, I am root page</h1>`);
+});
 
 // 🍴😋 setting the *route "/employees"
 // #middleware

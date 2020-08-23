@@ -44,7 +44,7 @@ const server = http.createServer(app);
 server.listen(PORT, function() {
     console.log(`http://localhost:${PORT}`);
 });
-// es6 version (arrow fuction):
+// ES6 version (arrow fuction):
 // server.listen(PORT, () => {
 //     console.log(`http://localhost:${PORT}`);
 // });

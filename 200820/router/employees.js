@@ -1,5 +1,6 @@
 const express = require("express");
 const router = express.Router();
+
 const EmployeesData = require("../model/employeesModel");
 const {
   getEmployee,
@@ -11,6 +12,13 @@ const {
   deleteOneEmployee,
 } = require("../controllers/employeeController");
 
+// GET    -> http://localhost:3000/employees/      -> get all employees
+// POST   -> http://localhost:3000/employees/      -> add employee
+// GET    -> http://localhost:3000/employees/:name -> get employee by name
+// PATCH  -> http://localhost:3000/employees/:name -> update employee by name
+// PUT    -> http://localhost:3000/employees/:name -> update employee by name
+// DELETE -> http://localhost:3000/employees/:name -> delete employee by name
+
 router.route("/").get(getAllEmployee).post(addNewEmployee);
 
 router
@@ -18,13 +26,6 @@ router
   .get(getEmployee, getOneEmployee)
   .patch(getEmployee, updateOneEmployee)
   .delete(getEmployee, deleteOneEmployee);
-
-// GET  http://localhost:3000/employees/ -->  get all employees
-// POST http://localhost:3000/employees/ -->  add employee
-// GET http://localhost:3000/employees/:name -->  get employee by name
-// PATCH http://localhost:3000/employees/:name -->  update employee by name
-// UPDATE aka PUT http://localhost:3000/employees/:name -->  update employee by name
-// DELETE http://localhost:3000/employees/:name -->  delete employee by name
 
 // get by address
 router.get("/search/:add", getAdd, (req, res) => {
