@@ -146,6 +146,7 @@ node_modules
 
 ![screenshot06](./readme/screenshot06.png)  
 :arrow_up: Navigation on GitHub using [Octotree](https://www.octotree.io/)
+<br>
 
 ## :runner: Run the project
 
@@ -161,6 +162,7 @@ npm start
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/marcelosperalta/mock-up_e-learning_platform)
 
 ### :arrow_right: Flowchart
+<br>
 
 ## :cd: Using Postman
 
@@ -198,6 +200,7 @@ PATCH
 http://localhost:3000/employees/Marcelo  
 ![screenshot11](./readme/screenshot11.png)  
 ![screenshot12](./readme/screenshot12.png)  
+<br>
 
 ## Tools
 
