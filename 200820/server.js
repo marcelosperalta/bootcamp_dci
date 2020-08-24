@@ -14,6 +14,12 @@
 // npm i dotenv
 require("dotenv").config();
 
+// 🍴😋 to open the url "http://localhost:3000/" when the app starts.
+// open
+// https://www.npmjs.com/package/open
+// npm i open
+const open = require('open');
+
 
 // 🍴😋 to create a simple HTTP server using Node.js built-in module.
 // http
@@ -48,6 +54,7 @@ const server = http.createServer(app);
 // https://nodejs.org/api/net.html#net_server_listen
 server.listen(PORT, function() {
     console.log(`http://localhost:${PORT}`);
+    open(`http://localhost:${PORT}`, {app: 'google chrome'});
 });
 // ES6 version (arrow fuction):
 // server.listen(PORT, () => {

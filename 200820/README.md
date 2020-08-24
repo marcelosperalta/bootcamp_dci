@@ -104,6 +104,12 @@ npm i nodemon
 npm i morgan
 ```
 
+:dvd: Install [open](https://www.npmjs.com/package/open)
+
+```
+npm i open
+```
+
 :dvd: Install [dotenv](https://www.npmjs.com/package/dotenv)
 
 ```

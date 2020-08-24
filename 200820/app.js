@@ -82,7 +82,7 @@ app.use(express.json());
 // #CRUD #GET
 // url http://localhost:3000/
 app.get("/", (req, res) => {
-  res.send(`<h1>Hey, I am root page</h1>`);
+  res.send(`<br><h1>&nbsp;&nbsp;Hey, I am the root page!</h1>`);
 });
 
 // 🍴😋 setting the *route "/employees"
