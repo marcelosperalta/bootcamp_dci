@@ -1,8 +1,8 @@
-<div align="center"><img height="100" src="./mern.png"/></div>
+<div align="center"><img height="100" src="./img_mern.png"/></div>
 
 <br>
 
-<img height="100" src="./dci.png"/></div>
+<img height="100" src="./img_dci.png"/></div>
 
 ## [Digital Career Institute](https://digitalcareerinstitute.org/)
 ### Berlin
