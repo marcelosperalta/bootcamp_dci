@@ -1,4 +1,4 @@
-<div align="center"><img height="100" src="./img_mern.png"/></div>
+<div align="center"><img height="200" src="./img_mern.png"/></div>
 
 <br>
 
