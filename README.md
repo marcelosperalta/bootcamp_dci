@@ -2,7 +2,7 @@
 
 <br>
 
-<img height="50" src="./dci.png"/></div>
+<img height="100" src="./dci.png"/></div>
 
 ## [Digital Career Institute](https://digitalcareerinstitute.org/)
 ### Berlin
