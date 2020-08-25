@@ -1,5 +1,4 @@
 <div align="center"><img height="100" src="./mern.png"/></div>
-<br>
 
 # DCI
 ## [Digital Career Institute](https://digitalcareerinstitute.org/)
@@ -273,6 +272,8 @@ Folder **[200519](https://github.com/marcelosperalta/dci/tree/master/200519)** (
 Folder **[200520](https://github.com/marcelosperalta/dci/tree/master/200520)** (Class 20.05.2020)
 * JavaScript (Callback, async function, and Promise _recapitulation_)
 
+:link: <a href="https://marcelosperalta.github.io/dci/">Classes, homework, and teamwork about HTML, CSS, Sass, DOM, and JSON</a>
+
 Folder **[200525](https://github.com/marcelosperalta/dci/tree/master/200525)** (Class 25.05.2020)
 * Node.js (Runtime environment, process, process.argv, require, fs (File System), fs.readFile, fs.writeFile)
 
@@ -383,9 +384,3 @@ Folder **[200819](https://github.com/marcelosperalta/dci/tree/master/200819)** (
 
 Folder **[200820](https://github.com/marcelosperalta/dci/tree/master/200820)** (Class 20.08.2020)
 * MongoDB (**POST**, **GET**, **DELETE**, **PATCH**, and **PUT**)
-
-<div align="center">
-    <a href="https://marcelosperalta.github.io/dci/">
-        >>> Webpage with classes, homework, and teamwork about HTML, CSS, Sass, DOM, and JSON <<<
-    </a>
-</div>
