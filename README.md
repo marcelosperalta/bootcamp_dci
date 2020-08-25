@@ -1,6 +1,9 @@
 <div align="center"><img height="100" src="./mern.png"/></div>
 
-# DCI
+<br>
+
+<img height="50" src="./dci.png"/></div>
+
 ## [Digital Career Institute](https://digitalcareerinstitute.org/)
 ### Berlin
 #### [Web Development](https://digitalcareerinstitute.org/courses/web-development-course)
