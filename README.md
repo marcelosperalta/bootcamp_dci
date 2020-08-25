@@ -1,11 +1,12 @@
+<div align="center"><img height="100" src="./mern.png"/></div>
+<br>
+
 # DCI
 ## [Digital Career Institute](https://digitalcareerinstitute.org/)
 ### Berlin
 #### [Web Development](https://digitalcareerinstitute.org/courses/web-development-course)
 #### **MERN stack**
 #### 2019-2021
-
-<div align="center"><img height="50" src="./mern.png"/></div>
 
 \
 Folder **[191210](https://github.com/marcelosperalta/dci/tree/master/191210)** (Class 10.12.2019)
