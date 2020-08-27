@@ -1,3 +1,22 @@
+// quote: 📜 When eating an elephant, take one bite at a time 📜
+
+// hints:
+// 1. to understand some parts, you can try to remove it and see what is the impact on the application;
+// 2. remember to use the "console.log" when you need to see what happens in some part;
+// 3. if is too hard to understand some point, see the documentation.
+
+
+// 🍃MongoDB🍃 with Express
+
+// 🍴😋 to use the "Express" web framework for Node.js
+// #framework #middleware
+// Express is a routing and middleware web framework that has minimal functionality of its own: 
+// An Express application is essentially a series of middleware function calls.
+// express
+// https://www.npmjs.com/package/express
+// npm i express
+// express.Router
+// http://expressjs.com/en/guide/routing.html#express-router
 const express = require("express");
 const router = express.Router();
 
