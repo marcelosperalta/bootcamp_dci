@@ -8,6 +8,7 @@
 
 // 🍃MongoDB🍃 with Express
 
+
 // 🍴😋 to use the "Express" web framework for Node.js
 // #framework #middleware
 // Express is a routing and middleware web framework that has minimal functionality of its own: 
@@ -15,12 +16,21 @@
 // express
 // https://www.npmjs.com/package/express
 // npm i express
+const express = require("express");
+
+
+// 🍴😋 to use the class "express.Router" to create modular, mountable route handlers
+// #framework #middleware #routing
 // express.Router
 // http://expressjs.com/en/guide/routing.html#express-router
-const express = require("express");
 const router = express.Router();
 
+
+// 🍴😋 to import the  "employeesModel" to create modular, mountable route handlers
+// #framework #middleware #routing
 const EmployeesData = require("../model/employeesModel");
+
+
 const {
   getEmployee,
   getAdd,
