@@ -26,8 +26,11 @@ const express = require("express");
 const router = express.Router();
 
 
-// 🍴😋 to import the  "employeesModel" to create modular, mountable route handlers
-// #framework #middleware #routing
+// 🍴😋 to import the "employeesModel.js" that have the MongoDB schema
+// #mongodb #mongoose
+// A document schema is a JSON object that allows you to define the shape 
+// and content of documents and embedded documents in a collection.
+// https://docs.mongodb.com/realm/mongodb/document-schemas/
 const EmployeesData = require("../model/employeesModel");
 
 
