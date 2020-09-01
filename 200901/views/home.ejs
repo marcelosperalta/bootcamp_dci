@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UserData</title>
+    <style>
+      table {
+        border: 1px solid black;
+        text-align: center;
+      }
+      table tr:nth-child(2n) {
+        background-color: lightblue;
+      }
+      input[type="submit"] {
+        border: none;
+        border-radius: 10%;
+        background-color: lightskyblue;
+        width: 6rem;
+        height: 3rem;
+      }
+      img {
+        width: 3rem;
+        border-radius: 50%;
+      }
+    </style>
+  </head>
+  <body>
+    <form action="/" method="POST">
+      <input type="submit" value="Add more Data" />
+    </form>
+    <%if(data.length){%>
+    <table>
+      <thead>
+        <th>ID</th>
+        <th>Avatar</th>
+        <td>First Name</td>
+        <th>Last Name</th>
+        <th>City</th>
+      </thead>
+      <tbody>
+        <%for(let i=0;i< data.length; i++){%>
+        <tr>
+          <td><%= i%></td>
+          <td><img src="<%= data[i].imageUrl %>" alt="" /></td>
+          <td><%= data[i].firstName%></td>
+          <td><%= data[i].lastName%></td>
+          <td><%= data[i].city%></td>
+        </tr>
+        <%}%>
+      </tbody>
+    </table>
+    <%}%>
+  </body>
+</html>
