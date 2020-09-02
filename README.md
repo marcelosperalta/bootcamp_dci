@@ -390,3 +390,6 @@ Folder **[200820](https://github.com/marcelosperalta/dci/tree/master/200820)** (
 
 Folder **[200901](https://github.com/marcelosperalta/dci/tree/master/200901)** (Class 01.09.2020)
 * MongoDB (faker.js, EJS)
+
+Folder **[200902](https://github.com/marcelosperalta/dci/tree/master/200902)** (Class 02.09.2020)
+* MongoDB (mongoose Model.findById(), Model.findByIdAndUpdate(), Model.findByIdAndDelete())
