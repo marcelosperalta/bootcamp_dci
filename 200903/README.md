@@ -31,5 +31,3 @@ http://localhost:3000/
 ![screenshot](./screenshot02.png)
 
 ![screenshot](./screenshot03.png)
-
-![screenshot](./screenshot04.png)
