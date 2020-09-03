@@ -393,3 +393,6 @@ Folder **[200901](https://github.com/marcelosperalta/dci/tree/master/200901)** (
 
 Folder **[200902](https://github.com/marcelosperalta/dci/tree/master/200902)** (Class 02.09.2020)
 * MongoDB (mongoose Model.findById(), Model.findByIdAndUpdate(), Model.findByIdAndDelete())
+
+Folder **[200903](https://github.com/marcelosperalta/dci/tree/master/200903)** (Class 03.09.2020)
+* MongoDB (Validations, validator.js, Handlebars)
