@@ -396,3 +396,6 @@ Folder **[200902](https://github.com/marcelosperalta/dci/tree/master/200902)** (
 
 Folder **[200903](https://github.com/marcelosperalta/dci/tree/master/200903)** (Class 03.09.2020)
 * MongoDB (Validations, validator.js, Handlebars)
+
+Folder **[200907](https://github.com/marcelosperalta/dci/tree/master/200907)** (Class 07.09.2020)
+* MongoDB (Relations)
