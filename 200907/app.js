@@ -19,5 +19,10 @@ mongoose
     console.log(`There was a problem ${error.message}`);
   });
 app.use(express.json());
+const bookControllers = require("./controllers/bookControllers");
 
+app.get("/", bookControllers.getAll).post("/", bookControllers.addOne);
+app
+  .get("/:id", bookControllers.getOneByID)
+  .delete("/:id", bookControllers.deleteOneByID);
 module.exports = app;
