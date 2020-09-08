@@ -399,3 +399,6 @@ Folder **[200903](https://github.com/marcelosperalta/dci/tree/master/200903)** (
 
 Folder **[200907](https://github.com/marcelosperalta/dci/tree/master/200907)** (Class 07.09.2020)
 * MongoDB (Relations)
+
+Folder **[200908](https://github.com/marcelosperalta/dci/tree/master/200908)** (Class 08.09.2020)
+* MongoDB (Relations)
