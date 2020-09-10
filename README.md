@@ -404,4 +404,7 @@ Folder **[200908](https://github.com/marcelosperalta/dci/tree/master/200908)** (
 * MongoDB (Relations)
 
 Folder **[200909](https://github.com/marcelosperalta/dci/tree/master/200909)** (Class 09.09.2020)
-* MongoDB (Hash function)
+* MongoDB (Authentication, Hash function)
+
+Folder **[200910](https://github.com/marcelosperalta/dci/tree/master/200910)** (Class 10.09.2020)
+* MongoDB (Authentication, Login build)
