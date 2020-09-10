@@ -14,12 +14,23 @@ A library of string validators and sanitizers.
 
 # Run the project
 
+#1
+
+- Create the ```.env``` file based on [this](https://github.com/marcelosperalta/dci/blob/master/200820/.env)  
+
+🚨 In a company environment, never push this type of file to a repository like GitHub (or any other version control system)  
+
+#2
+
 ```
 npm install
 ```
 
+#3
+
 ```
 npm start
+```
 ```
 
 # On Browser
