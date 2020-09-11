@@ -28,3 +28,20 @@ npm install
 ```
 npm start
 ```
+
+# **[bcrypt](https://www.npmjs.com/package/bcrypt)** installation issues on Windows 10
+
+https://github.com/kelektiv/node.bcrypt.js/wiki/Installation-Instructions#microsoft-windows
+
+```
+npm install --global --production windows-build-tools
+
+```
+
+# On Browser
+
+http://localhost:3000/
+
+![screenshot](./screenshot01.png)
+
+![screenshot](./screenshot02.png)
