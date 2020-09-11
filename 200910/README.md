@@ -42,6 +42,4 @@ npm install --global --production windows-build-tools
 
 http://localhost:3000/
 
-![screenshot](./screenshot01.png)
-
-![screenshot](./screenshot02.png)
+![screenshot](./screenshot.png)

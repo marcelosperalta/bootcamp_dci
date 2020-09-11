@@ -1,7 +1,7 @@
 <h1>{{ title }}</h1>
 {{#if done}}
 <div>
-    <h4>Every thing is cool</h4>
+    <h4>Everything is cool</h4>
 </div>
 {{else}}
 {{#if errors}}
@@ -13,7 +13,7 @@
   </ul>
 </div>
 {{/if}}
-<form method="POST" action="/register">
+<form class="register" method="POST" action="/register">
 <label for="userName">
     <input type="text" name="userName" id="userName" placeholder="Username">
 </label>
@@ -27,5 +27,6 @@
     <input type="submit" value="Register">
 </label>
 </form>
-Or <a href="/login" >login</a>
+or
+<a href="/login" >Login</a>
 {{/if}}
