@@ -1,0 +1,31 @@
+<h1>{{ title }}</h1>
+{{#if done}}
+<div>
+    <h4>Every thing is cool</h4>
+</div>
+{{else}}
+{{#if errors}}
+<div>
+  <ul>
+      {{#each errors}}
+      <li>{{ this.msg }}</li>
+      {{/each}}
+  </ul>
+</div>
+{{/if}}
+<form method="POST" action="/register">
+<label for="userName">
+    <input type="text" name="userName" id="userName" placeholder="Username">
+</label>
+<label for="password">
+    <input type="password" name="password" id="password" placeholder="Password">
+</label>
+<label for="password">
+    <input type="password" name="confPassword" id="confPassword" placeholder="Confirm password">
+</label>
+<label for="submit">
+    <input type="submit" value="Register">
+</label>
+</form>
+Or <a href="/login" >login</a>
+{{/if}}

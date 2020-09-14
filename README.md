@@ -408,3 +408,6 @@ Folder **[200909](https://github.com/marcelosperalta/dci/tree/master/200909)** (
 
 Folder **[200910](https://github.com/marcelosperalta/dci/tree/master/200910)** (Class 10.09.2020)
 * MongoDB (Authentication, Login build)
+
+Folder **[200914](https://github.com/marcelosperalta/dci/tree/master/200914)** (Class 14.09.2020)
+* MongoDB (Authentication, Login build)
