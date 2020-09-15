@@ -1,0 +1,18 @@
+<h1>{{ title }}</h1>
+{{#if done}}
+ <a href="/logout" >Logout</a>
+{{else}}
+<form method="POST" action="/login">
+<label for="userName">
+    <input type="text" name="userName" id="userName" placeholder="Username">
+</label>
+<label for="password">
+    <input type="password" name="password" id="password" placeholder="Password">
+</label>
+
+<label for="submit">
+    <input type="submit" value="Login">
+</label>
+</form>
+Or <a href="/" >Register</a>
+{{/if}}

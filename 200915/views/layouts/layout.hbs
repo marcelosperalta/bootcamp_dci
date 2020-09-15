@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> {{ title }} </title>
+    <style>
+        body{
+            width:100vw;
+            height:100vh;
+            display:flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        label{
+            display: block;
+        }
+        input {
+            border: hidden;
+            background-color: transparent;
+            width: 7rem;
+            height: 2rem;   
+        }
+        input:hover {
+            color: lightblue;
+            border-bottom: 2px solid lightblue;
+        }
+        input:focus{
+            outline: none;
+            border: 4px solid lightcyan;
+            border-radius: 10%;
+        }
+        a,a:visited,a:link{
+            color: lightskyblue;
+        }
+        li{
+            color:lightcoral;
+        }
+    </style>
+</head>
+<body>
+    {{{ body }}}
+</body>
+</html>
