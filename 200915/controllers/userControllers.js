@@ -40,12 +40,15 @@ userControllers.addUser = async (req, res) => {
     try {
       const hashedPassword = await bcrypt.hash(req.body.password, 10);
       console.log(hashedPassword);
+      console.log(req.file);
       const newUser = await new User({
         _id: mongoose.Types.ObjectId(),
         userName: req.body.userName,
         password: hashedPassword,
         role: "USER",
+        avatar: req.file.path,
       });
+      console.log(newUser);
       newUser.save();
       res.status(201).send("new user add <br> <a href='/login'>login</a>");
     } catch (err) {

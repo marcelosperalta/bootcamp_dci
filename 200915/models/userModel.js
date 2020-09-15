@@ -16,6 +16,7 @@ const userSchema = Schema({
     trim: true,
   },
   role: String,
+  avatar: String,
 });
 const User = mongoose.model("User", userSchema);
 

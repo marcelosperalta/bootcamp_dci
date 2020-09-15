@@ -13,7 +13,7 @@
   </ul>
 </div>
 {{/if}}
-<form method="POST" action="/register">
+<form method="POST" action="/register" enctype="multipart/form-data" >
 <label for="userName">
     <input type="text" name="userName" id="userName" placeholder="Username">
 </label>
@@ -22,6 +22,9 @@
 </label>
 <label for="password">
     <input type="password" name="confPassword" id="confPassword" placeholder="Confirm password">
+</label>
+<label for="avatar">
+    <input type="file" name="avatar" id="avatar" >
 </label>
 <label for="submit">
     <input type="submit" value="Register">
