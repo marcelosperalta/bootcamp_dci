@@ -414,3 +414,6 @@ Folder **[200914](https://github.com/marcelosperalta/dci/tree/master/200914)** (
 
 Folder **[200915](https://github.com/marcelosperalta/dci/tree/master/200915)** (Class 15.09.2020)
 * MongoDB (Authentication, Login build, Multer)
+
+Folder **[200916](https://github.com/marcelosperalta/dci/tree/master/200916)** (Class 16.09.2020)
+* Deploy (Node.js apps)
