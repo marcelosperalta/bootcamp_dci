@@ -417,3 +417,6 @@ Folder **[200915](https://github.com/marcelosperalta/dci/tree/master/200915)** (
 
 Folder **[200916](https://github.com/marcelosperalta/dci/tree/master/200916)** (Class 16.09.2020)
 * Deploy (Node.js apps)
+
+Folder **[200917](https://github.com/marcelosperalta/dci/tree/master/200917)** (Class 17.09.2020)
+* Deploy (Node.js apps)
