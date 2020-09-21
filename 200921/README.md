@@ -78,7 +78,7 @@ Project
  "proxy": "http://localhost:5000"
 ```
 
-###  root ```package.json``` file status when you finish:_  
+### _root ```package.json``` file status when you finish:_  
 
 ```
 {
@@ -109,7 +109,7 @@ Project
 }
 ```
 
-### client folder ```package.json``` file status when you finish:_  
+### _client folder ```package.json``` file status when you finish:_  
 
 ```
 {
