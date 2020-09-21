@@ -1,4 +1,4 @@
-# MERN app
+# :heart: MERN app
 
 MongoDB, Express, React and Node.js app  
 
