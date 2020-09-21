@@ -149,14 +149,22 @@ Project
 }
 ```
 
-## :dvd: Install based on ```package.json``` file
+## :dvd: Install based on ```package.json``` files
+
+### root ```package.json``` file
 
 ```
 npm install
 ```
 
+### client folder ```package.json``` file
+
 ```
-npx create-react-app client
+cd client
+```
+
+```
+npm install
 ```
 
 ## :rocket: Run Client and Server at the same time
