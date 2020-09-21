@@ -24,21 +24,21 @@ npm i concurrently
 npx create-react-app client
 ```
 
-> create the ```.env``` with the information below:  
+### create the ```.env``` with the information below:  
 
 ```
 PORT=5000
 DB_URL=mongodb://localhost:<port-number>/<database-name>
 ```
 
-> create the ```.gitignore``` with the information below:  
+### create the ```.gitignore``` with the information below:  
 
 ```
 node_modules/
 .env
 ```
 
-> _directory structure:_  
+### _directory structure:_  
 
 ```
 Project
@@ -61,7 +61,7 @@ Project
         └───main.scss
 ```
 
-> _add the scripts below to the ```package.json``` file:_  
+### _add the scripts below to the ```package.json``` file:_  
 
 ```
 "scripts": {
@@ -72,13 +72,13 @@ Project
   }, 
 ```
 
-> _add the item below to the ```package.json``` file:_  
+### _add the item below to the ```package.json``` file:_  
 
 ```
  "proxy": "http://localhost:5000"
 ```
 
-> _```package.json``` file when you finish:_  
+### _```package.json``` file when you finish:_  
 
 ```
 {
