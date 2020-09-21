@@ -61,7 +61,7 @@ Project
         └───main.scss
 ```
 
-### _add the scripts below to the ```package.json``` file:_  
+### _add the scripts below to the root ```package.json``` file:_  
 
 ```
 "scripts": {
@@ -72,13 +72,13 @@ Project
   }, 
 ```
 
-### _add the item below to the ```package.json``` file inside the **client folder**:_  
+### _add the item below to the client folder ```package.json``` file:_  
 
 ```
  "proxy": "http://localhost:5000"
 ```
 
-### _server side - ```package.json``` file status when you finish:_  
+###  root ```package.json``` file status when you finish:_  
 
 ```
 {
@@ -109,7 +109,7 @@ Project
 }
 ```
 
-### _client side - ```package.json``` file status when you finish:_  
+### client folder ```package.json``` file status when you finish:_  
 
 ```
 {
