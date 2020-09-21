@@ -2,7 +2,7 @@
 
 MongoDB, Express, React and Node.js app  
 
-## Install
+## :cd: Install
 
 ```
 npm init -y
@@ -149,7 +149,7 @@ Project
 }
 ```
 
-## Install based on ```package.json``` file
+## :dvd: Install based on ```package.json``` file
 
 ```
 npm install
@@ -159,7 +159,7 @@ npm install
 npx create-react-app client
 ```
 
-## Run Client and Server at the same time
+## :rocket: Run Client and Server at the same time
 
 ```
 npm run dev
