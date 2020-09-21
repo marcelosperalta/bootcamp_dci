@@ -5,19 +5,19 @@ MongoDB, Express, React and Node.js app
 ## Install
 
 ```
-$ npm init -y
+npm init -y
 ```
 
 ```
-$ npm i express 
+npm i express 
 ```
 
 ```
-$ npm i nodemon --save-dev
+npm i nodemon --save-dev
 ```
 
 ```
-$ npm i concurrently
+npm i concurrently
 ```
 
 ```
