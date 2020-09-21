@@ -24,14 +24,14 @@ npm i concurrently
 npx create-react-app client
 ```
 
-### create the ```.env``` with the information below:  
+### _create the ```.env``` file with the information below:_  
 
 ```
 PORT=5000
 DB_URL=mongodb://localhost:<port-number>/<database-name>
 ```
 
-### create the ```.gitignore``` with the information below:  
+### _create the ```.gitignore``` file with the information below:_  
 
 ```
 node_modules/
@@ -78,7 +78,7 @@ Project
  "proxy": "http://localhost:5000"
 ```
 
-### _```package.json``` file when you finish:_  
+### _```package.json``` file status when you finish:_  
 
 ```
 {
