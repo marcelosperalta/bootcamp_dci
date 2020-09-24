@@ -429,3 +429,6 @@ Folder **[200922](https://github.com/marcelosperalta/dci/tree/master/200922)** (
 
 Folder **[200923](https://github.com/marcelosperalta/dci/tree/master/200923)** (Class 23.09.2020)
 * MERN app (Session Storage, Local Storage, and Cookies)
+
+Folder **[200924](https://github.com/marcelosperalta/dci/tree/master/200924)** (Class 24.09.2020)
+* MERN app (FormData)
