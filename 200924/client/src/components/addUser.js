@@ -21,7 +21,7 @@ function AddForm() {
   };
   const submitHandle = async (e) => {
     e.preventDefault();
-    console.log(newUser);
+    // console.log(newUser);
     const data = new FormData();
     data.append("userName", userName);
     data.append("password", password);
