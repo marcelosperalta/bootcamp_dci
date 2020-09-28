@@ -432,3 +432,6 @@ Folder **[200923](https://github.com/marcelosperalta/dci/tree/master/200923)** (
 
 Folder **[200924](https://github.com/marcelosperalta/dci/tree/master/200924)** (Class 24.09.2020)
 * MERN app (FormData)
+
+Folder **[200928](https://github.com/marcelosperalta/dci/tree/master/200928)** (Class 28.09.2020)
+* TypeScript (install, compiler, watch)
