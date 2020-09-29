@@ -435,3 +435,6 @@ Folder **[200924](https://github.com/marcelosperalta/dci/tree/master/200924)** (
 
 Folder **[200928](https://github.com/marcelosperalta/dci/tree/master/200928)** (Class 28.09.2020)
 * TypeScript (install, compiler, watch)
+
+Folder **[200929](https://github.com/marcelosperalta/dci/tree/master/200929)** (Class 29.09.2020)
+* MERN app (exercise "Authentication")
