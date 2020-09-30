@@ -438,3 +438,6 @@ Folder **[200928](https://github.com/marcelosperalta/dci/tree/master/200928)** (
 
 Folder **[200929](https://github.com/marcelosperalta/dci/tree/master/200929)** (Class 29.09.2020)
 * MERN app (exercise "Authentication")
+
+Folder **[200930](https://github.com/marcelosperalta/dci/tree/master/200930)** (Class 30.09.2020)
+* JSON Web Tokens (Authorization)
