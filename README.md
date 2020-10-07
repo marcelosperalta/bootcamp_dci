@@ -441,3 +441,9 @@ Folder **[200929](https://github.com/marcelosperalta/dci/tree/master/200929)** (
 
 Folder **[200930](https://github.com/marcelosperalta/dci/tree/master/200930)** (Class 30.09.2020)
 * MERN app (Authorization, JSON Web Tokens)
+
+Folder **[201006](https://github.com/marcelosperalta/dci/tree/master/201006)** (Class 06.10.2020)
+* Final Project ("Face recognition security system")
+
+Folder **[201007](https://github.com/marcelosperalta/dci/tree/master/201007)** (Class 07.10.2020)
+* Final Project ("Face recognition security system" > 1st online meeting)
