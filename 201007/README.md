@@ -18,3 +18,7 @@ https://trello.com/en
 ### GraphQL
 
 https://graphql.org/  
+
+### Amazon Rekognition
+
+https://aws.amazon.com/rekognition/?blog-cards.sort-by=item.additionalFields.createdDate&blog-cards.sort-order=desc
