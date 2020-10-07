@@ -4,7 +4,7 @@
 
 ### Face recognition security system  
 
-Mauricio  
-Ioannis  
-Wajih  
-Marcelo  
+[Mauricio](https://github.com/Mauricio-Sotela)  
+[Ioannis](https://github.com/Ioannis-Kavalidis)  
+[Wajih](https://github.com/Wajih-alzouhairy)  
+[Marcelo](https://github.com/marcelosperalta)  

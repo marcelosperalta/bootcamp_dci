@@ -1,9 +1,20 @@
-# Tools
+# Final Project  
 
-## Trello
+## Project Number 3  
+
+### Face recognition security system  
+
+[Mauricio](https://github.com/Mauricio-Sotela)  
+[Ioannis](https://github.com/Ioannis-Kavalidis)  
+[Wajih](https://github.com/Wajih-alzouhairy)  
+[Marcelo](https://github.com/marcelosperalta)  
+
+## Tools
+
+### Trello
 
 https://trello.com/en  
 
-## GraphQL
+### GraphQL
 
 https://graphql.org/  
