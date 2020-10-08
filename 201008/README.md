@@ -22,4 +22,4 @@
 
 ## To-do
 
-- Find "APIs" for facial recognition;  
+- Find "APIs" for facial recognition.  
