@@ -20,6 +20,13 @@
 - responsible for the "back end": Mauricio and Ioannis;
 - App Category: "Web App".  
 
+## MVP
+
+- Login;
+- Portal;
+- DB;
+- Face recognition.
+
 ## Project Name
 
 - "Work Viewer"
