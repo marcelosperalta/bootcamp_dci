@@ -39,6 +39,12 @@
 - bcrypt;
 - multer.
 
+### Dependencies
+
+- [Figma](https://www.figma.com/)  
+- [Trello](https://trello.com/)  
+- [favicon.cc](https://www.favicon.cc/)  
+
 ## MVP
 
 - Login;
