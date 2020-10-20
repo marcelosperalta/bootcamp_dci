@@ -39,7 +39,7 @@
 - bcrypt;
 - multer.
 
-### Dependencies
+### Tools
 
 - [Figma](https://www.figma.com/)  
 - [Trello](https://trello.com/)  
