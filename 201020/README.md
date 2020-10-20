@@ -39,7 +39,7 @@
 - bcrypt;
 - multer.
 
-### Tools
+## Tools
 
 - [Figma](https://www.figma.com/)  
 - [Trello](https://trello.com/)  
