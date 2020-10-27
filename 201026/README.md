@@ -15,10 +15,10 @@
 
 ## Definitions
 
-- Project Manager: Mauricio;  
-- responsible for the "front end": Wajih and Marcelo;
-- responsible for the "back end": Mauricio and Ioannis;
-- App Category: "Web App".  
+- Project Manager: Mauricio;
+- Front-end responsible: Wajih and Marcelo;
+- Back-end responsible: Mauricio and Ioannis;
+- App Category: "Web App".
 
 ## Technologies
 
@@ -32,20 +32,24 @@
 
 ### Dependencies
 
-- mongoose;
-- morgan;
-- cors;
-- dotenv;
-- bcrypt;
-- multer;
-- axios.
+- [mongoose](https://mongoosejs.com/)
+- [morgan](https://github.com/expressjs/morgan)
+- [multer](https://github.com/expressjs/multer)
+- [cors](https://github.com/expressjs/cors)
+- [dotenv](https://github.com/motdotla/dotenv)
+- [bcrypt](https://github.com/kelektiv/node.bcrypt.js)
+- [axios](https://github.com/axios/axios)
+- [MATERIAL-UI](https://material-ui.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [FullCalendar](https://fullcalendar.io/)
 
 ## Tools
 
 - [Figma](https://www.figma.com/)
 - [Trello](https://trello.com/)
 - [favicon.cc](https://www.favicon.cc/)
-- [CSS Gradient](https://cssgradient.io/)
+- [pixabay](https://pixabay.com/)
+- [OnlineWebFonts.COM](https://www.onlinewebfonts.com/)
 
 ## MVP
 
