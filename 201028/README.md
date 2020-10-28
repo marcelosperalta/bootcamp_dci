@@ -42,6 +42,9 @@
 - [MATERIAL-UI](https://material-ui.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [FullCalendar](https://fullcalendar.io/)
+- [Moment.js](https://momentjs.com/)
+- [react-live-clock](https://github.com/pvoznyuk/react-live-clock)
+- [OpenWeathermap Widget](https://openweathermap.org/widgets-constructor)
 
 ## Tools
 
