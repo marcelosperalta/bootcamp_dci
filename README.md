@@ -519,3 +519,6 @@ Folder **[201119](https://github.com/marcelosperalta/dci/tree/master/201119)** (
 
 Folder **[201123](https://github.com/marcelosperalta/dci/tree/master/201123)** (Class 23.11.2020)
 * Final Project ("Face recognition security system" > online meeting)
+
+Folder **[201124](https://github.com/marcelosperalta/dci/tree/master/201124)** (Class 24.11.2020)
+* Final Project ("Face recognition security system" > online meeting)
