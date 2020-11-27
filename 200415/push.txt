@@ -1,0 +1,16 @@
+** Windows "push.ps1" **
+
+To execute "push.ps1" on Windows PowerShell:
+./push.ps1
+
+
+** Linux "push.sh" **
+
+Before execute you need to give permission to this file to execute as a program.
+> On GNOME 3.28.2 desktop environment:
+- right click on file's name;
+- Permissions Tab > Execute:
+- mark the checkbox "Allow executing file as program".
+
+To execute "push.sh" on bash($):
+./push.sh
