@@ -13,8 +13,8 @@ https://developer.mozilla.org/en-US/docs/Web/API/NodeList
 
 # Project
 
-https://github.com/marcelosperalta/boilerplate_sass
+https://marcelosperalta.github.io/bootcamp_dci/200414/dist/
 
 ### Class
 
-https://marcelosperalta.github.io/boilerplate_sass/html/20200421/20200421.html
+https://marcelosperalta.github.io/bootcamp_dci/200414/dist/html/20200421/20200421.html

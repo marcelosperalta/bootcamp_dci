@@ -10,8 +10,8 @@ https://marcelosperalta.github.io/dciScssToDoList/
 
 # Project
 
-https://github.com/marcelosperalta/boilerplate_sass
+https://marcelosperalta.github.io/bootcamp_dci/200414/dist/
 
 ### Class
 
-https://marcelosperalta.github.io/boilerplate_sass/html/20200423/20200423.html
+https://marcelosperalta.github.io/bootcamp_dci/200414/dist/html/20200423/20200423.html
