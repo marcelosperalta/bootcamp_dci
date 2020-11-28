@@ -289,52 +289,52 @@ Folder **[200527](https://github.com/marcelosperalta/bootcamp_dci/tree/master/20
 Folder **[200528](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200528)** (Class 28.05.2020)
 * Node.js (module.exports and exercise)
 
-Folder **[200602](https://github.com/marcelosperalta/dci/tree/master/200602)** (Class 02.06.2020)
+Folder **[200602](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200602)** (Class 02.06.2020)
 * Node.js (url.resolve(from, to) / OpenWeather API, creating a package.json file, chmod, link, nodemon, axios)
 
-Folder **[200603](https://github.com/marcelosperalta/dci/tree/master/200603)** (Class 03.06.2020)
+Folder **[200603](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200603)** (Class 03.06.2020)
 * Node.js (Stream, pipe, fs.createWriteStream(), fs.createReadStream(), and Exercise "Compress File")
 
-Folder **[200604](https://github.com/marcelosperalta/dci/tree/master/200604)** (Class 04.06.2020)
+Folder **[200604](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200604)** (Class 04.06.2020)
 * Node.js (HTTP, http.createServer(), zlib.createGzip(), Path, __dirname)
 
-Folder **[200609](https://github.com/marcelosperalta/dci/tree/master/200609)** (Class 09.06.2020)
+Folder **[200609](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200609)** (Class 09.06.2020)
 * React (MVC, npx, create-react-app)
 
-Folder **[200610](https://github.com/marcelosperalta/dci/tree/master/200610)** (Class 10.06.2020)
+Folder **[200610](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200610)** (Class 10.06.2020)
 * React (SPA, build react app from scratch)
 
-Folder **[200611](https://github.com/marcelosperalta/dci/tree/master/200611)** (Class 11.06.2020)
+Folder **[200611](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200611)** (Class 11.06.2020)
 * React (Google Chrome extension "React Developer Tools", Fragments, render(), props)
 
-Folder **[200615](https://github.com/marcelosperalta/dci/tree/master/200615)** (Class 15.06.2020)
+Folder **[200615](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200615)** (Class 15.06.2020)
 * React (State, exercise "to-do list")
 
-Folder **[200616](https://github.com/marcelosperalta/dci/tree/master/200616)** (Class 16.06.2020)
+Folder **[200616](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200616)** (Class 16.06.2020)
 * React (Function, React Bootstrap, exercise "Instagram mock-up")
 
-Folder **[200617](https://github.com/marcelosperalta/dci/tree/master/200617)** (Class 17.06.2020)
+Folder **[200617](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200617)** (Class 17.06.2020)
 * React (Regular Expressions, exercise "Instagram mock-up" solution)
 
-Folder **[200618](https://github.com/marcelosperalta/dci/tree/master/200618)** (Class 18.06.2020)
+Folder **[200618](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200618)** (Class 18.06.2020)
 * React (State, exercise "Morse translator")
 
-Folder **[200622](https://github.com/marcelosperalta/dci/tree/master/200622)** (Class 22.06.2020)
+Folder **[200622](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200622)** (Class 22.06.2020)
 * React (Lifecycle, Font Awesome)
 
-Folder **[200623](https://github.com/marcelosperalta/dci/tree/master/200623)** (Class 23.06.2020)
+Folder **[200623](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200623)** (Class 23.06.2020)
 * React (Axios, exercise "Country API")
 
-Folder **[200624](https://github.com/marcelosperalta/dci/tree/master/200624)** (Class 24.06.2020)
+Folder **[200624](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200624)** (Class 24.06.2020)
 * React (Exercise "Online Shop")
 
-Folder **[200625](https://github.com/marcelosperalta/dci/tree/master/200625)** (Class 25.06.2020)
+Folder **[200625](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200625)** (Class 25.06.2020)
 * React (Exercise "Online Shop")
 
-Folder **[200629](https://github.com/marcelosperalta/dci/tree/master/200629)** (Class 29.06.2020)
+Folder **[200629](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200629)** (Class 29.06.2020)
 * React (REACT ROUTER, process.env.PUBLIC_URL)
 
-Folder **[200630](https://github.com/marcelosperalta/dci/tree/master/200630)** (Class 30.06.2020)
+Folder **[200630](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200630)** (Class 30.06.2020)
 * React (Redux, exercise "Online Shop")
 
 Folder **[200701](https://github.com/marcelosperalta/dci/tree/master/200701)** (Class 01.07.2020)
