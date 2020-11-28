@@ -82,7 +82,7 @@ https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/
 
 ## Project Template GitHub Page
 
-https://marcelosperalta.github.io/boilerplate_sass/
+https://marcelosperalta.github.io/bootcamp_dci/200414/dist/
 
 #### Screenshot
 
