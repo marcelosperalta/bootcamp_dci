@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- My CSS -->
+    <link rel="stylesheet" href="../../styles/style.css">
+
+    <title>20.04.2020</title>
+</head>
+
+<head>
+    <div class="head-pages">
+        <div class="head-pages-transparent" id="Home"><a href="../../index.html"></a></div>
+        <div class="head-pages-transparent"><a href="..."></a></div>
+        <div class="head-pages-transparent"><a href="..."></a></div>
+        <div class="head-pages-current-page"><a href="../20200420/20200420.html">20.04.2020</a></div>
+    </div>
+    <div class="head-pages">
+        <div id="Home"><a href="../../index.html">HOME</a></div>
+        <div><a href="../20200415/20200415.html">15.04.2020</a></div>
+        <div><a href="../20200416/20200416.html">16.04.2020</a></div>
+        <div class="head-pages-transparent"><a href="..."></a></div>
+        <div><a href="../20200421/20200421.html">21.04.2020</a></div>
+        <div><a href="../20200422/20200422.html">22.04.2020</a></div>
+        <div><a href="../20200423/20200423.html">23.04.2020</a></div>
+    </div>
+</head>
+
+<br>
+
+<body>
+
+    <div class="background-items">
+        <h3>Summary</h3>
+
+        <a href="#Topics"><b>Topics</b></a>
+        <br>
+        <br>
+        <a href="#Class"><b>Class</b></a>
+        <br>
+        <br>
+        <a href="#Exercise"><b>Exercise</b></a>
+        <br>
+        <br>
+        <a href="#Reading_time"><b>Reading time</b></a>
+    </div>
+
+    <div class="background-items">
+        <h3 id="Topics">
+            Topics
+            <span class="span2"><a href="#"><b>HOME</b></a></span>
+        </h3>
+
+        <a href="https://en.wikipedia.org/wiki/JavaScript_engine" target="_blank"><b>JavaScript engine</b></a>
+        <br>
+        <br>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model" target="_blank"><b>DOM</b></a>
+        <br>
+        <br>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script#Basic_usage" target="_blank"><b>HTML &lt;script&gt; element (inline and external script)</b></a>
+        <br>
+        <br>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window" target="_blank"><b>Window interface</b></a>
+        <br>
+        <br>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects" target="_blank"><b>Native object (global object) and Host object</b></a>
+    </div>
+
+
+    <div class="background-items">
+        <h3 id="Class">
+            Class
+            <span class="span2"><a href="#"><b>HOME</b></a></span>
+            <span class="span2">
+                <a 
+                class="dci-link-repo" 
+                href="https://github.com/FBw-26/live-coding/tree/master/apr/20-04" 
+                target="_blank">
+                DCI Class Repository
+                </a>
+            </span>
+        </h3>
+
+        <!-- DCI class 20.04.2020 -->
+        <h4>DOM</h4>
+        <div>
+        <script>
+            console.log(window);
+          </script>
+          <h1 id="default">Hey, welcome to my page</h1>
+          <p id="main">cool this is me 🤓</p>
+          <button onclick="change()">change</button>
+          <button onclick="reset()">reset</button>
+          <br>
+          <br>
+          <select name="number" id="num" class="selectedNum">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+          </select>
+          <button onclick="multiply()">calculate</button>
+          <div class="result"></div>
+        </div>
+
+    </div>
+    
+    <div class="background-items">
+        <h3 id="Exercise" class="h3-background">
+            Exercise
+            <span class="span2"><a href="#"><b>HOME</b></a></span>
+        </h3>
+        <h4>The Guessing Game</h4>
+        <h4>Create a guessing game for players.</h4>
+        <h4>Instructions:</h4>
+        <ol>
+            <li>Randomize a number between 1 - 10 (do not show to the player);</li>
+            <li>Make the player guess the number in a prompt;
+                <br>
+                <img class="image-20200420" src="../../img/2020.04.20_1.png" alt="">
+            </li>
+            <li>If the player guesses the correct number, print out whether <br>
+                the player was successful and in how many attempts <br> 
+                (print in the console);
+                <br>
+                <img class="image-20200420" src="../../img/2020.04.20_2.png" alt="">
+            </li>
+            <li>If the player is incorrect, change the text in the prompt <br> 
+                to inform the player, e.g. "Nope, sorry! Try again!"
+                <br>
+                <img class="image-20200420" src="../../img/2020.04.20_3.png" alt="">
+            </li>
+            <li>If the player fails to guess the number after three attempts, <br>
+                print out that the player was unsuccessful AND what the number was. <br>
+                e.g. "Sorry, you failed to guess the number in three attempts. The number was 0!"
+                <br>
+                <img class="image-20200420" src="../../img/2020.04.20_4.png" alt="">
+            </li>
+        </ol>
+        
+        <h4 id="Solution">Solution:</h4>
+        <ol>
+            <a id="Guess" href="http://127.0.0.1:8080/html/20200420/20200420.html#Solution">
+                The Guessing Game
+            </a>
+            <br>
+            <br>
+            <a id="Guess2" href="http://127.0.0.1:8080/html/20200420/20200420.html#Solution">
+                The Guessing Game v2
+            </a>
+        </ol>
+
+        <div>
+
+            <div>
+                <h5>
+                    Repositories:
+                    <br>
+                    <br>
+                    <a href="https://github.com/marcelosperalta/dciScssTemplate" 
+                       target="_blank">
+                        General
+                    </a> / 
+                    <a href="https://github.com/marcelosperalta/dciScssTemplate/blob/master/src/html/20200420/20200420.html" 
+                       target="_blank">
+                        HTML
+                    </a> / 
+                    <a href="../20200420/20200420.js" 
+                       target="_blank">
+                        JavaScript
+                    </a>
+                    <br>
+                    <br>
+                    References:
+                    <br>
+                    <br>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random" target="_blank">
+                        Math.random()
+                    </a>
+                    <br>
+                    <br>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while" target="_blank">
+                        while statement
+                    </a>
+                    <br>
+                    <br>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt" target="_blank">
+                        Window.prompt()
+                    </a>
+                    <br>
+                    <br>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/alert" target="_blank">
+                        Window.alert()
+                    </a>
+                </h5>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="background-items">
+        <h3 id="Reading_time">
+            Reading time
+            <span class="span2"><a href="#"><b>HOME</b></a></span>
+        </h3>
+        <a href="https://www.w3.org/TR/REC-DOM-Level-1/introduction.html" target="_blank">
+            <b>What is the Document Object Model?</b>
+        </a>
+        <br>
+        <br>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document" target="_blank">
+            <b>Document</b>
+        </a>
+        <br>
+        <br>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById" target="_blank">
+            <b>Document.getElementById()</b>
+        </a>
+    </div>
+
+    <br>
+
+</body>
+
+<!-- DCI class 20.04.2020 -->
+<script src="../../html/20200420/20200420.js"></script>
+
+</html>

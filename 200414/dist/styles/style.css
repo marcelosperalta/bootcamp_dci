@@ -1,0 +1,235 @@
+#box-15042020 {
+  width: 30px;
+  height: 30px;
+  background-color: pink;
+}
+
+.head-pages {
+  margin-right: 30px;
+  display: flex;
+}
+.head-pages div {
+  padding: 5px;
+  border: 1px solid black;
+  background-color: violet;
+  border-radius: 5px;
+  margin: 2px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  width: 90px;
+  text-align: center;
+}
+.head-pages a {
+  text-decoration: transparent;
+}
+.head-pages .head-pages-transparent {
+  padding: 5px;
+  border: 1px solid transparent;
+  background-color: transparent;
+  margin: 2px;
+  font-size: 18px;
+}
+.head-pages .head-pages-current-page {
+  padding: 5px;
+  border: 1px solid black;
+  background-color: white;
+  margin: 2px;
+  font-size: 18px;
+}
+
+body {
+  margin-left: 30px;
+  background-color: lightpink;
+}
+body .logo {
+  display: flex;
+  align-items: center;
+}
+body a {
+  text-decoration: transparent;
+}
+body p {
+  text-align: justify;
+  margin-right: 300px;
+}
+body h3 {
+  font-size: 28px;
+}
+body span {
+  background-color: violet;
+  padding: 5px;
+  border-radius: 5px;
+}
+body .span2 {
+  background-color: violet;
+  padding: 5px;
+  border-radius: 5px;
+  height: 12px;
+  font-size: 12px;
+  vertical-align: middle;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body .dci-link-repo {
+  font-size: 12px;
+}
+
+.h1-home {
+  font-size: 5rem;
+}
+
+.span-date {
+  padding: 10px;
+  background-color: white;
+  border-radius: 5px;
+  margin: 2px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  color: rebeccapurple;
+}
+
+.background-items {
+  background-color: white;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  width: 70%;
+}
+
+.solution {
+  display: flex;
+  padding: 10px;
+  width: 75%;
+  justify-content: center;
+  background-color: white;
+}
+.solution .solution-color {
+  border: 2px solid purple;
+  margin: 5px;
+}
+.solution .solution-color-desc div {
+  padding: 5px;
+  font-size: 16px;
+}
+.solution .solution-color-background-1 {
+  background-color: red;
+  width: 60px;
+  padding: 50px;
+}
+.solution .solution-color-background-2 {
+  background-color: black;
+  width: 60px;
+  padding: 50px;
+}
+.solution .solution-color-background-3 {
+  background-color: yellow;
+  width: 60px;
+  padding: 50px;
+}
+.solution .solution-color-background-4 {
+  background-color: blue;
+  width: 60px;
+  padding: 50px;
+}
+
+.solution-16042020 {
+  display: flex;
+  justify-content: center;
+}
+.solution-16042020 .solution-color-column {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 1rem;
+  height: 5rem;
+}
+.solution-16042020 .solution-color-column .solution-color-background-5 {
+  background-color: #d6d643;
+  width: 60px;
+}
+.solution-16042020 .solution-color-column .solution-color-background-6 {
+  background-color: yellow;
+  width: 60px;
+}
+.solution-16042020 .solution-color-column .solution-color-background-7 {
+  background-color: #f3f177;
+  width: 60px;
+}
+.solution-16042020 .solution-color-column .solution-color-background-8 {
+  background-color: darkred;
+  width: 60px;
+}
+.solution-16042020 .solution-color-column .solution-color-background-9 {
+  background-color: red;
+  width: 60px;
+}
+.solution-16042020 .solution-color-column .solution-color-background-10 {
+  background-color: #e67777;
+  width: 60px;
+}
+.solution-16042020 .solution-color-column .solution-color-background-11 {
+  background-color: darkblue;
+  width: 60px;
+}
+.solution-16042020 .solution-color-column .solution-color-background-12 {
+  background-color: blue;
+  width: 60px;
+}
+.solution-16042020 .solution-color-column .solution-color-background-13 {
+  background-color: lightblue;
+  width: 60px;
+}
+.solution-16042020 .solution-color-column .solution-color-background-14 {
+  background-color: #570257;
+  width: 60px;
+}
+.solution-16042020 .solution-color-column .solution-color-background-15 {
+  background-color: purple;
+  width: 60px;
+}
+.solution-16042020 .solution-color-column .solution-color-background-16 {
+  background-color: #c863c8;
+  width: 60px;
+}
+
+.nav-15042020 li {
+  list-style: none;
+}
+.nav-15042020 a {
+  color: tomato;
+}
+.nav-15042020 a:hover {
+  background-color: black;
+}
+
+.container-16042020 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 99%;
+  background-color: pink;
+  font-family: arial;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.text-center-16042020 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 99%;
+  font-family: arial;
+  font-size: 9rem;
+  font-weight: normal;
+}
+
+.image-20200420 {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+/*# sourceMappingURL=style.css.map */
