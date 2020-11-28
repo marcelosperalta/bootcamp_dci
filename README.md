@@ -74,58 +74,58 @@ Folder **[200129](https://github.com/marcelosperalta/bootcamp_dci/tree/master/20
 Folder **[200130](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200130)** (Class 30.01.2020)
 * JavaScript (Code refactoring, Call Stack, charCodeAr, UTF-16 and Exercises)
 
-Folder **[200203](https://github.com/marcelosperalta/dci/tree/master/200203)** (Class 03.02.2020)
+Folder **[200203](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200203)** (Class 03.02.2020)
 * JavaScript (For loop, functions, closure SIAF, IIFE and Exercises)
 
-Folder **[200204](https://github.com/marcelosperalta/dci/tree/master/200204)** (Class 04.02.2020)
+Folder **[200204](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200204)** (Class 04.02.2020)
 * JavaScript (Object, Object.getOwnPropertyNames, for...in, for...of and Exercises)
 
-Folder **[200205](https://github.com/marcelosperalta/dci/tree/master/200205)** (Class 05.02.2020)
+Folder **[200205](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200205)** (Class 05.02.2020)
 * JavaScript (this and Exercises)
 
-Folder **[200206](https://github.com/marcelosperalta/dci/tree/master/200206)** (Class 06.02.2020)
+Folder **[200206](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200206)** (Class 06.02.2020)
 * JavaScript (Chrome DevTools Console, Functions, Array and Exercises)
 
-Folder **[200210](https://github.com/marcelosperalta/dci/tree/master/200210)** (Class 10.02.2020)
+Folder **[200210](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200210)** (Class 10.02.2020)
 * JavaScript (Shallow Copy, Deep Copy, Factorial, Recursion, Console, and Exercises)
 
-Folder **[200211](https://github.com/marcelosperalta/dci/tree/master/200211)** (Class 11.02.2020)
+Folder **[200211](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200211)** (Class 11.02.2020)
 * JavaScript (Nested Arrays, Nested Loops, map, forEach, for...in, for...of, Objects and Exercises)
 
-Folder **[200212](https://github.com/marcelosperalta/dci/tree/master/200212)** (Class 12.02.2020)
+Folder **[200212](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200212)** (Class 12.02.2020)
 * JavaScript (get, set, constructor, new operator, class, extends, arrays and Exercises)
 
-Folder **[200213](https://github.com/marcelosperalta/dci/tree/master/200213)** (Class 13.02.2020)
+Folder **[200213](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200213)** (Class 13.02.2020)
 * JavaScript (try...catch, throw, call function several times, setTimeout() and Exercises)
 
-Folder **[200216](https://github.com/marcelosperalta/dci/tree/master/200216)** (Homework 16.02.2020)
-* JavaScript (Exercises from 06.01.2020 to 13.02.2020 - [**139 exercises**](https://github.com/marcelosperalta/dci/blob/master/200216/index.js))
+Folder **[200216](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200216)** (Homework 16.02.2020)
+* JavaScript (Exercises from 06.01.2020 to 13.02.2020 - [**139 exercises**](https://github.com/marcelosperalta/bootcamp_dci/blob/master/200216/index.js))
 
-Folder **[200217](https://github.com/marcelosperalta/dci/tree/master/200217)** (Test 17.02.2020)
+Folder **[200217](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200217)** (Test 17.02.2020)
 * JavaScript (Test - 9 exercises)
 
-Folder **[200218](https://github.com/marcelosperalta/dci/tree/master/200218)** (Class 18.02.2020)
+Folder **[200218](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200218)** (Class 18.02.2020)
 * JavaScript (GitHub, git and Exercises)
 
-Folder **[200219](https://github.com/marcelosperalta/dci/tree/master/200219)** (Class 19.02.2020)
+Folder **[200219](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200219)** (Class 19.02.2020)
 * JavaScript (GitHub, git and Exercises)
 
-Folder **[200220](https://github.com/marcelosperalta/dci/tree/master/200220)** (Class 20.02.2020)
+Folder **[200220](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200220)** (Class 20.02.2020)
 * JavaScript (GitHub, git and Exercises)
 
-Folder **[200224](https://github.com/marcelosperalta/dci/tree/master/200224)** (Class 24.02.2020)
+Folder **[200224](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200224)** (Class 24.02.2020)
 * HTML and CSS (nav, a, img, form, input)
 
-Folder **[200225](https://github.com/marcelosperalta/dci/tree/master/200225)** (Class 25.02.2020)
+Folder **[200225](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200225)** (Class 25.02.2020)
 * HTML and CSS (li, table, form, input)
 
-Folder **[200226](https://github.com/marcelosperalta/dci/tree/master/200226)** (Class 26.02.2020)
+Folder **[200226](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200226)** (Class 26.02.2020)
 * HTML and CSS (CSS basic box model)
 
-Folder **[200227](https://github.com/marcelosperalta/dci/tree/master/200227)** (Class 26.02.2020)
+Folder **[200227](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200227)** (Class 26.02.2020)
 * HTML (link to other html files) and CSS (box-sizing and position)
 
-Folder **[200229](https://github.com/marcelosperalta/dci/tree/master/200229)** (Homework 29.02.2020)
+Folder **[200229](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200229)** (Homework 29.02.2020)
 * HTML and CSS (Exercise from class 25.02.2020 - "[Generic Webpage](https://marcelosperalta.github.io/bootcamp_dci/200229/)")
 
 Folder **[200301](https://github.com/marcelosperalta/dci/tree/master/200301)** (Homework 01.03.2020)
