@@ -209,49 +209,49 @@ Folder **[200330](https://github.com/marcelosperalta/bootcamp_dci/tree/master/20
 Folder **[200331](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200331)** (Class 31.03.2020)
 * HTML, CSS and JavaScript (Front-end framework "Bootstrap" - Using local source)
 
-Folder **[200401](https://github.com/marcelosperalta/dci/tree/master/200401)** (Class 01.04.2020)
+Folder **[200401](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200401)** (Class 01.04.2020)
 * HTML, CSS and JavaScript (drop-down menu)
 
-Folder **[200402](https://github.com/marcelosperalta/dci/tree/master/200402)** (Homework 02.04.2020)
+Folder **[200402](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200402)** (Homework 02.04.2020)
 * HTML, CSS and JavaScript (Exercise from class 30.03.2020 - "[Bootstrap](https://marcelosperalta.github.io/bootcamp_dci/200402/)")
 
-Folder **[200403](https://github.com/marcelosperalta/dci/tree/master/200403)** (Homework 03.04.2020)
+Folder **[200403](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200403)** (Homework 03.04.2020)
 * HTML, CSS and JavaScript (Exercise from class 31.03.2020 - "[Portfolio](https://marcelosperalta.github.io/bootcamp_dci/200403/)")
 
-Folder **[200404](https://github.com/marcelosperalta/dci/tree/master/200404)** (Homework 04.04.2020)
+Folder **[200404](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200404)** (Homework 04.04.2020)
 * HTML, CSS and JavaScript (Exercise from class 31.03.2020 - "[Portfolio - Carousel version](https://marcelosperalta.github.io/bootcamp_dci/200404/)")
 
-Folder **[200414](https://github.com/marcelosperalta/dci/tree/master/200414)** (Class 14.04.2020)
+Folder **[200414](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200414)** (Class 14.04.2020)
 * Sass (Sass, Scss, .gitignore, [Template](https://marcelosperalta.github.io/bootcamp_dci/200414/dist/))
 
-Folder **[200415](https://github.com/marcelosperalta/dci/tree/master/200415)** (Class 15.04.2020)
+Folder **[200415](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200415)** (Class 15.04.2020)
 * Sass (variables, At-Rules (@import, @function))
 
-Folder **[200416](https://github.com/marcelosperalta/dci/tree/master/200416)** (Class 16.04.2020)
+Folder **[200416](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200416)** (Class 16.04.2020)
 * Sass (At-Rules (@mixin and @include))
 
-Folder **[200420](https://github.com/marcelosperalta/dci/tree/master/200420)** (Class 20.04.2020)
+Folder **[200420](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200420)** (Class 20.04.2020)
 * DOM (Document, Window, getElementsByTagName, getElementById, querySelector, outerHTML, innerHTML)
 
-Folder **[200421](https://github.com/marcelosperalta/dci/tree/master/200421)** (Class 21.04.2020)
+Folder **[200421](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200421)** (Class 21.04.2020)
 * DOM (Node, NodeList, document.querySelector, document.querySelectorAll(), .forEach, .classList.add...)
 
-Folder **[200422](https://github.com/marcelosperalta/dci/tree/master/200422)** (Class 22.04.2020)
+Folder **[200422](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200422)** (Class 22.04.2020)
 * DOM (Document.write(), Document.createElement(), Document.createTextNode(), Node.appendChild())
 
-Folder **[200423](https://github.com/marcelosperalta/dci/tree/master/200423)** (Class 23.04.2020)
+Folder **[200423](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200423)** (Class 23.04.2020)
 * DOM (Exercise "To-do list")
 
-Folder **[200427](https://github.com/marcelosperalta/dci/tree/master/200427)** (Class 27.04.2020)
+Folder **[200427](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200427)** (Class 27.04.2020)
 * DOM (Node, Node.previousSibling, .previousElementSibling, Element.closest(), Element.matches()...)
 
-Folder **[200428](https://github.com/marcelosperalta/dci/tree/master/200428)** (Class 28.04.2020)
+Folder **[200428](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200428)** (Class 28.04.2020)
 * DOM (EventListener, addEventListener(), onclick, mouseover event, mouseleave event, keypress event...)
 
-Folder **[200429](https://github.com/marcelosperalta/dci/tree/master/200429)** (Class 29.04.2020)
+Folder **[200429](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200429)** (Class 29.04.2020)
 * DOM (removeEventListener(), "Weekend Countdown App" and exercise "Simple Calculator")
 
-Folder **[200430](https://github.com/marcelosperalta/dci/tree/master/200430)** (Class 30.04.2020)
+Folder **[200430](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200430)** (Class 30.04.2020)
 * DOM (Event bubbling and capture, .removeChild(), .classList and exercise "Dynamic Pills")
 
 Folder **[200504](https://github.com/marcelosperalta/dci/tree/master/200504)** (Class 04.05.2020)
