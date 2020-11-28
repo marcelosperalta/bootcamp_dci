@@ -29,49 +29,49 @@ Folder **[191218](https://github.com/marcelosperalta/bootcamp_dci/tree/master/19
 Folder **[191219](https://github.com/marcelosperalta/bootcamp_dci/tree/master/191219)** (Class 19.12.2019)
 * JavaScript, Git and Terminal
 
-Folder **[200106](https://github.com/marcelosperalta/dci/tree/master/200106)** (Class 06.01.2020)
+Folder **[200106](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200106)** (Class 06.01.2020)
 * JavaScript (var, let and const, Hoisting, Boolean Expressions, Ternary Condition and Exercises)
 
-Folder **[200108](https://github.com/marcelosperalta/dci/tree/master/200108)** (Class 08.01.2020)
+Folder **[200108](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200108)** (Class 08.01.2020)
 * JavaScript (Math object and Exercises) and Terminal (nodemon)
 
-Folder **[200109](https://github.com/marcelosperalta/dci/tree/master/200109)** (Class 09.01.2020)
+Folder **[200109](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200109)** (Class 09.01.2020)
 * JavaScript (Math object, typeof, AND/OR, isNaN and Exercises)
 
-Folder **[200113](https://github.com/marcelosperalta/dci/tree/master/200113)** (Class 13.01.2020)
+Folder **[200113](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200113)** (Class 13.01.2020)
 * JavaScript (toFixed, and or, substring and Exercises)
 
-Folder **[200114](https://github.com/marcelosperalta/dci/tree/master/200114)** (Class 14.01.2020)
+Folder **[200114](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200114)** (Class 14.01.2020)
 * JavaScript (switch case, else if and Exercises)
 
-Folder **[200115](https://github.com/marcelosperalta/dci/tree/master/200115)** (Class 15.01.2020)
+Folder **[200115](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200115)** (Class 15.01.2020)
 * JavaScript (Exercises)
 
-Folder **[200116](https://github.com/marcelosperalta/dci/tree/master/200116)** (Class 16.01.2020)
+Folder **[200116](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200116)** (Class 16.01.2020)
 * JavaScript (else if, do while, for and Exercises)
 
-Folder **[200120](https://github.com/marcelosperalta/dci/tree/master/200120)** (Class 20.01.2020)
+Folder **[200120](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200120)** (Class 20.01.2020)
 * JavaScript (Array and Exercises)
 
-Folder **[200121](https://github.com/marcelosperalta/dci/tree/master/200121)** (Class 21.01.2020)
+Folder **[200121](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200121)** (Class 21.01.2020)
 * JavaScript (Array, Function and Exercises)
 
-Folder **[200122](https://github.com/marcelosperalta/dci/tree/master/200122)** (Class 22.01.2020)
+Folder **[200122](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200122)** (Class 22.01.2020)
 * JavaScript (Array, Function and Exercises)
 
-Folder **[200123](https://github.com/marcelosperalta/dci/tree/master/200123)** (Class 23.01.2020)
+Folder **[200123](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200123)** (Class 23.01.2020)
 * JavaScript (Review and Exercises)
 
-Folder **[200127](https://github.com/marcelosperalta/dci/tree/master/200127)** (Class 27.01.2020)
+Folder **[200127](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200127)** (Class 27.01.2020)
 * JavaScript (Self-invoking function, Spread syntax and Exercises)
 
-Folder **[200128](https://github.com/marcelosperalta/dci/tree/master/200128)** (Class 28.01.2020)
+Folder **[200128](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200128)** (Class 28.01.2020)
 * JavaScript (Exercises)
 
-Folder **[200129](https://github.com/marcelosperalta/dci/tree/master/200129)** (Class 29.01.2020)
+Folder **[200129](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200129)** (Class 29.01.2020)
 * JavaScript (Exercises)
 
-Folder **[200130](https://github.com/marcelosperalta/dci/tree/master/200130)** (Class 30.01.2020)
+Folder **[200130](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200130)** (Class 30.01.2020)
 * JavaScript (Code refactoring, Call Stack, charCodeAr, UTF-16 and Exercises)
 
 Folder **[200203](https://github.com/marcelosperalta/dci/tree/master/200203)** (Class 03.02.2020)
