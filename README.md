@@ -128,85 +128,85 @@ Folder **[200227](https://github.com/marcelosperalta/bootcamp_dci/tree/master/20
 Folder **[200229](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200229)** (Homework 29.02.2020)
 * HTML and CSS (Exercise from class 25.02.2020 - "[Generic Webpage](https://marcelosperalta.github.io/bootcamp_dci/200229/)")
 
-Folder **[200301](https://github.com/marcelosperalta/dci/tree/master/200301)** (Homework 01.03.2020)
+Folder **[200301](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200301)** (Homework 01.03.2020)
 * HTML and CSS (Exercise from class 26.02.2020 - "[Wikipedia Article](https://marcelosperalta.github.io/bootcamp_dci/200301/)")
 
-Folder **[200302](https://github.com/marcelosperalta/dci/tree/master/200302)** (Class 02.03.2020)
+Folder **[200302](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200302)** (Class 02.03.2020)
 * HTML and CSS (Selectors, Pseudo-classes and Pseudo-elements)
 
-Folder **[200303](https://github.com/marcelosperalta/dci/tree/master/200303)** (Homework 03.03.2020)
+Folder **[200303](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200303)** (Homework 03.03.2020)
 * HTML and CSS (Exercise from class 02.03.2020 - "[Periodic Table](https://marcelosperalta.github.io/bootcamp_dci/200303/)")
 
-Folder **[200304](https://github.com/marcelosperalta/dci/tree/master/200304)** (Class 04.03.2020)
+Folder **[200304](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200304)** (Class 04.03.2020)
 * HTML and CSS (Selectors, Pseudo-classes and Pseudo-elements)
 
-Folder **[200305](https://github.com/marcelosperalta/dci/tree/master/200305)** (Class 05.03.2020)
+Folder **[200305](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200305)** (Class 05.03.2020)
 * HTML and CSS (background-clip)
 
-Folder **[200306](https://github.com/marcelosperalta/dci/tree/master/200306)** (Homework 06.03.2020)
+Folder **[200306](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200306)** (Homework 06.03.2020)
 * HTML and CSS (Exercise from class 04.03.2020 - "[Checkers](https://marcelosperalta.github.io/bootcamp_dci/200306/)")
 
-Folder **[200307](https://github.com/marcelosperalta/dci/tree/master/200307)** (Homework 07.03.2020)
+Folder **[200307](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200307)** (Homework 07.03.2020)
 * HTML and CSS (Exercise from class 05.03.2020 - "[Sky](https://marcelosperalta.github.io/bootcamp_dci/200307/)")
 
-Folder **[200309](https://github.com/marcelosperalta/dci/tree/master/200309)** (Class 09.03.2020)
+Folder **[200309](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200309)** (Class 09.03.2020)
 * HTML and CSS (@font-face, font-family, font-style, font-size, font-variant)
 
-Folder **[200310](https://github.com/marcelosperalta/dci/tree/master/200310)** (Class 10.03.2020)
+Folder **[200310](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200310)** (Class 10.03.2020)
 * HTML and CSS (flexbox)
 
-Folder **[200311](https://github.com/marcelosperalta/dci/tree/master/200311)** (Class 11.03.2020)
+Folder **[200311](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200311)** (Class 11.03.2020)
 * HTML and CSS ("YouTube" exercise)
 
-Folder **[200312](https://github.com/marcelosperalta/dci/tree/master/200312)** (Class 12.03.2020)
+Folder **[200312](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200312)** (Class 12.03.2020)
 * HTML and CSS (Media queries and freeCodeCamp HTML and CSS basics)
 
-Folder **[200315](https://github.com/marcelosperalta/dci/tree/master/200315)** (Homework 15.03.2020)
+Folder **[200315](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200315)** (Homework 15.03.2020)
 * HTML and CSS (Exercise from class 11.03.2020 - "[YouTube](https://marcelosperalta.github.io/bootcamp_dci/200315/)")
 
-Folder **[200316](https://github.com/marcelosperalta/dci/tree/master/200316)** (Class 16.03.2020)
+Folder **[200316](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200316)** (Class 16.03.2020)
 * HTML and CSS (Grid)
 
-Folder **[200317](https://github.com/marcelosperalta/dci/tree/master/200317)** (Class 17.03.2020)
+Folder **[200317](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200317)** (Class 17.03.2020)
 * HTML and CSS (position: relative, absolute...)
 
-Folder **[200318](https://github.com/marcelosperalta/dci/tree/master/200318)** (Class 18.03.2020)
+Folder **[200318](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200318)** (Class 18.03.2020)
 * HTML and CSS (animation-timing-function)
 
-Folder **[200319](https://github.com/marcelosperalta/dci/tree/master/200319)** (Class 19.03.2020)
+Folder **[200319](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200319)** (Class 19.03.2020)
 * HTML and CSS (animation-direction, animation-fill-mode...)
 
-Folder **[200320](https://github.com/marcelosperalta/dci/tree/master/200320)** (Homework 20.03.2020)
+Folder **[200320](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200320)** (Homework 20.03.2020)
 * HTML and CSS (Exercise from class 17.03.2020 - "[Full Webpage](https://marcelosperalta.github.io/bootcamp_dci/200320/)")
 
-Folder **[200321](https://github.com/marcelosperalta/dci/tree/master/200321)** (Homework 21.03.2020)
+Folder **[200321](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200321)** (Homework 21.03.2020)
 * HTML and CSS (Exercise from class 19.03.2020 - "[X mark](https://marcelosperalta.github.io/bootcamp_dci/200321/)")
 
-Folder **[200322](https://github.com/marcelosperalta/dci/tree/master/200322)** (Homework 22.03.2020)
+Folder **[200322](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200322)** (Homework 22.03.2020)
 * HTML and CSS (Exercise from class 16.03.2020 - "[Sign in page](https://marcelosperalta.github.io/bootcamp_dci/200322/)")
 
-Folder **[200323](https://github.com/marcelosperalta/dci/tree/master/200323)** (Class 23.03.2020)
+Folder **[200323](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200323)** (Class 23.03.2020)
 * HTML and CSS (script, overflow, white-space)
 
-Folder **[200324](https://github.com/marcelosperalta/dci/tree/master/200324)** (Class 24.03.2020)
+Folder **[200324](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200324)** (Class 24.03.2020)
 * HTML, CSS and JavaScript (script, onclick)
 
-Folder **[200325](https://github.com/marcelosperalta/dci/tree/master/200325)** (Class 25.03.2020)
+Folder **[200325](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200325)** (Class 25.03.2020)
 * HTML, CSS and JavaScript (script, UI basics, WebKit CSS extensions)
 
-Folder **[200326](https://github.com/marcelosperalta/dci/tree/master/200326)** (Class 26.03.2020)
+Folder **[200326](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200326)** (Class 26.03.2020)
 * HTML, CSS and JavaScript (drop-down menu)
 
-Folder **[200327](https://github.com/marcelosperalta/dci/tree/master/200327)** (Homework 27.03.2020)
+Folder **[200327](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200327)** (Homework 27.03.2020)
 * HTML, CSS and JavaScript (Exercise from class 25.03.2020 - "[Dark Theme checkbox](https://marcelosperalta.github.io/bootcamp_dci/200327/)")
 
-Folder **[200328](https://github.com/marcelosperalta/dci/tree/master/200328)** (Homework 28.03.2020)
+Folder **[200328](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200328)** (Homework 28.03.2020)
 * HTML, CSS and JavaScript (Exercise from class 26.03.2020 - "[Dropdown Menu](https://marcelosperalta.github.io/bootcamp_dci/200328/)")
 
-Folder **[200330](https://github.com/marcelosperalta/dci/tree/master/200330)** (Class 30.03.2020)
+Folder **[200330](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200330)** (Class 30.03.2020)
 * HTML, CSS and JavaScript (Front-end framework "Bootstrap" - Using Internet source)
 
-Folder **[200331](https://github.com/marcelosperalta/dci/tree/master/200331)** (Class 31.03.2020)
+Folder **[200331](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200331)** (Class 31.03.2020)
 * HTML, CSS and JavaScript (Front-end framework "Bootstrap" - Using local source)
 
 Folder **[200401](https://github.com/marcelosperalta/dci/tree/master/200401)** (Class 01.04.2020)
