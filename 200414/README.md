@@ -41,11 +41,19 @@ body {
 
 ### gitignore
 
-https://git-scm.com/docs/gitignore  
+https://git-scm.com/docs/gitignore
 
 ### template
 
 https://en.wikipedia.org/wiki/Template_(file_format)
+
+### references
+
+**fix(package.json): support Windows rm on installation**  
+https://github.com/fenneclab/hugo-bin/commit/71c224ca8bad5ef7df836a42a6b2524162f17289  
+
+**xcopy**  
+https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/xcopy  
 
 ## Project Template
 
@@ -75,3 +83,7 @@ https://en.wikipedia.org/wiki/Template_(file_format)
 ## Project Template GitHub Page
 
 https://marcelosperalta.github.io/boilerplate_sass/
+
+#### Screenshot
+
+![webpage](./src/img/screen.png)

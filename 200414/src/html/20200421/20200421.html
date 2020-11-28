@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- My CSS -->
+    <link rel="stylesheet" href="../../styles/style.css">
+
+    <title>21.04.2020</title>
+</head>
+
+<head>
+    <div class="head-pages">
+        <div class="head-pages-transparent" id="Home"><a href="../../index.html"></a></div>
+        <div class="head-pages-transparent"><a href="..."></a></div>
+        <div class="head-pages-transparent"><a href="..."></a></div>
+        <div class="head-pages-transparent"><a href="..."></a></div>
+        <div class="head-pages-current-page"><a href="../20200421/20200421.html">21.04.2020</a></div>
+    </div>
+    <div class="head-pages">
+        <div id="Home"><a href="../../index.html">HOME</a></div>
+        <div><a href="../20200415/20200415.html">15.04.2020</a></div>
+        <div><a href="../20200416/20200416.html">16.04.2020</a></div>
+        <div><a href="../20200420/20200420.html">20.04.2020</a></div>
+        <div class="head-pages-transparent"><a href="..."></a></div>
+        <div><a href="../20200422/20200422.html">22.04.2020</a></div>
+        <div><a href="../20200423/20200423.html">23.04.2020</a></div>
+ 
+    </div>
+</head>
+
+<br>
+
+<body>
+
+    <div class="background-items">
+        <h3>Summary</h3>
+
+        <a href="#Topics"><b>Topics</b></a>
+        <br>
+        <br>
+        <a href="#Class"><b>Class</b></a>
+        <br>
+        <br>
+        <a href="#Exercise"><b>Exercise</b></a>
+        <br>
+        <br>
+        <a href="#Reading_time"><b>Reading time</b></a>
+    </div>
+
+    <div class="background-items">
+        <h3 id="Topics">
+            Topics
+            <span class="span2"><a href="#"><b>HOME</b></a></span>
+        </h3>
+
+        <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model" target="_blank"><b>DOM</b></a>
+        <br>
+        <br>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/Node/DOM" target="_blank"><b>Node (DOM)</b></a>
+        <br>
+        <br>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/API/NodeList" target="_blank"><b>NodeList</b></a>
+        <br>
+        <br>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll" target="_blank"><b>document.querySelectorAll()</b></a>
+        <br>
+        <br>
+        <a href="https://dom.spec.whatwg.org/#concept-node" target="_blank"><b>Node tree</b></a>
+        <br>
+        <br>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/alert" target="_blank"><b>window.alert</b></a>
+    </div>
+
+
+    <div class="background-items">
+        <h3 id="Class">
+            Class
+            <span class="span2"><a href="#"><b>HOME</b></a></span>
+            <span class="span2">
+                <a 
+                class="dci-link-repo" 
+                href="https://github.com/FBw-26/live-coding/tree/master/apr/21-04" 
+                target="_blank">
+                DCI Class Repository
+                </a>
+            </span>
+        </h3>
+
+        <!-- DCI class 21.04.2020 -->
+        <h4>More DOM</h4>
+        <div>
+            <div class="img">
+                Hi I am div
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+
+            <ul id="menuList">
+                <li>One new</li>
+                <li class="highlight">One some</li>
+                <li>One cool</li>
+                <li>One nice</li>
+            </ul>
+
+            <div class="main">
+                  we are here
+            </div>
+
+            <br>
+
+            <div>
+                <button onclick="newContent()">
+                    JavaScript Function "newContent()"
+                </button>
+            </div>
+
+        </div>
+
+    </div>
+    
+    <div class="background-items">
+        <h3 id="Exercise" class="h3-background">
+            Exercise
+            <span class="span2"><a href="#"><b>HOME</b></a></span>
+        </h3>
+        <h4>Menu Styling</h4>
+        <p>In the repository, there is an <b>index.html</b> starting file which has the skeleton of an online menu.</p>
+        <p>Style the menu by following the instructions below.</p>
+
+        <h4>Rules:</h4>
+        <ul>
+            <li>All changes to the menu should be done in JavaScript (no CSS);</li><br>
+            <li>The page should be responsive.</li>
+        </ul>
+
+        <h4>Instructions:</h4>
+        <ol>
+            <li>Change the font of the body element;</li><br>
+            <li>Center the text of <b>h1</b> on the page;</li><br>
+            <li>The menu headings have a class named <b>category</b>. 
+                Select the elements by class name. Then, 
+                change the <b>color</b> and <b>font-style</b> of each element;</li><br>
+            <li>Create a function named <b>colorGenerator</b>
+                that returns a different color(use HEX colors 👍🏻).
+                The returned random color should also include <br> set transparency. 
+                Select the unordered lists with the class of <b>food-category</b>.
+                Give each list a different background color using the function that you created;</li><br>
+            <li>Align the <b>food-category</b> lists in a row on desktop. 
+                Make sure that the page is responsive and also works on mobile;</li><br>
+            <li>Select the warning at the end of the page by its id <b>warning</b>. 
+                Select the id without using a querySelector. 
+                Change the size and font of the <b>warning</b>;</li><br>
+            <li>Select all <i>even</i> <b>allergy-info</b> items. 
+                Give the <i>even</i> items a different background color;</li><br>
+            <li>Make the <b>allergy-warning</b> appear as a column in the center of the page;</li><br>
+            <li>The descriptions in the footer should also be styled, 
+                e.g. a rounded border with a background color. 
+                They should appear in a column for mobile and in a row for desktop.</li>
+        </ol>
+
+        <h4>Images:</h4>
+        <ul>
+            <li>
+                <b>Desktop version</b>
+                <br>
+                <img class="image-20200421" src="../../img/2020.04.21_1_desktop.png" alt="desktop" width="1000px">
+            </li>
+            <li>
+                <b>Mobile version</b>
+                <br>
+                <br>
+                <img class="image-20200421" src="../../img/2020.04.21_2_mobile.png" alt="mobile" width="300px">
+            </li>
+        </ul>
+        
+        <h4>Notes:</h4>
+        <ul>
+            <li>Follow the instructions to create a menu. You can add any additional styling;</li><br>
+            <li>See reference images.</li>
+        </ul>
+
+        <h4 id="Solution">Solution:</h4>
+        <ol>
+            <a id="menuStyling" href="./menu-styling/index.html">
+                Menu Styling
+            </a>
+        </ol>
+
+        <div>
+
+            <div>
+                <h5>
+                    Repositories:
+                    <br>
+                    <br>
+                    <a href="https://github.com/marcelosperalta/dciScssTemplate" 
+                       target="_blank">
+                        General
+                    </a> / 
+                    <a href="..." 
+                       target="_blank">
+                        HTML
+                    </a> / 
+                    <a href="..." 
+                       target="_blank">
+                        JavaScript
+                    </a>
+                    <br>
+                    <br>
+                    References:
+                    <br>
+                    <br>
+                    <a href="..." target="_blank">
+                        ...
+                    </a>
+                    <br>
+                    <br>
+                    <a href="..." target="_blank">
+                        ...
+                    </a>
+                </h5>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="background-items">
+        <h3 id="Reading_time">
+            Reading time
+            <span class="span2"><a href="#"><b>HOME</b></a></span>
+        </h3>
+        <a href="https://khan4019.github.io/front-end-Interview-Questions/css.html" target="_blank">
+            <b>CSS: interview questions</b>
+        </a>
+        <br>
+        <br>
+        <a href="https://khan4019.github.io/front-end-Interview-Questions/html.html" target="_blank">
+            <b>HTML related interview questions</b>
+        </a>
+    </div>
+
+    <br>
+
+    <script src="20200421.js"></script>
+
+</body>
+
+</html>

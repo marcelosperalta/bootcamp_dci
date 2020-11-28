@@ -1,8 +1,0 @@
-// class 15.04.2020
-// @function color($color-name) {
-//     @return map-get($colors, $color-name);
-//   }
-
-@function color($color-name) {
-    @return map-get($colors, $color-name);
-}
