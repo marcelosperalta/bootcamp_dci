@@ -337,188 +337,188 @@ Folder **[200629](https://github.com/marcelosperalta/bootcamp_dci/tree/master/20
 Folder **[200630](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200630)** (Class 30.06.2020)
 * React (Redux, exercise "Online Shop")
 
-Folder **[200701](https://github.com/marcelosperalta/dci/tree/master/200701)** (Class 01.07.2020)
+Folder **[200701](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200701)** (Class 01.07.2020)
 * React (Redux, exercise "Online Shop")
 
-Folder **[200702](https://github.com/marcelosperalta/dci/tree/master/200702)** (Class 02.07.2020)
+Folder **[200702](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200702)** (Class 02.07.2020)
 * React (Redux, exercise "Online Shop", and exercise "Simple App")
 
-Folder **[200706](https://github.com/marcelosperalta/dci/tree/master/200706)** (Class 06.07.2020)
+Folder **[200706](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200706)** (Class 06.07.2020)
 * React (Hooks, exercise "To-do list", React _recapitulation_)
 
-Folder **[200707](https://github.com/marcelosperalta/dci/tree/master/200707)** (Class 07.07.2020)
+Folder **[200707](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200707)** (Class 07.07.2020)
 * React (Context, exercise "Online Shop")
 
-Folder **[200708](https://github.com/marcelosperalta/dci/tree/master/200708)** (Class 08.07.2020)
+Folder **[200708](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200708)** (Class 08.07.2020)
 * Tools (React Native, Gatsby, AngularJS, JEST, jQuery, TypeScript, webpack, TensorFlow, GitHub Gist, ...)
 
-Folder **[200803](https://github.com/marcelosperalta/dci/tree/master/200803)** (Class 03.08.2020)
+Folder **[200803](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200803)** (Class 03.08.2020)
 * Express, HTTP (request methods (GET, POST...), response status codes (200, 404...))
 
-Folder **[200804](https://github.com/marcelosperalta/dci/tree/master/200804)** (Class 04.08.2020)
+Folder **[200804](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200804)** (Class 04.08.2020)
 * Database (Lowdb)
 
-Folder **[200805](https://github.com/marcelosperalta/dci/tree/master/200805)** (Class 05.08.2020)
+Folder **[200805](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200805)** (Class 05.08.2020)
 * Postman (Express, Lowdb, Node.js (process.env))
 
-Folder **[200806](https://github.com/marcelosperalta/dci/tree/master/200806)** (Class 06.08.2020)
+Folder **[200806](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200806)** (Class 06.08.2020)
 * Middleware (next())
 
-Folder **[200810](https://github.com/marcelosperalta/dci/tree/master/200810)** (Class 10.08.2020)
+Folder **[200810](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200810)** (Class 10.08.2020)
 * Middleware (CORS, Router)
 
-Folder **[200811](https://github.com/marcelosperalta/dci/tree/master/200811)** (Class 11.08.2020)
+Folder **[200811](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200811)** (Class 11.08.2020)
 * Express (morgan, http, http-errors)
 
-Folder **[200812](https://github.com/marcelosperalta/dci/tree/master/200812)** (Class 12.08.2020)
+Folder **[200812](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200812)** (Class 12.08.2020)
 * Database (SQL, NoSQL (**MongoDB installation**))
 
-Folder **[200813](https://github.com/marcelosperalta/dci/tree/master/200813)** (Class 13.08.2020)
+Folder **[200813](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200813)** (Class 13.08.2020)
 * Database (SQL, NoSQL (**MongoDB commands**))
 
-Folder **[200817](https://github.com/marcelosperalta/dci/tree/master/200817)** (Class 17.08.2020)
+Folder **[200817](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200817)** (Class 17.08.2020)
 * MongoDB (mongoose, dotenv, **POST**, **GET**, **DELETE**)
 
-Folder **[200818](https://github.com/marcelosperalta/dci/tree/master/200818)** (Class 18.08.2020)
+Folder **[200818](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200818)** (Class 18.08.2020)
 * MongoDB (**PATCH**)
 
-Folder **[200819](https://github.com/marcelosperalta/dci/tree/master/200819)** (Class 19.08.2020)
+Folder **[200819](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200819)** (Class 19.08.2020)
 * MongoDB (**PUT**)
 
-Folder **[200820](https://github.com/marcelosperalta/dci/tree/master/200820)** (Class 20.08.2020)
+Folder **[200820](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200820)** (Class 20.08.2020)
 * MongoDB (**POST**, **GET**, **DELETE**, **PATCH**, and **PUT**)
 
-Folder **[200901](https://github.com/marcelosperalta/dci/tree/master/200901)** (Class 01.09.2020)
+Folder **[200901](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200901)** (Class 01.09.2020)
 * MongoDB (faker.js, EJS)
 
-Folder **[200902](https://github.com/marcelosperalta/dci/tree/master/200902)** (Class 02.09.2020)
+Folder **[200902](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200902)** (Class 02.09.2020)
 * MongoDB (mongoose Model.findById(), Model.findByIdAndUpdate(), Model.findByIdAndDelete())
 
-Folder **[200903](https://github.com/marcelosperalta/dci/tree/master/200903)** (Class 03.09.2020)
+Folder **[200903](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200903)** (Class 03.09.2020)
 * MongoDB (Validations, validator.js, Handlebars)
 
-Folder **[200907](https://github.com/marcelosperalta/dci/tree/master/200907)** (Class 07.09.2020)
+Folder **[200907](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200907)** (Class 07.09.2020)
 * MongoDB (Relations)
 
-Folder **[200908](https://github.com/marcelosperalta/dci/tree/master/200908)** (Class 08.09.2020)
+Folder **[200908](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200908)** (Class 08.09.2020)
 * MongoDB (Relations)
 
-Folder **[200909](https://github.com/marcelosperalta/dci/tree/master/200909)** (Class 09.09.2020)
+Folder **[200909](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200909)** (Class 09.09.2020)
 * MongoDB (Authentication, Hash function)
 
-Folder **[200910](https://github.com/marcelosperalta/dci/tree/master/200910)** (Class 10.09.2020)
+Folder **[200910](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200910)** (Class 10.09.2020)
 * MongoDB (Authentication, Login build)
 
-Folder **[200914](https://github.com/marcelosperalta/dci/tree/master/200914)** (Class 14.09.2020)
+Folder **[200914](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200914)** (Class 14.09.2020)
 * MongoDB (Authentication, Login build)
 
-Folder **[200915](https://github.com/marcelosperalta/dci/tree/master/200915)** (Class 15.09.2020)
+Folder **[200915](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200915)** (Class 15.09.2020)
 * MongoDB (Authentication, Login build, Multer)
 
-Folder **[200916](https://github.com/marcelosperalta/dci/tree/master/200916)** (Class 16.09.2020)
+Folder **[200916](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200916)** (Class 16.09.2020)
 * Deploy (Node.js apps)
 
-Folder **[200917](https://github.com/marcelosperalta/dci/tree/master/200917)** (Class 17.09.2020)
+Folder **[200917](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200917)** (Class 17.09.2020)
 * Deploy (Node.js apps)
 
-Folder **[200921](https://github.com/marcelosperalta/dci/tree/master/200921)** (Class 21.09.2020)
+Folder **[200921](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200921)** (Class 21.09.2020)
 * MERN app (Fullstack application)
 
-Folder **[200922](https://github.com/marcelosperalta/dci/tree/master/200922)** (Class 22.09.2020)
+Folder **[200922](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200922)** (Class 22.09.2020)
 * MERN app (Fullstack application)
 
-Folder **[200923](https://github.com/marcelosperalta/dci/tree/master/200923)** (Class 23.09.2020)
+Folder **[200923](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200923)** (Class 23.09.2020)
 * MERN app (Session Storage, Local Storage, and Cookies)
 
-Folder **[200924](https://github.com/marcelosperalta/dci/tree/master/200924)** (Class 24.09.2020)
+Folder **[200924](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200924)** (Class 24.09.2020)
 * MERN app (FormData)
 
-Folder **[200928](https://github.com/marcelosperalta/dci/tree/master/200928)** (Class 28.09.2020)
+Folder **[200928](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200928)** (Class 28.09.2020)
 * TypeScript (install, compiler, watch)
 
-Folder **[200929](https://github.com/marcelosperalta/dci/tree/master/200929)** (Class 29.09.2020)
+Folder **[200929](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200929)** (Class 29.09.2020)
 * MERN app (exercise "Authentication")
 
-Folder **[200930](https://github.com/marcelosperalta/dci/tree/master/200930)** (Class 30.09.2020)
+Folder **[200930](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200930)** (Class 30.09.2020)
 * MERN app (Authorization, JSON Web Tokens)
 
-Folder **[201006](https://github.com/marcelosperalta/dci/tree/master/201006)** (Class 06.10.2020)
+Folder **[201006](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201006)** (Class 06.10.2020)
 * Final Project ("Face recognition security system")
 
-Folder **[201007](https://github.com/marcelosperalta/dci/tree/master/201007)** (Class 07.10.2020)
+Folder **[201007](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201007)** (Class 07.10.2020)
 * Final Project ("Face recognition security system" > 1st online meeting)
 
-Folder **[201008](https://github.com/marcelosperalta/dci/tree/master/201008)** (Class 08.10.2020)
+Folder **[201008](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201008)** (Class 08.10.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201012](https://github.com/marcelosperalta/dci/tree/master/201012)** (Class 12.10.2020)
+Folder **[201012](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201012)** (Class 12.10.2020)
 * Final Project ("Face recognition security system" > meeting at caffè)
 
-Folder **[201013](https://github.com/marcelosperalta/dci/tree/master/201013)** (Class 13.10.2020)
+Folder **[201013](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201013)** (Class 13.10.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201019](https://github.com/marcelosperalta/dci/tree/master/201019)** (Class 19.10.2020)
+Folder **[201019](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201019)** (Class 19.10.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201020](https://github.com/marcelosperalta/dci/tree/master/201020)** (Class 20.10.2020)
+Folder **[201020](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201020)** (Class 20.10.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201021](https://github.com/marcelosperalta/dci/tree/master/201021)** (Class 21.10.2020)
+Folder **[201021](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201021)** (Class 21.10.2020)
 * Final Project ("Face recognition security system" > meeting at DCI)
 
-Folder **[201022](https://github.com/marcelosperalta/dci/tree/master/201022)** (Class 22.10.2020)
+Folder **[201022](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201022)** (Class 22.10.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201026](https://github.com/marcelosperalta/dci/tree/master/201026)** (Class 26.10.2020)
+Folder **[201026](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201026)** (Class 26.10.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201027](https://github.com/marcelosperalta/dci/tree/master/201027)** (Class 27.10.2020)
+Folder **[201027](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201027)** (Class 27.10.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201028](https://github.com/marcelosperalta/dci/tree/master/201028)** (Class 28.10.2020)
+Folder **[201028](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201028)** (Class 28.10.2020)
 * Final Project ("Face recognition security system" > meeting at DCI)
 
-Folder **[201029](https://github.com/marcelosperalta/dci/tree/master/201029)** (Class 29.10.2020)
+Folder **[201029](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201029)** (Class 29.10.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201102](https://github.com/marcelosperalta/dci/tree/master/201102)** (Class 02.11.2020)
+Folder **[201102](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201102)** (Class 02.11.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201103](https://github.com/marcelosperalta/dci/tree/master/201103)** (Class 03.11.2020)
+Folder **[201103](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201103)** (Class 03.11.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201104](https://github.com/marcelosperalta/dci/tree/master/201104)** (Class 04.11.2020)
+Folder **[201104](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201104)** (Class 04.11.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201105](https://github.com/marcelosperalta/dci/tree/master/201105)** (Class 05.11.2020)
+Folder **[201105](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201105)** (Class 05.11.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201109](https://github.com/marcelosperalta/dci/tree/master/201109)** (Class 09.11.2020)
+Folder **[201109](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201109)** (Class 09.11.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201110](https://github.com/marcelosperalta/dci/tree/master/201110)** (Class 10.11.2020)
+Folder **[201110](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201110)** (Class 10.11.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201111](https://github.com/marcelosperalta/dci/tree/master/201111)** (Class 11.11.2020)
+Folder **[201111](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201111)** (Class 11.11.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201112](https://github.com/marcelosperalta/dci/tree/master/201112)** (Class 12.11.2020)
+Folder **[201112](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201112)** (Class 12.11.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201116](https://github.com/marcelosperalta/dci/tree/master/201116)** (Class 16.11.2020)
+Folder **[201116](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201116)** (Class 16.11.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201117](https://github.com/marcelosperalta/dci/tree/master/201117)** (Class 17.11.2020)
+Folder **[201117](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201117)** (Class 17.11.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201118](https://github.com/marcelosperalta/dci/tree/master/201118)** (Class 18.11.2020)
+Folder **[201118](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201118)** (Class 18.11.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201119](https://github.com/marcelosperalta/dci/tree/master/201119)** (Class 19.11.2020)
+Folder **[201119](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201119)** (Class 19.11.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201123](https://github.com/marcelosperalta/dci/tree/master/201123)** (Class 23.11.2020)
+Folder **[201123](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201123)** (Class 23.11.2020)
 * Final Project ("Face recognition security system" > online meeting)
 
-Folder **[201124](https://github.com/marcelosperalta/dci/tree/master/201124)** (Class 24.11.2020)
+Folder **[201124](https://github.com/marcelosperalta/bootcamp_dci/tree/master/201124)** (Class 24.11.2020)
 * Final Project ("Face recognition security system" > online meeting)
