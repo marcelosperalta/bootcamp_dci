@@ -254,39 +254,39 @@ Folder **[200429](https://github.com/marcelosperalta/bootcamp_dci/tree/master/20
 Folder **[200430](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200430)** (Class 30.04.2020)
 * DOM (Event bubbling and capture, .removeChild(), .classList and exercise "Dynamic Pills")
 
-Folder **[200504](https://github.com/marcelosperalta/dci/tree/master/200504)** (Class 04.05.2020)
+Folder **[200504](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200504)** (Class 04.05.2020)
 * JSON (npm, JSON.stringify(), JSON.parse(), export, import and exercise "Dynamic Pills")
 
-Folder **[200505](https://github.com/marcelosperalta/dci/tree/master/200505)** (Class 05.05.2020)
+Folder **[200505](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200505)** (Class 05.05.2020)
 * JavaScript (.setTimeout(), Promise and exercise "Promise me a modal")
 
-Folder **[200506](https://github.com/marcelosperalta/dci/tree/master/200506)** (Class 06.05.2020)
+Folder **[200506](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200506)** (Class 06.05.2020)
 * JavaScript (API, Fetch API)
 
-Folder **[200507](https://github.com/marcelosperalta/dci/tree/master/200507)** (Class 07.05.2020)
+Folder **[200507](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200507)** (Class 07.05.2020)
 * JavaScript (async function, await)
 
-Folder **[200518](https://github.com/marcelosperalta/dci/tree/master/200518)** (Class 18.05.2020)
+Folder **[200518](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200518)** (Class 18.05.2020)
 * Teamwork ("[Blackjack](https://marcelosperalta.github.io/bootcamp_dci/200518/src/)" - 1st teamwork from 11.05 to 18.05)
 
-Folder **[200519](https://github.com/marcelosperalta/dci/tree/master/200519)** (Class 19.05.2020)
+Folder **[200519](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200519)** (Class 19.05.2020)
 * JavaScript (encodeURIComponent(), GitHub Search API)
 
-Folder **[200520](https://github.com/marcelosperalta/dci/tree/master/200520)** (Class 20.05.2020)
+Folder **[200520](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200520)** (Class 20.05.2020)
 * JavaScript (Callback, async function, and Promise _recapitulation_)
 
 :link: <a href="https://marcelosperalta.github.io/bootcamp_dci/">Classes, homeworks, and teamwork about HTML, CSS, Sass, DOM, and JSON</a>
 
-Folder **[200525](https://github.com/marcelosperalta/dci/tree/master/200525)** (Class 25.05.2020)
+Folder **[200525](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200525)** (Class 25.05.2020)
 * Node.js (Runtime environment, process, process.argv, require, fs (File System), fs.readFile, fs.writeFile)
 
-Folder **[200526](https://github.com/marcelosperalta/dci/tree/master/200526)** (Class 26.05.2020)
+Folder **[200526](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200526)** (Class 26.05.2020)
 * Node.js (process.exit(), fs.appendFile, fs.rename, fs.unlink)
 
-Folder **[200527](https://github.com/marcelosperalta/dci/tree/master/200527)** (Class 27.05.2020)
+Folder **[200527](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200527)** (Class 27.05.2020)
 * Node.js (module.exports, fs.copyFile, fs.readFileSync, fs.open, File System Flags)
 
-Folder **[200528](https://github.com/marcelosperalta/dci/tree/master/200528)** (Class 28.05.2020)
+Folder **[200528](https://github.com/marcelosperalta/bootcamp_dci/tree/master/200528)** (Class 28.05.2020)
 * Node.js (module.exports and exercise)
 
 Folder **[200602](https://github.com/marcelosperalta/dci/tree/master/200602)** (Class 02.06.2020)
