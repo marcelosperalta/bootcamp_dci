@@ -8,7 +8,7 @@
     "deploy": "chmod +x src/index.js && npm link",
     "undeploy": "npm unlink"
   },
-  "author": "",
+  "author": "Marcelo",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
